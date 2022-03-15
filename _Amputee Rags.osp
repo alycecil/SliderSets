@@ -9,6 +9,9 @@
         <Shape target="Charred_Arm_Armwrap">Charred_Arm_Armwrap</Shape>
         <Shape target="Charred_BarbedWire_2">Charred_BarbedWire_2</Shape>
         <Shape target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0">Model002_24_-part1-armbandage.part1-armbandage_0_0_0</Shape>
+        <Shape target="PantiesBase">PantiesBase</Shape>
+        <Shape target="PantiesLace">PantiesLace</Shape>
+        <Shape target="PantiesLaceBase">PantiesLaceBase</Shape>
         <Shape target="Piercing">Piercing</Shape>
         <Shape target="Pubic Hair 1">Pubic Hair 1</Shape>
         <Shape target="TornTop2">TornTop2</Shape>
@@ -17,20 +20,32 @@
             <Data name="PiercingBelly Pregnant" target="Piercing" local="true">_Amputee Rags.osd\PiercingBelly Pregnant</Data>
             <Data name="Pubic Hair 1Belly Pregnant" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Belly Pregnant</Data>
             <Data name="TornTop2Belly Pregnant" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Belly Pregnant</Data>
+            <Data name="PantiesLaceBelly Pregnant" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBelly Pregnant</Data>
+            <Data name="PantiesLaceBaseBelly Pregnant" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBelly Pregnant</Data>
+            <Data name="PantiesBaseBelly Pregnant" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBelly Pregnant</Data>
         </Slider>
         <Slider name="Belly Big" invert="false" default="0">
             <Data name="BodyBelly Big" target="Body" local="true">_Amputee Rags.osd\BodyBelly Big</Data>
             <Data name="Pubic Hair 1Belly Big" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Belly Big</Data>
             <Data name="TornTop2Belly Big" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Belly Big</Data>
+            <Data name="PantiesLaceBelly Big" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBelly Big</Data>
+            <Data name="PantiesLaceBaseBelly Big" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBelly Big</Data>
+            <Data name="PantiesBaseBelly Big" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBelly Big</Data>
         </Slider>
         <Slider name="Belly Size" invert="false" default="0">
             <Data name="BodyBelly Size" target="Body" local="true">_Amputee Rags.osd\BodyBelly Size</Data>
             <Data name="Pubic Hair 1Belly Size" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Belly Size</Data>
             <Data name="TornTop2Belly Size" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Belly Size</Data>
+            <Data name="PantiesLaceBelly Size" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBelly Size</Data>
+            <Data name="PantiesLaceBaseBelly Size" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBelly Size</Data>
+            <Data name="PantiesBaseBelly Size" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBelly Size</Data>
         </Slider>
         <Slider name="Belly Tuck" invert="false" default="0">
             <Data name="BodyBelly Tuck" target="Body" local="true">_Amputee Rags.osd\BodyBelly Tuck</Data>
             <Data name="Pubic Hair 1Belly Tuck" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Belly Tuck</Data>
+            <Data name="PantiesLaceBelly Tuck" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBelly Tuck</Data>
+            <Data name="PantiesLaceBaseBelly Tuck" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBelly Tuck</Data>
+            <Data name="PantiesBaseBelly Tuck" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBelly Tuck</Data>
         </Slider>
         <Slider name="Boobs Yuge" invert="false" default="0">
             <Data name="Charred_Arm_ArmwrapBoobs Yuge" target="Charred_Arm_Armwrap" local="true">_Amputee Rags.osd\Charred_Arm_ArmwrapBoobs Yuge</Data>
@@ -39,6 +54,9 @@
             <Data name="BodyBoobs Yuge" target="Body" local="true">_Amputee Rags.osd\BodyBoobs Yuge</Data>
             <Data name="Pubic Hair 1Boobs Yuge" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Boobs Yuge</Data>
             <Data name="TornTop2Boobs Yuge" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Boobs Yuge</Data>
+            <Data name="PantiesLaceBoobs Yuge" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBoobs Yuge</Data>
+            <Data name="PantiesLaceBaseBoobs Yuge" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBoobs Yuge</Data>
+            <Data name="PantiesBaseBoobs Yuge" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBoobs Yuge</Data>
         </Slider>
         <Slider name="Boobs Big" invert="false" default="0">
             <Data name="Charred_Arm_ArmwrapBoobs Big" target="Charred_Arm_Armwrap" local="true">_Amputee Rags.osd\Charred_Arm_ArmwrapBoobs Big</Data>
@@ -47,6 +65,9 @@
             <Data name="BodyBoobs Big" target="Body" local="true">_Amputee Rags.osd\BodyBoobs Big</Data>
             <Data name="Pubic Hair 1Boobs Big" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Boobs Big</Data>
             <Data name="TornTop2Boobs Big" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Boobs Big</Data>
+            <Data name="PantiesLaceBoobs Big" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBoobs Big</Data>
+            <Data name="PantiesLaceBaseBoobs Big" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBoobs Big</Data>
+            <Data name="PantiesBaseBoobs Big" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBoobs Big</Data>
         </Slider>
         <Slider name="Boobs Cleavage" invert="false" default="0">
             <Data name="BodyBoobs Cleavage" target="Body" local="true">_Amputee Rags.osd\BodyBoobs Cleavage</Data>
@@ -63,6 +84,9 @@
             <Data name="BodyBoobs Gravity" target="Body" local="true">_Amputee Rags.osd\BodyBoobs Gravity</Data>
             <Data name="Pubic Hair 1Boobs Gravity" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Boobs Gravity</Data>
             <Data name="TornTop2Boobs Gravity" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Boobs Gravity</Data>
+            <Data name="PantiesLaceBoobs Gravity" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBoobs Gravity</Data>
+            <Data name="PantiesLaceBaseBoobs Gravity" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBoobs Gravity</Data>
+            <Data name="PantiesBaseBoobs Gravity" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBoobs Gravity</Data>
         </Slider>
         <Slider name="Boobs Height" invert="false" default="0">
             <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Height" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Rags.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Height</Data>
@@ -76,6 +100,9 @@
             <Data name="BodyBoobs Mellons" target="Body" local="true">_Amputee Rags.osd\BodyBoobs Mellons</Data>
             <Data name="Pubic Hair 1Boobs Mellons" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Boobs Mellons</Data>
             <Data name="TornTop2Boobs Mellons" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Boobs Mellons</Data>
+            <Data name="PantiesLaceBoobs Mellons" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBoobs Mellons</Data>
+            <Data name="PantiesLaceBaseBoobs Mellons" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBoobs Mellons</Data>
+            <Data name="PantiesBaseBoobs Mellons" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBoobs Mellons</Data>
         </Slider>
         <Slider name="Boobs Perky" invert="false" default="0">
             <Data name="Charred_Arm_ArmwrapBoobs Perky" target="Charred_Arm_Armwrap" local="true">_Amputee Rags.osd\Charred_Arm_ArmwrapBoobs Perky</Data>
@@ -84,6 +111,9 @@
             <Data name="BodyBoobs Perky" target="Body" local="true">_Amputee Rags.osd\BodyBoobs Perky</Data>
             <Data name="Pubic Hair 1Boobs Perky" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Boobs Perky</Data>
             <Data name="TornTop2Boobs Perky" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Boobs Perky</Data>
+            <Data name="PantiesLaceBoobs Perky" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBoobs Perky</Data>
+            <Data name="PantiesLaceBaseBoobs Perky" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBoobs Perky</Data>
+            <Data name="PantiesBaseBoobs Perky" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBoobs Perky</Data>
         </Slider>
         <Slider name="Boobs Push Up" invert="false" default="0">
             <Data name="Charred_Arm_ArmwrapBoobs Push Up" target="Charred_Arm_Armwrap" local="true">_Amputee Rags.osd\Charred_Arm_ArmwrapBoobs Push Up</Data>
@@ -92,6 +122,9 @@
             <Data name="BodyBoobs Push Up" target="Body" local="true">_Amputee Rags.osd\BodyBoobs Push Up</Data>
             <Data name="Pubic Hair 1Boobs Push Up" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Boobs Push Up</Data>
             <Data name="TornTop2Boobs Push Up" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Boobs Push Up</Data>
+            <Data name="PantiesLaceBoobs Push Up" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBoobs Push Up</Data>
+            <Data name="PantiesLaceBaseBoobs Push Up" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBoobs Push Up</Data>
+            <Data name="PantiesBaseBoobs Push Up" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBoobs Push Up</Data>
         </Slider>
         <Slider name="Boobs Small" invert="false" default="0">
             <Data name="BodyBoobs Small" target="Body" local="true">_Amputee Rags.osd\BodyBoobs Small</Data>
@@ -108,6 +141,9 @@
             <Data name="BodyBoobs Top Slope" target="Body" local="true">_Amputee Rags.osd\BodyBoobs Top Slope</Data>
             <Data name="Pubic Hair 1Boobs Top Slope" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Boobs Top Slope</Data>
             <Data name="TornTop2Boobs Top Slope" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Boobs Top Slope</Data>
+            <Data name="PantiesLaceBoobs Top Slope" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBoobs Top Slope</Data>
+            <Data name="PantiesLaceBaseBoobs Top Slope" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBoobs Top Slope</Data>
+            <Data name="PantiesBaseBoobs Top Slope" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBoobs Top Slope</Data>
         </Slider>
         <Slider name="Boobs Width" invert="false" default="0">
             <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Rags.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Width</Data>
@@ -121,6 +157,9 @@
             <Data name="BodyBoobs Tiny" target="Body" local="true">_Amputee Rags.osd\BodyBoobs Tiny</Data>
             <Data name="Pubic Hair 1Boobs Tiny" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Boobs Tiny</Data>
             <Data name="TornTop2Boobs Tiny" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Boobs Tiny</Data>
+            <Data name="PantiesLaceBoobs Tiny" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBoobs Tiny</Data>
+            <Data name="PantiesLaceBaseBoobs Tiny" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBoobs Tiny</Data>
+            <Data name="PantiesBaseBoobs Tiny" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBoobs Tiny</Data>
         </Slider>
         <Slider name="Nipples Distance" invert="false" default="0">
             <Data name="BodyNipples Distance" target="Body" local="true">_Amputee Rags.osd\BodyNipples Distance</Data>
@@ -151,80 +190,134 @@
             <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Rags.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Width</Data>
             <Data name="BodyChest Width" target="Body" local="true">_Amputee Rags.osd\BodyChest Width</Data>
             <Data name="TornTop2Chest Width" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Chest Width</Data>
+            <Data name="PantiesLaceChest Width" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceChest Width</Data>
+            <Data name="PantiesLaceBaseChest Width" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseChest Width</Data>
+            <Data name="PantiesBaseChest Width" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseChest Width</Data>
         </Slider>
         <Slider name="Waist Chubby" invert="false" default="0">
             <Data name="BodyWaist Chubby" target="Body" local="true">_Amputee Rags.osd\BodyWaist Chubby</Data>
             <Data name="Pubic Hair 1Waist Chubby" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Waist Chubby</Data>
             <Data name="TornTop2Waist Chubby" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Waist Chubby</Data>
+            <Data name="PantiesLaceWaist Chubby" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceWaist Chubby</Data>
+            <Data name="PantiesLaceBaseWaist Chubby" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseWaist Chubby</Data>
+            <Data name="PantiesBaseWaist Chubby" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseWaist Chubby</Data>
         </Slider>
         <Slider name="Waist Size" invert="false" default="0">
             <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Waist Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Rags.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Waist Size</Data>
             <Data name="BodyWaist Size" target="Body" local="true">_Amputee Rags.osd\BodyWaist Size</Data>
             <Data name="TornTop2Waist Size" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Waist Size</Data>
+            <Data name="PantiesLaceWaist Size" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceWaist Size</Data>
+            <Data name="PantiesLaceBaseWaist Size" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseWaist Size</Data>
+            <Data name="PantiesBaseWaist Size" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseWaist Size</Data>
         </Slider>
         <Slider name="Waist Height" invert="false" default="0">
             <Data name="BodyWaist Height" target="Body" local="true">_Amputee Rags.osd\BodyWaist Height</Data>
             <Data name="Pubic Hair 1Waist Height" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Waist Height</Data>
             <Data name="TornTop2Waist Height" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Waist Height</Data>
+            <Data name="PantiesLaceWaist Height" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceWaist Height</Data>
+            <Data name="PantiesLaceBaseWaist Height" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseWaist Height</Data>
+            <Data name="PantiesBaseWaist Height" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseWaist Height</Data>
         </Slider>
         <Slider name="Waist Line" invert="false" default="0">
             <Data name="BodyWaist Line" target="Body" local="true">_Amputee Rags.osd\BodyWaist Line</Data>
             <Data name="TornTop2Waist Line" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Waist Line</Data>
+            <Data name="PantiesLaceWaist Line" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceWaist Line</Data>
+            <Data name="PantiesLaceBaseWaist Line" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseWaist Line</Data>
+            <Data name="PantiesBaseWaist Line" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseWaist Line</Data>
         </Slider>
         <Slider name="Back Size" invert="false" default="0">
             <Data name="BodyBack Size" target="Body" local="true">_Amputee Rags.osd\BodyBack Size</Data>
             <Data name="TornTop2Back Size" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Back Size</Data>
+            <Data name="PantiesLaceBack Size" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBack Size</Data>
+            <Data name="PantiesLaceBaseBack Size" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBack Size</Data>
+            <Data name="PantiesBaseBack Size" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBack Size</Data>
         </Slider>
         <Slider name="Back Arch" invert="false" default="0">
             <Data name="BodyBack Arch" target="Body" local="true">_Amputee Rags.osd\BodyBack Arch</Data>
             <Data name="TornTop2Back Arch" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Back Arch</Data>
+            <Data name="PantiesLaceBack Arch" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBack Arch</Data>
+            <Data name="PantiesLaceBaseBack Arch" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBack Arch</Data>
+            <Data name="PantiesBaseBack Arch" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBack Arch</Data>
         </Slider>
         <Slider name="Hips Bone" invert="false" default="0">
             <Data name="BodyHips Bone" target="Body" local="true">_Amputee Rags.osd\BodyHips Bone</Data>
             <Data name="TornTop2Hips Bone" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Hips Bone</Data>
+            <Data name="PantiesLaceHips Bone" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceHips Bone</Data>
+            <Data name="PantiesLaceBaseHips Bone" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseHips Bone</Data>
+            <Data name="PantiesBaseHips Bone" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseHips Bone</Data>
         </Slider>
         <Slider name="Hips Size" invert="false" default="0">
             <Data name="BodyHips Size" target="Body" local="true">_Amputee Rags.osd\BodyHips Size</Data>
             <Data name="Pubic Hair 1Hips Size" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Hips Size</Data>
+            <Data name="PantiesLaceHips Size" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceHips Size</Data>
+            <Data name="PantiesLaceBaseHips Size" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseHips Size</Data>
+            <Data name="PantiesBaseHips Size" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseHips Size</Data>
         </Slider>
         <Slider name="Hips Upper Width" invert="false" default="0">
             <Data name="BodyHips Upper Width" target="Body" local="true">_Amputee Rags.osd\BodyHips Upper Width</Data>
             <Data name="TornTop2Hips Upper Width" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Hips Upper Width</Data>
+            <Data name="PantiesLaceHips Upper Width" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceHips Upper Width</Data>
+            <Data name="PantiesLaceBaseHips Upper Width" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseHips Upper Width</Data>
+            <Data name="PantiesBaseHips Upper Width" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseHips Upper Width</Data>
         </Slider>
         <Slider name="Bum Size" invert="false" default="0">
             <Data name="BodyBum Size" target="Body" local="true">_Amputee Rags.osd\BodyBum Size</Data>
             <Data name="TornTop2Bum Size" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Bum Size</Data>
+            <Data name="PantiesLaceBum Size" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBum Size</Data>
+            <Data name="PantiesLaceBaseBum Size" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBum Size</Data>
+            <Data name="PantiesBaseBum Size" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBum Size</Data>
         </Slider>
         <Slider name="Bum Crack" invert="false" default="0">
             <Data name="BodyBum Crack" target="Body" local="true">_Amputee Rags.osd\BodyBum Crack</Data>
+            <Data name="PantiesLaceBum Crack" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBum Crack</Data>
+            <Data name="PantiesLaceBaseBum Crack" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBum Crack</Data>
+            <Data name="PantiesBaseBum Crack" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBum Crack</Data>
         </Slider>
         <Slider name="Bum Shape 1" invert="false" default="0">
             <Data name="BodyBum Shape 1" target="Body" local="true">_Amputee Rags.osd\BodyBum Shape 1</Data>
             <Data name="Pubic Hair 1Bum Shape 1" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Bum Shape 1</Data>
             <Data name="TornTop2Bum Shape 1" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Bum Shape 1</Data>
+            <Data name="PantiesLaceBum Shape 1" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBum Shape 1</Data>
+            <Data name="PantiesLaceBaseBum Shape 1" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBum Shape 1</Data>
+            <Data name="PantiesBaseBum Shape 1" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBum Shape 1</Data>
         </Slider>
         <Slider name="Bum Shape 2" invert="false" default="0">
             <Data name="BodyBum Shape 2" target="Body" local="true">_Amputee Rags.osd\BodyBum Shape 2</Data>
             <Data name="Pubic Hair 1Bum Shape 2" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Bum Shape 2</Data>
             <Data name="TornTop2Bum Shape 2" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Bum Shape 2</Data>
+            <Data name="PantiesLaceBum Shape 2" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBum Shape 2</Data>
+            <Data name="PantiesLaceBaseBum Shape 2" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBum Shape 2</Data>
+            <Data name="PantiesBaseBum Shape 2" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBum Shape 2</Data>
         </Slider>
         <Slider name="Bum Small" invert="false" default="0">
             <Data name="BodyBum Small" target="Body" local="true">_Amputee Rags.osd\BodyBum Small</Data>
             <Data name="Pubic Hair 1Bum Small" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Bum Small</Data>
             <Data name="TornTop2Bum Small" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Bum Small</Data>
+            <Data name="PantiesLaceBum Small" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBum Small</Data>
+            <Data name="PantiesLaceBaseBum Small" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBum Small</Data>
+            <Data name="PantiesBaseBum Small" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBum Small</Data>
         </Slider>
         <Slider name="Bum Chubby" invert="false" default="0">
             <Data name="BodyBum Chubby" target="Body" local="true">_Amputee Rags.osd\BodyBum Chubby</Data>
             <Data name="Pubic Hair 1Bum Chubby" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Bum Chubby</Data>
             <Data name="TornTop2Bum Chubby" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Bum Chubby</Data>
+            <Data name="PantiesLaceBum Chubby" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBum Chubby</Data>
+            <Data name="PantiesLaceBaseBum Chubby" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBum Chubby</Data>
+            <Data name="PantiesBaseBum Chubby" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBum Chubby</Data>
         </Slider>
         <Slider name="Bum Round" invert="false" default="0">
             <Data name="BodyBum Round" target="Body" local="true">_Amputee Rags.osd\BodyBum Round</Data>
             <Data name="TornTop2Bum Round" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Bum Round</Data>
+            <Data name="PantiesLaceBum Round" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBum Round</Data>
+            <Data name="PantiesLaceBaseBum Round" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBum Round</Data>
+            <Data name="PantiesBaseBum Round" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBum Round</Data>
         </Slider>
         <Slider name="Bum Apple" invert="false" default="0">
             <Data name="BodyBum Apple" target="Body" local="true">_Amputee Rags.osd\BodyBum Apple</Data>
             <Data name="TornTop2Bum Apple" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Bum Apple</Data>
+            <Data name="PantiesLaceBum Apple" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBum Apple</Data>
+            <Data name="PantiesLaceBaseBum Apple" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBum Apple</Data>
+            <Data name="PantiesBaseBum Apple" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBum Apple</Data>
         </Slider>
         <Slider name="Calf Size" invert="false" default="0">
             <Data name="BodyCalf Size" target="Body" local="true">_Amputee Rags.osd\BodyCalf Size</Data>
@@ -236,21 +329,36 @@
             <Data name="BodyLegs Chubby" target="Body" local="true">_Amputee Rags.osd\BodyLegs Chubby</Data>
             <Data name="Pubic Hair 1Legs Chubby" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Legs Chubby</Data>
             <Data name="TornTop2Legs Chubby" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Legs Chubby</Data>
+            <Data name="PantiesLaceLegs Chubby" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceLegs Chubby</Data>
+            <Data name="PantiesLaceBaseLegs Chubby" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseLegs Chubby</Data>
+            <Data name="PantiesBaseLegs Chubby" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseLegs Chubby</Data>
         </Slider>
         <Slider name="Legs Shape" invert="false" default="0">
             <Data name="BodyLegs Shape" target="Body" local="true">_Amputee Rags.osd\BodyLegs Shape</Data>
+            <Data name="PantiesLaceLegs Shape" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceLegs Shape</Data>
+            <Data name="PantiesLaceBaseLegs Shape" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseLegs Shape</Data>
+            <Data name="PantiesBaseLegs Shape" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseLegs Shape</Data>
         </Slider>
         <Slider name="Legs Thin" invert="false" default="0">
             <Data name="BodyLegs Thin" target="Body" local="true">_Amputee Rags.osd\BodyLegs Thin</Data>
             <Data name="Pubic Hair 1Legs Thin" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Legs Thin</Data>
+            <Data name="PantiesLaceLegs Thin" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceLegs Thin</Data>
+            <Data name="PantiesLaceBaseLegs Thin" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseLegs Thin</Data>
+            <Data name="PantiesBaseLegs Thin" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseLegs Thin</Data>
         </Slider>
         <Slider name="Thighs Slim" invert="false" default="0">
             <Data name="BodyThighs Slim" target="Body" local="true">_Amputee Rags.osd\BodyThighs Slim</Data>
             <Data name="Pubic Hair 1Thighs Slim" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Thighs Slim</Data>
+            <Data name="PantiesLaceThighs Slim" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceThighs Slim</Data>
+            <Data name="PantiesLaceBaseThighs Slim" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseThighs Slim</Data>
+            <Data name="PantiesBaseThighs Slim" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseThighs Slim</Data>
         </Slider>
         <Slider name="Thighs Size" invert="false" default="0">
             <Data name="BodyThighs Size" target="Body" local="true">_Amputee Rags.osd\BodyThighs Size</Data>
             <Data name="Pubic Hair 1Thighs Size" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Thighs Size</Data>
+            <Data name="PantiesLaceThighs Size" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceThighs Size</Data>
+            <Data name="PantiesLaceBaseThighs Size" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseThighs Size</Data>
+            <Data name="PantiesBaseThighs Size" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseThighs Size</Data>
         </Slider>
         <Slider name="Ankle Size" invert="false" default="0">
             <Data name="BodyAnkle Size" target="Body" local="true">_Amputee Rags.osd\BodyAnkle Size</Data>
@@ -301,6 +409,9 @@
             <Data name="BodyTorso Size" target="Body" local="true">_Amputee Rags.osd\BodyTorso Size</Data>
             <Data name="Pubic Hair 1Torso Size" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Torso Size</Data>
             <Data name="TornTop2Torso Size" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Torso Size</Data>
+            <Data name="PantiesLaceTorso Size" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceTorso Size</Data>
+            <Data name="PantiesLaceBaseTorso Size" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseTorso Size</Data>
+            <Data name="PantiesBaseTorso Size" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseTorso Size</Data>
         </Slider>
         <Slider name="Sturnum Depth" invert="false" default="0">
             <Data name="Charred_Arm_ArmwrapSturnum Depth" target="Charred_Arm_Armwrap" local="true">_Amputee Rags.osd\Charred_Arm_ArmwrapSturnum Depth</Data>
@@ -309,6 +420,9 @@
             <Data name="BodySturnum Depth" target="Body" local="true">_Amputee Rags.osd\BodySturnum Depth</Data>
             <Data name="Pubic Hair 1Sturnum Depth" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Sturnum Depth</Data>
             <Data name="TornTop2Sturnum Depth" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Sturnum Depth</Data>
+            <Data name="PantiesLaceSturnum Depth" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceSturnum Depth</Data>
+            <Data name="PantiesLaceBaseSturnum Depth" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseSturnum Depth</Data>
+            <Data name="PantiesBaseSturnum Depth" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseSturnum Depth</Data>
         </Slider>
         <Slider name="Sturnum Height" invert="false" default="0">
             <Data name="Charred_Arm_ArmwrapSturnum Height" target="Charred_Arm_Armwrap" local="true">_Amputee Rags.osd\Charred_Arm_ArmwrapSturnum Height</Data>
@@ -317,6 +431,9 @@
             <Data name="BodySturnum Height" target="Body" local="true">_Amputee Rags.osd\BodySturnum Height</Data>
             <Data name="Pubic Hair 1Sturnum Height" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Sturnum Height</Data>
             <Data name="TornTop2Sturnum Height" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Sturnum Height</Data>
+            <Data name="PantiesLaceSturnum Height" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceSturnum Height</Data>
+            <Data name="PantiesLaceBaseSturnum Height" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseSturnum Height</Data>
+            <Data name="PantiesBaseSturnum Height" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseSturnum Height</Data>
         </Slider>
         <Slider name="Groin Position" invert="false" default="0">
             <Data name="Charred_Arm_ArmwrapGroin Position" target="Charred_Arm_Armwrap" local="true">_Amputee Rags.osd\Charred_Arm_ArmwrapGroin Position</Data>
@@ -326,6 +443,9 @@
             <Data name="PiercingGroin Position" target="Piercing" local="true">_Amputee Rags.osd\PiercingGroin Position</Data>
             <Data name="Pubic Hair 1Groin Position" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Groin Position</Data>
             <Data name="TornTop2Groin Position" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Groin Position</Data>
+            <Data name="PantiesLaceGroin Position" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceGroin Position</Data>
+            <Data name="PantiesLaceBaseGroin Position" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseGroin Position</Data>
+            <Data name="PantiesBaseGroin Position" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseGroin Position</Data>
         </Slider>
         <Slider name="Groin Back" invert="false" default="0">
             <Data name="Charred_Arm_ArmwrapGroin Back" target="Charred_Arm_Armwrap" local="true">_Amputee Rags.osd\Charred_Arm_ArmwrapGroin Back</Data>
@@ -335,11 +455,17 @@
             <Data name="PiercingGroin Back" target="Piercing" local="true">_Amputee Rags.osd\PiercingGroin Back</Data>
             <Data name="Pubic Hair 1Groin Back" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Groin Back</Data>
             <Data name="TornTop2Groin Back" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Groin Back</Data>
+            <Data name="PantiesLaceGroin Back" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceGroin Back</Data>
+            <Data name="PantiesLaceBaseGroin Back" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseGroin Back</Data>
+            <Data name="PantiesBaseGroin Back" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseGroin Back</Data>
         </Slider>
         <Slider name="AbDefinition" invert="false" default="0">
             <Data name="BodyAbDefinition" target="Body" local="true">_Amputee Rags.osd\BodyAbDefinition</Data>
             <Data name="Pubic Hair 1AbDefinition" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1AbDefinition</Data>
             <Data name="TornTop2AbDefinition" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2AbDefinition</Data>
+            <Data name="PantiesLaceAbDefinition" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceAbDefinition</Data>
+            <Data name="PantiesLaceBaseAbDefinition" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseAbDefinition</Data>
+            <Data name="PantiesBaseAbDefinition" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseAbDefinition</Data>
         </Slider>
         <Slider name="Body Toning" invert="false" default="0">
             <Data name="Charred_Arm_ArmwrapBody Toning" target="Charred_Arm_Armwrap" local="true">_Amputee Rags.osd\Charred_Arm_ArmwrapBody Toning</Data>
@@ -349,6 +475,9 @@
             <Data name="PiercingBody Toning" target="Piercing" local="true">_Amputee Rags.osd\PiercingBody Toning</Data>
             <Data name="Pubic Hair 1Body Toning" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Body Toning</Data>
             <Data name="TornTop2Body Toning" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Body Toning</Data>
+            <Data name="PantiesLaceBody Toning" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBody Toning</Data>
+            <Data name="PantiesLaceBaseBody Toning" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBody Toning</Data>
+            <Data name="PantiesBaseBody Toning" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBody Toning</Data>
         </Slider>
         <Slider name="TigerSanBB" invert="false" default="0">
             <Data name="Charred_Arm_ArmwrapTigerSanBB" target="Charred_Arm_Armwrap" local="true">_Amputee Rags.osd\Charred_Arm_ArmwrapTigerSanBB</Data>
@@ -358,16 +487,25 @@
             <Data name="PiercingTigerSanBB" target="Piercing" local="true">_Amputee Rags.osd\PiercingTigerSanBB</Data>
             <Data name="Pubic Hair 1TigerSanBB" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1TigerSanBB</Data>
             <Data name="TornTop2TigerSanBB" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2TigerSanBB</Data>
+            <Data name="PantiesLaceTigerSanBB" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceTigerSanBB</Data>
+            <Data name="PantiesLaceBaseTigerSanBB" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseTigerSanBB</Data>
+            <Data name="PantiesBaseTigerSanBB" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseTigerSanBB</Data>
         </Slider>
         <Slider name="XunAbs" invert="false" default="0">
             <Data name="BodyXunAbs" target="Body" local="true">_Amputee Rags.osd\BodyXunAbs</Data>
             <Data name="Pubic Hair 1XunAbs" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1XunAbs</Data>
             <Data name="TornTop2XunAbs" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2XunAbs</Data>
+            <Data name="PantiesLaceXunAbs" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceXunAbs</Data>
+            <Data name="PantiesLaceBaseXunAbs" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseXunAbs</Data>
+            <Data name="PantiesBaseXunAbs" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseXunAbs</Data>
         </Slider>
         <Slider name="FFB Fitness 2" invert="false" default="0">
             <Data name="BodyFFB Fitness 2" target="Body" local="true">_Amputee Rags.osd\BodyFFB Fitness 2</Data>
             <Data name="Pubic Hair 1FFB Fitness 2" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1FFB Fitness 2</Data>
             <Data name="TornTop2FFB Fitness 2" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2FFB Fitness 2</Data>
+            <Data name="PantiesLaceFFB Fitness 2" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceFFB Fitness 2</Data>
+            <Data name="PantiesLaceBaseFFB Fitness 2" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseFFB Fitness 2</Data>
+            <Data name="PantiesBaseFFB Fitness 2" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseFFB Fitness 2</Data>
         </Slider>
         <Slider name="Athletic" invert="false" default="0">
             <Data name="Charred_Arm_ArmwrapAthletic" target="Charred_Arm_Armwrap" local="true">_Amputee Rags.osd\Charred_Arm_ArmwrapAthletic</Data>
@@ -377,6 +515,9 @@
             <Data name="PiercingAthletic" target="Piercing" local="true">_Amputee Rags.osd\PiercingAthletic</Data>
             <Data name="Pubic Hair 1Athletic" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Athletic</Data>
             <Data name="TornTop2Athletic" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Athletic</Data>
+            <Data name="PantiesLaceAthletic" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceAthletic</Data>
+            <Data name="PantiesLaceBaseAthletic" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseAthletic</Data>
+            <Data name="PantiesBaseAthletic" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseAthletic</Data>
         </Slider>
         <Slider name="SeveNBase Bombshell" invert="false" default="0">
             <Data name="Charred_Arm_ArmwrapSeveNBase Bombshell" target="Charred_Arm_Armwrap" local="true">_Amputee Rags.osd\Charred_Arm_ArmwrapSeveNBase Bombshell</Data>
@@ -386,6 +527,9 @@
             <Data name="PiercingSeveNBase Bombshell" target="Piercing" local="true">_Amputee Rags.osd\PiercingSeveNBase Bombshell</Data>
             <Data name="Pubic Hair 1SeveNBase Bombshell" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1SeveNBase Bombshell</Data>
             <Data name="TornTop2SeveNBase Bombshell" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2SeveNBase Bombshell</Data>
+            <Data name="PantiesLaceSeveNBase Bombshell" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceSeveNBase Bombshell</Data>
+            <Data name="PantiesLaceBaseSeveNBase Bombshell" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseSeveNBase Bombshell</Data>
+            <Data name="PantiesBaseSeveNBase Bombshell" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseSeveNBase Bombshell</Data>
         </Slider>
         <Slider name="Knee Height" invert="false" default="0">
             <Data name="BodyKnee Height" target="Body" local="true">_Amputee Rags.osd\BodyKnee Height</Data>
@@ -396,6 +540,9 @@
             <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Rags.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Width</Data>
             <Data name="BodyShoulder Width" target="Body" local="true">_Amputee Rags.osd\BodyShoulder Width</Data>
             <Data name="TornTop2Shoulder Width" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2Shoulder Width</Data>
+            <Data name="PantiesLaceShoulder Width" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceShoulder Width</Data>
+            <Data name="PantiesLaceBaseShoulder Width" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseShoulder Width</Data>
+            <Data name="PantiesBaseShoulder Width" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseShoulder Width</Data>
         </Slider>
         <Slider name="HighHeels" invert="false" default="0" hidden="true">
             <Data name="BodyHighHeels" target="Body" local="true">_Amputee Rags.osd\BodyHighHeels</Data>
@@ -408,32 +555,53 @@
             <Data name="PiercingBodyFat" target="Piercing" local="true">_Amputee Rags.osd\PiercingBodyFat</Data>
             <Data name="Pubic Hair 1BodyFat" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1BodyFat</Data>
             <Data name="TornTop2BodyFat" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2BodyFat</Data>
+            <Data name="PantiesLaceBodyFat" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceBodyFat</Data>
+            <Data name="PantiesLaceBaseBodyFat" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseBodyFat</Data>
+            <Data name="PantiesBaseBodyFat" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseBodyFat</Data>
         </Slider>
         <Slider name="LegThin" invert="false" default="0">
             <Data name="BodyLegThin" target="Body" local="true">_Amputee Rags.osd\BodyLegThin</Data>
             <Data name="PiercingLegThin" target="Piercing" local="true">_Amputee Rags.osd\PiercingLegThin</Data>
             <Data name="Pubic Hair 1LegThin" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1LegThin</Data>
+            <Data name="PantiesLaceLegThin" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceLegThin</Data>
+            <Data name="PantiesLaceBaseLegThin" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseLegThin</Data>
+            <Data name="PantiesBaseLegThin" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseLegThin</Data>
         </Slider>
         <Slider name="HipsNarrow" invert="false" default="0">
             <Data name="BodyHipsNarrow" target="Body" local="true">_Amputee Rags.osd\BodyHipsNarrow</Data>
             <Data name="TornTop2HipsNarrow" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2HipsNarrow</Data>
+            <Data name="PantiesLaceHipsNarrow" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceHipsNarrow</Data>
+            <Data name="PantiesLaceBaseHipsNarrow" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseHipsNarrow</Data>
+            <Data name="PantiesBaseHipsNarrow" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseHipsNarrow</Data>
         </Slider>
         <Slider name="ButtGravity" invert="false" default="0">
             <Data name="BodyButtGravity" target="Body" local="true">_Amputee Rags.osd\BodyButtGravity</Data>
+            <Data name="PantiesLaceButtGravity" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceButtGravity</Data>
+            <Data name="PantiesLaceBaseButtGravity" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseButtGravity</Data>
+            <Data name="PantiesBaseButtGravity" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseButtGravity</Data>
         </Slider>
         <Slider name="ButtThin" invert="false" default="0">
             <Data name="BodyButtThin" target="Body" local="true">_Amputee Rags.osd\BodyButtThin</Data>
             <Data name="TornTop2ButtThin" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2ButtThin</Data>
+            <Data name="PantiesLaceButtThin" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceButtThin</Data>
+            <Data name="PantiesLaceBaseButtThin" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseButtThin</Data>
+            <Data name="PantiesBaseButtThin" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseButtThin</Data>
         </Slider>
         <Slider name="HipsForward" invert="false" default="0">
             <Data name="BodyHipsForward" target="Body" local="true">_Amputee Rags.osd\BodyHipsForward</Data>
             <Data name="PiercingHipsForward" target="Piercing" local="true">_Amputee Rags.osd\PiercingHipsForward</Data>
             <Data name="Pubic Hair 1HipsForward" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1HipsForward</Data>
+            <Data name="PantiesLaceHipsForward" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceHipsForward</Data>
+            <Data name="PantiesLaceBaseHipsForward" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseHipsForward</Data>
+            <Data name="PantiesBaseHipsForward" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseHipsForward</Data>
         </Slider>
         <Slider name="HipRotateForward" invert="false" default="0">
             <Data name="BodyHipRotateForward" target="Body" local="true">_Amputee Rags.osd\BodyHipRotateForward</Data>
             <Data name="Pubic Hair 1HipRotateForward" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1HipRotateForward</Data>
             <Data name="TornTop2HipRotateForward" target="TornTop2" local="true">_Amputee Rags.osd\TornTop2HipRotateForward</Data>
+            <Data name="PantiesLaceHipRotateForward" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceHipRotateForward</Data>
+            <Data name="PantiesLaceBaseHipRotateForward" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseHipRotateForward</Data>
+            <Data name="PantiesBaseHipRotateForward" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseHipRotateForward</Data>
         </Slider>
         <Slider name="BreastArmpitin" invert="false" default="0">
             <Data name="Charred_Arm_ArmwrapBreastArmpitin" target="Charred_Arm_Armwrap" local="true">_Amputee Rags.osd\Charred_Arm_ArmwrapBreastArmpitin</Data>
@@ -490,14 +658,23 @@
             <Data name="BodyLabia Minora Flat" target="Body" local="true">_Amputee Rags.osd\BodyLabia Minora Flat</Data>
             <Data name="PiercingLabia Minora Flat" target="Piercing" local="true">_Amputee Rags.osd\PiercingLabia Minora Flat</Data>
             <Data name="Pubic Hair 1Labia Minora Flat" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Labia Minora Flat</Data>
+            <Data name="PantiesLaceLabia Minora Flat" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceLabia Minora Flat</Data>
+            <Data name="PantiesLaceBaseLabia Minora Flat" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseLabia Minora Flat</Data>
+            <Data name="PantiesBaseLabia Minora Flat" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseLabia Minora Flat</Data>
         </Slider>
         <Slider name="Labia Minora Longer" invert="false" default="0">
             <Data name="BodyLabia Minora Longer" target="Body" local="true">_Amputee Rags.osd\BodyLabia Minora Longer</Data>
+            <Data name="PantiesLaceLabia Minora Longer" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceLabia Minora Longer</Data>
+            <Data name="PantiesLaceBaseLabia Minora Longer" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseLabia Minora Longer</Data>
+            <Data name="PantiesBaseLabia Minora Longer" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseLabia Minora Longer</Data>
         </Slider>
         <Slider name="Clitoras Size" invert="false" default="0">
             <Data name="BodyClitoras Size" target="Body" local="true">_Amputee Rags.osd\BodyClitoras Size</Data>
             <Data name="PiercingClitoras Size" target="Piercing" local="true">_Amputee Rags.osd\PiercingClitoras Size</Data>
             <Data name="Pubic Hair 1Clitoras Size" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Clitoras Size</Data>
+            <Data name="PantiesLaceClitoras Size" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceClitoras Size</Data>
+            <Data name="PantiesLaceBaseClitoras Size" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseClitoras Size</Data>
+            <Data name="PantiesBaseClitoras Size" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseClitoras Size</Data>
         </Slider>
         <Slider name="Clitoras Long" invert="false" default="0">
             <Data name="BodyClitoras Long" target="Body" local="true">_Amputee Rags.osd\BodyClitoras Long</Data>
@@ -505,15 +682,24 @@
         <Slider name="Labia Majora Long" invert="false" default="0">
             <Data name="BodyLabia Majora Long" target="Body" local="true">_Amputee Rags.osd\BodyLabia Majora Long</Data>
             <Data name="Pubic Hair 1Labia Majora Long" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Labia Majora Long</Data>
+            <Data name="PantiesLaceLabia Majora Long" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceLabia Majora Long</Data>
+            <Data name="PantiesLaceBaseLabia Majora Long" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseLabia Majora Long</Data>
+            <Data name="PantiesBaseLabia Majora Long" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseLabia Majora Long</Data>
         </Slider>
         <Slider name="Labia Majora Wide" invert="false" default="0">
             <Data name="BodyLabia Majora Wide" target="Body" local="true">_Amputee Rags.osd\BodyLabia Majora Wide</Data>
             <Data name="Pubic Hair 1Labia Majora Wide" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Labia Majora Wide</Data>
+            <Data name="PantiesLaceLabia Majora Wide" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceLabia Majora Wide</Data>
+            <Data name="PantiesLaceBaseLabia Majora Wide" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseLabia Majora Wide</Data>
+            <Data name="PantiesBaseLabia Majora Wide" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseLabia Majora Wide</Data>
         </Slider>
         <Slider name="Labia Majora Inner" invert="false" default="0">
             <Data name="BodyLabia Majora Inner" target="Body" local="true">_Amputee Rags.osd\BodyLabia Majora Inner</Data>
             <Data name="PiercingLabia Majora Inner" target="Piercing" local="true">_Amputee Rags.osd\PiercingLabia Majora Inner</Data>
             <Data name="Pubic Hair 1Labia Majora Inner" target="Pubic Hair 1" local="true">_Amputee Rags.osd\Pubic Hair 1Labia Majora Inner</Data>
+            <Data name="PantiesLaceLabia Majora Inner" target="PantiesLace" local="true">_Amputee Rags.osd\PantiesLaceLabia Majora Inner</Data>
+            <Data name="PantiesLaceBaseLabia Majora Inner" target="PantiesLaceBase" local="true">_Amputee Rags.osd\PantiesLaceBaseLabia Majora Inner</Data>
+            <Data name="PantiesBaseLabia Majora Inner" target="PantiesBase" local="true">_Amputee Rags.osd\PantiesBaseLabia Majora Inner</Data>
         </Slider>
     </SliderSet>
 </SliderSetInfo>
