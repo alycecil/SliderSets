@@ -5,8 +5,8 @@
         <SourceFile>_Amputee Harness.nif</SourceFile>
         <OutputPath>Meshes\Clothes\Amputee</OutputPath>
         <OutputFile GenWeights="false">AmputeeHarnes</OutputFile>
-        <Shape target="Body">Body</Shape>
-        <Shape target="Charred_Arm_Armwrap" DataFolder="FusionGirl">Charred_Arm_Armwrap</Shape>
+        <Shape target="Body_2">Body_2</Shape>
+        <Shape target="Charred_Arm_Armwrap">Charred_Arm_Armwrap</Shape>
         <Shape target="Charred_BarbedWire_2">Charred_BarbedWire_2</Shape>
         <Shape target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0">Model002_24_-part1-armbandage.part1-armbandage_0_0_0</Shape>
         <Shape target="Raider04FHarnessBackfaces_0">Raider04FHarnessBackfaces_0</Shape>
