@@ -6,441 +6,418 @@
         <OutputPath>Meshes\Clothes\Amputee</OutputPath>
         <OutputFile GenWeights="false">DesdemonaOutfit</OutputFile>
         <Shape target="Body">Body</Shape>
-        <Shape target="Charred_Arm_Armwrap">Charred_Arm_Armwrap</Shape>
-        <Shape target="Charred_Arm_Armwrap_2">Charred_Arm_Armwrap_2</Shape>
-        <Shape target="Charred_BarbedWire_2">Charred_BarbedWire_2</Shape>
-        <Shape target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0">Model002_24_-part1-armbandage.part1-armbandage_0_0_0</Shape>
-        <Shape target="Piercing">Piercing</Shape>
-        <Shape target="Pubic Hair 1">Pubic Hair 1</Shape>
+        <Shape target="Charred_Arm_Armwrap" DataFolder="FusionGirl">Charred_Arm_Armwrap</Shape>
+        <Shape target="FOutfit_0">FOutfit_0</Shape>
         <Slider name="Belly Pregnant" invert="false" default="0">
             <Data name="BodyBelly Pregnant" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBelly Pregnant</Data>
-            <Data name="PiercingBelly Pregnant" target="Piercing" local="true">_Amputee Desdemona FG.osd\PiercingBelly Pregnant</Data>
-            <Data name="Pubic Hair 1Belly Pregnant" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Belly Pregnant</Data>
+            <Data name="FOutfit_0Belly Pregnant" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Belly Pregnant</Data>
         </Slider>
         <Slider name="Belly Big" invert="false" default="0">
             <Data name="BodyBelly Big" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBelly Big</Data>
-            <Data name="Pubic Hair 1Belly Big" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Belly Big</Data>
+            <Data name="FOutfit_0Belly Big" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Belly Big</Data>
         </Slider>
         <Slider name="Belly Size" invert="false" default="0">
             <Data name="BodyBelly Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBelly Size</Data>
-            <Data name="Pubic Hair 1Belly Size" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Belly Size</Data>
+            <Data name="FOutfit_0Belly Size" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Belly Size</Data>
         </Slider>
         <Slider name="Belly Tuck" invert="false" default="0">
             <Data name="BodyBelly Tuck" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBelly Tuck</Data>
-            <Data name="Pubic Hair 1Belly Tuck" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Belly Tuck</Data>
+            <Data name="FOutfit_0Belly Tuck" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Belly Tuck</Data>
         </Slider>
         <Slider name="Boobs Yuge" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Yuge" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Yuge</Data>
-            <Data name="BodyBoobs Yuge" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Yuge</Data>
             <Data name="Charred_Arm_ArmwrapBoobs Yuge" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBoobs Yuge</Data>
-            <Data name="Charred_BarbedWire_2Boobs Yuge" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Boobs Yuge</Data>
-            <Data name="Pubic Hair 1Boobs Yuge" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Boobs Yuge</Data>
+            <Data name="BodyBoobs Yuge" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Yuge</Data>
+            <Data name="FOutfit_0Boobs Yuge" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Boobs Yuge</Data>
         </Slider>
         <Slider name="Boobs Big" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Big" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Big</Data>
-            <Data name="BodyBoobs Big" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Big</Data>
             <Data name="Charred_Arm_ArmwrapBoobs Big" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBoobs Big</Data>
-            <Data name="Charred_BarbedWire_2Boobs Big" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Boobs Big</Data>
-            <Data name="Pubic Hair 1Boobs Big" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Boobs Big</Data>
+            <Data name="BodyBoobs Big" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Big</Data>
+            <Data name="FOutfit_0Boobs Big" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Boobs Big</Data>
         </Slider>
         <Slider name="Boobs Cleavage" invert="false" default="0">
             <Data name="BodyBoobs Cleavage" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Cleavage</Data>
+            <Data name="FOutfit_0Boobs Cleavage" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Boobs Cleavage</Data>
         </Slider>
         <Slider name="Boobs Flat" invert="false" default="0">
             <Data name="BodyBoobs Flat" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Flat</Data>
+            <Data name="FOutfit_0Boobs Flat" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Boobs Flat</Data>
         </Slider>
         <Slider name="Boobs Gravity" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Gravity" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Gravity</Data>
-            <Data name="BodyBoobs Gravity" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Gravity</Data>
             <Data name="Charred_Arm_ArmwrapBoobs Gravity" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBoobs Gravity</Data>
-            <Data name="Charred_BarbedWire_2Boobs Gravity" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Boobs Gravity</Data>
-            <Data name="Pubic Hair 1Boobs Gravity" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Boobs Gravity</Data>
+            <Data name="BodyBoobs Gravity" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Gravity</Data>
+            <Data name="FOutfit_0Boobs Gravity" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Boobs Gravity</Data>
         </Slider>
         <Slider name="Boobs Height" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Height" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Height</Data>
             <Data name="BodyBoobs Height" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Height</Data>
+            <Data name="FOutfit_0Boobs Height" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Boobs Height</Data>
         </Slider>
         <Slider name="Boobs Mellons" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Mellons" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Mellons</Data>
-            <Data name="BodyBoobs Mellons" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Mellons</Data>
             <Data name="Charred_Arm_ArmwrapBoobs Mellons" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBoobs Mellons</Data>
-            <Data name="Charred_BarbedWire_2Boobs Mellons" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Boobs Mellons</Data>
-            <Data name="Pubic Hair 1Boobs Mellons" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Boobs Mellons</Data>
+            <Data name="BodyBoobs Mellons" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Mellons</Data>
+            <Data name="FOutfit_0Boobs Mellons" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Boobs Mellons</Data>
         </Slider>
         <Slider name="Boobs Perky" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Perky" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Perky</Data>
-            <Data name="BodyBoobs Perky" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Perky</Data>
             <Data name="Charred_Arm_ArmwrapBoobs Perky" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBoobs Perky</Data>
-            <Data name="Charred_BarbedWire_2Boobs Perky" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Boobs Perky</Data>
-            <Data name="Pubic Hair 1Boobs Perky" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Boobs Perky</Data>
+            <Data name="BodyBoobs Perky" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Perky</Data>
+            <Data name="FOutfit_0Boobs Perky" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Boobs Perky</Data>
         </Slider>
         <Slider name="Boobs Push Up" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Push Up" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Push Up</Data>
-            <Data name="BodyBoobs Push Up" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Push Up</Data>
             <Data name="Charred_Arm_ArmwrapBoobs Push Up" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBoobs Push Up</Data>
-            <Data name="Charred_BarbedWire_2Boobs Push Up" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Boobs Push Up</Data>
-            <Data name="Pubic Hair 1Boobs Push Up" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Boobs Push Up</Data>
+            <Data name="BodyBoobs Push Up" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Push Up</Data>
+            <Data name="FOutfit_0Boobs Push Up" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Boobs Push Up</Data>
         </Slider>
         <Slider name="Boobs Small" invert="false" default="0">
             <Data name="BodyBoobs Small" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Small</Data>
+            <Data name="FOutfit_0Boobs Small" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Boobs Small</Data>
         </Slider>
         <Slider name="Boobs Together" invert="false" default="0">
             <Data name="BodyBoobs Together" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Together</Data>
+            <Data name="FOutfit_0Boobs Together" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Boobs Together</Data>
         </Slider>
         <Slider name="Boobs Top Slope" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Top Slope" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Top Slope</Data>
-            <Data name="BodyBoobs Top Slope" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Top Slope</Data>
             <Data name="Charred_Arm_ArmwrapBoobs Top Slope" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBoobs Top Slope</Data>
-            <Data name="Charred_BarbedWire_2Boobs Top Slope" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Boobs Top Slope</Data>
-            <Data name="Pubic Hair 1Boobs Top Slope" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Boobs Top Slope</Data>
+            <Data name="BodyBoobs Top Slope" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Top Slope</Data>
+            <Data name="FOutfit_0Boobs Top Slope" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Boobs Top Slope</Data>
         </Slider>
         <Slider name="Boobs Width" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Width</Data>
             <Data name="BodyBoobs Width" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Width</Data>
+            <Data name="FOutfit_0Boobs Width" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Boobs Width</Data>
         </Slider>
         <Slider name="Boobs Tiny" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Tiny" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Tiny</Data>
-            <Data name="BodyBoobs Tiny" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Tiny</Data>
             <Data name="Charred_Arm_ArmwrapBoobs Tiny" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBoobs Tiny</Data>
-            <Data name="Charred_BarbedWire_2Boobs Tiny" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Boobs Tiny</Data>
-            <Data name="Pubic Hair 1Boobs Tiny" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Boobs Tiny</Data>
-        </Slider>
-        <Slider name="Nipples Areola" invert="false" default="0">
-            <Data name="BodyNipples Areola" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Areola</Data>
-        </Slider>
-        <Slider name="Nipples Distance" invert="false" default="0">
-            <Data name="BodyNipples Distance" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Distance</Data>
-        </Slider>
-        <Slider name="Nipples Down" invert="false" default="0">
-            <Data name="BodyNipples Down" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Down</Data>
-        </Slider>
-        <Slider name="Nipples Gone" invert="false" default="0">
-            <Data name="BodyNipples Gone" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Gone</Data>
-        </Slider>
-        <Slider name="Nipples Perkiness" invert="false" default="0">
-            <Data name="BodyNipples Perkiness" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Perkiness</Data>
-        </Slider>
-        <Slider name="Nipples Puffy" invert="false" default="0">
-            <Data name="BodyNipples Puffy" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Puffy</Data>
-        </Slider>
-        <Slider name="Nipples Up" invert="false" default="0">
-            <Data name="BodyNipples Up" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Up</Data>
-        </Slider>
-        <Slider name="Chest Depth" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Depth" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Depth</Data>
-            <Data name="BodyChest Depth" target="Body" local="true">_Amputee Desdemona FG.osd\BodyChest Depth</Data>
-        </Slider>
-        <Slider name="Chest Width" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Width</Data>
-            <Data name="BodyChest Width" target="Body" local="true">_Amputee Desdemona FG.osd\BodyChest Width</Data>
-        </Slider>
-        <Slider name="Waist Chubby" invert="false" default="0">
-            <Data name="BodyWaist Chubby" target="Body" local="true">_Amputee Desdemona FG.osd\BodyWaist Chubby</Data>
-            <Data name="Pubic Hair 1Waist Chubby" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Waist Chubby</Data>
-        </Slider>
-        <Slider name="Waist Size" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Waist Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Waist Size</Data>
-            <Data name="BodyWaist Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyWaist Size</Data>
-        </Slider>
-        <Slider name="Waist Height" invert="false" default="0">
-            <Data name="BodyWaist Height" target="Body" local="true">_Amputee Desdemona FG.osd\BodyWaist Height</Data>
-            <Data name="Pubic Hair 1Waist Height" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Waist Height</Data>
-        </Slider>
-        <Slider name="Waist Line" invert="false" default="0">
-            <Data name="BodyWaist Line" target="Body" local="true">_Amputee Desdemona FG.osd\BodyWaist Line</Data>
-        </Slider>
-        <Slider name="Back Size" invert="false" default="0">
-            <Data name="BodyBack Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBack Size</Data>
-        </Slider>
-        <Slider name="Back Arch" invert="false" default="0">
-            <Data name="BodyBack Arch" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBack Arch</Data>
-        </Slider>
-        <Slider name="Hips Bone" invert="false" default="0">
-            <Data name="BodyHips Bone" target="Body" local="true">_Amputee Desdemona FG.osd\BodyHips Bone</Data>
-        </Slider>
-        <Slider name="Hips Size" invert="false" default="0">
-            <Data name="BodyHips Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyHips Size</Data>
-            <Data name="Pubic Hair 1Hips Size" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Hips Size</Data>
-        </Slider>
-        <Slider name="Hips Upper Width" invert="false" default="0">
-            <Data name="BodyHips Upper Width" target="Body" local="true">_Amputee Desdemona FG.osd\BodyHips Upper Width</Data>
-        </Slider>
-        <Slider name="Bum Size" invert="false" default="0">
-            <Data name="BodyBum Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Size</Data>
-        </Slider>
-        <Slider name="Bum Crack" invert="false" default="0">
-            <Data name="BodyBum Crack" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Crack</Data>
-        </Slider>
-        <Slider name="Bum Shape 1" invert="false" default="0">
-            <Data name="BodyBum Shape 1" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Shape 1</Data>
-            <Data name="Pubic Hair 1Bum Shape 1" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Bum Shape 1</Data>
-        </Slider>
-        <Slider name="Bum Shape 2" invert="false" default="0">
-            <Data name="BodyBum Shape 2" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Shape 2</Data>
-            <Data name="Pubic Hair 1Bum Shape 2" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Bum Shape 2</Data>
-        </Slider>
-        <Slider name="Bum Small" invert="false" default="0">
-            <Data name="BodyBum Small" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Small</Data>
-            <Data name="Pubic Hair 1Bum Small" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Bum Small</Data>
-        </Slider>
-        <Slider name="Bum Chubby" invert="false" default="0">
-            <Data name="BodyBum Chubby" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Chubby</Data>
-            <Data name="Pubic Hair 1Bum Chubby" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Bum Chubby</Data>
-        </Slider>
-        <Slider name="Bum Round" invert="false" default="0">
-            <Data name="BodyBum Round" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Round</Data>
-        </Slider>
-        <Slider name="Bum Apple" invert="false" default="0">
-            <Data name="BodyBum Apple" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Apple</Data>
-        </Slider>
-        <Slider name="Calf Size" invert="false" default="0">
-            <Data name="BodyCalf Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyCalf Size</Data>
-        </Slider>
-        <Slider name="Calf Small" invert="false" default="0">
-            <Data name="BodyCalf Small" target="Body" local="true">_Amputee Desdemona FG.osd\BodyCalf Small</Data>
-        </Slider>
-        <Slider name="Legs Chubby" invert="false" default="0">
-            <Data name="BodyLegs Chubby" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLegs Chubby</Data>
-            <Data name="Pubic Hair 1Legs Chubby" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Legs Chubby</Data>
-        </Slider>
-        <Slider name="Legs Shape" invert="false" default="0">
-            <Data name="BodyLegs Shape" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLegs Shape</Data>
-        </Slider>
-        <Slider name="Legs Thin" invert="false" default="0">
-            <Data name="BodyLegs Thin" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLegs Thin</Data>
-            <Data name="Pubic Hair 1Legs Thin" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Legs Thin</Data>
-        </Slider>
-        <Slider name="Thighs Slim" invert="false" default="0">
-            <Data name="BodyThighs Slim" target="Body" local="true">_Amputee Desdemona FG.osd\BodyThighs Slim</Data>
-            <Data name="Pubic Hair 1Thighs Slim" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Thighs Slim</Data>
-        </Slider>
-        <Slider name="Thighs Size" invert="false" default="0">
-            <Data name="BodyThighs Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyThighs Size</Data>
-            <Data name="Pubic Hair 1Thighs Size" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Thighs Size</Data>
-        </Slider>
-        <Slider name="Ankle Size" invert="false" default="0">
-            <Data name="BodyAnkle Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyAnkle Size</Data>
-        </Slider>
-        <Slider name="Arms Chubby" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Chubby" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Chubby</Data>
-            <Data name="BodyArms Chubby" target="Body" local="true">_Amputee Desdemona FG.osd\BodyArms Chubby</Data>
-            <Data name="Charred_Arm_ArmwrapArms Chubby" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapArms Chubby</Data>
-            <Data name="Charred_BarbedWire_2Arms Chubby" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Arms Chubby</Data>
-        </Slider>
-        <Slider name="Shoulder Smooth" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Smooth" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Smooth</Data>
-            <Data name="BodyShoulder Smooth" target="Body" local="true">_Amputee Desdemona FG.osd\BodyShoulder Smooth</Data>
-            <Data name="Charred_Arm_ArmwrapShoulder Smooth" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapShoulder Smooth</Data>
-            <Data name="Charred_BarbedWire_2Shoulder Smooth" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Shoulder Smooth</Data>
-        </Slider>
-        <Slider name="Shoulder Tweak" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Tweak" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Tweak</Data>
-            <Data name="BodyShoulder Tweak" target="Body" local="true">_Amputee Desdemona FG.osd\BodyShoulder Tweak</Data>
-        </Slider>
-        <Slider name="Arms Size" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Size</Data>
-            <Data name="BodyArms Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyArms Size</Data>
-            <Data name="Charred_Arm_ArmwrapArms Size" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapArms Size</Data>
-            <Data name="Charred_BarbedWire_2Arms Size" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Arms Size</Data>
-        </Slider>
-        <Slider name="Armpit Ajustment" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Armpit Ajustment" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Armpit Ajustment</Data>
-            <Data name="BodyArmpit Ajustment" target="Body" local="true">_Amputee Desdemona FG.osd\BodyArmpit Ajustment</Data>
-            <Data name="Charred_Arm_ArmwrapArmpit Ajustment" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapArmpit Ajustment</Data>
-            <Data name="Charred_BarbedWire_2Armpit Ajustment" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Armpit Ajustment</Data>
-        </Slider>
-        <Slider name="Forearms Size" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Forearms Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Forearms Size</Data>
-            <Data name="BodyForearms Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyForearms Size</Data>
-            <Data name="Charred_Arm_ArmwrapForearms Size" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapForearms Size</Data>
-            <Data name="Charred_BarbedWire_2Forearms Size" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Forearms Size</Data>
-        </Slider>
-        <Slider name="Torso Size" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Torso Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Torso Size</Data>
-            <Data name="BodyTorso Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyTorso Size</Data>
-            <Data name="Charred_Arm_ArmwrapTorso Size" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapTorso Size</Data>
-            <Data name="Charred_BarbedWire_2Torso Size" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Torso Size</Data>
-            <Data name="Pubic Hair 1Torso Size" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Torso Size</Data>
-        </Slider>
-        <Slider name="Sturnum Depth" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Depth" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Depth</Data>
-            <Data name="BodySturnum Depth" target="Body" local="true">_Amputee Desdemona FG.osd\BodySturnum Depth</Data>
-            <Data name="Charred_Arm_ArmwrapSturnum Depth" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapSturnum Depth</Data>
-            <Data name="Charred_BarbedWire_2Sturnum Depth" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Sturnum Depth</Data>
-            <Data name="Pubic Hair 1Sturnum Depth" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Sturnum Depth</Data>
-        </Slider>
-        <Slider name="Sturnum Height" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Height" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Height</Data>
-            <Data name="BodySturnum Height" target="Body" local="true">_Amputee Desdemona FG.osd\BodySturnum Height</Data>
-            <Data name="Charred_Arm_ArmwrapSturnum Height" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapSturnum Height</Data>
-            <Data name="Charred_BarbedWire_2Sturnum Height" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Sturnum Height</Data>
-            <Data name="Pubic Hair 1Sturnum Height" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Sturnum Height</Data>
-        </Slider>
-        <Slider name="Groin Position" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Position" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Position</Data>
-            <Data name="BodyGroin Position" target="Body" local="true">_Amputee Desdemona FG.osd\BodyGroin Position</Data>
-            <Data name="Charred_Arm_ArmwrapGroin Position" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapGroin Position</Data>
-            <Data name="Charred_BarbedWire_2Groin Position" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Groin Position</Data>
-            <Data name="PiercingGroin Position" target="Piercing" local="true">_Amputee Desdemona FG.osd\PiercingGroin Position</Data>
-            <Data name="Pubic Hair 1Groin Position" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Groin Position</Data>
-        </Slider>
-        <Slider name="Groin Back" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Back" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Back</Data>
-            <Data name="BodyGroin Back" target="Body" local="true">_Amputee Desdemona FG.osd\BodyGroin Back</Data>
-            <Data name="Charred_Arm_ArmwrapGroin Back" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapGroin Back</Data>
-            <Data name="Charred_BarbedWire_2Groin Back" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Groin Back</Data>
-            <Data name="PiercingGroin Back" target="Piercing" local="true">_Amputee Desdemona FG.osd\PiercingGroin Back</Data>
-            <Data name="Pubic Hair 1Groin Back" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Groin Back</Data>
-        </Slider>
-        <Slider name="Labia Minora Flat" invert="false" default="0">
-            <Data name="BodyLabia Minora Flat" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLabia Minora Flat</Data>
-            <Data name="PiercingLabia Minora Flat" target="Piercing" local="true">_Amputee Desdemona FG.osd\PiercingLabia Minora Flat</Data>
-            <Data name="Pubic Hair 1Labia Minora Flat" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Labia Minora Flat</Data>
-        </Slider>
-        <Slider name="Labia Minora Longer" invert="false" default="0">
-            <Data name="BodyLabia Minora Longer" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLabia Minora Longer</Data>
-        </Slider>
-        <Slider name="Clitoras Size" invert="false" default="0">
-            <Data name="BodyClitoras Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyClitoras Size</Data>
-            <Data name="PiercingClitoras Size" target="Piercing" local="true">_Amputee Desdemona FG.osd\PiercingClitoras Size</Data>
-            <Data name="Pubic Hair 1Clitoras Size" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Clitoras Size</Data>
-        </Slider>
-        <Slider name="Labia Majora Wide" invert="false" default="0">
-            <Data name="BodyLabia Majora Wide" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLabia Majora Wide</Data>
-            <Data name="Pubic Hair 1Labia Majora Wide" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Labia Majora Wide</Data>
-        </Slider>
-        <Slider name="AbDefinition" invert="false" default="0">
-            <Data name="BodyAbDefinition" target="Body" local="true">_Amputee Desdemona FG.osd\BodyAbDefinition</Data>
-            <Data name="Pubic Hair 1AbDefinition" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1AbDefinition</Data>
-        </Slider>
-        <Slider name="Body Toning" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Body Toning" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Body Toning</Data>
-            <Data name="BodyBody Toning" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBody Toning</Data>
-            <Data name="Charred_Arm_ArmwrapBody Toning" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBody Toning</Data>
-            <Data name="Charred_BarbedWire_2Body Toning" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Body Toning</Data>
-            <Data name="PiercingBody Toning" target="Piercing" local="true">_Amputee Desdemona FG.osd\PiercingBody Toning</Data>
-            <Data name="Pubic Hair 1Body Toning" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Body Toning</Data>
-        </Slider>
-        <Slider name="TigerSanBB" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0TigerSanBB" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0TigerSanBB</Data>
-            <Data name="BodyTigerSanBB" target="Body" local="true">_Amputee Desdemona FG.osd\BodyTigerSanBB</Data>
-            <Data name="Charred_Arm_ArmwrapTigerSanBB" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapTigerSanBB</Data>
-            <Data name="Charred_BarbedWire_2TigerSanBB" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2TigerSanBB</Data>
-            <Data name="PiercingTigerSanBB" target="Piercing" local="true">_Amputee Desdemona FG.osd\PiercingTigerSanBB</Data>
-            <Data name="Pubic Hair 1TigerSanBB" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1TigerSanBB</Data>
-        </Slider>
-        <Slider name="XunAbs" invert="false" default="0">
-            <Data name="BodyXunAbs" target="Body" local="true">_Amputee Desdemona FG.osd\BodyXunAbs</Data>
-            <Data name="Pubic Hair 1XunAbs" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1XunAbs</Data>
-        </Slider>
-        <Slider name="FFB Fitness 2" invert="false" default="0">
-            <Data name="BodyFFB Fitness 2" target="Body" local="true">_Amputee Desdemona FG.osd\BodyFFB Fitness 2</Data>
-            <Data name="Pubic Hair 1FFB Fitness 2" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1FFB Fitness 2</Data>
-        </Slider>
-        <Slider name="Athletic" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Athletic" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Athletic</Data>
-            <Data name="BodyAthletic" target="Body" local="true">_Amputee Desdemona FG.osd\BodyAthletic</Data>
-            <Data name="Charred_Arm_ArmwrapAthletic" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapAthletic</Data>
-            <Data name="Charred_BarbedWire_2Athletic" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Athletic</Data>
-            <Data name="PiercingAthletic" target="Piercing" local="true">_Amputee Desdemona FG.osd\PiercingAthletic</Data>
-            <Data name="Pubic Hair 1Athletic" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Athletic</Data>
-        </Slider>
-        <Slider name="SeveNBase Bombshell" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0SeveNBase Bombshell" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0SeveNBase Bombshell</Data>
-            <Data name="BodySeveNBase Bombshell" target="Body" local="true">_Amputee Desdemona FG.osd\BodySeveNBase Bombshell</Data>
-            <Data name="Charred_Arm_ArmwrapSeveNBase Bombshell" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapSeveNBase Bombshell</Data>
-            <Data name="Charred_BarbedWire_2SeveNBase Bombshell" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2SeveNBase Bombshell</Data>
-            <Data name="PiercingSeveNBase Bombshell" target="Piercing" local="true">_Amputee Desdemona FG.osd\PiercingSeveNBase Bombshell</Data>
-            <Data name="Pubic Hair 1SeveNBase Bombshell" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1SeveNBase Bombshell</Data>
-        </Slider>
-        <Slider name="Knee Height" invert="false" default="0">
-            <Data name="BodyKnee Height" target="Body" local="true">_Amputee Desdemona FG.osd\BodyKnee Height</Data>
-        </Slider>
-        <Slider name="Shoulder Width" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Width</Data>
-            <Data name="BodyShoulder Width" target="Body" local="true">_Amputee Desdemona FG.osd\BodyShoulder Width</Data>
-            <Data name="Charred_Arm_ArmwrapShoulder Width" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapShoulder Width</Data>
-            <Data name="Charred_BarbedWire_2Shoulder Width" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2Shoulder Width</Data>
-        </Slider>
-        <Slider name="HighHeels" invert="false" default="0" hidden="true">
-            <Data name="BodyHighHeels" target="Body" local="true">_Amputee Desdemona FG.osd\BodyHighHeels</Data>
-        </Slider>
-        <Slider name="BodyFat" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BodyFat" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BodyFat</Data>
-            <Data name="BodyBodyFat" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBodyFat</Data>
-            <Data name="Charred_Arm_ArmwrapBodyFat" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBodyFat</Data>
-            <Data name="Charred_BarbedWire_2BodyFat" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2BodyFat</Data>
-            <Data name="PiercingBodyFat" target="Piercing" local="true">_Amputee Desdemona FG.osd\PiercingBodyFat</Data>
-            <Data name="Pubic Hair 1BodyFat" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1BodyFat</Data>
-        </Slider>
-        <Slider name="LegThin" invert="false" default="0">
-            <Data name="BodyLegThin" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLegThin</Data>
-            <Data name="PiercingLegThin" target="Piercing" local="true">_Amputee Desdemona FG.osd\PiercingLegThin</Data>
-            <Data name="Pubic Hair 1LegThin" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1LegThin</Data>
-        </Slider>
-        <Slider name="HipsNarrow" invert="false" default="0">
-            <Data name="BodyHipsNarrow" target="Body" local="true">_Amputee Desdemona FG.osd\BodyHipsNarrow</Data>
-        </Slider>
-        <Slider name="ButtGravity" invert="false" default="0">
-            <Data name="BodyButtGravity" target="Body" local="true">_Amputee Desdemona FG.osd\BodyButtGravity</Data>
-        </Slider>
-        <Slider name="ButtThin" invert="false" default="0">
-            <Data name="BodyButtThin" target="Body" local="true">_Amputee Desdemona FG.osd\BodyButtThin</Data>
-        </Slider>
-        <Slider name="HipsForward" invert="false" default="0">
-            <Data name="BodyHipsForward" target="Body" local="true">_Amputee Desdemona FG.osd\BodyHipsForward</Data>
-            <Data name="PiercingHipsForward" target="Piercing" local="true">_Amputee Desdemona FG.osd\PiercingHipsForward</Data>
-            <Data name="Pubic Hair 1HipsForward" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1HipsForward</Data>
-        </Slider>
-        <Slider name="HipRotateForward" invert="false" default="0">
-            <Data name="BodyHipRotateForward" target="Body" local="true">_Amputee Desdemona FG.osd\BodyHipRotateForward</Data>
-            <Data name="Pubic Hair 1HipRotateForward" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1HipRotateForward</Data>
-        </Slider>
-        <Slider name="BreastArmpitin" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitin" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitin</Data>
-            <Data name="BodyBreastArmpitin" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBreastArmpitin</Data>
-            <Data name="Charred_Arm_ArmwrapBreastArmpitin" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBreastArmpitin</Data>
-            <Data name="Charred_BarbedWire_2BreastArmpitin" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2BreastArmpitin</Data>
-        </Slider>
-        <Slider name="BreastArmpitWide" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitWide" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitWide</Data>
-            <Data name="BodyBreastArmpitWide" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBreastArmpitWide</Data>
-            <Data name="Charred_Arm_ArmwrapBreastArmpitWide" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBreastArmpitWide</Data>
-            <Data name="Charred_BarbedWire_2BreastArmpitWide" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona FG.osd\Charred_BarbedWire_2BreastArmpitWide</Data>
-        </Slider>
-        <Slider name="BreastCurve" invert="false" default="0">
-            <Data name="BodyBreastCurve" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBreastCurve</Data>
-        </Slider>
-        <Slider name="BreastHeight2" invert="false" default="0">
-            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastHeight2" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Desdemona FG.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastHeight2</Data>
-            <Data name="BodyBreastHeight2" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBreastHeight2</Data>
-        </Slider>
-        <Slider name="BreastConcave" invert="false" default="0">
-            <Data name="BodyBreastConcave" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBreastConcave</Data>
+            <Data name="BodyBoobs Tiny" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBoobs Tiny</Data>
+            <Data name="FOutfit_0Boobs Tiny" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Boobs Tiny</Data>
         </Slider>
         <Slider name="Nipples Length" invert="false" default="0">
             <Data name="BodyNipples Length" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Length</Data>
+            <Data name="FOutfit_0Nipples Length" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Nipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="BodyNipples Areola" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Areola</Data>
+            <Data name="FOutfit_0Nipples Areola" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Nipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="BodyNipples Distance" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Distance</Data>
+            <Data name="FOutfit_0Nipples Distance" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Nipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="BodyNipples Down" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Down</Data>
+            <Data name="FOutfit_0Nipples Down" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Nipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="BodyNipples Gone" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Gone</Data>
+            <Data name="FOutfit_0Nipples Gone" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Nipples Gone</Data>
         </Slider>
         <Slider name="Nipples Shape" invert="false" default="0">
             <Data name="BodyNipples Shape" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Shape</Data>
+            <Data name="FOutfit_0Nipples Shape" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Nipples Shape</Data>
         </Slider>
         <Slider name="Nipples Size" invert="false" default="0">
             <Data name="BodyNipples Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Size</Data>
+            <Data name="FOutfit_0Nipples Size" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Nipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="BodyNipples Perkiness" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Perkiness</Data>
+            <Data name="FOutfit_0Nipples Perkiness" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Nipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="BodyNipples Puffy" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Puffy</Data>
+            <Data name="FOutfit_0Nipples Puffy" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Nipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="BodyNipples Up" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Up</Data>
+            <Data name="FOutfit_0Nipples Up" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Nipples Up</Data>
         </Slider>
         <Slider name="Nipples Tip" invert="false" default="0">
             <Data name="BodyNipples Tip" target="Body" local="true">_Amputee Desdemona FG.osd\BodyNipples Tip</Data>
+            <Data name="FOutfit_0Nipples Tip" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Nipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="BodyChest Depth" target="Body" local="true">_Amputee Desdemona FG.osd\BodyChest Depth</Data>
+            <Data name="FOutfit_0Chest Depth" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Chest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="BodyChest Width" target="Body" local="true">_Amputee Desdemona FG.osd\BodyChest Width</Data>
+            <Data name="FOutfit_0Chest Width" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="BodyWaist Chubby" target="Body" local="true">_Amputee Desdemona FG.osd\BodyWaist Chubby</Data>
+            <Data name="FOutfit_0Waist Chubby" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="BodyWaist Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyWaist Size</Data>
+            <Data name="FOutfit_0Waist Size" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="BodyWaist Height" target="Body" local="true">_Amputee Desdemona FG.osd\BodyWaist Height</Data>
+            <Data name="FOutfit_0Waist Height" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="BodyWaist Line" target="Body" local="true">_Amputee Desdemona FG.osd\BodyWaist Line</Data>
+            <Data name="FOutfit_0Waist Line" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="BodyBack Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBack Size</Data>
+            <Data name="FOutfit_0Back Size" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="BodyBack Arch" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBack Arch</Data>
+            <Data name="FOutfit_0Back Arch" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="BodyHips Bone" target="Body" local="true">_Amputee Desdemona FG.osd\BodyHips Bone</Data>
+            <Data name="FOutfit_0Hips Bone" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Hips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="BodyHips Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyHips Size</Data>
+            <Data name="FOutfit_0Hips Size" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Hips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="BodyHips Upper Width" target="Body" local="true">_Amputee Desdemona FG.osd\BodyHips Upper Width</Data>
+            <Data name="FOutfit_0Hips Upper Width" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="BodyBum Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Size</Data>
+            <Data name="FOutfit_0Bum Size" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="BodyBum Crack" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Crack</Data>
+            <Data name="FOutfit_0Bum Crack" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="BodyBum Shape 1" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Shape 1</Data>
+            <Data name="FOutfit_0Bum Shape 1" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="BodyBum Shape 2" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Shape 2</Data>
+            <Data name="FOutfit_0Bum Shape 2" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="BodyBum Small" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Small</Data>
+            <Data name="FOutfit_0Bum Small" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="BodyBum Chubby" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Chubby</Data>
+            <Data name="FOutfit_0Bum Chubby" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="BodyBum Round" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Round</Data>
+            <Data name="FOutfit_0Bum Round" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="BodyBum Apple" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBum Apple</Data>
+            <Data name="FOutfit_0Bum Apple" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Bum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="BodyCalf Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyCalf Size</Data>
+            <Data name="FOutfit_0Calf Size" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Calf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="BodyCalf Small" target="Body" local="true">_Amputee Desdemona FG.osd\BodyCalf Small</Data>
+            <Data name="FOutfit_0Calf Small" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Calf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="BodyLegs Chubby" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLegs Chubby</Data>
+            <Data name="FOutfit_0Legs Chubby" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="BodyLegs Shape" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLegs Shape</Data>
+            <Data name="FOutfit_0Legs Shape" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="BodyLegs Thin" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLegs Thin</Data>
+            <Data name="FOutfit_0Legs Thin" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="BodyThighs Slim" target="Body" local="true">_Amputee Desdemona FG.osd\BodyThighs Slim</Data>
+            <Data name="FOutfit_0Thighs Slim" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="BodyThighs Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyThighs Size</Data>
+            <Data name="FOutfit_0Thighs Size" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Thighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="BodyAnkle Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyAnkle Size</Data>
+            <Data name="FOutfit_0Ankle Size" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Ankle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapArms Chubby" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapArms Chubby</Data>
+            <Data name="BodyArms Chubby" target="Body" local="true">_Amputee Desdemona FG.osd\BodyArms Chubby</Data>
+            <Data name="FOutfit_0Arms Chubby" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapShoulder Smooth" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapShoulder Smooth</Data>
+            <Data name="BodyShoulder Smooth" target="Body" local="true">_Amputee Desdemona FG.osd\BodyShoulder Smooth</Data>
+            <Data name="FOutfit_0Shoulder Smooth" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="BodyShoulder Tweak" target="Body" local="true">_Amputee Desdemona FG.osd\BodyShoulder Tweak</Data>
+            <Data name="FOutfit_0Shoulder Tweak" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Shoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapArms Size" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapArms Size</Data>
+            <Data name="BodyArms Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyArms Size</Data>
+            <Data name="FOutfit_0Arms Size" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapArmpit Ajustment" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapArmpit Ajustment</Data>
+            <Data name="BodyArmpit Ajustment" target="Body" local="true">_Amputee Desdemona FG.osd\BodyArmpit Ajustment</Data>
+            <Data name="FOutfit_0Armpit Ajustment" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapForearms Size" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapForearms Size</Data>
+            <Data name="BodyForearms Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyForearms Size</Data>
+            <Data name="FOutfit_0Forearms Size" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Forearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapTorso Size" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapTorso Size</Data>
+            <Data name="BodyTorso Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyTorso Size</Data>
+            <Data name="FOutfit_0Torso Size" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapSturnum Depth" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapSturnum Depth</Data>
+            <Data name="BodySturnum Depth" target="Body" local="true">_Amputee Desdemona FG.osd\BodySturnum Depth</Data>
+            <Data name="FOutfit_0Sturnum Depth" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapSturnum Height" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapSturnum Height</Data>
+            <Data name="BodySturnum Height" target="Body" local="true">_Amputee Desdemona FG.osd\BodySturnum Height</Data>
+            <Data name="FOutfit_0Sturnum Height" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapGroin Position" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapGroin Position</Data>
+            <Data name="BodyGroin Position" target="Body" local="true">_Amputee Desdemona FG.osd\BodyGroin Position</Data>
+            <Data name="FOutfit_0Groin Position" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapGroin Back" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapGroin Back</Data>
+            <Data name="BodyGroin Back" target="Body" local="true">_Amputee Desdemona FG.osd\BodyGroin Back</Data>
+            <Data name="FOutfit_0Groin Back" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Groin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="BodyLabia Minora Flat" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLabia Minora Flat</Data>
+            <Data name="FOutfit_0Labia Minora Flat" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Labia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="BodyLabia Minora Longer" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLabia Minora Longer</Data>
+            <Data name="FOutfit_0Labia Minora Longer" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Labia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="BodyClitoras Size" target="Body" local="true">_Amputee Desdemona FG.osd\BodyClitoras Size</Data>
+            <Data name="FOutfit_0Clitoras Size" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Clitoras Size</Data>
         </Slider>
         <Slider name="Clitoras Long" invert="false" default="0">
             <Data name="BodyClitoras Long" target="Body" local="true">_Amputee Desdemona FG.osd\BodyClitoras Long</Data>
         </Slider>
         <Slider name="Labia Majora Long" invert="false" default="0">
             <Data name="BodyLabia Majora Long" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLabia Majora Long</Data>
-            <Data name="Pubic Hair 1Labia Majora Long" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Labia Majora Long</Data>
+            <Data name="FOutfit_0Labia Majora Long" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Labia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="BodyLabia Majora Wide" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLabia Majora Wide</Data>
+            <Data name="FOutfit_0Labia Majora Wide" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Labia Majora Wide</Data>
         </Slider>
         <Slider name="Labia Majora Inner" invert="false" default="0">
             <Data name="BodyLabia Majora Inner" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLabia Majora Inner</Data>
-            <Data name="PiercingLabia Majora Inner" target="Piercing" local="true">_Amputee Desdemona FG.osd\PiercingLabia Majora Inner</Data>
-            <Data name="Pubic Hair 1Labia Majora Inner" target="Pubic Hair 1" local="true">_Amputee Desdemona FG.osd\Pubic Hair 1Labia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="BodyAbDefinition" target="Body" local="true">_Amputee Desdemona FG.osd\BodyAbDefinition</Data>
+            <Data name="FOutfit_0AbDefinition" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBody Toning" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBody Toning</Data>
+            <Data name="BodyBody Toning" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBody Toning</Data>
+            <Data name="FOutfit_0Body Toning" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapTigerSanBB" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapTigerSanBB</Data>
+            <Data name="BodyTigerSanBB" target="Body" local="true">_Amputee Desdemona FG.osd\BodyTigerSanBB</Data>
+            <Data name="FOutfit_0TigerSanBB" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="BodyXunAbs" target="Body" local="true">_Amputee Desdemona FG.osd\BodyXunAbs</Data>
+            <Data name="FOutfit_0XunAbs" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="BodyFFB Fitness 2" target="Body" local="true">_Amputee Desdemona FG.osd\BodyFFB Fitness 2</Data>
+            <Data name="FOutfit_0FFB Fitness 2" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapAthletic" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapAthletic</Data>
+            <Data name="BodyAthletic" target="Body" local="true">_Amputee Desdemona FG.osd\BodyAthletic</Data>
+            <Data name="FOutfit_0Athletic" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapSeveNBase Bombshell" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapSeveNBase Bombshell</Data>
+            <Data name="BodySeveNBase Bombshell" target="Body" local="true">_Amputee Desdemona FG.osd\BodySeveNBase Bombshell</Data>
+            <Data name="FOutfit_0SeveNBase Bombshell" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="BodyKnee Height" target="Body" local="true">_Amputee Desdemona FG.osd\BodyKnee Height</Data>
+            <Data name="FOutfit_0Knee Height" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Knee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapShoulder Width" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapShoulder Width</Data>
+            <Data name="BodyShoulder Width" target="Body" local="true">_Amputee Desdemona FG.osd\BodyShoulder Width</Data>
+            <Data name="FOutfit_0Shoulder Width" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Shoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="BodyHighHeels" target="Body" local="true">_Amputee Desdemona FG.osd\BodyHighHeels</Data>
+            <Data name="FOutfit_0HighHeels" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0HighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBodyFat" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBodyFat</Data>
+            <Data name="BodyBodyFat" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBodyFat</Data>
+            <Data name="FOutfit_0BodyFat" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="BodyLegThin" target="Body" local="true">_Amputee Desdemona FG.osd\BodyLegThin</Data>
+            <Data name="FOutfit_0LegThin" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="BodyHipsNarrow" target="Body" local="true">_Amputee Desdemona FG.osd\BodyHipsNarrow</Data>
+            <Data name="FOutfit_0HipsNarrow" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="BodyButtGravity" target="Body" local="true">_Amputee Desdemona FG.osd\BodyButtGravity</Data>
+            <Data name="FOutfit_0ButtGravity" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="BodyButtThin" target="Body" local="true">_Amputee Desdemona FG.osd\BodyButtThin</Data>
+            <Data name="FOutfit_0ButtThin" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="BodyHipsForward" target="Body" local="true">_Amputee Desdemona FG.osd\BodyHipsForward</Data>
+            <Data name="FOutfit_0HipsForward" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="BodyHipRotateForward" target="Body" local="true">_Amputee Desdemona FG.osd\BodyHipRotateForward</Data>
+            <Data name="FOutfit_0HipRotateForward" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBreastArmpitin" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBreastArmpitin</Data>
+            <Data name="BodyBreastArmpitin" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBreastArmpitin</Data>
+            <Data name="FOutfit_0BreastArmpitin" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBreastArmpitWide" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona FG.osd\Charred_Arm_ArmwrapBreastArmpitWide</Data>
+            <Data name="BodyBreastArmpitWide" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBreastArmpitWide</Data>
+            <Data name="FOutfit_0BreastArmpitWide" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="BodyBreastCurve" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBreastCurve</Data>
+            <Data name="FOutfit_0BreastCurve" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="BodyBreastHeight2" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBreastHeight2</Data>
+            <Data name="FOutfit_0BreastHeight2" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="BodyBreastConcave" target="Body" local="true">_Amputee Desdemona FG.osd\BodyBreastConcave</Data>
+            <Data name="FOutfit_0BreastConcave" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0BreastConcave</Data>
+        </Slider>
+        <Slider name="Right Arm" invert="false" default="0" zap="true">
+            <Data name="FOutfit_0Right Arm" target="FOutfit_0" local="true">_Amputee Desdemona FG.osd\FOutfit_0Right Arm</Data>
         </Slider>
     </SliderSet>
 </SliderSetInfo>
