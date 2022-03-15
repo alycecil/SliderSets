@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw utility Belt Harness for pants Bags V2 FG">
+        <DataFolder>Vtaw utility Belt Harness for pants Bags V2 FG</DataFolder>
+        <SourceFile>Vtaw utility Belt Harness for pants Bags V2 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\utility1</OutputPath>
+        <OutputFile GenWeights="false">Belt3V2</OutputFile>
+        <Shape target="bag.009_ZBrush_defualt_group.011">bag.009_ZBrush_defualt_group.011</Shape>
+        <Shape target="bag.034_ZBrush_defualt_group.039">bag.034_ZBrush_defualt_group.039</Shape>
+        <Shape target="bag7">bag7</Shape>
+        <Shape target="belt">belt</Shape>
+        <Shape target="belt3">belt3</Shape>
+        <Shape target="belt4">belt4</Shape>
+        <Shape target="belt5">belt5</Shape>
+        <Shape target="belt8">belt8</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="beltBelly Pregnant" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBelly Pregnant</Data>
+            <Data name="belt4Belly Pregnant" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Belly Pregnant</Data>
+            <Data name="belt5Belly Pregnant" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Belly Pregnant</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Belly Pregnant" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Belly Pregnant</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Belly Pregnant" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="beltBelly Big" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBelly Big</Data>
+            <Data name="belt4Belly Big" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Belly Big</Data>
+            <Data name="belt5Belly Big" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Belly Big</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Belly Big" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Belly Big</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Belly Big" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="belt4Belly Size" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Belly Size</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Belly Size" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Belly Size</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Belly Size" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Belly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="belt4Belly Tuck" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Belly Tuck</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Belly Tuck" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Belly Tuck</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Belly Tuck" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Belly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="beltBoobs Yuge" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBoobs Yuge</Data>
+            <Data name="belt3Boobs Yuge" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Boobs Yuge</Data>
+            <Data name="belt4Boobs Yuge" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Boobs Yuge</Data>
+            <Data name="belt5Boobs Yuge" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Boobs Yuge</Data>
+            <Data name="belt8Boobs Yuge" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Boobs Yuge</Data>
+            <Data name="bag7Boobs Yuge" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Boobs Yuge</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Yuge" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Boobs Yuge</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Yuge" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="beltBoobs Big" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBoobs Big</Data>
+            <Data name="belt3Boobs Big" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Boobs Big</Data>
+            <Data name="belt4Boobs Big" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Boobs Big</Data>
+            <Data name="belt5Boobs Big" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Boobs Big</Data>
+            <Data name="belt8Boobs Big" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Boobs Big</Data>
+            <Data name="bag7Boobs Big" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Boobs Big</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Big" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Boobs Big</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Big" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="beltBoobs Gravity" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBoobs Gravity</Data>
+            <Data name="belt3Boobs Gravity" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Boobs Gravity</Data>
+            <Data name="belt4Boobs Gravity" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Boobs Gravity</Data>
+            <Data name="belt5Boobs Gravity" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Boobs Gravity</Data>
+            <Data name="belt8Boobs Gravity" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Boobs Gravity</Data>
+            <Data name="bag7Boobs Gravity" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Boobs Gravity</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Gravity" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Boobs Gravity</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Gravity" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="beltBoobs Mellons" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBoobs Mellons</Data>
+            <Data name="belt3Boobs Mellons" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Boobs Mellons</Data>
+            <Data name="belt4Boobs Mellons" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Boobs Mellons</Data>
+            <Data name="belt5Boobs Mellons" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Boobs Mellons</Data>
+            <Data name="belt8Boobs Mellons" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Boobs Mellons</Data>
+            <Data name="bag7Boobs Mellons" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Boobs Mellons</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Mellons" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Boobs Mellons</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Mellons" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="beltBoobs Perky" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBoobs Perky</Data>
+            <Data name="belt3Boobs Perky" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Boobs Perky</Data>
+            <Data name="belt4Boobs Perky" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Boobs Perky</Data>
+            <Data name="belt5Boobs Perky" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Boobs Perky</Data>
+            <Data name="belt8Boobs Perky" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Boobs Perky</Data>
+            <Data name="bag7Boobs Perky" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Boobs Perky</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Perky" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Boobs Perky</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Perky" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="beltBoobs Push Up" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBoobs Push Up</Data>
+            <Data name="belt3Boobs Push Up" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Boobs Push Up</Data>
+            <Data name="belt4Boobs Push Up" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Boobs Push Up</Data>
+            <Data name="belt5Boobs Push Up" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Boobs Push Up</Data>
+            <Data name="belt8Boobs Push Up" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Boobs Push Up</Data>
+            <Data name="bag7Boobs Push Up" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Boobs Push Up</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Push Up" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Boobs Push Up</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Push Up" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="beltBoobs Top Slope" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBoobs Top Slope</Data>
+            <Data name="belt3Boobs Top Slope" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Boobs Top Slope</Data>
+            <Data name="belt4Boobs Top Slope" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Boobs Top Slope</Data>
+            <Data name="belt5Boobs Top Slope" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Boobs Top Slope</Data>
+            <Data name="belt8Boobs Top Slope" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Boobs Top Slope</Data>
+            <Data name="bag7Boobs Top Slope" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Boobs Top Slope</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Top Slope" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Boobs Top Slope</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Top Slope" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="beltBoobs Tiny" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBoobs Tiny</Data>
+            <Data name="belt3Boobs Tiny" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Boobs Tiny</Data>
+            <Data name="belt4Boobs Tiny" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Boobs Tiny</Data>
+            <Data name="belt5Boobs Tiny" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Boobs Tiny</Data>
+            <Data name="belt8Boobs Tiny" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Boobs Tiny</Data>
+            <Data name="bag7Boobs Tiny" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Boobs Tiny</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Tiny" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Boobs Tiny</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Tiny" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="beltChest Width" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltChest Width</Data>
+            <Data name="belt4Chest Width" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Chest Width</Data>
+            <Data name="belt5Chest Width" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Chest Width</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Chest Width" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Chest Width</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Chest Width" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="beltWaist Chubby" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltWaist Chubby</Data>
+            <Data name="belt4Waist Chubby" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Waist Chubby</Data>
+            <Data name="belt5Waist Chubby" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Waist Chubby</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Waist Chubby" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Waist Chubby</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Waist Chubby" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="beltWaist Size" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltWaist Size</Data>
+            <Data name="belt4Waist Size" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Waist Size</Data>
+            <Data name="belt5Waist Size" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Waist Size</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Waist Size" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Waist Size</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Waist Size" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="beltWaist Height" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltWaist Height</Data>
+            <Data name="belt4Waist Height" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Waist Height</Data>
+            <Data name="belt5Waist Height" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Waist Height</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Waist Height" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Waist Height</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Waist Height" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="beltWaist Line" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltWaist Line</Data>
+            <Data name="belt4Waist Line" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Waist Line</Data>
+            <Data name="belt5Waist Line" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Waist Line</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Waist Line" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Waist Line</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Waist Line" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="beltBack Size" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBack Size</Data>
+            <Data name="belt4Back Size" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Back Size</Data>
+            <Data name="belt5Back Size" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Back Size</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Back Size" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Back Size</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Back Size" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="belt4Back Arch" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Back Arch</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Back Arch" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="beltHips Bone" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltHips Bone</Data>
+            <Data name="belt4Hips Bone" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Hips Bone</Data>
+            <Data name="belt5Hips Bone" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Hips Bone</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Hips Bone" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Hips Bone</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Hips Bone" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Hips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="beltHips Size" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltHips Size</Data>
+            <Data name="belt3Hips Size" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Hips Size</Data>
+            <Data name="belt4Hips Size" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Hips Size</Data>
+            <Data name="belt5Hips Size" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Hips Size</Data>
+            <Data name="belt8Hips Size" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Hips Size</Data>
+            <Data name="bag7Hips Size" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Hips Size</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Hips Size" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Hips Size</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Hips Size" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Hips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="beltHips Upper Width" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltHips Upper Width</Data>
+            <Data name="belt4Hips Upper Width" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Hips Upper Width</Data>
+            <Data name="belt5Hips Upper Width" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Hips Upper Width</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Hips Upper Width" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Hips Upper Width</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Hips Upper Width" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="beltBum Size" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBum Size</Data>
+            <Data name="belt3Bum Size" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Bum Size</Data>
+            <Data name="belt4Bum Size" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Bum Size</Data>
+            <Data name="belt5Bum Size" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Bum Size</Data>
+            <Data name="belt8Bum Size" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Bum Size</Data>
+            <Data name="bag7Bum Size" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Bum Size</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Size" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Bum Size</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Bum Size" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="beltBum Crack" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBum Crack</Data>
+            <Data name="belt4Bum Crack" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Bum Crack</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Crack" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="beltBum Shape 1" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBum Shape 1</Data>
+            <Data name="belt3Bum Shape 1" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Bum Shape 1</Data>
+            <Data name="belt4Bum Shape 1" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Bum Shape 1</Data>
+            <Data name="belt5Bum Shape 1" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Bum Shape 1</Data>
+            <Data name="belt8Bum Shape 1" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Bum Shape 1</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Shape 1" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Bum Shape 1</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Bum Shape 1" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="beltBum Shape 2" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBum Shape 2</Data>
+            <Data name="belt3Bum Shape 2" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Bum Shape 2</Data>
+            <Data name="belt4Bum Shape 2" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Bum Shape 2</Data>
+            <Data name="belt5Bum Shape 2" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Bum Shape 2</Data>
+            <Data name="belt8Bum Shape 2" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Bum Shape 2</Data>
+            <Data name="bag7Bum Shape 2" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Bum Shape 2</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Shape 2" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Bum Shape 2</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Bum Shape 2" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="beltBum Small" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBum Small</Data>
+            <Data name="belt3Bum Small" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Bum Small</Data>
+            <Data name="belt4Bum Small" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Bum Small</Data>
+            <Data name="belt5Bum Small" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Bum Small</Data>
+            <Data name="belt8Bum Small" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Bum Small</Data>
+            <Data name="bag7Bum Small" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Bum Small</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Small" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Bum Small</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Bum Small" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="beltBum Chubby" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBum Chubby</Data>
+            <Data name="belt3Bum Chubby" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Bum Chubby</Data>
+            <Data name="belt4Bum Chubby" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Bum Chubby</Data>
+            <Data name="belt5Bum Chubby" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Bum Chubby</Data>
+            <Data name="belt8Bum Chubby" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Bum Chubby</Data>
+            <Data name="bag7Bum Chubby" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Bum Chubby</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Chubby" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Bum Chubby</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Bum Chubby" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="beltBum Round" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBum Round</Data>
+            <Data name="belt4Bum Round" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Bum Round</Data>
+            <Data name="belt5Bum Round" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Bum Round</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Round" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="beltBum Apple" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBum Apple</Data>
+            <Data name="belt4Bum Apple" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Bum Apple</Data>
+            <Data name="belt5Bum Apple" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Bum Apple</Data>
+            <Data name="bag7Bum Apple" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Bum Apple</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Apple" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Bum Apple</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Bum Apple" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Bum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="beltLegs Chubby" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltLegs Chubby</Data>
+            <Data name="belt3Legs Chubby" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Legs Chubby</Data>
+            <Data name="belt4Legs Chubby" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Legs Chubby</Data>
+            <Data name="belt5Legs Chubby" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Legs Chubby</Data>
+            <Data name="belt8Legs Chubby" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Legs Chubby</Data>
+            <Data name="bag7Legs Chubby" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Legs Chubby</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Legs Chubby" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Legs Chubby</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Legs Chubby" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="beltLegs Shape" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltLegs Shape</Data>
+            <Data name="belt3Legs Shape" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Legs Shape</Data>
+            <Data name="belt4Legs Shape" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Legs Shape</Data>
+            <Data name="belt5Legs Shape" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Legs Shape</Data>
+            <Data name="belt8Legs Shape" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Legs Shape</Data>
+            <Data name="bag7Legs Shape" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Legs Shape</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Legs Shape" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Legs Shape</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Legs Shape" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="beltLegs Thin" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltLegs Thin</Data>
+            <Data name="belt3Legs Thin" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Legs Thin</Data>
+            <Data name="belt5Legs Thin" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Legs Thin</Data>
+            <Data name="belt8Legs Thin" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Legs Thin</Data>
+            <Data name="bag7Legs Thin" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Legs Thin</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Legs Thin" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Legs Thin</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Legs Thin" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="beltThighs Slim" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltThighs Slim</Data>
+            <Data name="belt3Thighs Slim" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Thighs Slim</Data>
+            <Data name="belt4Thighs Slim" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Thighs Slim</Data>
+            <Data name="belt5Thighs Slim" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Thighs Slim</Data>
+            <Data name="belt8Thighs Slim" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Thighs Slim</Data>
+            <Data name="bag7Thighs Slim" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Thighs Slim</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Thighs Slim" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Thighs Slim</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Thighs Slim" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="beltThighs Size" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltThighs Size</Data>
+            <Data name="belt3Thighs Size" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Thighs Size</Data>
+            <Data name="belt4Thighs Size" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Thighs Size</Data>
+            <Data name="belt5Thighs Size" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Thighs Size</Data>
+            <Data name="belt8Thighs Size" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Thighs Size</Data>
+            <Data name="bag7Thighs Size" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Thighs Size</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Thighs Size" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Thighs Size</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Thighs Size" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Thighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="beltTorso Size" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltTorso Size</Data>
+            <Data name="belt4Torso Size" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Torso Size</Data>
+            <Data name="belt5Torso Size" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Torso Size</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Torso Size" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Torso Size</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Torso Size" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="beltSturnum Depth" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltSturnum Depth</Data>
+            <Data name="belt3Sturnum Depth" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Sturnum Depth</Data>
+            <Data name="belt4Sturnum Depth" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Sturnum Depth</Data>
+            <Data name="belt5Sturnum Depth" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Sturnum Depth</Data>
+            <Data name="belt8Sturnum Depth" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Sturnum Depth</Data>
+            <Data name="bag7Sturnum Depth" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Sturnum Depth</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Sturnum Depth" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Sturnum Depth</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Sturnum Depth" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="beltSturnum Height" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltSturnum Height</Data>
+            <Data name="belt3Sturnum Height" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Sturnum Height</Data>
+            <Data name="belt4Sturnum Height" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Sturnum Height</Data>
+            <Data name="belt5Sturnum Height" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Sturnum Height</Data>
+            <Data name="belt8Sturnum Height" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Sturnum Height</Data>
+            <Data name="bag7Sturnum Height" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Sturnum Height</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Sturnum Height" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Sturnum Height</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Sturnum Height" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="beltGroin Position" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltGroin Position</Data>
+            <Data name="belt3Groin Position" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Groin Position</Data>
+            <Data name="belt4Groin Position" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Groin Position</Data>
+            <Data name="belt5Groin Position" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Groin Position</Data>
+            <Data name="belt8Groin Position" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Groin Position</Data>
+            <Data name="bag7Groin Position" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Groin Position</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Groin Position" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Groin Position</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Groin Position" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="beltGroin Back" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltGroin Back</Data>
+            <Data name="belt3Groin Back" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Groin Back</Data>
+            <Data name="belt4Groin Back" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Groin Back</Data>
+            <Data name="belt5Groin Back" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Groin Back</Data>
+            <Data name="belt8Groin Back" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Groin Back</Data>
+            <Data name="bag7Groin Back" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Groin Back</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Groin Back" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Groin Back</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Groin Back" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="beltAbDefinition" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltAbDefinition</Data>
+            <Data name="belt4AbDefinition" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4AbDefinition</Data>
+            <Data name="belt5AbDefinition" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5AbDefinition</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011AbDefinition" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011AbDefinition</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039AbDefinition" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="beltBody Toning" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBody Toning</Data>
+            <Data name="belt3Body Toning" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Body Toning</Data>
+            <Data name="belt4Body Toning" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Body Toning</Data>
+            <Data name="belt5Body Toning" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Body Toning</Data>
+            <Data name="belt8Body Toning" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Body Toning</Data>
+            <Data name="bag7Body Toning" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Body Toning</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Body Toning" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Body Toning</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Body Toning" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="beltTigerSanBB" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltTigerSanBB</Data>
+            <Data name="belt3TigerSanBB" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3TigerSanBB</Data>
+            <Data name="belt4TigerSanBB" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4TigerSanBB</Data>
+            <Data name="belt5TigerSanBB" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5TigerSanBB</Data>
+            <Data name="belt8TigerSanBB" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8TigerSanBB</Data>
+            <Data name="bag7TigerSanBB" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7TigerSanBB</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011TigerSanBB" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011TigerSanBB</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039TigerSanBB" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="belt4XunAbs" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4XunAbs</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011XunAbs" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011XunAbs</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039XunAbs" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="beltFFB Fitness 2" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltFFB Fitness 2</Data>
+            <Data name="belt4FFB Fitness 2" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4FFB Fitness 2</Data>
+            <Data name="belt5FFB Fitness 2" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5FFB Fitness 2</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011FFB Fitness 2" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011FFB Fitness 2</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039FFB Fitness 2" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="beltAthletic" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltAthletic</Data>
+            <Data name="belt3Athletic" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Athletic</Data>
+            <Data name="belt4Athletic" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Athletic</Data>
+            <Data name="belt5Athletic" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Athletic</Data>
+            <Data name="belt8Athletic" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Athletic</Data>
+            <Data name="bag7Athletic" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Athletic</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Athletic" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Athletic</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Athletic" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="beltSeveNBase Bombshell" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltSeveNBase Bombshell</Data>
+            <Data name="belt3SeveNBase Bombshell" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3SeveNBase Bombshell</Data>
+            <Data name="belt4SeveNBase Bombshell" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4SeveNBase Bombshell</Data>
+            <Data name="belt5SeveNBase Bombshell" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5SeveNBase Bombshell</Data>
+            <Data name="belt8SeveNBase Bombshell" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8SeveNBase Bombshell</Data>
+            <Data name="bag7SeveNBase Bombshell" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7SeveNBase Bombshell</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011SeveNBase Bombshell" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011SeveNBase Bombshell</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039SeveNBase Bombshell" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="beltKnee Height" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltKnee Height</Data>
+            <Data name="belt3Knee Height" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3Knee Height</Data>
+            <Data name="belt5Knee Height" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Knee Height</Data>
+            <Data name="belt8Knee Height" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8Knee Height</Data>
+            <Data name="bag7Knee Height" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7Knee Height</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Knee Height" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039Knee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="beltShoulder Width" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltShoulder Width</Data>
+            <Data name="belt4Shoulder Width" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4Shoulder Width</Data>
+            <Data name="belt5Shoulder Width" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5Shoulder Width</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Shoulder Width" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011Shoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="beltBodyFat" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltBodyFat</Data>
+            <Data name="belt3BodyFat" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3BodyFat</Data>
+            <Data name="belt4BodyFat" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4BodyFat</Data>
+            <Data name="belt5BodyFat" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5BodyFat</Data>
+            <Data name="belt8BodyFat" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8BodyFat</Data>
+            <Data name="bag7BodyFat" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7BodyFat</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011BodyFat" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011BodyFat</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039BodyFat" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="beltLegThin" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltLegThin</Data>
+            <Data name="belt3LegThin" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3LegThin</Data>
+            <Data name="belt4LegThin" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4LegThin</Data>
+            <Data name="belt5LegThin" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5LegThin</Data>
+            <Data name="belt8LegThin" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8LegThin</Data>
+            <Data name="bag7LegThin" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7LegThin</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011LegThin" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011LegThin</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039LegThin" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="beltHipsNarrow" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltHipsNarrow</Data>
+            <Data name="belt3HipsNarrow" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3HipsNarrow</Data>
+            <Data name="belt4HipsNarrow" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4HipsNarrow</Data>
+            <Data name="belt5HipsNarrow" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5HipsNarrow</Data>
+            <Data name="belt8HipsNarrow" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8HipsNarrow</Data>
+            <Data name="bag7HipsNarrow" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7HipsNarrow</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011HipsNarrow" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011HipsNarrow</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039HipsNarrow" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="belt3ButtGravity" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3ButtGravity</Data>
+            <Data name="belt8ButtGravity" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8ButtGravity</Data>
+            <Data name="bag7ButtGravity" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7ButtGravity</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011ButtGravity" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011ButtGravity</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039ButtGravity" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="beltButtThin" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltButtThin</Data>
+            <Data name="belt3ButtThin" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3ButtThin</Data>
+            <Data name="belt4ButtThin" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4ButtThin</Data>
+            <Data name="belt5ButtThin" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5ButtThin</Data>
+            <Data name="belt8ButtThin" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8ButtThin</Data>
+            <Data name="bag7ButtThin" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7ButtThin</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011ButtThin" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011ButtThin</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039ButtThin" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="beltHipsForward" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltHipsForward</Data>
+            <Data name="belt3HipsForward" target="belt3" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt3HipsForward</Data>
+            <Data name="belt4HipsForward" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4HipsForward</Data>
+            <Data name="belt5HipsForward" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5HipsForward</Data>
+            <Data name="belt8HipsForward" target="belt8" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt8HipsForward</Data>
+            <Data name="bag7HipsForward" target="bag7" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag7HipsForward</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011HipsForward" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011HipsForward</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039HipsForward" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="beltHipRotateForward" target="belt" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\beltHipRotateForward</Data>
+            <Data name="belt4HipRotateForward" target="belt4" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt4HipRotateForward</Data>
+            <Data name="belt5HipRotateForward" target="belt5" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\belt5HipRotateForward</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011HipRotateForward" target="bag.009_ZBrush_defualt_group.011" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.009_ZBrush_defualt_group.011HipRotateForward</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039HipRotateForward" target="bag.034_ZBrush_defualt_group.039" local="true">Vtaw utility Belt Harness for pants Bags V2 FG.osd\bag.034_ZBrush_defualt_group.039HipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

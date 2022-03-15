@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="TheKite_HM_oc01_Sleeves_1st">
+        <DataFolder>TheKite_HM_oc01_Sleeves_1st</DataFolder>
+        <SourceFile>TheKite_HM_oc01_Sleeves_1st.nif</SourceFile>
+        <OutputPath>meshes\cross\handmaiden</OutputPath>
+        <OutputFile GenWeights="false">TheKite_HM_oc01_Sleeves_1st</OutputFile>
+        <Shape target="cross_kite_hm_oc_sleeves_low_1st">cross_kite_hm_oc_sleeves_low_1st</Shape>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_sleeves_low_1stChubbyArms" target="cross_kite_hm_oc_sleeves_low_1st" local="true">TheKite_HM_oc01_Sleeves_1st.osd\cross_kite_hm_oc_sleeves_low_1stChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_sleeves_low_1stShoulderWidth" target="cross_kite_hm_oc_sleeves_low_1st" local="true">TheKite_HM_oc01_Sleeves_1st.osd\cross_kite_hm_oc_sleeves_low_1stShoulderWidth</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_sleeves_low_1stVanillaFo4" target="cross_kite_hm_oc_sleeves_low_1st" local="true">TheKite_HM_oc01_Sleeves_1st.osd\cross_kite_hm_oc_sleeves_low_1stVanillaFo4</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_sleeves_low_1stArms" target="cross_kite_hm_oc_sleeves_low_1st" local="true">TheKite_HM_oc01_Sleeves_1st.osd\cross_kite_hm_oc_sleeves_low_1stArms</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_sleeves_low_1stBigTorso" target="cross_kite_hm_oc_sleeves_low_1st" local="true">TheKite_HM_oc01_Sleeves_1st.osd\cross_kite_hm_oc_sleeves_low_1stBigTorso</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_sleeves_low_1stForearmSize" target="cross_kite_hm_oc_sleeves_low_1st" local="true">TheKite_HM_oc01_Sleeves_1st.osd\cross_kite_hm_oc_sleeves_low_1stForearmSize</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_sleeves_low_1st7B Upper" target="cross_kite_hm_oc_sleeves_low_1st" local="true">TheKite_HM_oc01_Sleeves_1st.osd\cross_kite_hm_oc_sleeves_low_1st7B Upper</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_sleeves_low_1stMuscularArms" target="cross_kite_hm_oc_sleeves_low_1st" local="true">TheKite_HM_oc01_Sleeves_1st.osd\cross_kite_hm_oc_sleeves_low_1stMuscularArms</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

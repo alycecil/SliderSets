@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Shoulders FG">
+        <DataFolder>Vtaw Wardrobe 6 Shoulders FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Shoulders FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Shoulders</OutputPath>
+        <OutputFile GenWeights="false">Shoulders</OutputFile>
+        <Shape target="Shoulders">Shoulders</Shape>
+        <Shape target="metal">metal</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="ShouldersBoobs Yuge" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="ShouldersBoobs Big" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="ShouldersBoobs Gravity" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="ShouldersBoobs Height" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="ShouldersBoobs Mellons" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBoobs Mellons</Data>
+            <Data name="metalBoobs Mellons" target="metal" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\metalBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="ShouldersBoobs Perky" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="ShouldersBoobs Push Up" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="ShouldersBoobs Top Slope" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="ShouldersBoobs Tiny" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="ShouldersChest Depth" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="ShouldersChest Width" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersChest Width</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="ShouldersBack Size" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBack Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="ShouldersArms Chubby" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersArms Chubby</Data>
+            <Data name="metalArms Chubby" target="metal" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\metalArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="ShouldersShoulder Smooth" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersShoulder Smooth</Data>
+            <Data name="metalShoulder Smooth" target="metal" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\metalShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="ShouldersShoulder Tweak" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersShoulder Tweak</Data>
+            <Data name="metalShoulder Tweak" target="metal" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\metalShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="ShouldersArms Size" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersArms Size</Data>
+            <Data name="metalArms Size" target="metal" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\metalArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="ShouldersArmpit Ajustment" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersArmpit Ajustment</Data>
+            <Data name="metalArmpit Ajustment" target="metal" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\metalArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="ShouldersForearms Size" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="ShouldersTorso Size" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersTorso Size</Data>
+            <Data name="metalTorso Size" target="metal" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\metalTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="ShouldersSturnum Depth" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="ShouldersSturnum Height" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="ShouldersGroin Position" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="ShouldersGroin Back" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="ShouldersBody Toning" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBody Toning</Data>
+            <Data name="metalBody Toning" target="metal" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\metalBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="ShouldersTigerSanBB" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersTigerSanBB</Data>
+            <Data name="metalTigerSanBB" target="metal" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\metalTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="ShouldersAthletic" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersAthletic</Data>
+            <Data name="metalAthletic" target="metal" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\metalAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="ShouldersSeveNBase Bombshell" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersSeveNBase Bombshell</Data>
+            <Data name="metalSeveNBase Bombshell" target="metal" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\metalSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="ShouldersShoulder Width" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="ShouldersBodyFat" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBodyFat</Data>
+            <Data name="metalBodyFat" target="metal" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\metalBodyFat</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="ShouldersBreastArmpitin" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="ShouldersBreastArmpitWide" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="ShouldersBreastHeight2" target="Shoulders" local="true">Vtaw Wardrobe 6 Shoulders FG.osd\ShouldersBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

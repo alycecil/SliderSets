@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Belly Chains 3 V2 FG">
+        <DataFolder>Vtaw Wardrobe 6 Belly Chains 3 V2 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Belly Chains 3 V2 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Accessories</OutputPath>
+        <OutputFile GenWeights="false">BellyChains3V2</OutputFile>
+        <Shape target="chain">chain</Shape>
+        <Shape target="gems">gems</Shape>
+        <Shape target="gold">gold</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="chainBelly Pregnant" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBelly Pregnant</Data>
+            <Data name="goldBelly Pregnant" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBelly Pregnant</Data>
+            <Data name="gemsBelly Pregnant" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="chainBelly Big" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBelly Big</Data>
+            <Data name="goldBelly Big" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBelly Big</Data>
+            <Data name="gemsBelly Big" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="chainBelly Size" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBelly Size</Data>
+            <Data name="goldBelly Size" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBelly Size</Data>
+            <Data name="gemsBelly Size" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="chainBelly Tuck" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBelly Tuck</Data>
+            <Data name="goldBelly Tuck" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBelly Tuck</Data>
+            <Data name="gemsBelly Tuck" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="chainBoobs Yuge" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBoobs Yuge</Data>
+            <Data name="goldBoobs Yuge" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBoobs Yuge</Data>
+            <Data name="gemsBoobs Yuge" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="chainBoobs Big" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBoobs Big</Data>
+            <Data name="goldBoobs Big" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBoobs Big</Data>
+            <Data name="gemsBoobs Big" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="chainBoobs Gravity" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBoobs Gravity</Data>
+            <Data name="goldBoobs Gravity" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBoobs Gravity</Data>
+            <Data name="gemsBoobs Gravity" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="chainBoobs Mellons" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBoobs Mellons</Data>
+            <Data name="goldBoobs Mellons" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBoobs Mellons</Data>
+            <Data name="gemsBoobs Mellons" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="chainBoobs Perky" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBoobs Perky</Data>
+            <Data name="goldBoobs Perky" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBoobs Perky</Data>
+            <Data name="gemsBoobs Perky" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="chainBoobs Push Up" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBoobs Push Up</Data>
+            <Data name="goldBoobs Push Up" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBoobs Push Up</Data>
+            <Data name="gemsBoobs Push Up" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="chainBoobs Top Slope" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBoobs Top Slope</Data>
+            <Data name="goldBoobs Top Slope" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBoobs Top Slope</Data>
+            <Data name="gemsBoobs Top Slope" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="chainBoobs Tiny" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBoobs Tiny</Data>
+            <Data name="goldBoobs Tiny" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBoobs Tiny</Data>
+            <Data name="gemsBoobs Tiny" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="chainChest Width" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="chainWaist Chubby" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainWaist Chubby</Data>
+            <Data name="goldWaist Chubby" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldWaist Chubby</Data>
+            <Data name="gemsWaist Chubby" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="chainWaist Size" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainWaist Size</Data>
+            <Data name="goldWaist Size" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldWaist Size</Data>
+            <Data name="gemsWaist Size" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="chainWaist Height" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainWaist Height</Data>
+            <Data name="goldWaist Height" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldWaist Height</Data>
+            <Data name="gemsWaist Height" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="chainWaist Line" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="chainBack Size" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBack Size</Data>
+            <Data name="goldBack Size" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBack Size</Data>
+            <Data name="gemsBack Size" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="chainBack Arch" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="chainHips Bone" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainHips Bone</Data>
+            <Data name="goldHips Bone" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldHips Bone</Data>
+            <Data name="gemsHips Bone" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="chainHips Size" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainHips Size</Data>
+            <Data name="goldHips Size" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldHips Size</Data>
+            <Data name="gemsHips Size" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="chainHips Upper Width" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="chainBum Size" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="chainBum Crack" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="chainBum Shape 1" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="chainBum Shape 2" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBum Shape 2</Data>
+            <Data name="goldBum Shape 2" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBum Shape 2</Data>
+            <Data name="gemsBum Shape 2" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="chainBum Small" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBum Small</Data>
+            <Data name="goldBum Small" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBum Small</Data>
+            <Data name="gemsBum Small" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="chainBum Chubby" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBum Chubby</Data>
+            <Data name="goldBum Chubby" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBum Chubby</Data>
+            <Data name="gemsBum Chubby" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="chainBum Round" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="chainBum Apple" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="chainLegs Chubby" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainLegs Chubby</Data>
+            <Data name="goldLegs Chubby" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldLegs Chubby</Data>
+            <Data name="gemsLegs Chubby" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="chainLegs Shape" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainLegs Shape</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="chainThighs Slim" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainThighs Slim</Data>
+            <Data name="goldThighs Slim" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldThighs Slim</Data>
+            <Data name="gemsThighs Slim" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="chainThighs Size" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainThighs Size</Data>
+            <Data name="goldThighs Size" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldThighs Size</Data>
+            <Data name="gemsThighs Size" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="chainTorso Size" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainTorso Size</Data>
+            <Data name="goldTorso Size" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldTorso Size</Data>
+            <Data name="gemsTorso Size" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="chainSturnum Depth" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainSturnum Depth</Data>
+            <Data name="goldSturnum Depth" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldSturnum Depth</Data>
+            <Data name="gemsSturnum Depth" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="chainSturnum Height" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainSturnum Height</Data>
+            <Data name="goldSturnum Height" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldSturnum Height</Data>
+            <Data name="gemsSturnum Height" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="chainGroin Position" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainGroin Position</Data>
+            <Data name="goldGroin Position" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldGroin Position</Data>
+            <Data name="gemsGroin Position" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="chainGroin Back" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainGroin Back</Data>
+            <Data name="goldGroin Back" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldGroin Back</Data>
+            <Data name="gemsGroin Back" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="chainAbDefinition" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainAbDefinition</Data>
+            <Data name="goldAbDefinition" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldAbDefinition</Data>
+            <Data name="gemsAbDefinition" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="chainBody Toning" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBody Toning</Data>
+            <Data name="goldBody Toning" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBody Toning</Data>
+            <Data name="gemsBody Toning" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="chainTigerSanBB" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainTigerSanBB</Data>
+            <Data name="goldTigerSanBB" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldTigerSanBB</Data>
+            <Data name="gemsTigerSanBB" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="chainXunAbs" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainXunAbs</Data>
+            <Data name="goldXunAbs" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldXunAbs</Data>
+            <Data name="gemsXunAbs" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="chainFFB Fitness 2" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainFFB Fitness 2</Data>
+            <Data name="goldFFB Fitness 2" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldFFB Fitness 2</Data>
+            <Data name="gemsFFB Fitness 2" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="chainAthletic" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainAthletic</Data>
+            <Data name="goldAthletic" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldAthletic</Data>
+            <Data name="gemsAthletic" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="chainSeveNBase Bombshell" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainSeveNBase Bombshell</Data>
+            <Data name="goldSeveNBase Bombshell" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldSeveNBase Bombshell</Data>
+            <Data name="gemsSeveNBase Bombshell" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="chainShoulder Width" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="chainBodyFat" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainBodyFat</Data>
+            <Data name="goldBodyFat" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldBodyFat</Data>
+            <Data name="gemsBodyFat" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="chainLegThin" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainLegThin</Data>
+            <Data name="goldLegThin" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldLegThin</Data>
+            <Data name="gemsLegThin" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="chainHipsNarrow" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="chainButtThin" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="chainHipsForward" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainHipsForward</Data>
+            <Data name="goldHipsForward" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldHipsForward</Data>
+            <Data name="gemsHipsForward" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="chainHipRotateForward" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\chainHipRotateForward</Data>
+            <Data name="goldHipRotateForward" target="gold" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\goldHipRotateForward</Data>
+            <Data name="gemsHipRotateForward" target="gems" local="true">Vtaw Wardrobe 6 Belly Chains 3 V2 FG.osd\gemsHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

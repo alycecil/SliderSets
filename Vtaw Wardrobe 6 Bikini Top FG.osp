@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Bikini Top FG">
+        <DataFolder>Vtaw Wardrobe 6 Bikini Top FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Bikini Top FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Bikini</OutputPath>
+        <OutputFile GenWeights="false">BiTop</OutputFile>
+        <Shape target="top2">top2</Shape>
+        <Shape target="topBack">topBack</Shape>
+        <Shape target="topMain">topMain</Shape>
+        <Shape target="topMid">topMid</Shape>
+        <Shape target="topSide">topSide</Shape>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="topSideBelly Big" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="topSideBelly Size" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="topBackBoobs Yuge" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackBoobs Yuge</Data>
+            <Data name="top2Boobs Yuge" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Boobs Yuge</Data>
+            <Data name="topMainBoobs Yuge" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBoobs Yuge</Data>
+            <Data name="topSideBoobs Yuge" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBoobs Yuge</Data>
+            <Data name="topMidBoobs Yuge" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="topBackBoobs Big" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackBoobs Big</Data>
+            <Data name="top2Boobs Big" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Boobs Big</Data>
+            <Data name="topMainBoobs Big" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBoobs Big</Data>
+            <Data name="topSideBoobs Big" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBoobs Big</Data>
+            <Data name="topMidBoobs Big" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="top2Boobs Cleavage" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Boobs Cleavage</Data>
+            <Data name="topMainBoobs Cleavage" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBoobs Cleavage</Data>
+            <Data name="topSideBoobs Cleavage" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBoobs Cleavage</Data>
+            <Data name="topMidBoobs Cleavage" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="top2Boobs Flat" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Boobs Flat</Data>
+            <Data name="topMainBoobs Flat" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBoobs Flat</Data>
+            <Data name="topSideBoobs Flat" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBoobs Flat</Data>
+            <Data name="topMidBoobs Flat" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="topBackBoobs Gravity" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackBoobs Gravity</Data>
+            <Data name="top2Boobs Gravity" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Boobs Gravity</Data>
+            <Data name="topMainBoobs Gravity" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBoobs Gravity</Data>
+            <Data name="topSideBoobs Gravity" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBoobs Gravity</Data>
+            <Data name="topMidBoobs Gravity" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="top2Boobs Height" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Boobs Height</Data>
+            <Data name="topMainBoobs Height" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBoobs Height</Data>
+            <Data name="topSideBoobs Height" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBoobs Height</Data>
+            <Data name="topMidBoobs Height" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="topBackBoobs Mellons" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackBoobs Mellons</Data>
+            <Data name="top2Boobs Mellons" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Boobs Mellons</Data>
+            <Data name="topMainBoobs Mellons" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBoobs Mellons</Data>
+            <Data name="topSideBoobs Mellons" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBoobs Mellons</Data>
+            <Data name="topMidBoobs Mellons" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="topBackBoobs Perky" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackBoobs Perky</Data>
+            <Data name="top2Boobs Perky" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Boobs Perky</Data>
+            <Data name="topMainBoobs Perky" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBoobs Perky</Data>
+            <Data name="topSideBoobs Perky" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBoobs Perky</Data>
+            <Data name="topMidBoobs Perky" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="topBackBoobs Push Up" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackBoobs Push Up</Data>
+            <Data name="top2Boobs Push Up" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Boobs Push Up</Data>
+            <Data name="topMainBoobs Push Up" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBoobs Push Up</Data>
+            <Data name="topSideBoobs Push Up" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBoobs Push Up</Data>
+            <Data name="topMidBoobs Push Up" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="top2Boobs Small" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Boobs Small</Data>
+            <Data name="topMainBoobs Small" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBoobs Small</Data>
+            <Data name="topSideBoobs Small" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBoobs Small</Data>
+            <Data name="topMidBoobs Small" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="top2Boobs Together" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Boobs Together</Data>
+            <Data name="topMainBoobs Together" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBoobs Together</Data>
+            <Data name="topSideBoobs Together" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBoobs Together</Data>
+            <Data name="topMidBoobs Together" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="topBackBoobs Top Slope" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackBoobs Top Slope</Data>
+            <Data name="top2Boobs Top Slope" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Boobs Top Slope</Data>
+            <Data name="topMainBoobs Top Slope" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBoobs Top Slope</Data>
+            <Data name="topSideBoobs Top Slope" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBoobs Top Slope</Data>
+            <Data name="topMidBoobs Top Slope" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="top2Boobs Width" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Boobs Width</Data>
+            <Data name="topMainBoobs Width" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBoobs Width</Data>
+            <Data name="topSideBoobs Width" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBoobs Width</Data>
+            <Data name="topMidBoobs Width" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="topBackBoobs Tiny" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackBoobs Tiny</Data>
+            <Data name="top2Boobs Tiny" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Boobs Tiny</Data>
+            <Data name="topMainBoobs Tiny" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBoobs Tiny</Data>
+            <Data name="topSideBoobs Tiny" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBoobs Tiny</Data>
+            <Data name="topMidBoobs Tiny" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="top2Nipples Distance" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Nipples Distance</Data>
+            <Data name="topMainNipples Distance" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainNipples Distance</Data>
+            <Data name="topSideNipples Distance" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideNipples Distance</Data>
+            <Data name="topMidNipples Distance" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="top2Nipples Down" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Nipples Down</Data>
+            <Data name="topMainNipples Down" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainNipples Down</Data>
+            <Data name="topSideNipples Down" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideNipples Down</Data>
+            <Data name="topMidNipples Down" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="top2Nipples Perkiness" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Nipples Perkiness</Data>
+            <Data name="topMainNipples Perkiness" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainNipples Perkiness</Data>
+            <Data name="topSideNipples Perkiness" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideNipples Perkiness</Data>
+            <Data name="topMidNipples Perkiness" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="topMainNipples Puffy" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="top2Nipples Up" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Nipples Up</Data>
+            <Data name="topMainNipples Up" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainNipples Up</Data>
+            <Data name="topSideNipples Up" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideNipples Up</Data>
+            <Data name="topMidNipples Up" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="top2Chest Depth" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Chest Depth</Data>
+            <Data name="topMainChest Depth" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainChest Depth</Data>
+            <Data name="topSideChest Depth" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideChest Depth</Data>
+            <Data name="topMidChest Depth" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="topMainChest Width" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainChest Width</Data>
+            <Data name="topSideChest Width" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="topMainWaist Chubby" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainWaist Chubby</Data>
+            <Data name="topSideWaist Chubby" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="topMainWaist Size" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainWaist Size</Data>
+            <Data name="topSideWaist Size" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="topMainWaist Height" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainWaist Height</Data>
+            <Data name="topSideWaist Height" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideWaist Height</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="topBackBack Size" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackBack Size</Data>
+            <Data name="top2Back Size" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Back Size</Data>
+            <Data name="topSideBack Size" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="topSideBack Arch" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="topSideHips Upper Width" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="topSideBum Apple" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="topSideLegs Chubby" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideLegs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="topBackArms Chubby" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackArms Chubby</Data>
+            <Data name="top2Arms Chubby" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="topBackShoulder Smooth" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackShoulder Smooth</Data>
+            <Data name="top2Shoulder Smooth" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="topBackShoulder Tweak" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackShoulder Tweak</Data>
+            <Data name="top2Shoulder Tweak" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Shoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="topBackArms Size" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackArms Size</Data>
+            <Data name="top2Arms Size" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Arms Size</Data>
+            <Data name="topSideArms Size" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="topBackArmpit Ajustment" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackArmpit Ajustment</Data>
+            <Data name="top2Armpit Ajustment" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="topBackTorso Size" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackTorso Size</Data>
+            <Data name="top2Torso Size" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Torso Size</Data>
+            <Data name="topMainTorso Size" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainTorso Size</Data>
+            <Data name="topSideTorso Size" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideTorso Size</Data>
+            <Data name="topMidTorso Size" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="topBackSturnum Depth" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackSturnum Depth</Data>
+            <Data name="top2Sturnum Depth" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Sturnum Depth</Data>
+            <Data name="topMainSturnum Depth" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainSturnum Depth</Data>
+            <Data name="topSideSturnum Depth" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideSturnum Depth</Data>
+            <Data name="topMidSturnum Depth" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="topBackSturnum Height" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackSturnum Height</Data>
+            <Data name="top2Sturnum Height" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Sturnum Height</Data>
+            <Data name="topMainSturnum Height" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainSturnum Height</Data>
+            <Data name="topSideSturnum Height" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideSturnum Height</Data>
+            <Data name="topMidSturnum Height" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="topBackGroin Position" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackGroin Position</Data>
+            <Data name="top2Groin Position" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Groin Position</Data>
+            <Data name="topSideGroin Position" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="topBackGroin Back" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackGroin Back</Data>
+            <Data name="top2Groin Back" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Groin Back</Data>
+            <Data name="topSideGroin Back" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="topMainAbDefinition" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainAbDefinition</Data>
+            <Data name="topSideAbDefinition" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideAbDefinition</Data>
+            <Data name="topMidAbDefinition" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="topBackBody Toning" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackBody Toning</Data>
+            <Data name="top2Body Toning" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Body Toning</Data>
+            <Data name="topMainBody Toning" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBody Toning</Data>
+            <Data name="topSideBody Toning" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBody Toning</Data>
+            <Data name="topMidBody Toning" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="topBackTigerSanBB" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackTigerSanBB</Data>
+            <Data name="top2TigerSanBB" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2TigerSanBB</Data>
+            <Data name="topMainTigerSanBB" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainTigerSanBB</Data>
+            <Data name="topSideTigerSanBB" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideTigerSanBB</Data>
+            <Data name="topMidTigerSanBB" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="topMidXunAbs" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="topMainFFB Fitness 2" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainFFB Fitness 2</Data>
+            <Data name="topSideFFB Fitness 2" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideFFB Fitness 2</Data>
+            <Data name="topMidFFB Fitness 2" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="topBackAthletic" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackAthletic</Data>
+            <Data name="top2Athletic" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Athletic</Data>
+            <Data name="topMainAthletic" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainAthletic</Data>
+            <Data name="topSideAthletic" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideAthletic</Data>
+            <Data name="topMidAthletic" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="topBackSeveNBase Bombshell" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackSeveNBase Bombshell</Data>
+            <Data name="top2SeveNBase Bombshell" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2SeveNBase Bombshell</Data>
+            <Data name="topMainSeveNBase Bombshell" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainSeveNBase Bombshell</Data>
+            <Data name="topSideSeveNBase Bombshell" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideSeveNBase Bombshell</Data>
+            <Data name="topMidSeveNBase Bombshell" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="topBackShoulder Width" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackShoulder Width</Data>
+            <Data name="top2Shoulder Width" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2Shoulder Width</Data>
+            <Data name="topMainShoulder Width" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainShoulder Width</Data>
+            <Data name="topSideShoulder Width" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="topBackBodyFat" target="topBack" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topBackBodyFat</Data>
+            <Data name="top2BodyFat" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2BodyFat</Data>
+            <Data name="topMainBodyFat" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBodyFat</Data>
+            <Data name="topSideBodyFat" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBodyFat</Data>
+            <Data name="topMidBodyFat" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBodyFat</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="topSideButtThin" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideButtThin</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="topMainHipRotateForward" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainHipRotateForward</Data>
+            <Data name="topSideHipRotateForward" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="top2BreastArmpitin" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2BreastArmpitin</Data>
+            <Data name="topMainBreastArmpitin" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBreastArmpitin</Data>
+            <Data name="topSideBreastArmpitin" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="top2BreastArmpitWide" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2BreastArmpitWide</Data>
+            <Data name="topMainBreastArmpitWide" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBreastArmpitWide</Data>
+            <Data name="topSideBreastArmpitWide" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="top2BreastCurve" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2BreastCurve</Data>
+            <Data name="topMainBreastCurve" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBreastCurve</Data>
+            <Data name="topSideBreastCurve" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBreastCurve</Data>
+            <Data name="topMidBreastCurve" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="top2BreastHeight2" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2BreastHeight2</Data>
+            <Data name="topMainBreastHeight2" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBreastHeight2</Data>
+            <Data name="topSideBreastHeight2" target="topSide" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topSideBreastHeight2</Data>
+            <Data name="topMidBreastHeight2" target="topMid" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMidBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="top2BreastConcave" target="top2" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\top2BreastConcave</Data>
+            <Data name="topMainBreastConcave" target="topMain" local="true">Vtaw Wardrobe 6 Bikini Top FG.osd\topMainBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

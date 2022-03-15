@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Roman Dress FG">
+        <DataFolder>Vtaw Wardrobe 7 Roman Dress FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Roman Dress FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\Dress2</OutputPath>
+        <OutputFile GenWeights="false">Dress2</OutputFile>
+        <Shape target="belt">belt</Shape>
+        <Shape target="dress">dress</Shape>
+        <Shape target="metal">metal</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="dressBelly Pregnant" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBelly Pregnant</Data>
+            <Data name="beltBelly Pregnant" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBelly Pregnant</Data>
+            <Data name="metalBelly Pregnant" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="dressBelly Big" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBelly Big</Data>
+            <Data name="beltBelly Big" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBelly Big</Data>
+            <Data name="metalBelly Big" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="dressBelly Size" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBelly Size</Data>
+            <Data name="beltBelly Size" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBelly Size</Data>
+            <Data name="metalBelly Size" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="dressBelly Tuck" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="dressBoobs Yuge" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBoobs Yuge</Data>
+            <Data name="beltBoobs Yuge" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBoobs Yuge</Data>
+            <Data name="metalBoobs Yuge" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="dressBoobs Big" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBoobs Big</Data>
+            <Data name="beltBoobs Big" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBoobs Big</Data>
+            <Data name="metalBoobs Big" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="dressBoobs Cleavage" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBoobs Cleavage</Data>
+            <Data name="beltBoobs Cleavage" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBoobs Cleavage</Data>
+            <Data name="metalBoobs Cleavage" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="dressBoobs Flat" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBoobs Flat</Data>
+            <Data name="beltBoobs Flat" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBoobs Flat</Data>
+            <Data name="metalBoobs Flat" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="dressBoobs Gravity" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBoobs Gravity</Data>
+            <Data name="beltBoobs Gravity" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBoobs Gravity</Data>
+            <Data name="metalBoobs Gravity" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="dressBoobs Height" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBoobs Height</Data>
+            <Data name="beltBoobs Height" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBoobs Height</Data>
+            <Data name="metalBoobs Height" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="dressBoobs Mellons" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBoobs Mellons</Data>
+            <Data name="beltBoobs Mellons" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBoobs Mellons</Data>
+            <Data name="metalBoobs Mellons" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="dressBoobs Perky" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBoobs Perky</Data>
+            <Data name="beltBoobs Perky" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBoobs Perky</Data>
+            <Data name="metalBoobs Perky" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="dressBoobs Push Up" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBoobs Push Up</Data>
+            <Data name="beltBoobs Push Up" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBoobs Push Up</Data>
+            <Data name="metalBoobs Push Up" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="dressBoobs Small" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBoobs Small</Data>
+            <Data name="beltBoobs Small" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBoobs Small</Data>
+            <Data name="metalBoobs Small" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="dressBoobs Together" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBoobs Together</Data>
+            <Data name="beltBoobs Together" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBoobs Together</Data>
+            <Data name="metalBoobs Together" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="dressBoobs Top Slope" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBoobs Top Slope</Data>
+            <Data name="beltBoobs Top Slope" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBoobs Top Slope</Data>
+            <Data name="metalBoobs Top Slope" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="dressBoobs Width" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBoobs Width</Data>
+            <Data name="beltBoobs Width" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBoobs Width</Data>
+            <Data name="metalBoobs Width" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="dressBoobs Tiny" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBoobs Tiny</Data>
+            <Data name="beltBoobs Tiny" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBoobs Tiny</Data>
+            <Data name="metalBoobs Tiny" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="dressNipples Length" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="dressNipples Areola" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="dressNipples Distance" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressNipples Distance</Data>
+            <Data name="beltNipples Distance" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltNipples Distance</Data>
+            <Data name="metalNipples Distance" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="dressNipples Down" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressNipples Down</Data>
+            <Data name="beltNipples Down" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltNipples Down</Data>
+            <Data name="metalNipples Down" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="dressNipples Gone" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="dressNipples Shape" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="dressNipples Size" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="dressNipples Perkiness" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressNipples Perkiness</Data>
+            <Data name="beltNipples Perkiness" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltNipples Perkiness</Data>
+            <Data name="metalNipples Perkiness" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="dressNipples Puffy" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="dressNipples Up" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressNipples Up</Data>
+            <Data name="beltNipples Up" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltNipples Up</Data>
+            <Data name="metalNipples Up" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalNipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="dressNipples Tip" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressNipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="dressChest Depth" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressChest Depth</Data>
+            <Data name="beltChest Depth" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltChest Depth</Data>
+            <Data name="metalChest Depth" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="dressChest Width" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressChest Width</Data>
+            <Data name="beltChest Width" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="dressWaist Chubby" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressWaist Chubby</Data>
+            <Data name="beltWaist Chubby" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltWaist Chubby</Data>
+            <Data name="metalWaist Chubby" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="dressWaist Size" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressWaist Size</Data>
+            <Data name="beltWaist Size" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltWaist Size</Data>
+            <Data name="metalWaist Size" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="dressWaist Height" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressWaist Height</Data>
+            <Data name="beltWaist Height" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltWaist Height</Data>
+            <Data name="metalWaist Height" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="dressWaist Line" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressWaist Line</Data>
+            <Data name="beltWaist Line" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="dressBack Size" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBack Size</Data>
+            <Data name="beltBack Size" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="dressBack Arch" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBack Arch</Data>
+            <Data name="beltBack Arch" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="dressHips Bone" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="dressHips Size" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="dressHips Upper Width" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressHips Upper Width</Data>
+            <Data name="beltHips Upper Width" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="dressBum Size" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBum Size</Data>
+            <Data name="beltBum Size" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="dressBum Crack" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="dressBum Shape 1" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="dressBum Shape 2" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBum Shape 2</Data>
+            <Data name="beltBum Shape 2" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="dressBum Small" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="dressBum Chubby" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBum Chubby</Data>
+            <Data name="beltBum Chubby" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="dressBum Round" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="dressBum Apple" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBum Apple</Data>
+            <Data name="beltBum Apple" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="dressCalf Size" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="dressCalf Small" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="dressLegs Chubby" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressLegs Chubby</Data>
+            <Data name="beltLegs Chubby" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="dressLegs Shape" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="dressLegs Thin" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="dressThighs Slim" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="dressThighs Size" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="dressAnkle Size" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="dressArms Chubby" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="dressShoulder Smooth" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="dressShoulder Tweak" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="dressArms Size" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressArms Size</Data>
+            <Data name="beltArms Size" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="dressArmpit Ajustment" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="dressTorso Size" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressTorso Size</Data>
+            <Data name="beltTorso Size" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltTorso Size</Data>
+            <Data name="metalTorso Size" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="dressSturnum Depth" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressSturnum Depth</Data>
+            <Data name="beltSturnum Depth" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltSturnum Depth</Data>
+            <Data name="metalSturnum Depth" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="dressSturnum Height" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressSturnum Height</Data>
+            <Data name="beltSturnum Height" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltSturnum Height</Data>
+            <Data name="metalSturnum Height" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="dressGroin Position" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressGroin Position</Data>
+            <Data name="beltGroin Position" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="dressGroin Back" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressGroin Back</Data>
+            <Data name="beltGroin Back" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="dressLabia Majora Inner" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="dressAbDefinition" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressAbDefinition</Data>
+            <Data name="beltAbDefinition" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltAbDefinition</Data>
+            <Data name="metalAbDefinition" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="dressBody Toning" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBody Toning</Data>
+            <Data name="beltBody Toning" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBody Toning</Data>
+            <Data name="metalBody Toning" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="dressTigerSanBB" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressTigerSanBB</Data>
+            <Data name="beltTigerSanBB" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltTigerSanBB</Data>
+            <Data name="metalTigerSanBB" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="dressXunAbs" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressXunAbs</Data>
+            <Data name="beltXunAbs" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltXunAbs</Data>
+            <Data name="metalXunAbs" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="dressFFB Fitness 2" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressFFB Fitness 2</Data>
+            <Data name="beltFFB Fitness 2" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltFFB Fitness 2</Data>
+            <Data name="metalFFB Fitness 2" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="dressAthletic" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressAthletic</Data>
+            <Data name="beltAthletic" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltAthletic</Data>
+            <Data name="metalAthletic" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="dressSeveNBase Bombshell" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressSeveNBase Bombshell</Data>
+            <Data name="beltSeveNBase Bombshell" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltSeveNBase Bombshell</Data>
+            <Data name="metalSeveNBase Bombshell" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="dressKnee Height" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="dressShoulder Width" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressShoulder Width</Data>
+            <Data name="beltShoulder Width" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="dressBodyFat" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBodyFat</Data>
+            <Data name="beltBodyFat" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBodyFat</Data>
+            <Data name="metalBodyFat" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="dressLegThin" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="dressHipsNarrow" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="dressButtGravity" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="dressButtThin" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressButtThin</Data>
+            <Data name="beltButtThin" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="dressHipsForward" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="dressHipRotateForward" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressHipRotateForward</Data>
+            <Data name="beltHipRotateForward" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="dressBreastArmpitin" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="dressBreastArmpitWide" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="dressBreastCurve" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBreastCurve</Data>
+            <Data name="beltBreastCurve" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBreastCurve</Data>
+            <Data name="metalBreastCurve" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="dressBreastHeight2" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBreastHeight2</Data>
+            <Data name="beltBreastHeight2" target="belt" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\beltBreastHeight2</Data>
+            <Data name="metalBreastHeight2" target="metal" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\metalBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="dressBreastConcave" target="dress" local="true">Vtaw Wardrobe 7 Roman Dress FG.osd\dressBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

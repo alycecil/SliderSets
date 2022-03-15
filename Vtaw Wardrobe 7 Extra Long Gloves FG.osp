@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Extra Long Gloves FG">
+        <DataFolder>Vtaw Wardrobe 7 Extra Long Gloves FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Extra Long Gloves FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\ExtraLongGloves</OutputPath>
+        <OutputFile GenWeights="false">ExtraLongGloves</OutputFile>
+        <Shape target="ExtraLongGloves">ExtraLongGloves</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="ExtraLongGlovesBoobs Yuge" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="ExtraLongGlovesBoobs Big" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="ExtraLongGlovesBoobs Gravity" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="ExtraLongGlovesBoobs Mellons" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="ExtraLongGlovesBoobs Perky" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="ExtraLongGlovesBoobs Push Up" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="ExtraLongGlovesBoobs Top Slope" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="ExtraLongGlovesBoobs Tiny" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="ExtraLongGlovesWaist Size" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesWaist Size</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="ExtraLongGlovesBack Size" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesBack Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="ExtraLongGlovesArms Chubby" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="ExtraLongGlovesShoulder Smooth" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="ExtraLongGlovesShoulder Tweak" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="ExtraLongGlovesArms Size" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="ExtraLongGlovesArmpit Ajustment" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="ExtraLongGlovesForearms Size" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="ExtraLongGlovesTorso Size" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="ExtraLongGlovesSturnum Depth" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="ExtraLongGlovesSturnum Height" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="ExtraLongGlovesGroin Position" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="ExtraLongGlovesGroin Back" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="ExtraLongGlovesBody Toning" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="ExtraLongGlovesTigerSanBB" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="ExtraLongGlovesAthletic" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="ExtraLongGlovesSeveNBase Bombshell" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="ExtraLongGlovesShoulder Width" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="ExtraLongGlovesBodyFat" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesBodyFat</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="ExtraLongGlovesBreastArmpitin" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="ExtraLongGlovesBreastArmpitWide" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="ExtraLongGlovesBreastHeight2" target="ExtraLongGloves" local="true">Vtaw Wardrobe 7 Extra Long Gloves FG.osd\ExtraLongGlovesBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

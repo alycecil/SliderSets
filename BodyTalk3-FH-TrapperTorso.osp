@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BodyTalk3-FH-TrapperTorso">
+        <DataFolder>BodyTalk3-FarHarbor</DataFolder>
+        <SourceFile>BodyTalk3-FH-TrapperTorso.nif</SourceFile>
+        <OutputPath>meshes\DLC03\Armor\TrapperA</OutputPath>
+        <OutputFile GenWeights="false">MOutift_Torso</OutputFile>
+        <Shape target="MOutift_Torso:0">MOutift_Torso:0</Shape>
+        <Slider name="BTBiceps" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTBiceps" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTBiceps</Data>
+        </Slider>
+        <Slider name="BTShoulders" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTShoulders" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTShoulders</Data>
+        </Slider>
+        <Slider name="BTWaist-In" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTWaist-In" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTWaist-In</Data>
+        </Slider>
+        <Slider name="BTPectorals" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTPectorals" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTPectorals</Data>
+        </Slider>
+        <Slider name="BTRibcage" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTRibcage" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTRibcage</Data>
+        </Slider>
+        <Slider name="BTTraps" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTTraps" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTTraps</Data>
+        </Slider>
+        <Slider name="BTHips-In" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTHips-In" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTHips-In</Data>
+        </Slider>
+        <Slider name="BTStomach" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTStomach" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTStomach</Data>
+        </Slider>
+        <Slider name="BTChest" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTChest" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTChest</Data>
+        </Slider>
+        <Slider name="BTButt" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTButt" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTButt</Data>
+        </Slider>
+        <Slider name="BTThigh" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTThigh" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTThigh</Data>
+        </Slider>
+        <Slider name="BTCalves" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTCalves" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTCalves</Data>
+        </Slider>
+        <Slider name="BTBack" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTBack" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTBack</Data>
+        </Slider>
+        <Slider name="BTWaist-Smoothing" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTWaist-Smoothing" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTWaist-Smoothing</Data>
+        </Slider>
+        <Slider name="BTNippleSize" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTNippleSize" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTNippleSize</Data>
+        </Slider>
+        <Slider name="BTButtWidth" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTButtWidth" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTButtWidth</Data>
+        </Slider>
+        <Slider name="BTStomachSmooth" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTStomachSmooth" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTStomachSmooth</Data>
+        </Slider>
+        <Slider name="BTStomachFat" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTStomachFat" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTStomachFat</Data>
+        </Slider>
+        <Slider name="BTChestSmoothing" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTChestSmoothing" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTChestSmoothing</Data>
+        </Slider>
+        <Slider name="BTBackArch" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTBackArch" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTBackArch</Data>
+        </Slider>
+        <Slider name="BTAbDefinition" invert="false" default="100">
+            <Data name="MOutift_Torso:0BTAbDefinition" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTAbDefinition</Data>
+        </Slider>
+        <Slider name="BTARYAYDA" invert="false" default="0">
+            <Data name="MOutift_Torso:0BTARYAYDA" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTARYAYDA</Data>
+        </Slider>
+        <Slider name="BTAryaydaMoreMuscular" invert="false" default="0">
+            <Data name="MOutift_Torso:0BTAryaydaMoreMuscular" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTAryaydaMoreMuscular</Data>
+        </Slider>
+        <Slider name="BTAMShoulderTweaks" invert="false" default="0">
+            <Data name="MOutift_Torso:0BTAMShoulderTweaks" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTAMShoulderTweaks</Data>
+        </Slider>
+        <Slider name="BTAMPecAdjust" invert="false" default="0">
+            <Data name="MOutift_Torso:0BTAMPecAdjust" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTAMPecAdjust</Data>
+        </Slider>
+        <Slider name="BTAMWaistAdust" invert="false" default="0">
+            <Data name="MOutift_Torso:0BTAMWaistAdust" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTAMWaistAdust</Data>
+        </Slider>
+        <Slider name="BTAMBackAdjust" invert="false" default="0">
+            <Data name="MOutift_Torso:0BTAMBackAdjust" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTAMBackAdjust</Data>
+        </Slider>
+        <Slider name="BTGrayson" invert="false" default="0">
+            <Data name="MOutift_Torso:0BTGrayson" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTGrayson</Data>
+        </Slider>
+        <Slider name="BTFlyGrayson" invert="false" default="0">
+            <Data name="MOutift_Torso:0BTFlyGrayson" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTFlyGrayson</Data>
+        </Slider>
+        <Slider name="AryaydaMuscleSlider" invert="false" default="0">
+            <Data name="MOutift_Torso:0AryaydaMuscleSlider" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0AryaydaMuscleSlider</Data>
+        </Slider>
+        <Slider name="TigerSanBBMale" invert="false" default="0">
+            <Data name="MOutift_Torso:0TigerSanBBMale" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0TigerSanBBMale</Data>
+        </Slider>
+        <Slider name="BTThinArm" invert="false" default="0">
+            <Data name="MOutift_Torso:0BTThinArm" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTThinArm</Data>
+        </Slider>
+        <Slider name="BTChubbyArm" invert="false" default="0">
+            <Data name="MOutift_Torso:0BTChubbyArm" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTChubbyArm</Data>
+        </Slider>
+        <Slider name="BTChubbyLeg" invert="false" default="0">
+            <Data name="MOutift_Torso:0BTChubbyLeg" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BTChubbyLeg</Data>
+        </Slider>
+        <Slider name="ThinThigh" invert="false" default="0">
+            <Data name="MOutift_Torso:0ThinThigh" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0ThinThigh</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="MOutift_Torso:0Hips" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0Hips</Data>
+        </Slider>
+        <Slider name="BT2AdonisBelt" invert="false" default="0">
+            <Data name="MOutift_Torso:0BT2AdonisBelt" target="MOutift_Torso:0" local="true">BodyTalk3-FH-TrapperTorso.osd\MOutift_Torso:0BT2AdonisBelt</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

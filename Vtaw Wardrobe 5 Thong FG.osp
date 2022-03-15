@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Thong FG">
+        <DataFolder>Vtaw Wardrobe 5 Thong FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Thong FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Lingerie</OutputPath>
+        <OutputFile GenWeights="false">Thong</OutputFile>
+        <Shape target="metalBot">metalBot</Shape>
+        <Shape target="strings">strings</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="metalBotBelly Pregnant" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBelly Pregnant</Data>
+            <Data name="stringsBelly Pregnant" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="metalBotBelly Big" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBelly Big</Data>
+            <Data name="stringsBelly Big" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="metalBotBelly Size" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBelly Size</Data>
+            <Data name="stringsBelly Size" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="metalBotBelly Tuck" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBelly Tuck</Data>
+            <Data name="stringsBelly Tuck" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="metalBotBoobs Yuge" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBoobs Yuge</Data>
+            <Data name="stringsBoobs Yuge" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="metalBotBoobs Big" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBoobs Big</Data>
+            <Data name="stringsBoobs Big" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="metalBotBoobs Gravity" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBoobs Gravity</Data>
+            <Data name="stringsBoobs Gravity" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="metalBotBoobs Mellons" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBoobs Mellons</Data>
+            <Data name="stringsBoobs Mellons" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="metalBotBoobs Perky" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBoobs Perky</Data>
+            <Data name="stringsBoobs Perky" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="metalBotBoobs Push Up" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBoobs Push Up</Data>
+            <Data name="stringsBoobs Push Up" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="metalBotBoobs Top Slope" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBoobs Top Slope</Data>
+            <Data name="stringsBoobs Top Slope" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="metalBotBoobs Tiny" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBoobs Tiny</Data>
+            <Data name="stringsBoobs Tiny" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="stringsChest Width" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="metalBotWaist Chubby" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotWaist Chubby</Data>
+            <Data name="stringsWaist Chubby" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="stringsWaist Size" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="stringsWaist Height" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="stringsWaist Line" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="metalBotBack Size" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBack Size</Data>
+            <Data name="stringsBack Size" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="metalBotBack Arch" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBack Arch</Data>
+            <Data name="stringsBack Arch" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="metalBotHips Bone" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotHips Bone</Data>
+            <Data name="stringsHips Bone" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="metalBotHips Size" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotHips Size</Data>
+            <Data name="stringsHips Size" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="stringsHips Upper Width" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="metalBotBum Size" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBum Size</Data>
+            <Data name="stringsBum Size" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="metalBotBum Crack" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBum Crack</Data>
+            <Data name="stringsBum Crack" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="metalBotBum Shape 1" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBum Shape 1</Data>
+            <Data name="stringsBum Shape 1" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="metalBotBum Shape 2" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBum Shape 2</Data>
+            <Data name="stringsBum Shape 2" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="metalBotBum Small" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBum Small</Data>
+            <Data name="stringsBum Small" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="metalBotBum Chubby" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBum Chubby</Data>
+            <Data name="stringsBum Chubby" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="metalBotBum Round" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBum Round</Data>
+            <Data name="stringsBum Round" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="metalBotBum Apple" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBum Apple</Data>
+            <Data name="stringsBum Apple" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="metalBotLegs Chubby" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotLegs Chubby</Data>
+            <Data name="stringsLegs Chubby" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="metalBotLegs Shape" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotLegs Shape</Data>
+            <Data name="stringsLegs Shape" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="metalBotLegs Thin" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotLegs Thin</Data>
+            <Data name="stringsLegs Thin" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="metalBotThighs Slim" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotThighs Slim</Data>
+            <Data name="stringsThighs Slim" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="metalBotThighs Size" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotThighs Size</Data>
+            <Data name="stringsThighs Size" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="metalBotTorso Size" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotTorso Size</Data>
+            <Data name="stringsTorso Size" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="metalBotSturnum Depth" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotSturnum Depth</Data>
+            <Data name="stringsSturnum Depth" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="metalBotSturnum Height" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotSturnum Height</Data>
+            <Data name="stringsSturnum Height" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="metalBotGroin Position" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotGroin Position</Data>
+            <Data name="stringsGroin Position" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="metalBotGroin Back" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotGroin Back</Data>
+            <Data name="stringsGroin Back" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="metalBotAbDefinition" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotAbDefinition</Data>
+            <Data name="stringsAbDefinition" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="metalBotBody Toning" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBody Toning</Data>
+            <Data name="stringsBody Toning" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="metalBotTigerSanBB" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotTigerSanBB</Data>
+            <Data name="stringsTigerSanBB" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="metalBotXunAbs" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotXunAbs</Data>
+            <Data name="stringsXunAbs" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="metalBotFFB Fitness 2" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotFFB Fitness 2</Data>
+            <Data name="stringsFFB Fitness 2" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="metalBotAthletic" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotAthletic</Data>
+            <Data name="stringsAthletic" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="metalBotSeveNBase Bombshell" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotSeveNBase Bombshell</Data>
+            <Data name="stringsSeveNBase Bombshell" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="stringsShoulder Width" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="metalBotBodyFat" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotBodyFat</Data>
+            <Data name="stringsBodyFat" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="metalBotLegThin" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotLegThin</Data>
+            <Data name="stringsLegThin" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="metalBotHipsNarrow" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotHipsNarrow</Data>
+            <Data name="stringsHipsNarrow" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="stringsButtGravity" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="metalBotButtThin" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotButtThin</Data>
+            <Data name="stringsButtThin" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="metalBotHipsForward" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotHipsForward</Data>
+            <Data name="stringsHipsForward" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="metalBotHipRotateForward" target="metalBot" local="true">Vtaw Wardrobe 5 Thong FG.osd\metalBotHipRotateForward</Data>
+            <Data name="stringsHipRotateForward" target="strings" local="true">Vtaw Wardrobe 5 Thong FG.osd\stringsHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

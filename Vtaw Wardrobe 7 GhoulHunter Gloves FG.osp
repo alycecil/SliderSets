@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 GhoulHunter Gloves FG">
+        <DataFolder>Vtaw Wardrobe 7 GhoulHunter Gloves FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 GhoulHunter Gloves FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\GhoulHunter</OutputPath>
+        <OutputFile GenWeights="false">GhoulHunterGloves</OutputFile>
+        <Shape target="Gloves">Gloves</Shape>
+        <Shape target="metal2">metal2</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="GlovesBoobs Yuge" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesBoobs Yuge</Data>
+            <Data name="metal2Boobs Yuge" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="GlovesBoobs Big" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesBoobs Big</Data>
+            <Data name="metal2Boobs Big" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="GlovesBoobs Gravity" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesBoobs Gravity</Data>
+            <Data name="metal2Boobs Gravity" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="GlovesBoobs Mellons" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesBoobs Mellons</Data>
+            <Data name="metal2Boobs Mellons" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="GlovesBoobs Perky" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesBoobs Perky</Data>
+            <Data name="metal2Boobs Perky" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="GlovesBoobs Push Up" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesBoobs Push Up</Data>
+            <Data name="metal2Boobs Push Up" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="GlovesBoobs Top Slope" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesBoobs Top Slope</Data>
+            <Data name="metal2Boobs Top Slope" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="GlovesBoobs Tiny" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesBoobs Tiny</Data>
+            <Data name="metal2Boobs Tiny" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="GlovesWaist Size" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesWaist Size</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="GlovesBack Size" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesBack Size</Data>
+            <Data name="metal2Back Size" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Back Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="GlovesArms Chubby" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesArms Chubby</Data>
+            <Data name="metal2Arms Chubby" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="GlovesShoulder Smooth" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesShoulder Smooth</Data>
+            <Data name="metal2Shoulder Smooth" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="GlovesArms Size" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesArms Size</Data>
+            <Data name="metal2Arms Size" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="GlovesArmpit Ajustment" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesArmpit Ajustment</Data>
+            <Data name="metal2Armpit Ajustment" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="GlovesForearms Size" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesForearms Size</Data>
+            <Data name="metal2Forearms Size" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Forearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="GlovesTorso Size" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesTorso Size</Data>
+            <Data name="metal2Torso Size" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="GlovesSturnum Depth" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesSturnum Depth</Data>
+            <Data name="metal2Sturnum Depth" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="GlovesSturnum Height" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesSturnum Height</Data>
+            <Data name="metal2Sturnum Height" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="GlovesGroin Position" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesGroin Position</Data>
+            <Data name="metal2Groin Position" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="GlovesGroin Back" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesGroin Back</Data>
+            <Data name="metal2Groin Back" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Groin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="GlovesBody Toning" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesBody Toning</Data>
+            <Data name="metal2Body Toning" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="GlovesTigerSanBB" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesTigerSanBB</Data>
+            <Data name="metal2TigerSanBB" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2TigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="GlovesAthletic" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesAthletic</Data>
+            <Data name="metal2Athletic" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="GlovesSeveNBase Bombshell" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesSeveNBase Bombshell</Data>
+            <Data name="metal2SeveNBase Bombshell" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="GlovesShoulder Width" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesShoulder Width</Data>
+            <Data name="metal2Shoulder Width" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2Shoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="GlovesBodyFat" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesBodyFat</Data>
+            <Data name="metal2BodyFat" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2BodyFat</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="GlovesBreastArmpitin" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesBreastArmpitin</Data>
+            <Data name="metal2BreastArmpitin" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="GlovesBreastArmpitWide" target="Gloves" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\GlovesBreastArmpitWide</Data>
+            <Data name="metal2BreastArmpitWide" target="metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Gloves FG.osd\metal2BreastArmpitWide</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BodyTalk3-NW-NukaSpaceSuit">
+        <DataFolder>BodyTalk3-NukaWorld</DataFolder>
+        <SourceFile>BodyTalk3-NW-NukaSpaceSuit.nif</SourceFile>
+        <OutputPath>meshes\DLC04\Clothes\NukaSpaceSuit</OutputPath>
+        <OutputFile GenWeights="false">NukaSpaceSuitM_Body</OutputFile>
+        <Shape target="BaseMaleBody:0" DataFolder="BodyTalk3">BaseMaleBody:0</Shape>
+        <Shape target="NukaSpaceSuitM_Body:0">NukaSpaceSuitM_Body:0</Shape>
+        <Shape target="NukaSpaceSuit_HelmetBaseM:2">NukaSpaceSuit_HelmetBaseM:2</Shape>
+        <Shape target="NukaSpaceSuit_Male_BackPack:0">NukaSpaceSuit_Male_BackPack:0</Shape>
+        <Slider name="BTBiceps" invert="false" default="100">
+            <Data name="NukaSpaceSuitM_Body:0BTBiceps" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTBiceps</Data>
+        </Slider>
+        <Slider name="BTShoulders" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTShoulders" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTShoulders</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTShoulders" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTShoulders</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTShoulders" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTShoulders</Data>
+        </Slider>
+        <Slider name="BTWaist-In" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTWaist-In" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTWaist-In</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTWaist-In" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTWaist-In</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTWaist-In" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTWaist-In</Data>
+        </Slider>
+        <Slider name="BTPectorals" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTPectorals" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTPectorals</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTPectorals" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTPectorals</Data>
+        </Slider>
+        <Slider name="BTRibcage" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTRibcage" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTRibcage</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTRibcage" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTRibcage</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTRibcage" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTRibcage</Data>
+        </Slider>
+        <Slider name="BTTraps" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTTraps" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTTraps</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTTraps" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTTraps</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTTraps" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTTraps</Data>
+        </Slider>
+        <Slider name="BTHips-In" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTHips-In" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTHips-In</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTHips-In" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTHips-In</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTHips-In" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTHips-In</Data>
+        </Slider>
+        <Slider name="BTStomach" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTStomach" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTStomach</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTStomach" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTStomach</Data>
+        </Slider>
+        <Slider name="BTChest" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTChest" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTChest</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTChest" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTChest</Data>
+        </Slider>
+        <Slider name="BTButt" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTButt" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTButt</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTButt" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTButt</Data>
+        </Slider>
+        <Slider name="BTThigh" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTThigh" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTThigh</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTThigh" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTThigh</Data>
+        </Slider>
+        <Slider name="BTCalves" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTCalves" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTCalves</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTCalves" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTCalves</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTCalves" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTCalves</Data>
+        </Slider>
+        <Slider name="BTBack" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTBack" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTBack</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTBack" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTBack</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTBack" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTBack</Data>
+        </Slider>
+        <Slider name="BTWaist-Smoothing" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTWaist-Smoothing" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTWaist-Smoothing</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTWaist-Smoothing" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTWaist-Smoothing</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTWaist-Smoothing" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTWaist-Smoothing</Data>
+        </Slider>
+        <Slider name="BTNippleSize" invert="false" default="100">
+            <Data name="NukaSpaceSuitM_Body:0BTNippleSize" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTNippleSize</Data>
+        </Slider>
+        <Slider name="BTButtWidth" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTButtWidth" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTButtWidth</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTButtWidth" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTButtWidth</Data>
+        </Slider>
+        <Slider name="BTFootSize" invert="false" default="100">
+            <Data name="NukaSpaceSuitM_Body:0BTFootSize" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTFootSize</Data>
+        </Slider>
+        <Slider name="BTStomachSmooth" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTStomachSmooth" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTStomachSmooth</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTStomachSmooth" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTStomachSmooth</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTStomachSmooth" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTStomachSmooth</Data>
+        </Slider>
+        <Slider name="BTStomachFat" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTStomachFat" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTStomachFat</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTStomachFat" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTStomachFat</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTStomachFat" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTStomachFat</Data>
+        </Slider>
+        <Slider name="BTChestSmoothing" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTChestSmoothing" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTChestSmoothing</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTChestSmoothing" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTChestSmoothing</Data>
+        </Slider>
+        <Slider name="BTToeSmaller" invert="false" default="100">
+            <Data name="NukaSpaceSuitM_Body:0BTToeSmaller" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTToeSmaller</Data>
+        </Slider>
+        <Slider name="BTBackArch" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTBackArch" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTBackArch</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTBackArch" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTBackArch</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTBackArch" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTBackArch</Data>
+        </Slider>
+        <Slider name="BTAbDefinition" invert="false" default="100">
+            <Data name="BaseMaleBody:0BTAbDefinition" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTAbDefinition</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTAbDefinition" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTAbDefinition</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTAbDefinition" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTAbDefinition</Data>
+        </Slider>
+        <Slider name="BTForearms" invert="false" default="0">
+            <Data name="NukaSpaceSuitM_Body:0BTForearms" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTForearms</Data>
+        </Slider>
+        <Slider name="BTARYAYDA" invert="false" default="0">
+            <Data name="BaseMaleBody:0BTARYAYDA" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTARYAYDA</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTARYAYDA" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTARYAYDA</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTARYAYDA" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTARYAYDA</Data>
+        </Slider>
+        <Slider name="BTAryaydaMoreMuscular" invert="false" default="0">
+            <Data name="BaseMaleBody:0BTAryaydaMoreMuscular" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTAryaydaMoreMuscular</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTAryaydaMoreMuscular" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTAryaydaMoreMuscular</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTAryaydaMoreMuscular" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTAryaydaMoreMuscular</Data>
+        </Slider>
+        <Slider name="BTAMShoulderTweaks" invert="false" default="0">
+            <Data name="NukaSpaceSuitM_Body:0BTAMShoulderTweaks" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTAMShoulderTweaks</Data>
+        </Slider>
+        <Slider name="BTAMPecAdjust" invert="false" default="0">
+            <Data name="BaseMaleBody:0BTAMPecAdjust" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTAMPecAdjust</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTAMPecAdjust" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTAMPecAdjust</Data>
+        </Slider>
+        <Slider name="BTAMWaistAdust" invert="false" default="0">
+            <Data name="BaseMaleBody:0BTAMWaistAdust" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTAMWaistAdust</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTAMWaistAdust" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTAMWaistAdust</Data>
+        </Slider>
+        <Slider name="BTAMBackAdjust" invert="false" default="0">
+            <Data name="BaseMaleBody:0BTAMBackAdjust" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTAMBackAdjust</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTAMBackAdjust" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTAMBackAdjust</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTAMBackAdjust" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTAMBackAdjust</Data>
+        </Slider>
+        <Slider name="BTElbowAdjust" invert="false" default="0">
+            <Data name="NukaSpaceSuitM_Body:0BTElbowAdjust" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTElbowAdjust</Data>
+        </Slider>
+        <Slider name="BTKneeAdust" invert="false" default="0">
+            <Data name="NukaSpaceSuitM_Body:0BTKneeAdust" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTKneeAdust</Data>
+        </Slider>
+        <Slider name="BTGrayson" invert="false" default="0">
+            <Data name="BaseMaleBody:0BTGrayson" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTGrayson</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTGrayson" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTGrayson</Data>
+        </Slider>
+        <Slider name="BTFlyGrayson" invert="false" default="0">
+            <Data name="BaseMaleBody:0BTFlyGrayson" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTFlyGrayson</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTFlyGrayson" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTFlyGrayson</Data>
+        </Slider>
+        <Slider name="AryaydaMuscleSlider" invert="false" default="0">
+            <Data name="BaseMaleBody:0AryaydaMuscleSlider" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0AryaydaMuscleSlider</Data>
+            <Data name="NukaSpaceSuitM_Body:0AryaydaMuscleSlider" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0AryaydaMuscleSlider</Data>
+        </Slider>
+        <Slider name="TigerSanBBMale" invert="false" default="0">
+            <Data name="BaseMaleBody:0TigerSanBBMale" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0TigerSanBBMale</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0TigerSanBBMale" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0TigerSanBBMale</Data>
+            <Data name="NukaSpaceSuitM_Body:0TigerSanBBMale" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0TigerSanBBMale</Data>
+        </Slider>
+        <Slider name="BTTHinCalf" invert="false" default="0">
+            <Data name="NukaSpaceSuitM_Body:0BTTHinCalf" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTTHinCalf</Data>
+        </Slider>
+        <Slider name="BTThinArm" invert="false" default="0">
+            <Data name="BaseMaleBody:0BTThinArm" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTThinArm</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTThinArm" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTThinArm</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTThinArm" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTThinArm</Data>
+        </Slider>
+        <Slider name="BTShinSize" invert="false" default="0">
+            <Data name="NukaSpaceSuitM_Body:0BTShinSize" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTShinSize</Data>
+        </Slider>
+        <Slider name="BTChubbyArm" invert="false" default="0">
+            <Data name="NukaSpaceSuit_Male_BackPack:0BTChubbyArm" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BTChubbyArm</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTChubbyArm" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTChubbyArm</Data>
+        </Slider>
+        <Slider name="BTChubbyLeg" invert="false" default="0">
+            <Data name="BaseMaleBody:0BTChubbyLeg" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BTChubbyLeg</Data>
+            <Data name="NukaSpaceSuitM_Body:0BTChubbyLeg" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BTChubbyLeg</Data>
+        </Slider>
+        <Slider name="ThinThigh" invert="false" default="0">
+            <Data name="BaseMaleBody:0ThinThigh" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0ThinThigh</Data>
+            <Data name="NukaSpaceSuitM_Body:0ThinThigh" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0ThinThigh</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="BaseMaleBody:0Hips" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0Hips</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0Hips" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0Hips</Data>
+            <Data name="NukaSpaceSuitM_Body:0Hips" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0Hips</Data>
+        </Slider>
+        <Slider name="BT2AdonisBelt" invert="false" default="0">
+            <Data name="BaseMaleBody:0BT2AdonisBelt" target="BaseMaleBody:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\BaseMaleBody:0BT2AdonisBelt</Data>
+            <Data name="NukaSpaceSuit_Male_BackPack:0BT2AdonisBelt" target="NukaSpaceSuit_Male_BackPack:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuit_Male_BackPack:0BT2AdonisBelt</Data>
+            <Data name="NukaSpaceSuitM_Body:0BT2AdonisBelt" target="NukaSpaceSuitM_Body:0" local="true">BodyTalk3-NW-NukaSpaceSuit.osd\NukaSpaceSuitM_Body:0BT2AdonisBelt</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

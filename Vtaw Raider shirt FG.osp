@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Raider shirt FG">
+        <DataFolder>Vtaw Raider shirt FG</DataFolder>
+        <SourceFile>Vtaw Raider shirt FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe4\shirt</OutputPath>
+        <OutputFile GenWeights="false">shirt</OutputFile>
+        <Shape target="shirt">shirt</Shape>
+        <Shape target="shirt2">shirt2</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="shirtBelly Pregnant" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBelly Pregnant</Data>
+            <Data name="shirt2Belly Pregnant" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="shirtBelly Big" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBelly Big</Data>
+            <Data name="shirt2Belly Big" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="shirtBelly Size" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBelly Size</Data>
+            <Data name="shirt2Belly Size" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Belly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="shirtBelly Tuck" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBelly Tuck</Data>
+            <Data name="shirt2Belly Tuck" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Belly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="shirtBoobs Yuge" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBoobs Yuge</Data>
+            <Data name="shirt2Boobs Yuge" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="shirtBoobs Big" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBoobs Big</Data>
+            <Data name="shirt2Boobs Big" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="shirtBoobs Cleavage" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBoobs Cleavage</Data>
+            <Data name="shirt2Boobs Cleavage" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Boobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="shirtBoobs Flat" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBoobs Flat</Data>
+            <Data name="shirt2Boobs Flat" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Boobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="shirtBoobs Gravity" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBoobs Gravity</Data>
+            <Data name="shirt2Boobs Gravity" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="shirtBoobs Height" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBoobs Height</Data>
+            <Data name="shirt2Boobs Height" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Boobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="shirtBoobs Mellons" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBoobs Mellons</Data>
+            <Data name="shirt2Boobs Mellons" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="shirtBoobs Perky" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBoobs Perky</Data>
+            <Data name="shirt2Boobs Perky" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="shirtBoobs Push Up" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBoobs Push Up</Data>
+            <Data name="shirt2Boobs Push Up" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="shirtBoobs Small" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBoobs Small</Data>
+            <Data name="shirt2Boobs Small" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Boobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="shirtBoobs Together" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBoobs Together</Data>
+            <Data name="shirt2Boobs Together" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Boobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="shirtBoobs Top Slope" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBoobs Top Slope</Data>
+            <Data name="shirt2Boobs Top Slope" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="shirtBoobs Width" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBoobs Width</Data>
+            <Data name="shirt2Boobs Width" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Boobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="shirtBoobs Tiny" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBoobs Tiny</Data>
+            <Data name="shirt2Boobs Tiny" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="shirtNipples Distance" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtNipples Distance</Data>
+            <Data name="shirt2Nipples Distance" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Nipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="shirtNipples Down" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="shirtNipples Perkiness" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="shirtNipples Puffy" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="shirtNipples Up" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtNipples Up</Data>
+            <Data name="shirt2Nipples Up" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Nipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="shirtChest Depth" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtChest Depth</Data>
+            <Data name="shirt2Chest Depth" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Chest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="shirtChest Width" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="shirtWaist Chubby" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtWaist Chubby</Data>
+            <Data name="shirt2Waist Chubby" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="shirtWaist Size" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtWaist Size</Data>
+            <Data name="shirt2Waist Size" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="shirtWaist Height" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtWaist Height</Data>
+            <Data name="shirt2Waist Height" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="shirtWaist Line" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="shirtBack Size" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="shirtBack Arch" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="shirtHips Bone" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="shirtHips Size" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="shirtHips Upper Width" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="shirtBum Size" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="shirtBum Crack" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="shirtBum Shape 1" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="shirtBum Shape 2" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBum Shape 2</Data>
+            <Data name="shirt2Bum Shape 2" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="shirtBum Small" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBum Small</Data>
+            <Data name="shirt2Bum Small" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="shirtBum Chubby" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="shirtBum Round" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="shirtBum Apple" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBum Apple</Data>
+            <Data name="shirt2Bum Apple" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Bum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="shirtLegs Chubby" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtLegs Chubby</Data>
+            <Data name="shirt2Legs Chubby" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Legs Chubby</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="shirtThighs Slim" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="shirtThighs Size" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtThighs Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="shirtArms Chubby" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="shirtShoulder Smooth" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="shirtShoulder Tweak" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="shirtArms Size" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="shirtArmpit Ajustment" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="shirtForearms Size" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="shirtTorso Size" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtTorso Size</Data>
+            <Data name="shirt2Torso Size" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="shirtSturnum Depth" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtSturnum Depth</Data>
+            <Data name="shirt2Sturnum Depth" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="shirtSturnum Height" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtSturnum Height</Data>
+            <Data name="shirt2Sturnum Height" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="shirtGroin Position" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtGroin Position</Data>
+            <Data name="shirt2Groin Position" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="shirtGroin Back" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtGroin Back</Data>
+            <Data name="shirt2Groin Back" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="shirtAbDefinition" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtAbDefinition</Data>
+            <Data name="shirt2AbDefinition" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="shirtBody Toning" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBody Toning</Data>
+            <Data name="shirt2Body Toning" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="shirtTigerSanBB" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtTigerSanBB</Data>
+            <Data name="shirt2TigerSanBB" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="shirtXunAbs" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtXunAbs</Data>
+            <Data name="shirt2XunAbs" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="shirtFFB Fitness 2" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtFFB Fitness 2</Data>
+            <Data name="shirt2FFB Fitness 2" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="shirtAthletic" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtAthletic</Data>
+            <Data name="shirt2Athletic" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="shirtSeveNBase Bombshell" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtSeveNBase Bombshell</Data>
+            <Data name="shirt2SeveNBase Bombshell" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="shirtShoulder Width" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="shirtBodyFat" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBodyFat</Data>
+            <Data name="shirt2BodyFat" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="shirtLegThin" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="shirtHipsNarrow" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="shirtButtThin" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="shirtHipsForward" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtHipsForward</Data>
+            <Data name="shirt2HipsForward" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="shirtHipRotateForward" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtHipRotateForward</Data>
+            <Data name="shirt2HipRotateForward" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="shirtBreastArmpitin" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="shirtBreastArmpitWide" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="shirtBreastCurve" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="shirtBreastHeight2" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBreastHeight2</Data>
+            <Data name="shirt2BreastHeight2" target="shirt2" local="true">Vtaw Raider shirt FG.osd\shirt2BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="shirtBreastConcave" target="shirt" local="true">Vtaw Raider shirt FG.osd\shirtBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

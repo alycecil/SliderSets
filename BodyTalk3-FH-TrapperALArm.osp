@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BodyTalk3-FH-TrapperALArm">
+        <DataFolder>BodyTalk3-FarHarbor</DataFolder>
+        <SourceFile>BodyTalk3-FH-TrapperALArm.nif</SourceFile>
+        <OutputPath>meshes\DLC03\Armor\TrapperA</OutputPath>
+        <OutputFile GenWeights="false">Moutfit_LeftArm</OutputFile>
+        <Shape target="Moutfit_LeftArm:0">Moutfit_LeftArm:0</Shape>
+        <Slider name="BTBiceps" invert="false" default="100">
+            <Data name="Moutfit_LeftArm:0BTBiceps" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTBiceps</Data>
+        </Slider>
+        <Slider name="BTShoulders" invert="false" default="100">
+            <Data name="Moutfit_LeftArm:0BTShoulders" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTShoulders</Data>
+        </Slider>
+        <Slider name="BTPectorals" invert="false" default="100">
+            <Data name="Moutfit_LeftArm:0BTPectorals" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTPectorals</Data>
+        </Slider>
+        <Slider name="BTRibcage" invert="false" default="100">
+            <Data name="Moutfit_LeftArm:0BTRibcage" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTRibcage</Data>
+        </Slider>
+        <Slider name="BTTraps" invert="false" default="100">
+            <Data name="Moutfit_LeftArm:0BTTraps" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTTraps</Data>
+        </Slider>
+        <Slider name="BTHips-In" invert="false" default="100">
+            <Data name="Moutfit_LeftArm:0BTHips-In" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTHips-In</Data>
+        </Slider>
+        <Slider name="BTBack" invert="false" default="100">
+            <Data name="Moutfit_LeftArm:0BTBack" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTBack</Data>
+        </Slider>
+        <Slider name="BTStomachFat" invert="false" default="100">
+            <Data name="Moutfit_LeftArm:0BTStomachFat" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTStomachFat</Data>
+        </Slider>
+        <Slider name="BTForearms" invert="false" default="0">
+            <Data name="Moutfit_LeftArm:0BTForearms" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTForearms</Data>
+        </Slider>
+        <Slider name="BTARYAYDA" invert="false" default="0">
+            <Data name="Moutfit_LeftArm:0BTARYAYDA" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTARYAYDA</Data>
+        </Slider>
+        <Slider name="BTAryaydaMoreMuscular" invert="false" default="0">
+            <Data name="Moutfit_LeftArm:0BTAryaydaMoreMuscular" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTAryaydaMoreMuscular</Data>
+        </Slider>
+        <Slider name="BTAMShoulderTweaks" invert="false" default="0">
+            <Data name="Moutfit_LeftArm:0BTAMShoulderTweaks" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTAMShoulderTweaks</Data>
+        </Slider>
+        <Slider name="BTElbowAdjust" invert="false" default="0">
+            <Data name="Moutfit_LeftArm:0BTElbowAdjust" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTElbowAdjust</Data>
+        </Slider>
+        <Slider name="TigerSanBBMale" invert="false" default="0">
+            <Data name="Moutfit_LeftArm:0TigerSanBBMale" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0TigerSanBBMale</Data>
+        </Slider>
+        <Slider name="BTThinArm" invert="false" default="0">
+            <Data name="Moutfit_LeftArm:0BTThinArm" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTThinArm</Data>
+        </Slider>
+        <Slider name="BTChubbyArm" invert="false" default="0">
+            <Data name="Moutfit_LeftArm:0BTChubbyArm" target="Moutfit_LeftArm:0" local="true">BodyTalk3-FH-TrapperALArm.osd\Moutfit_LeftArm:0BTChubbyArm</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

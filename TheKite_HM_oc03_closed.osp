@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="TheKite_HM_oc03_closed">
+        <DataFolder>TheKite_HM_oc03_closed</DataFolder>
+        <SourceFile>TheKite_HM_oc03_closed.nif</SourceFile>
+        <OutputPath>Meshes\CROSS\Handmaiden</OutputPath>
+        <OutputFile GenWeights="false">TheKite_HM_oc03_closed</OutputFile>
+        <Shape target="cross_kite_hm_anchor01">cross_kite_hm_anchor01</Shape>
+        <Shape target="cross_kite_hm_anchor02">cross_kite_hm_anchor02</Shape>
+        <Shape target="cross_kite_hm_oc_belt_closed_low_3dc">cross_kite_hm_oc_belt_closed_low_3dc</Shape>
+        <Shape target="cross_kite_hm_oc_closed_rig4_2">cross_kite_hm_oc_closed_rig4_2</Shape>
+        <Slider name="Breasts" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2Breasts" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2Breasts</Data>
+        </Slider>
+        <Slider name="BreastsCleavage" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastsCleavage" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastsCleavage</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastsGone" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastsNewSH" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcBreastsSmall" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcBreastsSmall</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastsSmall" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcBreastsSmall2" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcBreastsSmall2</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastsSmall2" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastsTogether" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastTopSlope" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcBreastWidth" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcBreastWidth</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastWidth" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcButt" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcButt</Data>
+            <Data name="cross_kite_hm_anchor02Butt" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02Butt</Data>
+            <Data name="cross_kite_hm_anchor01Butt" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01Butt</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2Butt" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2Butt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcButtCrack" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcButtCrack</Data>
+            <Data name="cross_kite_hm_anchor02ButtCrack" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02ButtCrack</Data>
+            <Data name="cross_kite_hm_anchor01ButtCrack" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01ButtCrack</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2ButtCrack" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2ButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcButtNew" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcButtNew</Data>
+            <Data name="cross_kite_hm_anchor02ButtNew" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02ButtNew</Data>
+            <Data name="cross_kite_hm_anchor01ButtNew" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01ButtNew</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2ButtNew" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2ButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcButtShape2" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcButtShape2</Data>
+            <Data name="cross_kite_hm_anchor02ButtShape2" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02ButtShape2</Data>
+            <Data name="cross_kite_hm_anchor01ButtShape2" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01ButtShape2</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2ButtShape2" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2ButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcButtSmall" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcButtSmall</Data>
+            <Data name="cross_kite_hm_anchor02ButtSmall" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02ButtSmall</Data>
+            <Data name="cross_kite_hm_anchor01ButtSmall" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01ButtSmall</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2ButtSmall" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2ButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2CalfSize" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2CalfSmooth" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2CalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcChestDepth" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcChestDepth</Data>
+            <Data name="cross_kite_hm_anchor01ChestDepth" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01ChestDepth</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2ChestDepth" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2ChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcChestWidth" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcChestWidth</Data>
+            <Data name="cross_kite_hm_anchor02ChestWidth" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02ChestWidth</Data>
+            <Data name="cross_kite_hm_anchor01ChestWidth" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01ChestWidth</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2ChestWidth" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2ChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2ChubbyArms" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2ChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcChubbyButt" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcChubbyButt</Data>
+            <Data name="cross_kite_hm_anchor02ChubbyButt" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02ChubbyButt</Data>
+            <Data name="cross_kite_hm_anchor01ChubbyButt" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01ChubbyButt</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2ChubbyButt" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2ChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcChubbyLegs" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcChubbyLegs</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2ChubbyLegs" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2ChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcChubbyWaist" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcChubbyWaist</Data>
+            <Data name="cross_kite_hm_anchor02ChubbyWaist" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02ChubbyWaist</Data>
+            <Data name="cross_kite_hm_anchor01ChubbyWaist" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01ChubbyWaist</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2ChubbyWaist" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2ChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcCrotchBack" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcCrotchBack</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2CrotchBack" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2CrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2DoubleMelon" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2DoubleMelon</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2Groin" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2Groin</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcHipBack" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcHipBack</Data>
+            <Data name="cross_kite_hm_anchor02HipBack" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02HipBack</Data>
+            <Data name="cross_kite_hm_anchor01HipBack" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01HipBack</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2HipBack" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2HipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcHipBone" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcHipBone</Data>
+            <Data name="cross_kite_hm_anchor02HipBone" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02HipBone</Data>
+            <Data name="cross_kite_hm_anchor01HipBone" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01HipBone</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2HipBone" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2HipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcHips" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcHips</Data>
+            <Data name="cross_kite_hm_anchor02Hips" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02Hips</Data>
+            <Data name="cross_kite_hm_anchor01Hips" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01Hips</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2Hips" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2Hips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcHipUpperWidth" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcHipUpperWidth</Data>
+            <Data name="cross_kite_hm_anchor02HipUpperWidth" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02HipUpperWidth</Data>
+            <Data name="cross_kite_hm_anchor01HipUpperWidth" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01HipUpperWidth</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2HipUpperWidth" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2HipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2KneeHeight" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2KneeHeight</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2LegShape" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2LegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2LegsThin" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2LegsThin</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2NipBGone" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2NipBGone</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2NippleAreola" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2NippleDistance" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2NippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2NippleDown" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2NippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2NippleLength" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2NippleLength</Data>
+        </Slider>
+        <Slider name="NipplePerk2" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2NipplePerk2" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2NipplePerk2</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2NipplePerkiness" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2NippleSize" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2NippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2NippleTip" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2NippleTip</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2NippleUp" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2NippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcPregnancyBelly" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcPregnancyBelly</Data>
+            <Data name="cross_kite_hm_anchor02PregnancyBelly" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02PregnancyBelly</Data>
+            <Data name="cross_kite_hm_anchor01PregnancyBelly" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01PregnancyBelly</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2PregnancyBelly" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2PregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2PushUp" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2PushUp</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcRoundAss" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcRoundAss</Data>
+            <Data name="cross_kite_hm_anchor02RoundAss" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02RoundAss</Data>
+            <Data name="cross_kite_hm_anchor01RoundAss" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01RoundAss</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2RoundAss" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2RoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2ShoulderSmooth" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2ShoulderTweak" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2ShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2ShoulderWidth" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2ShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcSlimThighs" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcSlimThighs</Data>
+            <Data name="cross_kite_hm_anchor02SlimThighs" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02SlimThighs</Data>
+            <Data name="cross_kite_hm_anchor01SlimThighs" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01SlimThighs</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2SlimThighs" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2SlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2SternumDepth" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2SternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcSternumHeight" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcSternumHeight</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2SternumHeight" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2SternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2Thighs" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2Thighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcTummyTuck" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcTummyTuck</Data>
+            <Data name="cross_kite_hm_anchor02TummyTuck" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02TummyTuck</Data>
+            <Data name="cross_kite_hm_anchor01TummyTuck" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01TummyTuck</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2TummyTuck" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2TummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcVanillaFo4" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcVanillaFo4</Data>
+            <Data name="cross_kite_hm_anchor02VanillaFo4" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02VanillaFo4</Data>
+            <Data name="cross_kite_hm_anchor01VanillaFo4" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01VanillaFo4</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2VanillaFo4" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2VanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcWaist" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcWaist</Data>
+            <Data name="cross_kite_hm_anchor02Waist" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02Waist</Data>
+            <Data name="cross_kite_hm_anchor01Waist" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01Waist</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2Waist" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2Waist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcWaistHeight" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcWaistHeight</Data>
+            <Data name="cross_kite_hm_anchor02WaistHeight" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02WaistHeight</Data>
+            <Data name="cross_kite_hm_anchor01WaistHeight" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01WaistHeight</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2WaistHeight" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2WaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcWideWaistLine" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcWideWaistLine</Data>
+            <Data name="cross_kite_hm_anchor02WideWaistLine" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02WideWaistLine</Data>
+            <Data name="cross_kite_hm_anchor01WideWaistLine" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01WideWaistLine</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2WideWaistLine" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2WideWaistLine</Data>
+        </Slider>
+        <Slider name="Ankles" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2Ankles" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2Ankles</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcAppleCheeks" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcAppleCheeks</Data>
+            <Data name="cross_kite_hm_anchor02AppleCheeks" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02AppleCheeks</Data>
+            <Data name="cross_kite_hm_anchor01AppleCheeks" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01AppleCheeks</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2AppleCheeks" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2AppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2Arms" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2Arms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcBack" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcBack</Data>
+            <Data name="cross_kite_hm_anchor02Back" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02Back</Data>
+            <Data name="cross_kite_hm_anchor01Back" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01Back</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2Back" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2Back</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcBackArch" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcBackArch</Data>
+            <Data name="cross_kite_hm_anchor02BackArch" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02BackArch</Data>
+            <Data name="cross_kite_hm_anchor01BackArch" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01BackArch</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2BackArch" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcBelly" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcBelly</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2Belly" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2Belly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcBigBelly" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcBigBelly</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2BigBelly" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcBigButt" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcBigButt</Data>
+            <Data name="cross_kite_hm_anchor02BigButt" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02BigButt</Data>
+            <Data name="cross_kite_hm_anchor01BigButt" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01BigButt</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2BigButt" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcBigTorso" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcBigTorso</Data>
+            <Data name="cross_kite_hm_anchor02BigTorso" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02BigTorso</Data>
+            <Data name="cross_kite_hm_anchor01BigTorso" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01BigTorso</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2BigTorso" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastCenter" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastCenterBig" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastFantasy" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastFlatness2" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastGravity2" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcBreastHeight" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcBreastHeight</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastHeight" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcBreastPerkiness" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcBreastPerkiness</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2BreastPerkiness" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2BreastPerkiness</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2ArmpitHeight" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2ArmpitHeight</Data>
+        </Slider>
+        <Slider name="NippleShape" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2NippleShape" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2NippleShape</Data>
+        </Slider>
+        <Slider name="NippleTwistUp" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2NippleTwistUp" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2NippleTwistUp</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dc7B Upper" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dc7B Upper</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_27B Upper" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_27B Upper</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dc7B Lower" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dc7B Lower</Data>
+            <Data name="cross_kite_hm_anchor027B Lower" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor027B Lower</Data>
+            <Data name="cross_kite_hm_anchor017B Lower" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor017B Lower</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_27B Lower" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_27B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcMuscularChest" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcMuscularChest</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2MuscularChest" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2MuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcMuscularArms" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcMuscularArms</Data>
+            <Data name="cross_kite_hm_anchor02MuscularArms" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02MuscularArms</Data>
+            <Data name="cross_kite_hm_anchor01MuscularArms" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01MuscularArms</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2MuscularArms" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2MuscularArms</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_belt_closed_low_3dcMuscularButt" target="cross_kite_hm_oc_belt_closed_low_3dc" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_belt_closed_low_3dcMuscularButt</Data>
+            <Data name="cross_kite_hm_anchor02MuscularButt" target="cross_kite_hm_anchor02" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor02MuscularButt</Data>
+            <Data name="cross_kite_hm_anchor01MuscularButt" target="cross_kite_hm_anchor01" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_anchor01MuscularButt</Data>
+            <Data name="cross_kite_hm_oc_closed_rig4_2MuscularButt" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2MuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="cross_kite_hm_oc_closed_rig4_2MuscularLegs" target="cross_kite_hm_oc_closed_rig4_2" local="true">TheKite_HM_oc03_closed.osd\cross_kite_hm_oc_closed_rig4_2MuscularLegs</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

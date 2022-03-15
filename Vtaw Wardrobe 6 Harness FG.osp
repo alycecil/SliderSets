@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Harness FG">
+        <DataFolder>Vtaw Wardrobe 6 Harness FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Harness FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Harness</OutputPath>
+        <OutputFile GenWeights="false">Harness</OutputFile>
+        <Shape target="harness">harness</Shape>
+        <Shape target="metal">metal</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="harnessBelly Pregnant" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="metalBelly Big" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBelly Big</Data>
+            <Data name="harnessBelly Big" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="harnessBelly Size" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="metalBoobs Yuge" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBoobs Yuge</Data>
+            <Data name="harnessBoobs Yuge" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="metalBoobs Big" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBoobs Big</Data>
+            <Data name="harnessBoobs Big" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="metalBoobs Cleavage" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBoobs Cleavage</Data>
+            <Data name="harnessBoobs Cleavage" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="metalBoobs Flat" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBoobs Flat</Data>
+            <Data name="harnessBoobs Flat" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="metalBoobs Gravity" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBoobs Gravity</Data>
+            <Data name="harnessBoobs Gravity" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="metalBoobs Height" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBoobs Height</Data>
+            <Data name="harnessBoobs Height" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="metalBoobs Mellons" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBoobs Mellons</Data>
+            <Data name="harnessBoobs Mellons" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="metalBoobs Perky" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBoobs Perky</Data>
+            <Data name="harnessBoobs Perky" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="metalBoobs Push Up" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBoobs Push Up</Data>
+            <Data name="harnessBoobs Push Up" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="metalBoobs Small" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBoobs Small</Data>
+            <Data name="harnessBoobs Small" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="metalBoobs Together" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBoobs Together</Data>
+            <Data name="harnessBoobs Together" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="metalBoobs Top Slope" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBoobs Top Slope</Data>
+            <Data name="harnessBoobs Top Slope" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="metalBoobs Width" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBoobs Width</Data>
+            <Data name="harnessBoobs Width" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="metalBoobs Tiny" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBoobs Tiny</Data>
+            <Data name="harnessBoobs Tiny" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="metalNipples Distance" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalNipples Distance</Data>
+            <Data name="harnessNipples Distance" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="harnessNipples Down" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="harnessNipples Perkiness" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="harnessNipples Up" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="metalChest Depth" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalChest Depth</Data>
+            <Data name="harnessChest Depth" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="metalChest Width" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalChest Width</Data>
+            <Data name="harnessChest Width" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="metalWaist Chubby" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalWaist Chubby</Data>
+            <Data name="harnessWaist Chubby" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="metalWaist Size" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalWaist Size</Data>
+            <Data name="harnessWaist Size" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="metalWaist Height" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalWaist Height</Data>
+            <Data name="harnessWaist Height" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="metalWaist Line" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="metalBack Size" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBack Size</Data>
+            <Data name="harnessBack Size" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="metalBack Arch" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBack Arch</Data>
+            <Data name="harnessBack Arch" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="metalHips Upper Width" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalHips Upper Width</Data>
+            <Data name="harnessHips Upper Width" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="metalBum Apple" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBum Apple</Data>
+            <Data name="harnessBum Apple" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="harnessLegs Chubby" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessLegs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="metalArms Chubby" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalArms Chubby</Data>
+            <Data name="harnessArms Chubby" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="metalShoulder Smooth" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalShoulder Smooth</Data>
+            <Data name="harnessShoulder Smooth" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="metalShoulder Tweak" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalShoulder Tweak</Data>
+            <Data name="harnessShoulder Tweak" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="metalArms Size" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalArms Size</Data>
+            <Data name="harnessArms Size" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="metalArmpit Ajustment" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalArmpit Ajustment</Data>
+            <Data name="harnessArmpit Ajustment" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="metalTorso Size" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalTorso Size</Data>
+            <Data name="harnessTorso Size" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="metalSturnum Depth" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalSturnum Depth</Data>
+            <Data name="harnessSturnum Depth" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="metalSturnum Height" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalSturnum Height</Data>
+            <Data name="harnessSturnum Height" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="metalGroin Position" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalGroin Position</Data>
+            <Data name="harnessGroin Position" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="metalGroin Back" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalGroin Back</Data>
+            <Data name="harnessGroin Back" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="harnessAbDefinition" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="metalBody Toning" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBody Toning</Data>
+            <Data name="harnessBody Toning" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="metalTigerSanBB" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalTigerSanBB</Data>
+            <Data name="harnessTigerSanBB" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="harnessXunAbs" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="metalFFB Fitness 2" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalFFB Fitness 2</Data>
+            <Data name="harnessFFB Fitness 2" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="metalAthletic" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalAthletic</Data>
+            <Data name="harnessAthletic" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="metalSeveNBase Bombshell" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalSeveNBase Bombshell</Data>
+            <Data name="harnessSeveNBase Bombshell" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="metalShoulder Width" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalShoulder Width</Data>
+            <Data name="harnessShoulder Width" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="metalBodyFat" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBodyFat</Data>
+            <Data name="harnessBodyFat" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBodyFat</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="metalButtThin" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalButtThin</Data>
+            <Data name="harnessButtThin" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessButtThin</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="metalHipRotateForward" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalHipRotateForward</Data>
+            <Data name="harnessHipRotateForward" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="metalBreastArmpitin" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBreastArmpitin</Data>
+            <Data name="harnessBreastArmpitin" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="metalBreastArmpitWide" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBreastArmpitWide</Data>
+            <Data name="harnessBreastArmpitWide" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="metalBreastCurve" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBreastCurve</Data>
+            <Data name="harnessBreastCurve" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="metalBreastHeight2" target="metal" local="true">Vtaw Wardrobe 6 Harness FG.osd\metalBreastHeight2</Data>
+            <Data name="harnessBreastHeight2" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="harnessBreastConcave" target="harness" local="true">Vtaw Wardrobe 6 Harness FG.osd\harnessBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

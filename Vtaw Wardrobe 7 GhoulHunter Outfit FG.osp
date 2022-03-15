@@ -1,0 +1,895 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 GhoulHunter Outfit FG">
+        <DataFolder>Vtaw Wardrobe 7 GhoulHunter Outfit FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 GhoulHunter Outfit FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\GhoulHunter</OutputPath>
+        <OutputFile GenWeights="false">GhoulHunterOutfit</OutputFile>
+        <Shape target="Belt">Belt</Shape>
+        <Shape target="Belt2">Belt2</Shape>
+        <Shape target="Belt3">Belt3</Shape>
+        <Shape target="Belt4">Belt4</Shape>
+        <Shape target="Belt5">Belt5</Shape>
+        <Shape target="Laces">Laces</Shape>
+        <Shape target="Metal">Metal</Shape>
+        <Shape target="Metal2">Metal2</Shape>
+        <Shape target="Metal3">Metal3</Shape>
+        <Shape target="Metal4">Metal4</Shape>
+        <Shape target="Metal5">Metal5</Shape>
+        <Shape target="Metal6">Metal6</Shape>
+        <Shape target="Metal7">Metal7</Shape>
+        <Shape target="Skirt Back">Skirt Back</Shape>
+        <Shape target="Skirt Sides">Skirt Sides</Shape>
+        <Shape target="TopBack">TopBack</Shape>
+        <Shape target="TopF">TopF</Shape>
+        <Shape target="TopF2">TopF2</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="TopFBelly Pregnant" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBelly Pregnant</Data>
+            <Data name="TopBackBelly Pregnant" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBelly Pregnant</Data>
+            <Data name="TopF2Belly Pregnant" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Belly Pregnant</Data>
+            <Data name="Skirt SidesBelly Pregnant" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBelly Pregnant</Data>
+            <Data name="MetalBelly Pregnant" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBelly Pregnant</Data>
+            <Data name="Metal7Belly Pregnant" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Belly Pregnant</Data>
+            <Data name="LacesBelly Pregnant" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="TopFBelly Big" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBelly Big</Data>
+            <Data name="TopBackBelly Big" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBelly Big</Data>
+            <Data name="TopF2Belly Big" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Belly Big</Data>
+            <Data name="Skirt SidesBelly Big" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBelly Big</Data>
+            <Data name="MetalBelly Big" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBelly Big</Data>
+            <Data name="Belt2Belly Big" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Belly Big</Data>
+            <Data name="Metal3Belly Big" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Belly Big</Data>
+            <Data name="Metal7Belly Big" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Belly Big</Data>
+            <Data name="LacesBelly Big" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="TopFBelly Size" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBelly Size</Data>
+            <Data name="TopBackBelly Size" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBelly Size</Data>
+            <Data name="TopF2Belly Size" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Belly Size</Data>
+            <Data name="Skirt SidesBelly Size" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBelly Size</Data>
+            <Data name="MetalBelly Size" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBelly Size</Data>
+            <Data name="Metal7Belly Size" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Belly Size</Data>
+            <Data name="LacesBelly Size" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="TopFBelly Tuck" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBelly Tuck</Data>
+            <Data name="TopF2Belly Tuck" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Belly Tuck</Data>
+            <Data name="Skirt SidesBelly Tuck" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Skirt BackBoobs Yuge" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBoobs Yuge</Data>
+            <Data name="TopFBoobs Yuge" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBoobs Yuge</Data>
+            <Data name="TopBackBoobs Yuge" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBoobs Yuge</Data>
+            <Data name="TopF2Boobs Yuge" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Boobs Yuge</Data>
+            <Data name="Skirt SidesBoobs Yuge" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBoobs Yuge</Data>
+            <Data name="MetalBoobs Yuge" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBoobs Yuge</Data>
+            <Data name="Belt2Boobs Yuge" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Boobs Yuge</Data>
+            <Data name="Belt3Boobs Yuge" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Boobs Yuge</Data>
+            <Data name="Metal2Boobs Yuge" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Boobs Yuge</Data>
+            <Data name="Belt5Boobs Yuge" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Boobs Yuge</Data>
+            <Data name="Metal3Boobs Yuge" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Boobs Yuge</Data>
+            <Data name="Metal6Boobs Yuge" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Boobs Yuge</Data>
+            <Data name="Metal7Boobs Yuge" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Boobs Yuge</Data>
+            <Data name="LacesBoobs Yuge" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Skirt BackBoobs Big" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBoobs Big</Data>
+            <Data name="TopFBoobs Big" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBoobs Big</Data>
+            <Data name="TopBackBoobs Big" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBoobs Big</Data>
+            <Data name="TopF2Boobs Big" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Boobs Big</Data>
+            <Data name="Skirt SidesBoobs Big" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBoobs Big</Data>
+            <Data name="MetalBoobs Big" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBoobs Big</Data>
+            <Data name="Belt2Boobs Big" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Boobs Big</Data>
+            <Data name="Belt3Boobs Big" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Boobs Big</Data>
+            <Data name="Metal3Boobs Big" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Boobs Big</Data>
+            <Data name="Metal6Boobs Big" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Boobs Big</Data>
+            <Data name="Metal7Boobs Big" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Boobs Big</Data>
+            <Data name="LacesBoobs Big" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="TopFBoobs Cleavage" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBoobs Cleavage</Data>
+            <Data name="TopF2Boobs Cleavage" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Boobs Cleavage</Data>
+            <Data name="BeltBoobs Cleavage" target="Belt" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\BeltBoobs Cleavage</Data>
+            <Data name="MetalBoobs Cleavage" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBoobs Cleavage</Data>
+            <Data name="Belt2Boobs Cleavage" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Boobs Cleavage</Data>
+            <Data name="Metal2Boobs Cleavage" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Boobs Cleavage</Data>
+            <Data name="Belt5Boobs Cleavage" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Boobs Cleavage</Data>
+            <Data name="Metal3Boobs Cleavage" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Boobs Cleavage</Data>
+            <Data name="Metal4Boobs Cleavage" target="Metal4" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal4Boobs Cleavage</Data>
+            <Data name="Metal7Boobs Cleavage" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Boobs Cleavage</Data>
+            <Data name="LacesBoobs Cleavage" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="TopFBoobs Flat" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBoobs Flat</Data>
+            <Data name="TopF2Boobs Flat" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Boobs Flat</Data>
+            <Data name="Belt2Boobs Flat" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Boobs Flat</Data>
+            <Data name="Metal2Boobs Flat" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Boobs Flat</Data>
+            <Data name="Belt5Boobs Flat" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Boobs Flat</Data>
+            <Data name="Metal3Boobs Flat" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Boobs Flat</Data>
+            <Data name="Metal7Boobs Flat" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Boobs Flat</Data>
+            <Data name="LacesBoobs Flat" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Skirt BackBoobs Gravity" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBoobs Gravity</Data>
+            <Data name="TopFBoobs Gravity" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBoobs Gravity</Data>
+            <Data name="TopBackBoobs Gravity" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBoobs Gravity</Data>
+            <Data name="TopF2Boobs Gravity" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Boobs Gravity</Data>
+            <Data name="Skirt SidesBoobs Gravity" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBoobs Gravity</Data>
+            <Data name="MetalBoobs Gravity" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBoobs Gravity</Data>
+            <Data name="Belt2Boobs Gravity" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Boobs Gravity</Data>
+            <Data name="Belt3Boobs Gravity" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Boobs Gravity</Data>
+            <Data name="Metal2Boobs Gravity" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Boobs Gravity</Data>
+            <Data name="Belt5Boobs Gravity" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Boobs Gravity</Data>
+            <Data name="Metal3Boobs Gravity" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Boobs Gravity</Data>
+            <Data name="Metal6Boobs Gravity" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Boobs Gravity</Data>
+            <Data name="Metal7Boobs Gravity" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Boobs Gravity</Data>
+            <Data name="LacesBoobs Gravity" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="TopFBoobs Height" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBoobs Height</Data>
+            <Data name="TopBackBoobs Height" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBoobs Height</Data>
+            <Data name="TopF2Boobs Height" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Boobs Height</Data>
+            <Data name="MetalBoobs Height" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBoobs Height</Data>
+            <Data name="Belt2Boobs Height" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Boobs Height</Data>
+            <Data name="Metal2Boobs Height" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Boobs Height</Data>
+            <Data name="Belt5Boobs Height" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Boobs Height</Data>
+            <Data name="Metal3Boobs Height" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Boobs Height</Data>
+            <Data name="Metal7Boobs Height" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Boobs Height</Data>
+            <Data name="LacesBoobs Height" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Skirt BackBoobs Mellons" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBoobs Mellons</Data>
+            <Data name="TopFBoobs Mellons" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBoobs Mellons</Data>
+            <Data name="TopBackBoobs Mellons" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBoobs Mellons</Data>
+            <Data name="TopF2Boobs Mellons" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Boobs Mellons</Data>
+            <Data name="Skirt SidesBoobs Mellons" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBoobs Mellons</Data>
+            <Data name="MetalBoobs Mellons" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBoobs Mellons</Data>
+            <Data name="Belt2Boobs Mellons" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Boobs Mellons</Data>
+            <Data name="Belt3Boobs Mellons" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Boobs Mellons</Data>
+            <Data name="Metal2Boobs Mellons" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Boobs Mellons</Data>
+            <Data name="Belt5Boobs Mellons" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Boobs Mellons</Data>
+            <Data name="Metal3Boobs Mellons" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Boobs Mellons</Data>
+            <Data name="Metal6Boobs Mellons" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Boobs Mellons</Data>
+            <Data name="Metal7Boobs Mellons" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Boobs Mellons</Data>
+            <Data name="LacesBoobs Mellons" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Skirt BackBoobs Perky" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBoobs Perky</Data>
+            <Data name="TopFBoobs Perky" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBoobs Perky</Data>
+            <Data name="TopBackBoobs Perky" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBoobs Perky</Data>
+            <Data name="TopF2Boobs Perky" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Boobs Perky</Data>
+            <Data name="Skirt SidesBoobs Perky" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBoobs Perky</Data>
+            <Data name="MetalBoobs Perky" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBoobs Perky</Data>
+            <Data name="Belt2Boobs Perky" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Boobs Perky</Data>
+            <Data name="Belt3Boobs Perky" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Boobs Perky</Data>
+            <Data name="Metal2Boobs Perky" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Boobs Perky</Data>
+            <Data name="Belt5Boobs Perky" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Boobs Perky</Data>
+            <Data name="Metal3Boobs Perky" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Boobs Perky</Data>
+            <Data name="Metal6Boobs Perky" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Boobs Perky</Data>
+            <Data name="Metal7Boobs Perky" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Boobs Perky</Data>
+            <Data name="LacesBoobs Perky" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Skirt BackBoobs Push Up" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBoobs Push Up</Data>
+            <Data name="TopFBoobs Push Up" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBoobs Push Up</Data>
+            <Data name="TopBackBoobs Push Up" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBoobs Push Up</Data>
+            <Data name="TopF2Boobs Push Up" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Boobs Push Up</Data>
+            <Data name="Skirt SidesBoobs Push Up" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBoobs Push Up</Data>
+            <Data name="MetalBoobs Push Up" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBoobs Push Up</Data>
+            <Data name="Belt2Boobs Push Up" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Boobs Push Up</Data>
+            <Data name="Belt3Boobs Push Up" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Boobs Push Up</Data>
+            <Data name="Metal2Boobs Push Up" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Boobs Push Up</Data>
+            <Data name="Belt5Boobs Push Up" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Boobs Push Up</Data>
+            <Data name="Metal3Boobs Push Up" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Boobs Push Up</Data>
+            <Data name="Metal6Boobs Push Up" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Boobs Push Up</Data>
+            <Data name="Metal7Boobs Push Up" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Boobs Push Up</Data>
+            <Data name="LacesBoobs Push Up" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="TopFBoobs Small" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBoobs Small</Data>
+            <Data name="TopF2Boobs Small" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Boobs Small</Data>
+            <Data name="Belt2Boobs Small" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Boobs Small</Data>
+            <Data name="Metal3Boobs Small" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Boobs Small</Data>
+            <Data name="Metal7Boobs Small" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Boobs Small</Data>
+            <Data name="LacesBoobs Small" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="TopFBoobs Together" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBoobs Together</Data>
+            <Data name="TopF2Boobs Together" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Boobs Together</Data>
+            <Data name="MetalBoobs Together" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBoobs Together</Data>
+            <Data name="Belt2Boobs Together" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Boobs Together</Data>
+            <Data name="Metal2Boobs Together" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Boobs Together</Data>
+            <Data name="Belt5Boobs Together" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Boobs Together</Data>
+            <Data name="Metal3Boobs Together" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Boobs Together</Data>
+            <Data name="Metal4Boobs Together" target="Metal4" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal4Boobs Together</Data>
+            <Data name="Metal7Boobs Together" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Boobs Together</Data>
+            <Data name="LacesBoobs Together" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="Skirt BackBoobs Top Slope" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBoobs Top Slope</Data>
+            <Data name="TopFBoobs Top Slope" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBoobs Top Slope</Data>
+            <Data name="TopBackBoobs Top Slope" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBoobs Top Slope</Data>
+            <Data name="TopF2Boobs Top Slope" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Boobs Top Slope</Data>
+            <Data name="Skirt SidesBoobs Top Slope" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBoobs Top Slope</Data>
+            <Data name="MetalBoobs Top Slope" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBoobs Top Slope</Data>
+            <Data name="Belt2Boobs Top Slope" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Boobs Top Slope</Data>
+            <Data name="Belt3Boobs Top Slope" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Boobs Top Slope</Data>
+            <Data name="Metal2Boobs Top Slope" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Boobs Top Slope</Data>
+            <Data name="Belt5Boobs Top Slope" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Boobs Top Slope</Data>
+            <Data name="Metal3Boobs Top Slope" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Boobs Top Slope</Data>
+            <Data name="Metal6Boobs Top Slope" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Boobs Top Slope</Data>
+            <Data name="Metal7Boobs Top Slope" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Boobs Top Slope</Data>
+            <Data name="LacesBoobs Top Slope" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="TopFBoobs Width" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBoobs Width</Data>
+            <Data name="TopF2Boobs Width" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Boobs Width</Data>
+            <Data name="Belt2Boobs Width" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Boobs Width</Data>
+            <Data name="Metal2Boobs Width" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Boobs Width</Data>
+            <Data name="Belt5Boobs Width" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Boobs Width</Data>
+            <Data name="Metal3Boobs Width" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Boobs Width</Data>
+            <Data name="Metal7Boobs Width" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Boobs Width</Data>
+            <Data name="LacesBoobs Width" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Skirt BackBoobs Tiny" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBoobs Tiny</Data>
+            <Data name="TopFBoobs Tiny" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBoobs Tiny</Data>
+            <Data name="TopBackBoobs Tiny" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBoobs Tiny</Data>
+            <Data name="TopF2Boobs Tiny" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Boobs Tiny</Data>
+            <Data name="Skirt SidesBoobs Tiny" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBoobs Tiny</Data>
+            <Data name="MetalBoobs Tiny" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBoobs Tiny</Data>
+            <Data name="Belt2Boobs Tiny" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Boobs Tiny</Data>
+            <Data name="Belt3Boobs Tiny" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Boobs Tiny</Data>
+            <Data name="Metal2Boobs Tiny" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Boobs Tiny</Data>
+            <Data name="Belt5Boobs Tiny" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Boobs Tiny</Data>
+            <Data name="Metal3Boobs Tiny" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Boobs Tiny</Data>
+            <Data name="Metal6Boobs Tiny" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Boobs Tiny</Data>
+            <Data name="Metal7Boobs Tiny" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Boobs Tiny</Data>
+            <Data name="LacesBoobs Tiny" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="TopFNipples Length" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFNipples Length</Data>
+            <Data name="TopF2Nipples Length" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Nipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="TopFNipples Areola" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFNipples Areola</Data>
+            <Data name="TopF2Nipples Areola" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Nipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="TopFNipples Distance" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFNipples Distance</Data>
+            <Data name="TopF2Nipples Distance" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Nipples Distance</Data>
+            <Data name="Belt2Nipples Distance" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Nipples Distance</Data>
+            <Data name="Metal3Nipples Distance" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Nipples Distance</Data>
+            <Data name="Metal7Nipples Distance" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Nipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="TopFNipples Down" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFNipples Down</Data>
+            <Data name="TopF2Nipples Down" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Nipples Down</Data>
+            <Data name="Belt2Nipples Down" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Nipples Down</Data>
+            <Data name="Metal3Nipples Down" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Nipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="TopFNipples Gone" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFNipples Gone</Data>
+            <Data name="TopF2Nipples Gone" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Nipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="TopFNipples Shape" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFNipples Shape</Data>
+            <Data name="TopF2Nipples Shape" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Nipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="TopFNipples Size" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFNipples Size</Data>
+            <Data name="TopF2Nipples Size" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Nipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="TopFNipples Perkiness" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFNipples Perkiness</Data>
+            <Data name="TopF2Nipples Perkiness" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Nipples Perkiness</Data>
+            <Data name="Belt2Nipples Perkiness" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Nipples Perkiness</Data>
+            <Data name="Metal3Nipples Perkiness" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Nipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="TopFNipples Puffy" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFNipples Puffy</Data>
+            <Data name="TopF2Nipples Puffy" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Nipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="TopFNipples Up" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFNipples Up</Data>
+            <Data name="TopF2Nipples Up" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Nipples Up</Data>
+            <Data name="Belt2Nipples Up" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Nipples Up</Data>
+            <Data name="Metal3Nipples Up" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Nipples Up</Data>
+            <Data name="Metal7Nipples Up" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Nipples Up</Data>
+            <Data name="LacesNipples Up" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesNipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="TopFNipples Tip" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFNipples Tip</Data>
+            <Data name="TopF2Nipples Tip" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Nipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="TopFChest Depth" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFChest Depth</Data>
+            <Data name="TopBackChest Depth" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackChest Depth</Data>
+            <Data name="TopF2Chest Depth" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Chest Depth</Data>
+            <Data name="MetalChest Depth" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalChest Depth</Data>
+            <Data name="Belt2Chest Depth" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Chest Depth</Data>
+            <Data name="Metal2Chest Depth" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Chest Depth</Data>
+            <Data name="Belt5Chest Depth" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Chest Depth</Data>
+            <Data name="Metal3Chest Depth" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Chest Depth</Data>
+            <Data name="Metal7Chest Depth" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Chest Depth</Data>
+            <Data name="LacesChest Depth" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="Skirt BackChest Width" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackChest Width</Data>
+            <Data name="TopFChest Width" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFChest Width</Data>
+            <Data name="TopBackChest Width" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackChest Width</Data>
+            <Data name="TopF2Chest Width" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Chest Width</Data>
+            <Data name="Skirt SidesChest Width" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesChest Width</Data>
+            <Data name="Metal7Chest Width" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Chest Width</Data>
+            <Data name="LacesChest Width" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="Skirt BackWaist Chubby" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackWaist Chubby</Data>
+            <Data name="TopFWaist Chubby" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFWaist Chubby</Data>
+            <Data name="TopBackWaist Chubby" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackWaist Chubby</Data>
+            <Data name="TopF2Waist Chubby" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Waist Chubby</Data>
+            <Data name="Skirt SidesWaist Chubby" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesWaist Chubby</Data>
+            <Data name="MetalWaist Chubby" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalWaist Chubby</Data>
+            <Data name="Metal7Waist Chubby" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Waist Chubby</Data>
+            <Data name="LacesWaist Chubby" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="Skirt BackWaist Size" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackWaist Size</Data>
+            <Data name="TopFWaist Size" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFWaist Size</Data>
+            <Data name="TopBackWaist Size" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackWaist Size</Data>
+            <Data name="TopF2Waist Size" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Waist Size</Data>
+            <Data name="Skirt SidesWaist Size" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesWaist Size</Data>
+            <Data name="MetalWaist Size" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalWaist Size</Data>
+            <Data name="Metal7Waist Size" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Waist Size</Data>
+            <Data name="LacesWaist Size" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="Skirt BackWaist Height" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackWaist Height</Data>
+            <Data name="TopFWaist Height" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFWaist Height</Data>
+            <Data name="TopBackWaist Height" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackWaist Height</Data>
+            <Data name="TopF2Waist Height" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Waist Height</Data>
+            <Data name="Skirt SidesWaist Height" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesWaist Height</Data>
+            <Data name="MetalWaist Height" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalWaist Height</Data>
+            <Data name="Metal7Waist Height" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Waist Height</Data>
+            <Data name="LacesWaist Height" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="Skirt BackWaist Line" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackWaist Line</Data>
+            <Data name="TopFWaist Line" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFWaist Line</Data>
+            <Data name="TopBackWaist Line" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackWaist Line</Data>
+            <Data name="TopF2Waist Line" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Waist Line</Data>
+            <Data name="Skirt SidesWaist Line" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesWaist Line</Data>
+            <Data name="Metal7Waist Line" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Waist Line</Data>
+            <Data name="LacesWaist Line" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="Skirt BackBack Size" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBack Size</Data>
+            <Data name="TopFBack Size" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBack Size</Data>
+            <Data name="TopBackBack Size" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBack Size</Data>
+            <Data name="TopF2Back Size" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Back Size</Data>
+            <Data name="Skirt SidesBack Size" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBack Size</Data>
+            <Data name="Metal7Back Size" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Back Size</Data>
+            <Data name="LacesBack Size" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="Skirt BackBack Arch" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBack Arch</Data>
+            <Data name="TopFBack Arch" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBack Arch</Data>
+            <Data name="TopBackBack Arch" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBack Arch</Data>
+            <Data name="Metal7Back Arch" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Back Arch</Data>
+            <Data name="LacesBack Arch" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="Skirt BackHips Bone" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackHips Bone</Data>
+            <Data name="TopFHips Bone" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFHips Bone</Data>
+            <Data name="TopBackHips Bone" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackHips Bone</Data>
+            <Data name="TopF2Hips Bone" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Hips Bone</Data>
+            <Data name="Skirt SidesHips Bone" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesHips Bone</Data>
+            <Data name="Metal7Hips Bone" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Hips Bone</Data>
+            <Data name="LacesHips Bone" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="Skirt BackHips Size" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackHips Size</Data>
+            <Data name="TopFHips Size" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFHips Size</Data>
+            <Data name="TopBackHips Size" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackHips Size</Data>
+            <Data name="TopF2Hips Size" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Hips Size</Data>
+            <Data name="Skirt SidesHips Size" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesHips Size</Data>
+            <Data name="Metal7Hips Size" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Hips Size</Data>
+            <Data name="LacesHips Size" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="Skirt BackHips Upper Width" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackHips Upper Width</Data>
+            <Data name="TopFHips Upper Width" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFHips Upper Width</Data>
+            <Data name="TopBackHips Upper Width" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackHips Upper Width</Data>
+            <Data name="TopF2Hips Upper Width" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Hips Upper Width</Data>
+            <Data name="Skirt SidesHips Upper Width" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesHips Upper Width</Data>
+            <Data name="Metal7Hips Upper Width" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Hips Upper Width</Data>
+            <Data name="LacesHips Upper Width" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="Skirt BackBum Size" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBum Size</Data>
+            <Data name="TopFBum Size" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBum Size</Data>
+            <Data name="TopBackBum Size" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBum Size</Data>
+            <Data name="TopF2Bum Size" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Bum Size</Data>
+            <Data name="Skirt SidesBum Size" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBum Size</Data>
+            <Data name="Metal7Bum Size" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Bum Size</Data>
+            <Data name="LacesBum Size" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="Skirt BackBum Crack" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBum Crack</Data>
+            <Data name="TopBackBum Crack" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="Skirt BackBum Shape 1" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBum Shape 1</Data>
+            <Data name="TopFBum Shape 1" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBum Shape 1</Data>
+            <Data name="TopBackBum Shape 1" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBum Shape 1</Data>
+            <Data name="TopF2Bum Shape 1" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Bum Shape 1</Data>
+            <Data name="Skirt SidesBum Shape 1" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBum Shape 1</Data>
+            <Data name="MetalBum Shape 1" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBum Shape 1</Data>
+            <Data name="Metal7Bum Shape 1" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Bum Shape 1</Data>
+            <Data name="LacesBum Shape 1" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="Skirt BackBum Shape 2" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBum Shape 2</Data>
+            <Data name="TopFBum Shape 2" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBum Shape 2</Data>
+            <Data name="TopBackBum Shape 2" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBum Shape 2</Data>
+            <Data name="TopF2Bum Shape 2" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Bum Shape 2</Data>
+            <Data name="Skirt SidesBum Shape 2" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBum Shape 2</Data>
+            <Data name="MetalBum Shape 2" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBum Shape 2</Data>
+            <Data name="Metal7Bum Shape 2" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Bum Shape 2</Data>
+            <Data name="LacesBum Shape 2" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="Skirt BackBum Small" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBum Small</Data>
+            <Data name="TopFBum Small" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBum Small</Data>
+            <Data name="TopBackBum Small" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBum Small</Data>
+            <Data name="TopF2Bum Small" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Bum Small</Data>
+            <Data name="Skirt SidesBum Small" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBum Small</Data>
+            <Data name="MetalBum Small" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBum Small</Data>
+            <Data name="Metal7Bum Small" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Bum Small</Data>
+            <Data name="LacesBum Small" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="Skirt BackBum Chubby" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBum Chubby</Data>
+            <Data name="TopFBum Chubby" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBum Chubby</Data>
+            <Data name="TopBackBum Chubby" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBum Chubby</Data>
+            <Data name="TopF2Bum Chubby" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Bum Chubby</Data>
+            <Data name="Skirt SidesBum Chubby" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBum Chubby</Data>
+            <Data name="Metal7Bum Chubby" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Bum Chubby</Data>
+            <Data name="LacesBum Chubby" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="Skirt BackBum Round" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBum Round</Data>
+            <Data name="TopBackBum Round" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBum Round</Data>
+            <Data name="TopF2Bum Round" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Bum Round</Data>
+            <Data name="Skirt SidesBum Round" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBum Round</Data>
+            <Data name="Metal7Bum Round" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Bum Round</Data>
+            <Data name="LacesBum Round" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="Skirt BackBum Apple" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBum Apple</Data>
+            <Data name="TopFBum Apple" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBum Apple</Data>
+            <Data name="TopBackBum Apple" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBum Apple</Data>
+            <Data name="TopF2Bum Apple" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Bum Apple</Data>
+            <Data name="Skirt SidesBum Apple" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBum Apple</Data>
+            <Data name="MetalBum Apple" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBum Apple</Data>
+            <Data name="Metal7Bum Apple" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Bum Apple</Data>
+            <Data name="LacesBum Apple" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="Skirt BackCalf Size" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackCalf Size</Data>
+            <Data name="Skirt SidesCalf Size" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="Skirt BackCalf Small" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackCalf Small</Data>
+            <Data name="Skirt SidesCalf Small" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="Skirt BackLegs Chubby" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackLegs Chubby</Data>
+            <Data name="TopFLegs Chubby" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFLegs Chubby</Data>
+            <Data name="TopBackLegs Chubby" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackLegs Chubby</Data>
+            <Data name="TopF2Legs Chubby" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Legs Chubby</Data>
+            <Data name="Skirt SidesLegs Chubby" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesLegs Chubby</Data>
+            <Data name="MetalLegs Chubby" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalLegs Chubby</Data>
+            <Data name="Metal7Legs Chubby" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Legs Chubby</Data>
+            <Data name="LacesLegs Chubby" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="Skirt BackLegs Shape" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackLegs Shape</Data>
+            <Data name="TopBackLegs Shape" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackLegs Shape</Data>
+            <Data name="Skirt SidesLegs Shape" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesLegs Shape</Data>
+            <Data name="LacesLegs Shape" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="Skirt BackLegs Thin" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackLegs Thin</Data>
+            <Data name="Skirt SidesLegs Thin" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesLegs Thin</Data>
+            <Data name="LacesLegs Thin" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="Skirt BackThighs Slim" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackThighs Slim</Data>
+            <Data name="TopFThighs Slim" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFThighs Slim</Data>
+            <Data name="TopBackThighs Slim" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackThighs Slim</Data>
+            <Data name="TopF2Thighs Slim" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Thighs Slim</Data>
+            <Data name="Skirt SidesThighs Slim" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesThighs Slim</Data>
+            <Data name="Metal7Thighs Slim" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Thighs Slim</Data>
+            <Data name="LacesThighs Slim" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="Skirt BackThighs Size" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackThighs Size</Data>
+            <Data name="TopFThighs Size" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFThighs Size</Data>
+            <Data name="TopBackThighs Size" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackThighs Size</Data>
+            <Data name="TopF2Thighs Size" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Thighs Size</Data>
+            <Data name="Skirt SidesThighs Size" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesThighs Size</Data>
+            <Data name="LacesThighs Size" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="Skirt BackAnkle Size" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackAnkle Size</Data>
+            <Data name="Skirt SidesAnkle Size" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="TopFArms Chubby" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFArms Chubby</Data>
+            <Data name="TopBackArms Chubby" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackArms Chubby</Data>
+            <Data name="TopF2Arms Chubby" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Arms Chubby</Data>
+            <Data name="Belt2Arms Chubby" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Arms Chubby</Data>
+            <Data name="Belt3Arms Chubby" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Arms Chubby</Data>
+            <Data name="Metal2Arms Chubby" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Arms Chubby</Data>
+            <Data name="Belt5Arms Chubby" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Arms Chubby</Data>
+            <Data name="Metal3Arms Chubby" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Arms Chubby</Data>
+            <Data name="Metal6Arms Chubby" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Arms Chubby</Data>
+            <Data name="Metal7Arms Chubby" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Arms Chubby</Data>
+            <Data name="LacesArms Chubby" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="TopFShoulder Smooth" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFShoulder Smooth</Data>
+            <Data name="TopBackShoulder Smooth" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackShoulder Smooth</Data>
+            <Data name="TopF2Shoulder Smooth" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Shoulder Smooth</Data>
+            <Data name="Belt2Shoulder Smooth" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Shoulder Smooth</Data>
+            <Data name="Belt3Shoulder Smooth" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Shoulder Smooth</Data>
+            <Data name="Metal2Shoulder Smooth" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Shoulder Smooth</Data>
+            <Data name="Belt5Shoulder Smooth" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Shoulder Smooth</Data>
+            <Data name="Metal3Shoulder Smooth" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Shoulder Smooth</Data>
+            <Data name="Metal6Shoulder Smooth" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="TopFShoulder Tweak" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFShoulder Tweak</Data>
+            <Data name="TopBackShoulder Tweak" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackShoulder Tweak</Data>
+            <Data name="TopF2Shoulder Tweak" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Shoulder Tweak</Data>
+            <Data name="Belt2Shoulder Tweak" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Shoulder Tweak</Data>
+            <Data name="Belt3Shoulder Tweak" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Shoulder Tweak</Data>
+            <Data name="Metal2Shoulder Tweak" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Shoulder Tweak</Data>
+            <Data name="Belt5Shoulder Tweak" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Shoulder Tweak</Data>
+            <Data name="Metal3Shoulder Tweak" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Shoulder Tweak</Data>
+            <Data name="Metal6Shoulder Tweak" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Shoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="TopFArms Size" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFArms Size</Data>
+            <Data name="TopBackArms Size" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackArms Size</Data>
+            <Data name="TopF2Arms Size" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Arms Size</Data>
+            <Data name="Belt2Arms Size" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Arms Size</Data>
+            <Data name="Belt3Arms Size" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Arms Size</Data>
+            <Data name="Metal2Arms Size" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Arms Size</Data>
+            <Data name="Belt5Arms Size" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Arms Size</Data>
+            <Data name="Metal3Arms Size" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Arms Size</Data>
+            <Data name="Metal6Arms Size" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Arms Size</Data>
+            <Data name="Metal7Arms Size" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Arms Size</Data>
+            <Data name="LacesArms Size" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="TopFArmpit Ajustment" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFArmpit Ajustment</Data>
+            <Data name="TopBackArmpit Ajustment" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackArmpit Ajustment</Data>
+            <Data name="TopF2Armpit Ajustment" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Armpit Ajustment</Data>
+            <Data name="Belt2Armpit Ajustment" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Armpit Ajustment</Data>
+            <Data name="Belt3Armpit Ajustment" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Armpit Ajustment</Data>
+            <Data name="Metal2Armpit Ajustment" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Armpit Ajustment</Data>
+            <Data name="Belt5Armpit Ajustment" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Armpit Ajustment</Data>
+            <Data name="Metal3Armpit Ajustment" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Armpit Ajustment</Data>
+            <Data name="Metal6Armpit Ajustment" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Skirt BackTorso Size" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackTorso Size</Data>
+            <Data name="TopFTorso Size" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFTorso Size</Data>
+            <Data name="TopBackTorso Size" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackTorso Size</Data>
+            <Data name="TopF2Torso Size" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Torso Size</Data>
+            <Data name="Skirt SidesTorso Size" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesTorso Size</Data>
+            <Data name="MetalTorso Size" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalTorso Size</Data>
+            <Data name="Belt2Torso Size" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Torso Size</Data>
+            <Data name="Belt3Torso Size" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Torso Size</Data>
+            <Data name="Metal2Torso Size" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Torso Size</Data>
+            <Data name="Belt5Torso Size" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Torso Size</Data>
+            <Data name="Metal3Torso Size" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Torso Size</Data>
+            <Data name="Metal6Torso Size" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Torso Size</Data>
+            <Data name="Metal7Torso Size" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Torso Size</Data>
+            <Data name="LacesTorso Size" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Skirt BackSturnum Depth" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackSturnum Depth</Data>
+            <Data name="TopFSturnum Depth" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFSturnum Depth</Data>
+            <Data name="TopBackSturnum Depth" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackSturnum Depth</Data>
+            <Data name="TopF2Sturnum Depth" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Sturnum Depth</Data>
+            <Data name="Skirt SidesSturnum Depth" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesSturnum Depth</Data>
+            <Data name="MetalSturnum Depth" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalSturnum Depth</Data>
+            <Data name="Belt2Sturnum Depth" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Sturnum Depth</Data>
+            <Data name="Belt3Sturnum Depth" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Sturnum Depth</Data>
+            <Data name="Metal3Sturnum Depth" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Sturnum Depth</Data>
+            <Data name="Metal6Sturnum Depth" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Sturnum Depth</Data>
+            <Data name="Metal7Sturnum Depth" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Sturnum Depth</Data>
+            <Data name="LacesSturnum Depth" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Skirt BackSturnum Height" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackSturnum Height</Data>
+            <Data name="TopFSturnum Height" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFSturnum Height</Data>
+            <Data name="TopBackSturnum Height" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackSturnum Height</Data>
+            <Data name="TopF2Sturnum Height" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Sturnum Height</Data>
+            <Data name="Skirt SidesSturnum Height" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesSturnum Height</Data>
+            <Data name="MetalSturnum Height" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalSturnum Height</Data>
+            <Data name="Belt2Sturnum Height" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Sturnum Height</Data>
+            <Data name="Belt3Sturnum Height" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Sturnum Height</Data>
+            <Data name="Metal2Sturnum Height" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Sturnum Height</Data>
+            <Data name="Belt5Sturnum Height" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Sturnum Height</Data>
+            <Data name="Metal3Sturnum Height" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Sturnum Height</Data>
+            <Data name="Metal4Sturnum Height" target="Metal4" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal4Sturnum Height</Data>
+            <Data name="Metal6Sturnum Height" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Sturnum Height</Data>
+            <Data name="Metal7Sturnum Height" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Sturnum Height</Data>
+            <Data name="LacesSturnum Height" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Skirt BackGroin Position" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackGroin Position</Data>
+            <Data name="TopFGroin Position" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFGroin Position</Data>
+            <Data name="TopBackGroin Position" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackGroin Position</Data>
+            <Data name="TopF2Groin Position" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Groin Position</Data>
+            <Data name="Skirt SidesGroin Position" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesGroin Position</Data>
+            <Data name="MetalGroin Position" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalGroin Position</Data>
+            <Data name="Belt2Groin Position" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Groin Position</Data>
+            <Data name="Belt3Groin Position" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Groin Position</Data>
+            <Data name="Metal3Groin Position" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Groin Position</Data>
+            <Data name="Metal6Groin Position" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Groin Position</Data>
+            <Data name="Metal7Groin Position" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Groin Position</Data>
+            <Data name="LacesGroin Position" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Skirt BackGroin Back" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackGroin Back</Data>
+            <Data name="TopFGroin Back" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFGroin Back</Data>
+            <Data name="TopBackGroin Back" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackGroin Back</Data>
+            <Data name="TopF2Groin Back" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Groin Back</Data>
+            <Data name="Skirt SidesGroin Back" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesGroin Back</Data>
+            <Data name="MetalGroin Back" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalGroin Back</Data>
+            <Data name="Belt2Groin Back" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Groin Back</Data>
+            <Data name="Belt3Groin Back" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Groin Back</Data>
+            <Data name="Metal3Groin Back" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Groin Back</Data>
+            <Data name="Metal6Groin Back" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Groin Back</Data>
+            <Data name="Metal7Groin Back" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Groin Back</Data>
+            <Data name="LacesGroin Back" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="TopFAbDefinition" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFAbDefinition</Data>
+            <Data name="TopF2AbDefinition" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2AbDefinition</Data>
+            <Data name="Skirt SidesAbDefinition" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesAbDefinition</Data>
+            <Data name="MetalAbDefinition" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalAbDefinition</Data>
+            <Data name="Metal7AbDefinition" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7AbDefinition</Data>
+            <Data name="LacesAbDefinition" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Skirt BackBody Toning" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBody Toning</Data>
+            <Data name="TopFBody Toning" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBody Toning</Data>
+            <Data name="TopBackBody Toning" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBody Toning</Data>
+            <Data name="TopF2Body Toning" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Body Toning</Data>
+            <Data name="Skirt SidesBody Toning" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBody Toning</Data>
+            <Data name="MetalBody Toning" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBody Toning</Data>
+            <Data name="Belt2Body Toning" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Body Toning</Data>
+            <Data name="Belt3Body Toning" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Body Toning</Data>
+            <Data name="Metal2Body Toning" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Body Toning</Data>
+            <Data name="Belt5Body Toning" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Body Toning</Data>
+            <Data name="Metal3Body Toning" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Body Toning</Data>
+            <Data name="Metal6Body Toning" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Body Toning</Data>
+            <Data name="Metal7Body Toning" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Body Toning</Data>
+            <Data name="LacesBody Toning" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Skirt BackTigerSanBB" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackTigerSanBB</Data>
+            <Data name="TopFTigerSanBB" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFTigerSanBB</Data>
+            <Data name="TopBackTigerSanBB" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackTigerSanBB</Data>
+            <Data name="TopF2TigerSanBB" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2TigerSanBB</Data>
+            <Data name="Skirt SidesTigerSanBB" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesTigerSanBB</Data>
+            <Data name="BeltTigerSanBB" target="Belt" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\BeltTigerSanBB</Data>
+            <Data name="MetalTigerSanBB" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalTigerSanBB</Data>
+            <Data name="Belt2TigerSanBB" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2TigerSanBB</Data>
+            <Data name="Belt3TigerSanBB" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3TigerSanBB</Data>
+            <Data name="Belt4TigerSanBB" target="Belt4" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt4TigerSanBB</Data>
+            <Data name="Metal2TigerSanBB" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2TigerSanBB</Data>
+            <Data name="Belt5TigerSanBB" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5TigerSanBB</Data>
+            <Data name="Metal3TigerSanBB" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3TigerSanBB</Data>
+            <Data name="Metal4TigerSanBB" target="Metal4" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal4TigerSanBB</Data>
+            <Data name="Metal5TigerSanBB" target="Metal5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal5TigerSanBB</Data>
+            <Data name="Metal6TigerSanBB" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6TigerSanBB</Data>
+            <Data name="Metal7TigerSanBB" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7TigerSanBB</Data>
+            <Data name="LacesTigerSanBB" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="TopFXunAbs" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFXunAbs</Data>
+            <Data name="TopBackXunAbs" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackXunAbs</Data>
+            <Data name="TopF2XunAbs" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2XunAbs</Data>
+            <Data name="Skirt SidesXunAbs" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesXunAbs</Data>
+            <Data name="MetalXunAbs" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalXunAbs</Data>
+            <Data name="Metal7XunAbs" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7XunAbs</Data>
+            <Data name="LacesXunAbs" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="Skirt BackFFB Fitness 2" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackFFB Fitness 2</Data>
+            <Data name="TopFFFB Fitness 2" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFFFB Fitness 2</Data>
+            <Data name="TopBackFFB Fitness 2" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackFFB Fitness 2</Data>
+            <Data name="TopF2FFB Fitness 2" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2FFB Fitness 2</Data>
+            <Data name="Skirt SidesFFB Fitness 2" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesFFB Fitness 2</Data>
+            <Data name="MetalFFB Fitness 2" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalFFB Fitness 2</Data>
+            <Data name="Metal7FFB Fitness 2" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7FFB Fitness 2</Data>
+            <Data name="LacesFFB Fitness 2" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Skirt BackAthletic" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackAthletic</Data>
+            <Data name="TopFAthletic" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFAthletic</Data>
+            <Data name="TopBackAthletic" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackAthletic</Data>
+            <Data name="TopF2Athletic" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Athletic</Data>
+            <Data name="Skirt SidesAthletic" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesAthletic</Data>
+            <Data name="MetalAthletic" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalAthletic</Data>
+            <Data name="Belt2Athletic" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2Athletic</Data>
+            <Data name="Belt3Athletic" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Athletic</Data>
+            <Data name="Metal2Athletic" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2Athletic</Data>
+            <Data name="Belt5Athletic" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Athletic</Data>
+            <Data name="Metal3Athletic" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3Athletic</Data>
+            <Data name="Metal6Athletic" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Athletic</Data>
+            <Data name="Metal7Athletic" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Athletic</Data>
+            <Data name="LacesAthletic" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Skirt BackSeveNBase Bombshell" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackSeveNBase Bombshell</Data>
+            <Data name="TopFSeveNBase Bombshell" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFSeveNBase Bombshell</Data>
+            <Data name="TopBackSeveNBase Bombshell" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackSeveNBase Bombshell</Data>
+            <Data name="TopF2SeveNBase Bombshell" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2SeveNBase Bombshell</Data>
+            <Data name="Skirt SidesSeveNBase Bombshell" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesSeveNBase Bombshell</Data>
+            <Data name="BeltSeveNBase Bombshell" target="Belt" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\BeltSeveNBase Bombshell</Data>
+            <Data name="MetalSeveNBase Bombshell" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalSeveNBase Bombshell</Data>
+            <Data name="Belt2SeveNBase Bombshell" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2SeveNBase Bombshell</Data>
+            <Data name="Belt3SeveNBase Bombshell" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3SeveNBase Bombshell</Data>
+            <Data name="Belt4SeveNBase Bombshell" target="Belt4" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt4SeveNBase Bombshell</Data>
+            <Data name="Metal2SeveNBase Bombshell" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2SeveNBase Bombshell</Data>
+            <Data name="Belt5SeveNBase Bombshell" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5SeveNBase Bombshell</Data>
+            <Data name="Metal3SeveNBase Bombshell" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3SeveNBase Bombshell</Data>
+            <Data name="Metal4SeveNBase Bombshell" target="Metal4" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal4SeveNBase Bombshell</Data>
+            <Data name="Metal5SeveNBase Bombshell" target="Metal5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal5SeveNBase Bombshell</Data>
+            <Data name="Metal6SeveNBase Bombshell" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6SeveNBase Bombshell</Data>
+            <Data name="Metal7SeveNBase Bombshell" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7SeveNBase Bombshell</Data>
+            <Data name="LacesSeveNBase Bombshell" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="Skirt BackKnee Height" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackKnee Height</Data>
+            <Data name="Skirt SidesKnee Height" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Skirt BackShoulder Width" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackShoulder Width</Data>
+            <Data name="TopFShoulder Width" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFShoulder Width</Data>
+            <Data name="TopBackShoulder Width" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackShoulder Width</Data>
+            <Data name="TopF2Shoulder Width" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2Shoulder Width</Data>
+            <Data name="Skirt SidesShoulder Width" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesShoulder Width</Data>
+            <Data name="Belt3Shoulder Width" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3Shoulder Width</Data>
+            <Data name="Belt5Shoulder Width" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5Shoulder Width</Data>
+            <Data name="Metal6Shoulder Width" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6Shoulder Width</Data>
+            <Data name="Metal7Shoulder Width" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7Shoulder Width</Data>
+            <Data name="LacesShoulder Width" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Skirt BackBodyFat" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackBodyFat</Data>
+            <Data name="TopFBodyFat" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBodyFat</Data>
+            <Data name="TopBackBodyFat" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBodyFat</Data>
+            <Data name="TopF2BodyFat" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2BodyFat</Data>
+            <Data name="Skirt SidesBodyFat" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesBodyFat</Data>
+            <Data name="MetalBodyFat" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBodyFat</Data>
+            <Data name="Belt2BodyFat" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2BodyFat</Data>
+            <Data name="Belt3BodyFat" target="Belt3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt3BodyFat</Data>
+            <Data name="Metal2BodyFat" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2BodyFat</Data>
+            <Data name="Belt5BodyFat" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5BodyFat</Data>
+            <Data name="Metal3BodyFat" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3BodyFat</Data>
+            <Data name="Metal6BodyFat" target="Metal6" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal6BodyFat</Data>
+            <Data name="Metal7BodyFat" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7BodyFat</Data>
+            <Data name="LacesBodyFat" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="Skirt BackLegThin" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackLegThin</Data>
+            <Data name="TopFLegThin" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFLegThin</Data>
+            <Data name="TopBackLegThin" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackLegThin</Data>
+            <Data name="TopF2LegThin" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2LegThin</Data>
+            <Data name="Skirt SidesLegThin" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesLegThin</Data>
+            <Data name="Metal7LegThin" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7LegThin</Data>
+            <Data name="LacesLegThin" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="Skirt BackHipsNarrow" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackHipsNarrow</Data>
+            <Data name="TopFHipsNarrow" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFHipsNarrow</Data>
+            <Data name="TopBackHipsNarrow" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackHipsNarrow</Data>
+            <Data name="TopF2HipsNarrow" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2HipsNarrow</Data>
+            <Data name="Skirt SidesHipsNarrow" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesHipsNarrow</Data>
+            <Data name="Metal7HipsNarrow" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7HipsNarrow</Data>
+            <Data name="LacesHipsNarrow" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="Skirt BackButtGravity" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="Skirt BackButtThin" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackButtThin</Data>
+            <Data name="TopFButtThin" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFButtThin</Data>
+            <Data name="TopBackButtThin" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackButtThin</Data>
+            <Data name="TopF2ButtThin" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2ButtThin</Data>
+            <Data name="Skirt SidesButtThin" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesButtThin</Data>
+            <Data name="Metal7ButtThin" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7ButtThin</Data>
+            <Data name="LacesButtThin" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="Skirt BackHipsForward" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackHipsForward</Data>
+            <Data name="TopFHipsForward" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFHipsForward</Data>
+            <Data name="TopBackHipsForward" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackHipsForward</Data>
+            <Data name="TopF2HipsForward" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2HipsForward</Data>
+            <Data name="Skirt SidesHipsForward" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesHipsForward</Data>
+            <Data name="MetalHipsForward" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalHipsForward</Data>
+            <Data name="Metal7HipsForward" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7HipsForward</Data>
+            <Data name="LacesHipsForward" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="Skirt BackHipRotateForward" target="Skirt Back" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt BackHipRotateForward</Data>
+            <Data name="TopFHipRotateForward" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFHipRotateForward</Data>
+            <Data name="TopBackHipRotateForward" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackHipRotateForward</Data>
+            <Data name="TopF2HipRotateForward" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2HipRotateForward</Data>
+            <Data name="Skirt SidesHipRotateForward" target="Skirt Sides" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Skirt SidesHipRotateForward</Data>
+            <Data name="MetalHipRotateForward" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalHipRotateForward</Data>
+            <Data name="Metal7HipRotateForward" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7HipRotateForward</Data>
+            <Data name="LacesHipRotateForward" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="TopFBreastArmpitin" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBreastArmpitin</Data>
+            <Data name="TopBackBreastArmpitin" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBreastArmpitin</Data>
+            <Data name="TopF2BreastArmpitin" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2BreastArmpitin</Data>
+            <Data name="Belt2BreastArmpitin" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2BreastArmpitin</Data>
+            <Data name="Metal2BreastArmpitin" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2BreastArmpitin</Data>
+            <Data name="Belt5BreastArmpitin" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5BreastArmpitin</Data>
+            <Data name="Metal3BreastArmpitin" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3BreastArmpitin</Data>
+            <Data name="Metal7BreastArmpitin" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7BreastArmpitin</Data>
+            <Data name="LacesBreastArmpitin" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="TopFBreastArmpitWide" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBreastArmpitWide</Data>
+            <Data name="TopBackBreastArmpitWide" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBreastArmpitWide</Data>
+            <Data name="TopF2BreastArmpitWide" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2BreastArmpitWide</Data>
+            <Data name="Belt2BreastArmpitWide" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2BreastArmpitWide</Data>
+            <Data name="Metal2BreastArmpitWide" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2BreastArmpitWide</Data>
+            <Data name="Belt5BreastArmpitWide" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5BreastArmpitWide</Data>
+            <Data name="Metal3BreastArmpitWide" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3BreastArmpitWide</Data>
+            <Data name="Metal7BreastArmpitWide" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7BreastArmpitWide</Data>
+            <Data name="LacesBreastArmpitWide" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="TopFBreastCurve" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBreastCurve</Data>
+            <Data name="TopF2BreastCurve" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2BreastCurve</Data>
+            <Data name="Belt2BreastCurve" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2BreastCurve</Data>
+            <Data name="Metal2BreastCurve" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2BreastCurve</Data>
+            <Data name="Belt5BreastCurve" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5BreastCurve</Data>
+            <Data name="Metal3BreastCurve" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3BreastCurve</Data>
+            <Data name="Metal7BreastCurve" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7BreastCurve</Data>
+            <Data name="LacesBreastCurve" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="TopFBreastHeight2" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBreastHeight2</Data>
+            <Data name="TopBackBreastHeight2" target="TopBack" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopBackBreastHeight2</Data>
+            <Data name="TopF2BreastHeight2" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2BreastHeight2</Data>
+            <Data name="MetalBreastHeight2" target="Metal" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\MetalBreastHeight2</Data>
+            <Data name="Belt2BreastHeight2" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2BreastHeight2</Data>
+            <Data name="Metal2BreastHeight2" target="Metal2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal2BreastHeight2</Data>
+            <Data name="Belt5BreastHeight2" target="Belt5" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt5BreastHeight2</Data>
+            <Data name="Metal3BreastHeight2" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3BreastHeight2</Data>
+            <Data name="Metal7BreastHeight2" target="Metal7" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal7BreastHeight2</Data>
+            <Data name="LacesBreastHeight2" target="Laces" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\LacesBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="TopFBreastConcave" target="TopF" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopFBreastConcave</Data>
+            <Data name="TopF2BreastConcave" target="TopF2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\TopF2BreastConcave</Data>
+            <Data name="Belt2BreastConcave" target="Belt2" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Belt2BreastConcave</Data>
+            <Data name="Metal3BreastConcave" target="Metal3" local="true">Vtaw Wardrobe 7 GhoulHunter Outfit FG.osd\Metal3BreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

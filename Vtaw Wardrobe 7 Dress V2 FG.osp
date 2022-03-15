@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Dress V2 FG">
+        <DataFolder>Vtaw Wardrobe 7 Dress V2 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Dress V2 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\Dress</OutputPath>
+        <OutputFile GenWeights="false">DressV2</OutputFile>
+        <Shape target="DressRibbon">DressRibbon</Shape>
+        <Shape target="dress">dress</Shape>
+        <Shape target="lace">lace</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="dressBelly Pregnant" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBelly Pregnant</Data>
+            <Data name="laceBelly Pregnant" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBelly Pregnant</Data>
+            <Data name="DressRibbonBelly Pregnant" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="dressBelly Big" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBelly Big</Data>
+            <Data name="laceBelly Big" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBelly Big</Data>
+            <Data name="DressRibbonBelly Big" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="dressBelly Size" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBelly Size</Data>
+            <Data name="laceBelly Size" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBelly Size</Data>
+            <Data name="DressRibbonBelly Size" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="dressBelly Tuck" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBelly Tuck</Data>
+            <Data name="laceBelly Tuck" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="dressBoobs Yuge" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBoobs Yuge</Data>
+            <Data name="laceBoobs Yuge" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBoobs Yuge</Data>
+            <Data name="DressRibbonBoobs Yuge" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="dressBoobs Big" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBoobs Big</Data>
+            <Data name="laceBoobs Big" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBoobs Big</Data>
+            <Data name="DressRibbonBoobs Big" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="dressBoobs Cleavage" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBoobs Cleavage</Data>
+            <Data name="laceBoobs Cleavage" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="dressBoobs Flat" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBoobs Flat</Data>
+            <Data name="laceBoobs Flat" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="dressBoobs Gravity" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBoobs Gravity</Data>
+            <Data name="laceBoobs Gravity" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBoobs Gravity</Data>
+            <Data name="DressRibbonBoobs Gravity" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="dressBoobs Height" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBoobs Height</Data>
+            <Data name="laceBoobs Height" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="dressBoobs Mellons" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBoobs Mellons</Data>
+            <Data name="laceBoobs Mellons" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBoobs Mellons</Data>
+            <Data name="DressRibbonBoobs Mellons" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="dressBoobs Perky" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBoobs Perky</Data>
+            <Data name="laceBoobs Perky" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBoobs Perky</Data>
+            <Data name="DressRibbonBoobs Perky" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="dressBoobs Push Up" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBoobs Push Up</Data>
+            <Data name="laceBoobs Push Up" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBoobs Push Up</Data>
+            <Data name="DressRibbonBoobs Push Up" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="dressBoobs Small" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBoobs Small</Data>
+            <Data name="laceBoobs Small" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="dressBoobs Together" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBoobs Together</Data>
+            <Data name="laceBoobs Together" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="dressBoobs Top Slope" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBoobs Top Slope</Data>
+            <Data name="laceBoobs Top Slope" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBoobs Top Slope</Data>
+            <Data name="DressRibbonBoobs Top Slope" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="dressBoobs Width" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBoobs Width</Data>
+            <Data name="laceBoobs Width" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="dressBoobs Tiny" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBoobs Tiny</Data>
+            <Data name="laceBoobs Tiny" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBoobs Tiny</Data>
+            <Data name="DressRibbonBoobs Tiny" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="dressNipples Distance" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressNipples Distance</Data>
+            <Data name="laceNipples Distance" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="dressNipples Down" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressNipples Down</Data>
+            <Data name="laceNipples Down" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="dressNipples Perkiness" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressNipples Perkiness</Data>
+            <Data name="laceNipples Perkiness" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="dressNipples Puffy" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressNipples Puffy</Data>
+            <Data name="laceNipples Puffy" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="dressNipples Up" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressNipples Up</Data>
+            <Data name="laceNipples Up" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="dressChest Depth" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressChest Depth</Data>
+            <Data name="laceChest Depth" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="dressChest Width" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressChest Width</Data>
+            <Data name="laceChest Width" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceChest Width</Data>
+            <Data name="DressRibbonChest Width" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="dressWaist Chubby" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressWaist Chubby</Data>
+            <Data name="laceWaist Chubby" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceWaist Chubby</Data>
+            <Data name="DressRibbonWaist Chubby" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="dressWaist Size" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressWaist Size</Data>
+            <Data name="laceWaist Size" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceWaist Size</Data>
+            <Data name="DressRibbonWaist Size" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="dressWaist Height" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressWaist Height</Data>
+            <Data name="laceWaist Height" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceWaist Height</Data>
+            <Data name="DressRibbonWaist Height" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="dressWaist Line" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressWaist Line</Data>
+            <Data name="laceWaist Line" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceWaist Line</Data>
+            <Data name="DressRibbonWaist Line" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="dressBack Size" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBack Size</Data>
+            <Data name="laceBack Size" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBack Size</Data>
+            <Data name="DressRibbonBack Size" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="dressBack Arch" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBack Arch</Data>
+            <Data name="laceBack Arch" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBack Arch</Data>
+            <Data name="DressRibbonBack Arch" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="dressHips Bone" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressHips Bone</Data>
+            <Data name="laceHips Bone" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="dressHips Size" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressHips Size</Data>
+            <Data name="laceHips Size" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="dressHips Upper Width" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressHips Upper Width</Data>
+            <Data name="laceHips Upper Width" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceHips Upper Width</Data>
+            <Data name="DressRibbonHips Upper Width" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="dressBum Size" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBum Size</Data>
+            <Data name="laceBum Size" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBum Size</Data>
+            <Data name="DressRibbonBum Size" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="dressBum Crack" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBum Crack</Data>
+            <Data name="laceBum Crack" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="dressBum Shape 1" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBum Shape 1</Data>
+            <Data name="laceBum Shape 1" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="dressBum Shape 2" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBum Shape 2</Data>
+            <Data name="laceBum Shape 2" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBum Shape 2</Data>
+            <Data name="DressRibbonBum Shape 2" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="dressBum Small" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBum Small</Data>
+            <Data name="laceBum Small" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBum Small</Data>
+            <Data name="DressRibbonBum Small" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="dressBum Chubby" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBum Chubby</Data>
+            <Data name="laceBum Chubby" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBum Chubby</Data>
+            <Data name="DressRibbonBum Chubby" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="dressBum Round" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBum Round</Data>
+            <Data name="laceBum Round" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBum Round</Data>
+            <Data name="DressRibbonBum Round" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="dressBum Apple" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBum Apple</Data>
+            <Data name="laceBum Apple" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBum Apple</Data>
+            <Data name="DressRibbonBum Apple" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="dressLegs Chubby" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressLegs Chubby</Data>
+            <Data name="laceLegs Chubby" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceLegs Chubby</Data>
+            <Data name="DressRibbonLegs Chubby" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="dressLegs Shape" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressLegs Shape</Data>
+            <Data name="laceLegs Shape" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="dressLegs Thin" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressLegs Thin</Data>
+            <Data name="laceLegs Thin" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="dressThighs Slim" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressThighs Slim</Data>
+            <Data name="laceThighs Slim" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceThighs Slim</Data>
+            <Data name="DressRibbonThighs Slim" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="dressThighs Size" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressThighs Size</Data>
+            <Data name="laceThighs Size" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceThighs Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="dressArms Chubby" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressArms Chubby</Data>
+            <Data name="laceArms Chubby" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="dressShoulder Smooth" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressShoulder Smooth</Data>
+            <Data name="laceShoulder Smooth" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="dressShoulder Tweak" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressShoulder Tweak</Data>
+            <Data name="laceShoulder Tweak" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="dressArms Size" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressArms Size</Data>
+            <Data name="laceArms Size" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceArms Size</Data>
+            <Data name="DressRibbonArms Size" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="dressArmpit Ajustment" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressArmpit Ajustment</Data>
+            <Data name="laceArmpit Ajustment" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="dressTorso Size" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressTorso Size</Data>
+            <Data name="laceTorso Size" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceTorso Size</Data>
+            <Data name="DressRibbonTorso Size" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="dressSturnum Depth" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressSturnum Depth</Data>
+            <Data name="laceSturnum Depth" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceSturnum Depth</Data>
+            <Data name="DressRibbonSturnum Depth" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="dressSturnum Height" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressSturnum Height</Data>
+            <Data name="laceSturnum Height" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceSturnum Height</Data>
+            <Data name="DressRibbonSturnum Height" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="dressGroin Position" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressGroin Position</Data>
+            <Data name="laceGroin Position" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceGroin Position</Data>
+            <Data name="DressRibbonGroin Position" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="dressGroin Back" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressGroin Back</Data>
+            <Data name="laceGroin Back" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceGroin Back</Data>
+            <Data name="DressRibbonGroin Back" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="dressAbDefinition" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressAbDefinition</Data>
+            <Data name="laceAbDefinition" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="dressBody Toning" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBody Toning</Data>
+            <Data name="laceBody Toning" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBody Toning</Data>
+            <Data name="DressRibbonBody Toning" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="dressTigerSanBB" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressTigerSanBB</Data>
+            <Data name="laceTigerSanBB" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceTigerSanBB</Data>
+            <Data name="DressRibbonTigerSanBB" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="dressXunAbs" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressXunAbs</Data>
+            <Data name="laceXunAbs" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="dressFFB Fitness 2" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressFFB Fitness 2</Data>
+            <Data name="laceFFB Fitness 2" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceFFB Fitness 2</Data>
+            <Data name="DressRibbonFFB Fitness 2" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="dressAthletic" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressAthletic</Data>
+            <Data name="laceAthletic" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceAthletic</Data>
+            <Data name="DressRibbonAthletic" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="dressSeveNBase Bombshell" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressSeveNBase Bombshell</Data>
+            <Data name="laceSeveNBase Bombshell" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceSeveNBase Bombshell</Data>
+            <Data name="DressRibbonSeveNBase Bombshell" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="dressShoulder Width" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressShoulder Width</Data>
+            <Data name="laceShoulder Width" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceShoulder Width</Data>
+            <Data name="DressRibbonShoulder Width" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="dressBodyFat" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBodyFat</Data>
+            <Data name="laceBodyFat" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBodyFat</Data>
+            <Data name="DressRibbonBodyFat" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="dressLegThin" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressLegThin</Data>
+            <Data name="laceLegThin" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="dressHipsNarrow" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressHipsNarrow</Data>
+            <Data name="laceHipsNarrow" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="dressButtGravity" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressButtGravity</Data>
+            <Data name="laceButtGravity" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="dressButtThin" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressButtThin</Data>
+            <Data name="laceButtThin" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceButtThin</Data>
+            <Data name="DressRibbonButtThin" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="dressHipsForward" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressHipsForward</Data>
+            <Data name="laceHipsForward" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="dressHipRotateForward" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressHipRotateForward</Data>
+            <Data name="laceHipRotateForward" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceHipRotateForward</Data>
+            <Data name="DressRibbonHipRotateForward" target="DressRibbon" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\DressRibbonHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="dressBreastArmpitin" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBreastArmpitin</Data>
+            <Data name="laceBreastArmpitin" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="dressBreastArmpitWide" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBreastArmpitWide</Data>
+            <Data name="laceBreastArmpitWide" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="dressBreastCurve" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBreastCurve</Data>
+            <Data name="laceBreastCurve" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="dressBreastHeight2" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBreastHeight2</Data>
+            <Data name="laceBreastHeight2" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="dressBreastConcave" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressBreastConcave</Data>
+            <Data name="laceBreastConcave" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceBreastConcave</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="dressNipples Length" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressNipples Length</Data>
+            <Data name="laceNipples Length" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="dressNipples Areola" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressNipples Areola</Data>
+            <Data name="laceNipples Areola" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="dressNipples Gone" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressNipples Gone</Data>
+            <Data name="laceNipples Gone" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="dressNipples Shape" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressNipples Shape</Data>
+            <Data name="laceNipples Shape" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="dressNipples Size" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressNipples Size</Data>
+            <Data name="laceNipples Size" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="dressNipples Tip" target="dress" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\dressNipples Tip</Data>
+            <Data name="laceNipples Tip" target="lace" local="true">Vtaw Wardrobe 7 Dress V2 FG.osd\laceNipples Tip</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

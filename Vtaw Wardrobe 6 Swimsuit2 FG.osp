@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Swimsuit2 FG">
+        <DataFolder>Vtaw Wardrobe 6 Swimsuit2 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Swimsuit2 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Swimsuit2</OutputPath>
+        <OutputFile GenWeights="false">Swimsuit2</OutputFile>
+        <Shape target="net">net</Shape>
+        <Shape target="swim2">swim2</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="swim2Belly Pregnant" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Belly Pregnant</Data>
+            <Data name="netBelly Pregnant" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="swim2Belly Big" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Belly Big</Data>
+            <Data name="netBelly Big" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="swim2Belly Size" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Belly Size</Data>
+            <Data name="netBelly Size" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="swim2Belly Tuck" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Belly Tuck</Data>
+            <Data name="netBelly Tuck" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="swim2Boobs Yuge" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Boobs Yuge</Data>
+            <Data name="netBoobs Yuge" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="swim2Boobs Big" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Boobs Big</Data>
+            <Data name="netBoobs Big" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="swim2Boobs Cleavage" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Boobs Cleavage</Data>
+            <Data name="netBoobs Cleavage" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="swim2Boobs Flat" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Boobs Flat</Data>
+            <Data name="netBoobs Flat" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="swim2Boobs Gravity" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Boobs Gravity</Data>
+            <Data name="netBoobs Gravity" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="swim2Boobs Height" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Boobs Height</Data>
+            <Data name="netBoobs Height" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="swim2Boobs Mellons" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Boobs Mellons</Data>
+            <Data name="netBoobs Mellons" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="swim2Boobs Perky" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Boobs Perky</Data>
+            <Data name="netBoobs Perky" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="swim2Boobs Push Up" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Boobs Push Up</Data>
+            <Data name="netBoobs Push Up" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="swim2Boobs Small" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Boobs Small</Data>
+            <Data name="netBoobs Small" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="swim2Boobs Together" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Boobs Together</Data>
+            <Data name="netBoobs Together" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="swim2Boobs Top Slope" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Boobs Top Slope</Data>
+            <Data name="netBoobs Top Slope" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="swim2Boobs Width" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Boobs Width</Data>
+            <Data name="netBoobs Width" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="swim2Boobs Tiny" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Boobs Tiny</Data>
+            <Data name="netBoobs Tiny" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="swim2Nipples Distance" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Nipples Distance</Data>
+            <Data name="netNipples Distance" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="swim2Nipples Down" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Nipples Down</Data>
+            <Data name="netNipples Down" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="swim2Nipples Perkiness" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Nipples Perkiness</Data>
+            <Data name="netNipples Perkiness" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="swim2Nipples Puffy" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Nipples Puffy</Data>
+            <Data name="netNipples Puffy" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="swim2Nipples Up" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Nipples Up</Data>
+            <Data name="netNipples Up" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="swim2Chest Depth" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Chest Depth</Data>
+            <Data name="netChest Depth" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="swim2Chest Width" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Chest Width</Data>
+            <Data name="netChest Width" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="swim2Waist Chubby" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Waist Chubby</Data>
+            <Data name="netWaist Chubby" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="swim2Waist Size" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Waist Size</Data>
+            <Data name="netWaist Size" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="swim2Waist Height" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Waist Height</Data>
+            <Data name="netWaist Height" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="swim2Waist Line" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="swim2Back Size" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="swim2Back Arch" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="swim2Hips Bone" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Hips Bone</Data>
+            <Data name="netHips Bone" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="swim2Hips Size" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Hips Size</Data>
+            <Data name="netHips Size" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="swim2Hips Upper Width" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Hips Upper Width</Data>
+            <Data name="netHips Upper Width" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="swim2Bum Size" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="swim2Bum Crack" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="swim2Bum Shape 1" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Bum Shape 1</Data>
+            <Data name="netBum Shape 1" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="swim2Bum Shape 2" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Bum Shape 2</Data>
+            <Data name="netBum Shape 2" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="swim2Bum Small" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Bum Small</Data>
+            <Data name="netBum Small" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="swim2Bum Chubby" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Bum Chubby</Data>
+            <Data name="netBum Chubby" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="swim2Bum Round" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="swim2Bum Apple" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Bum Apple</Data>
+            <Data name="netBum Apple" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="swim2Legs Chubby" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Legs Chubby</Data>
+            <Data name="netLegs Chubby" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="swim2Legs Shape" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="swim2Legs Thin" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="swim2Thighs Slim" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Thighs Slim</Data>
+            <Data name="netThighs Slim" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="swim2Thighs Size" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Thighs Size</Data>
+            <Data name="netThighs Size" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netThighs Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="swim2Arms Chubby" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Arms Chubby</Data>
+            <Data name="netArms Chubby" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="swim2Shoulder Smooth" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Shoulder Smooth</Data>
+            <Data name="netShoulder Smooth" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="swim2Shoulder Tweak" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Shoulder Tweak</Data>
+            <Data name="netShoulder Tweak" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="swim2Arms Size" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Arms Size</Data>
+            <Data name="netArms Size" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="swim2Armpit Ajustment" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Armpit Ajustment</Data>
+            <Data name="netArmpit Ajustment" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="swim2Torso Size" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Torso Size</Data>
+            <Data name="netTorso Size" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="swim2Sturnum Depth" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Sturnum Depth</Data>
+            <Data name="netSturnum Depth" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="swim2Sturnum Height" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Sturnum Height</Data>
+            <Data name="netSturnum Height" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="swim2Groin Position" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Groin Position</Data>
+            <Data name="netGroin Position" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="swim2Groin Back" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Groin Back</Data>
+            <Data name="netGroin Back" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="swim2AbDefinition" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2AbDefinition</Data>
+            <Data name="netAbDefinition" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="swim2Body Toning" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Body Toning</Data>
+            <Data name="netBody Toning" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="swim2TigerSanBB" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2TigerSanBB</Data>
+            <Data name="netTigerSanBB" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="swim2XunAbs" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2XunAbs</Data>
+            <Data name="netXunAbs" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="swim2FFB Fitness 2" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2FFB Fitness 2</Data>
+            <Data name="netFFB Fitness 2" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="swim2Athletic" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Athletic</Data>
+            <Data name="netAthletic" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="swim2SeveNBase Bombshell" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2SeveNBase Bombshell</Data>
+            <Data name="netSeveNBase Bombshell" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="swim2Shoulder Width" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Shoulder Width</Data>
+            <Data name="netShoulder Width" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="swim2BodyFat" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2BodyFat</Data>
+            <Data name="netBodyFat" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="swim2LegThin" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2LegThin</Data>
+            <Data name="netLegThin" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="swim2HipsNarrow" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="swim2ButtGravity" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="swim2ButtThin" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="swim2HipsForward" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2HipsForward</Data>
+            <Data name="netHipsForward" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="swim2HipRotateForward" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2HipRotateForward</Data>
+            <Data name="netHipRotateForward" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="swim2BreastArmpitin" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2BreastArmpitin</Data>
+            <Data name="netBreastArmpitin" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="swim2BreastArmpitWide" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2BreastArmpitWide</Data>
+            <Data name="netBreastArmpitWide" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="swim2BreastCurve" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2BreastCurve</Data>
+            <Data name="netBreastCurve" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="swim2BreastHeight2" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2BreastHeight2</Data>
+            <Data name="netBreastHeight2" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="swim2BreastConcave" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2BreastConcave</Data>
+            <Data name="netBreastConcave" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netBreastConcave</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="swim2Nipples Length" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Nipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="swim2Nipples Areola" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Nipples Areola</Data>
+            <Data name="netNipples Areola" target="net" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\netNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="swim2Nipples Gone" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Nipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="swim2Nipples Shape" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Nipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="swim2Nipples Size" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Nipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="swim2Nipples Tip" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Nipples Tip</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="swim2Labia Minora Flat" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Labia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="swim2Labia Minora Longer" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Labia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="swim2Clitoras Size" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Clitoras Size</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="swim2Labia Majora Long" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Labia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="swim2Labia Majora Wide" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Labia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="swim2Labia Majora Inner" target="swim2" local="true">Vtaw Wardrobe 6 Swimsuit2 FG.osd\swim2Labia Majora Inner</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

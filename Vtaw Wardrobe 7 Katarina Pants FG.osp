@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Katarina Pants FG">
+        <DataFolder>Vtaw Wardrobe 7 Katarina Pants FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Katarina Pants FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\Katarina</OutputPath>
+        <OutputFile GenWeights="false">KatarinaPants</OutputFile>
+        <Shape target="Pants">Pants</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="PantsBelly Pregnant" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="PantsBelly Big" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="PantsBelly Size" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="PantsBelly Tuck" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="PantsBoobs Yuge" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="PantsBoobs Big" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="PantsBoobs Gravity" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="PantsBoobs Mellons" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="PantsBoobs Perky" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="PantsBoobs Push Up" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="PantsBoobs Top Slope" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="PantsBoobs Tiny" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="PantsNipples Gone" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsNipples Gone</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="PantsChest Width" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="PantsWaist Chubby" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="PantsWaist Size" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="PantsWaist Height" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="PantsWaist Line" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="PantsBack Size" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="PantsBack Arch" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="PantsHips Bone" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="PantsHips Size" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="PantsHips Upper Width" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="PantsBum Size" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="PantsBum Crack" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="PantsBum Shape 1" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="PantsBum Shape 2" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="PantsBum Small" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="PantsBum Chubby" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="PantsBum Round" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="PantsBum Apple" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="PantsCalf Size" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="PantsCalf Small" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="PantsLegs Chubby" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="PantsLegs Shape" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="PantsLegs Thin" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="PantsThighs Slim" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="PantsThighs Size" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="PantsAnkle Size" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsAnkle Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="PantsTorso Size" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="PantsSturnum Depth" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="PantsSturnum Height" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="PantsGroin Position" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="PantsGroin Back" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="PantsLabia Minora Flat" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="PantsLabia Minora Longer" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="PantsClitoras Size" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsClitoras Size</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="PantsLabia Majora Long" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="PantsLabia Majora Wide" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="PantsLabia Majora Inner" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="PantsAbDefinition" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="PantsBody Toning" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="PantsTigerSanBB" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="PantsXunAbs" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="PantsFFB Fitness 2" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="PantsAthletic" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="PantsSeveNBase Bombshell" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="PantsKnee Height" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="PantsShoulder Width" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="PantsHighHeels" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="PantsBodyFat" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="PantsLegThin" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="PantsHipsNarrow" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="PantsButtGravity" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="PantsButtThin" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="PantsHipsForward" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="PantsHipRotateForward" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="PantsBreastArmpitin" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="PantsBreastArmpitWide" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="PantsBreastCurve" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="PantsBreastHeight2" target="Pants" local="true">Vtaw Wardrobe 7 Katarina Pants FG.osd\PantsBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

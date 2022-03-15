@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Leather pants v2 FG">
+        <DataFolder>Vtaw Leather pants v2 FG</DataFolder>
+        <SourceFile>Vtaw Leather pants v2 FG.nif</SourceFile>
+        <OutputPath>meshes\wtaw\wardrobe\pantsleather2</OutputPath>
+        <OutputFile GenWeights="false">pantsleather2</OutputFile>
+        <Shape target="pantsv2">pantsv2</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="pantsv2Belly Pregnant" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="pantsv2Belly Big" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="pantsv2Belly Size" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Belly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="pantsv2Belly Tuck" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Belly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="pantsv2Boobs Yuge" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="pantsv2Boobs Big" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="pantsv2Boobs Gravity" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="pantsv2Boobs Mellons" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="pantsv2Boobs Perky" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="pantsv2Boobs Push Up" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="pantsv2Boobs Top Slope" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="pantsv2Boobs Tiny" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="pantsv2Chest Width" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="pantsv2Waist Chubby" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="pantsv2Waist Size" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="pantsv2Waist Height" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="pantsv2Waist Line" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="pantsv2Back Size" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="pantsv2Back Arch" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="pantsv2Hips Bone" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Hips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="pantsv2Hips Size" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Hips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="pantsv2Hips Upper Width" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="pantsv2Bum Size" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="pantsv2Bum Crack" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="pantsv2Bum Shape 1" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="pantsv2Bum Shape 2" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="pantsv2Bum Small" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="pantsv2Bum Chubby" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="pantsv2Bum Round" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="pantsv2Bum Apple" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Bum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="pantsv2Calf Size" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Calf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="pantsv2Calf Small" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Calf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="pantsv2Legs Chubby" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="pantsv2Legs Shape" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="pantsv2Legs Thin" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="pantsv2Thighs Slim" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="pantsv2Thighs Size" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Thighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="pantsv2Ankle Size" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Ankle Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="pantsv2Torso Size" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="pantsv2Sturnum Depth" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="pantsv2Sturnum Height" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="pantsv2Groin Position" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="pantsv2Groin Back" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="pantsv2AbDefinition" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="pantsv2Body Toning" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="pantsv2TigerSanBB" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="pantsv2XunAbs" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="pantsv2FFB Fitness 2" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="pantsv2Athletic" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="pantsv2SeveNBase Bombshell" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="pantsv2Knee Height" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Knee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="pantsv2Shoulder Width" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2Shoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="pantsv2HighHeels" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2HighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="pantsv2BodyFat" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="pantsv2LegThin" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="pantsv2HipsNarrow" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="pantsv2ButtGravity" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="pantsv2ButtThin" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="pantsv2HipsForward" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="pantsv2HipRotateForward" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="pantsv2BreastArmpitin" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="pantsv2BreastArmpitWide" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="pantsv2BreastCurve" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="pantsv2BreastHeight2" target="pantsv2" local="true">Vtaw Leather pants v2 FG.osd\pantsv2BreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

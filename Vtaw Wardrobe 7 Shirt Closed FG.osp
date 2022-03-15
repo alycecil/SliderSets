@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Shirt Closed FG">
+        <DataFolder>Vtaw Wardrobe 7 Shirt Closed FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Shirt Closed FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\Shirt</OutputPath>
+        <OutputFile GenWeights="false">ShirtClosed</OutputFile>
+        <Shape target="Metal">Metal</Shape>
+        <Shape target="Metal2">Metal2</Shape>
+        <Shape target="Shirt closed">Shirt closed</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="Shirt closedBelly Pregnant" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBelly Pregnant</Data>
+            <Data name="MetalBelly Pregnant" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="Shirt closedBelly Big" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBelly Big</Data>
+            <Data name="MetalBelly Big" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="Shirt closedBelly Size" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBelly Size</Data>
+            <Data name="MetalBelly Size" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="Shirt closedBelly Tuck" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBelly Tuck</Data>
+            <Data name="MetalBelly Tuck" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Shirt closedBoobs Yuge" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBoobs Yuge</Data>
+            <Data name="MetalBoobs Yuge" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Shirt closedBoobs Big" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBoobs Big</Data>
+            <Data name="MetalBoobs Big" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="Shirt closedBoobs Cleavage" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBoobs Cleavage</Data>
+            <Data name="MetalBoobs Cleavage" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="Shirt closedBoobs Flat" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBoobs Flat</Data>
+            <Data name="MetalBoobs Flat" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Shirt closedBoobs Gravity" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBoobs Gravity</Data>
+            <Data name="MetalBoobs Gravity" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="Shirt closedBoobs Height" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBoobs Height</Data>
+            <Data name="MetalBoobs Height" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Shirt closedBoobs Mellons" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBoobs Mellons</Data>
+            <Data name="MetalBoobs Mellons" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Shirt closedBoobs Perky" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBoobs Perky</Data>
+            <Data name="MetalBoobs Perky" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Shirt closedBoobs Push Up" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBoobs Push Up</Data>
+            <Data name="MetalBoobs Push Up" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="Shirt closedBoobs Small" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBoobs Small</Data>
+            <Data name="MetalBoobs Small" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="Shirt closedBoobs Together" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBoobs Together</Data>
+            <Data name="MetalBoobs Together" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="Shirt closedBoobs Top Slope" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBoobs Top Slope</Data>
+            <Data name="MetalBoobs Top Slope" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="Shirt closedBoobs Width" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBoobs Width</Data>
+            <Data name="MetalBoobs Width" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Shirt closedBoobs Tiny" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBoobs Tiny</Data>
+            <Data name="MetalBoobs Tiny" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="Shirt closedNipples Distance" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedNipples Distance</Data>
+            <Data name="MetalNipples Distance" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="Shirt closedNipples Down" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedNipples Down</Data>
+            <Data name="MetalNipples Down" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="Shirt closedNipples Perkiness" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedNipples Perkiness</Data>
+            <Data name="MetalNipples Perkiness" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="Shirt closedNipples Puffy" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="Shirt closedNipples Up" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedNipples Up</Data>
+            <Data name="MetalNipples Up" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="Shirt closedChest Depth" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedChest Depth</Data>
+            <Data name="MetalChest Depth" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="Shirt closedChest Width" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="Shirt closedWaist Chubby" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedWaist Chubby</Data>
+            <Data name="MetalWaist Chubby" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="Shirt closedWaist Size" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedWaist Size</Data>
+            <Data name="MetalWaist Size" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="Shirt closedWaist Height" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedWaist Height</Data>
+            <Data name="MetalWaist Height" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="Shirt closedWaist Line" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="Shirt closedBack Size" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="Shirt closedBack Arch" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="Shirt closedHips Bone" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedHips Bone</Data>
+            <Data name="MetalHips Bone" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="Shirt closedHips Size" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedHips Size</Data>
+            <Data name="MetalHips Size" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="Shirt closedHips Upper Width" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="Shirt closedBum Size" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="Shirt closedBum Crack" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="Shirt closedBum Shape 1" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="Shirt closedBum Shape 2" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBum Shape 2</Data>
+            <Data name="MetalBum Shape 2" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="Shirt closedBum Small" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBum Small</Data>
+            <Data name="MetalBum Small" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="Shirt closedBum Chubby" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBum Chubby</Data>
+            <Data name="MetalBum Chubby" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="Shirt closedBum Round" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="Shirt closedBum Apple" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBum Apple</Data>
+            <Data name="MetalBum Apple" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="Shirt closedLegs Chubby" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedLegs Chubby</Data>
+            <Data name="MetalLegs Chubby" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="Shirt closedLegs Shape" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="Shirt closedLegs Thin" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="Shirt closedThighs Slim" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedThighs Slim</Data>
+            <Data name="MetalThighs Slim" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="Shirt closedThighs Size" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedThighs Size</Data>
+            <Data name="MetalThighs Size" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalThighs Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="Shirt closedArms Chubby" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedArms Chubby</Data>
+            <Data name="MetalArms Chubby" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalArms Chubby</Data>
+            <Data name="Metal2Arms Chubby" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Metal2Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="Shirt closedShoulder Smooth" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedShoulder Smooth</Data>
+            <Data name="MetalShoulder Smooth" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="Shirt closedShoulder Tweak" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedShoulder Tweak</Data>
+            <Data name="MetalShoulder Tweak" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="Shirt closedArms Size" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedArms Size</Data>
+            <Data name="MetalArms Size" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalArms Size</Data>
+            <Data name="Metal2Arms Size" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Metal2Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="Shirt closedArmpit Ajustment" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedArmpit Ajustment</Data>
+            <Data name="MetalArmpit Ajustment" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="Shirt closedForearms Size" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedForearms Size</Data>
+            <Data name="Metal2Forearms Size" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Metal2Forearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Shirt closedTorso Size" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedTorso Size</Data>
+            <Data name="MetalTorso Size" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Shirt closedSturnum Depth" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedSturnum Depth</Data>
+            <Data name="MetalSturnum Depth" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Shirt closedSturnum Height" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedSturnum Height</Data>
+            <Data name="MetalSturnum Height" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Shirt closedGroin Position" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedGroin Position</Data>
+            <Data name="MetalGroin Position" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Shirt closedGroin Back" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedGroin Back</Data>
+            <Data name="MetalGroin Back" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="Shirt closedAbDefinition" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedAbDefinition</Data>
+            <Data name="MetalAbDefinition" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Shirt closedBody Toning" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBody Toning</Data>
+            <Data name="MetalBody Toning" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBody Toning</Data>
+            <Data name="Metal2Body Toning" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Metal2Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Shirt closedTigerSanBB" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedTigerSanBB</Data>
+            <Data name="MetalTigerSanBB" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalTigerSanBB</Data>
+            <Data name="Metal2TigerSanBB" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Metal2TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="Shirt closedXunAbs" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedXunAbs</Data>
+            <Data name="MetalXunAbs" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="Shirt closedFFB Fitness 2" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedFFB Fitness 2</Data>
+            <Data name="MetalFFB Fitness 2" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Shirt closedAthletic" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedAthletic</Data>
+            <Data name="MetalAthletic" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Shirt closedSeveNBase Bombshell" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedSeveNBase Bombshell</Data>
+            <Data name="MetalSeveNBase Bombshell" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalSeveNBase Bombshell</Data>
+            <Data name="Metal2SeveNBase Bombshell" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Metal2SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Shirt closedShoulder Width" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Shirt closedBodyFat" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBodyFat</Data>
+            <Data name="MetalBodyFat" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBodyFat</Data>
+            <Data name="Metal2BodyFat" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Metal2BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="Shirt closedLegThin" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedLegThin</Data>
+            <Data name="MetalLegThin" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="Shirt closedHipsNarrow" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="Shirt closedButtGravity" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="Shirt closedButtThin" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="Shirt closedHipsForward" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedHipsForward</Data>
+            <Data name="MetalHipsForward" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="Shirt closedHipRotateForward" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedHipRotateForward</Data>
+            <Data name="MetalHipRotateForward" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="Shirt closedBreastArmpitin" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="Shirt closedBreastArmpitWide" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="Shirt closedBreastCurve" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBreastCurve</Data>
+            <Data name="MetalBreastCurve" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="Shirt closedBreastHeight2" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBreastHeight2</Data>
+            <Data name="MetalBreastHeight2" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="Shirt closedBreastConcave" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedBreastConcave</Data>
+            <Data name="MetalBreastConcave" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\MetalBreastConcave</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="Shirt closedNipples Length" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="Shirt closedNipples Areola" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="Shirt closedNipples Gone" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="Shirt closedNipples Shape" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="Shirt closedNipples Size" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="Shirt closedNipples Tip" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedNipples Tip</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="Shirt closedLabia Majora Wide" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="Shirt closedLabia Majora Inner" target="Shirt closed" local="true">Vtaw Wardrobe 7 Shirt Closed FG.osd\Shirt closedLabia Majora Inner</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,1152 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Tomb Raider FG">
+        <DataFolder>Vtaw Tomb Raider FG</DataFolder>
+        <SourceFile>Vtaw Tomb Raider FG.nif</SourceFile>
+        <OutputPath>Meshes\vtaw\wardrobe6\SBOutfit</OutputPath>
+        <OutputFile GenWeights="false">SBTROnepiece</OutputFile>
+        <Shape target="Bo1">Bo1</Shape>
+        <Shape target="Bo2">Bo2</Shape>
+        <Shape target="FusionGirl" DataFolder="Vtaw Tomb Raider FG">FusionGirl</Shape>
+        <Shape target="TROne2">TROne2</Shape>
+        <Shape target="TROnev1">TROnev1</Shape>
+        <Shape target="To1">To1</Shape>
+        <Shape target="bac1">bac1</Shape>
+        <Shape target="bac2">bac2</Shape>
+        <Shape target="be1">be1</Shape>
+        <Shape target="be2">be2</Shape>
+        <Shape target="hea1">hea1</Shape>
+        <Shape target="hea2">hea2</Shape>
+        <Shape target="hea3">hea3</Shape>
+        <Shape target="hea4">hea4</Shape>
+        <Shape target="jac1">jac1</Shape>
+        <Shape target="jac3">jac3</Shape>
+        <Shape target="pis1">pis1</Shape>
+        <Shape target="pis2">pis2</Shape>
+        <Shape target="pis3">pis3</Shape>
+        <Shape target="short1">short1</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FusionGirlBelly Pregnant" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBelly Pregnant</Data>
+            <Data name="short1Belly Pregnant" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Belly Pregnant</Data>
+            <Data name="be1Belly Pregnant" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Belly Pregnant</Data>
+            <Data name="be2Belly Pregnant" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Belly Pregnant</Data>
+            <Data name="TROnev1Belly Pregnant" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Belly Pregnant</Data>
+            <Data name="TROne2Belly Pregnant" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Belly Pregnant</Data>
+            <Data name="To1Belly Pregnant" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Belly Pregnant</Data>
+            <Data name="jac1Belly Pregnant" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Belly Pregnant</Data>
+            <Data name="jac3Belly Pregnant" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FusionGirlBelly Big" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBelly Big</Data>
+            <Data name="short1Belly Big" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Belly Big</Data>
+            <Data name="be1Belly Big" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Belly Big</Data>
+            <Data name="be2Belly Big" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Belly Big</Data>
+            <Data name="TROnev1Belly Big" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Belly Big</Data>
+            <Data name="TROne2Belly Big" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Belly Big</Data>
+            <Data name="To1Belly Big" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Belly Big</Data>
+            <Data name="bac2Belly Big" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Belly Big</Data>
+            <Data name="jac1Belly Big" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Belly Big</Data>
+            <Data name="jac3Belly Big" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FusionGirlBelly Size" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBelly Size</Data>
+            <Data name="short1Belly Size" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Belly Size</Data>
+            <Data name="be1Belly Size" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Belly Size</Data>
+            <Data name="be2Belly Size" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Belly Size</Data>
+            <Data name="TROnev1Belly Size" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Belly Size</Data>
+            <Data name="TROne2Belly Size" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Belly Size</Data>
+            <Data name="To1Belly Size" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Belly Size</Data>
+            <Data name="jac1Belly Size" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Belly Size</Data>
+            <Data name="jac3Belly Size" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Belly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FusionGirlBelly Tuck" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBelly Tuck</Data>
+            <Data name="short1Belly Tuck" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Belly Tuck</Data>
+            <Data name="be1Belly Tuck" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Belly Tuck</Data>
+            <Data name="be2Belly Tuck" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Belly Tuck</Data>
+            <Data name="TROnev1Belly Tuck" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Belly Tuck</Data>
+            <Data name="To1Belly Tuck" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Belly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FusionGirlBoobs Yuge" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBoobs Yuge</Data>
+            <Data name="Bo1Boobs Yuge" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Boobs Yuge</Data>
+            <Data name="Bo2Boobs Yuge" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Boobs Yuge</Data>
+            <Data name="short1Boobs Yuge" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Boobs Yuge</Data>
+            <Data name="be1Boobs Yuge" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Boobs Yuge</Data>
+            <Data name="be2Boobs Yuge" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Boobs Yuge</Data>
+            <Data name="pis1Boobs Yuge" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Boobs Yuge</Data>
+            <Data name="pis2Boobs Yuge" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Boobs Yuge</Data>
+            <Data name="pis3Boobs Yuge" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Boobs Yuge</Data>
+            <Data name="TROnev1Boobs Yuge" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Boobs Yuge</Data>
+            <Data name="TROne2Boobs Yuge" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Boobs Yuge</Data>
+            <Data name="To1Boobs Yuge" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Boobs Yuge</Data>
+            <Data name="bac1Boobs Yuge" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Boobs Yuge</Data>
+            <Data name="bac2Boobs Yuge" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Boobs Yuge</Data>
+            <Data name="jac1Boobs Yuge" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Boobs Yuge</Data>
+            <Data name="jac3Boobs Yuge" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FusionGirlBoobs Big" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBoobs Big</Data>
+            <Data name="Bo1Boobs Big" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Boobs Big</Data>
+            <Data name="Bo2Boobs Big" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Boobs Big</Data>
+            <Data name="short1Boobs Big" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Boobs Big</Data>
+            <Data name="be1Boobs Big" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Boobs Big</Data>
+            <Data name="be2Boobs Big" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Boobs Big</Data>
+            <Data name="pis1Boobs Big" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Boobs Big</Data>
+            <Data name="pis2Boobs Big" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Boobs Big</Data>
+            <Data name="pis3Boobs Big" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Boobs Big</Data>
+            <Data name="TROnev1Boobs Big" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Boobs Big</Data>
+            <Data name="TROne2Boobs Big" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Boobs Big</Data>
+            <Data name="To1Boobs Big" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Boobs Big</Data>
+            <Data name="bac1Boobs Big" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Boobs Big</Data>
+            <Data name="bac2Boobs Big" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Boobs Big</Data>
+            <Data name="jac1Boobs Big" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Boobs Big</Data>
+            <Data name="jac3Boobs Big" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FusionGirlBoobs Cleavage" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBoobs Cleavage</Data>
+            <Data name="TROnev1Boobs Cleavage" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Boobs Cleavage</Data>
+            <Data name="TROne2Boobs Cleavage" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Boobs Cleavage</Data>
+            <Data name="To1Boobs Cleavage" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Boobs Cleavage</Data>
+            <Data name="bac2Boobs Cleavage" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Boobs Cleavage</Data>
+            <Data name="jac1Boobs Cleavage" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Boobs Cleavage</Data>
+            <Data name="jac3Boobs Cleavage" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Boobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FusionGirlBoobs Flat" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBoobs Flat</Data>
+            <Data name="TROnev1Boobs Flat" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Boobs Flat</Data>
+            <Data name="TROne2Boobs Flat" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Boobs Flat</Data>
+            <Data name="To1Boobs Flat" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Boobs Flat</Data>
+            <Data name="bac2Boobs Flat" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Boobs Flat</Data>
+            <Data name="jac1Boobs Flat" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Boobs Flat</Data>
+            <Data name="jac3Boobs Flat" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Boobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FusionGirlBoobs Gravity" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBoobs Gravity</Data>
+            <Data name="Bo1Boobs Gravity" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Boobs Gravity</Data>
+            <Data name="Bo2Boobs Gravity" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Boobs Gravity</Data>
+            <Data name="short1Boobs Gravity" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Boobs Gravity</Data>
+            <Data name="be1Boobs Gravity" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Boobs Gravity</Data>
+            <Data name="be2Boobs Gravity" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Boobs Gravity</Data>
+            <Data name="pis1Boobs Gravity" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Boobs Gravity</Data>
+            <Data name="pis2Boobs Gravity" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Boobs Gravity</Data>
+            <Data name="pis3Boobs Gravity" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Boobs Gravity</Data>
+            <Data name="TROnev1Boobs Gravity" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Boobs Gravity</Data>
+            <Data name="TROne2Boobs Gravity" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Boobs Gravity</Data>
+            <Data name="To1Boobs Gravity" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Boobs Gravity</Data>
+            <Data name="bac1Boobs Gravity" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Boobs Gravity</Data>
+            <Data name="bac2Boobs Gravity" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Boobs Gravity</Data>
+            <Data name="jac1Boobs Gravity" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Boobs Gravity</Data>
+            <Data name="jac3Boobs Gravity" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FusionGirlBoobs Height" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBoobs Height</Data>
+            <Data name="TROnev1Boobs Height" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Boobs Height</Data>
+            <Data name="TROne2Boobs Height" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Boobs Height</Data>
+            <Data name="To1Boobs Height" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Boobs Height</Data>
+            <Data name="bac2Boobs Height" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Boobs Height</Data>
+            <Data name="jac1Boobs Height" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Boobs Height</Data>
+            <Data name="jac3Boobs Height" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Boobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FusionGirlBoobs Mellons" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBoobs Mellons</Data>
+            <Data name="Bo1Boobs Mellons" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Boobs Mellons</Data>
+            <Data name="Bo2Boobs Mellons" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Boobs Mellons</Data>
+            <Data name="short1Boobs Mellons" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Boobs Mellons</Data>
+            <Data name="be1Boobs Mellons" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Boobs Mellons</Data>
+            <Data name="be2Boobs Mellons" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Boobs Mellons</Data>
+            <Data name="pis1Boobs Mellons" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Boobs Mellons</Data>
+            <Data name="pis2Boobs Mellons" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Boobs Mellons</Data>
+            <Data name="pis3Boobs Mellons" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Boobs Mellons</Data>
+            <Data name="TROnev1Boobs Mellons" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Boobs Mellons</Data>
+            <Data name="TROne2Boobs Mellons" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Boobs Mellons</Data>
+            <Data name="To1Boobs Mellons" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Boobs Mellons</Data>
+            <Data name="bac1Boobs Mellons" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Boobs Mellons</Data>
+            <Data name="bac2Boobs Mellons" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Boobs Mellons</Data>
+            <Data name="jac1Boobs Mellons" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Boobs Mellons</Data>
+            <Data name="jac3Boobs Mellons" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FusionGirlBoobs Perky" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBoobs Perky</Data>
+            <Data name="Bo1Boobs Perky" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Boobs Perky</Data>
+            <Data name="Bo2Boobs Perky" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Boobs Perky</Data>
+            <Data name="short1Boobs Perky" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Boobs Perky</Data>
+            <Data name="be1Boobs Perky" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Boobs Perky</Data>
+            <Data name="be2Boobs Perky" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Boobs Perky</Data>
+            <Data name="pis1Boobs Perky" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Boobs Perky</Data>
+            <Data name="pis2Boobs Perky" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Boobs Perky</Data>
+            <Data name="pis3Boobs Perky" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Boobs Perky</Data>
+            <Data name="TROnev1Boobs Perky" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Boobs Perky</Data>
+            <Data name="TROne2Boobs Perky" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Boobs Perky</Data>
+            <Data name="To1Boobs Perky" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Boobs Perky</Data>
+            <Data name="bac1Boobs Perky" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Boobs Perky</Data>
+            <Data name="bac2Boobs Perky" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Boobs Perky</Data>
+            <Data name="jac1Boobs Perky" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Boobs Perky</Data>
+            <Data name="jac3Boobs Perky" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FusionGirlBoobs Push Up" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBoobs Push Up</Data>
+            <Data name="Bo1Boobs Push Up" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Boobs Push Up</Data>
+            <Data name="Bo2Boobs Push Up" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Boobs Push Up</Data>
+            <Data name="short1Boobs Push Up" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Boobs Push Up</Data>
+            <Data name="be1Boobs Push Up" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Boobs Push Up</Data>
+            <Data name="be2Boobs Push Up" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Boobs Push Up</Data>
+            <Data name="pis1Boobs Push Up" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Boobs Push Up</Data>
+            <Data name="pis2Boobs Push Up" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Boobs Push Up</Data>
+            <Data name="pis3Boobs Push Up" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Boobs Push Up</Data>
+            <Data name="TROnev1Boobs Push Up" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Boobs Push Up</Data>
+            <Data name="TROne2Boobs Push Up" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Boobs Push Up</Data>
+            <Data name="To1Boobs Push Up" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Boobs Push Up</Data>
+            <Data name="bac1Boobs Push Up" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Boobs Push Up</Data>
+            <Data name="bac2Boobs Push Up" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Boobs Push Up</Data>
+            <Data name="jac1Boobs Push Up" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Boobs Push Up</Data>
+            <Data name="jac3Boobs Push Up" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FusionGirlBoobs Small" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBoobs Small</Data>
+            <Data name="TROnev1Boobs Small" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Boobs Small</Data>
+            <Data name="TROne2Boobs Small" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Boobs Small</Data>
+            <Data name="To1Boobs Small" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Boobs Small</Data>
+            <Data name="bac2Boobs Small" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Boobs Small</Data>
+            <Data name="jac1Boobs Small" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Boobs Small</Data>
+            <Data name="jac3Boobs Small" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Boobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FusionGirlBoobs Together" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBoobs Together</Data>
+            <Data name="TROnev1Boobs Together" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Boobs Together</Data>
+            <Data name="TROne2Boobs Together" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Boobs Together</Data>
+            <Data name="To1Boobs Together" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Boobs Together</Data>
+            <Data name="bac2Boobs Together" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Boobs Together</Data>
+            <Data name="jac1Boobs Together" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Boobs Together</Data>
+            <Data name="jac3Boobs Together" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Boobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FusionGirlBoobs Top Slope" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBoobs Top Slope</Data>
+            <Data name="Bo1Boobs Top Slope" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Boobs Top Slope</Data>
+            <Data name="Bo2Boobs Top Slope" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Boobs Top Slope</Data>
+            <Data name="short1Boobs Top Slope" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Boobs Top Slope</Data>
+            <Data name="be1Boobs Top Slope" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Boobs Top Slope</Data>
+            <Data name="be2Boobs Top Slope" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Boobs Top Slope</Data>
+            <Data name="pis1Boobs Top Slope" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Boobs Top Slope</Data>
+            <Data name="pis2Boobs Top Slope" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Boobs Top Slope</Data>
+            <Data name="pis3Boobs Top Slope" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Boobs Top Slope</Data>
+            <Data name="TROnev1Boobs Top Slope" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Boobs Top Slope</Data>
+            <Data name="TROne2Boobs Top Slope" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Boobs Top Slope</Data>
+            <Data name="To1Boobs Top Slope" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Boobs Top Slope</Data>
+            <Data name="bac1Boobs Top Slope" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Boobs Top Slope</Data>
+            <Data name="bac2Boobs Top Slope" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Boobs Top Slope</Data>
+            <Data name="jac1Boobs Top Slope" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Boobs Top Slope</Data>
+            <Data name="jac3Boobs Top Slope" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FusionGirlBoobs Width" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBoobs Width</Data>
+            <Data name="TROnev1Boobs Width" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Boobs Width</Data>
+            <Data name="TROne2Boobs Width" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Boobs Width</Data>
+            <Data name="To1Boobs Width" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Boobs Width</Data>
+            <Data name="bac2Boobs Width" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Boobs Width</Data>
+            <Data name="jac1Boobs Width" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Boobs Width</Data>
+            <Data name="jac3Boobs Width" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Boobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FusionGirlBoobs Tiny" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBoobs Tiny</Data>
+            <Data name="Bo1Boobs Tiny" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Boobs Tiny</Data>
+            <Data name="Bo2Boobs Tiny" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Boobs Tiny</Data>
+            <Data name="short1Boobs Tiny" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Boobs Tiny</Data>
+            <Data name="be1Boobs Tiny" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Boobs Tiny</Data>
+            <Data name="be2Boobs Tiny" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Boobs Tiny</Data>
+            <Data name="pis1Boobs Tiny" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Boobs Tiny</Data>
+            <Data name="pis2Boobs Tiny" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Boobs Tiny</Data>
+            <Data name="pis3Boobs Tiny" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Boobs Tiny</Data>
+            <Data name="TROnev1Boobs Tiny" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Boobs Tiny</Data>
+            <Data name="TROne2Boobs Tiny" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Boobs Tiny</Data>
+            <Data name="To1Boobs Tiny" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Boobs Tiny</Data>
+            <Data name="bac1Boobs Tiny" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Boobs Tiny</Data>
+            <Data name="bac2Boobs Tiny" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Boobs Tiny</Data>
+            <Data name="jac1Boobs Tiny" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Boobs Tiny</Data>
+            <Data name="jac3Boobs Tiny" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="FusionGirlNipples Length" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlNipples Length</Data>
+            <Data name="TROnev1Nipples Length" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Nipples Length</Data>
+            <Data name="TROne2Nipples Length" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Nipples Length</Data>
+            <Data name="To1Nipples Length" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Nipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="FusionGirlNipples Areola" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlNipples Areola</Data>
+            <Data name="TROnev1Nipples Areola" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Nipples Areola</Data>
+            <Data name="TROne2Nipples Areola" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Nipples Areola</Data>
+            <Data name="To1Nipples Areola" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Nipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FusionGirlNipples Distance" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlNipples Distance</Data>
+            <Data name="TROnev1Nipples Distance" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Nipples Distance</Data>
+            <Data name="TROne2Nipples Distance" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Nipples Distance</Data>
+            <Data name="To1Nipples Distance" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Nipples Distance</Data>
+            <Data name="bac2Nipples Distance" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Nipples Distance</Data>
+            <Data name="jac1Nipples Distance" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Nipples Distance</Data>
+            <Data name="jac3Nipples Distance" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Nipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FusionGirlNipples Down" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlNipples Down</Data>
+            <Data name="TROnev1Nipples Down" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Nipples Down</Data>
+            <Data name="TROne2Nipples Down" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Nipples Down</Data>
+            <Data name="To1Nipples Down" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Nipples Down</Data>
+            <Data name="bac2Nipples Down" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Nipples Down</Data>
+            <Data name="jac1Nipples Down" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Nipples Down</Data>
+            <Data name="jac3Nipples Down" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Nipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="FusionGirlNipples Gone" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlNipples Gone</Data>
+            <Data name="Bo1Nipples Gone" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Nipples Gone</Data>
+            <Data name="TROnev1Nipples Gone" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Nipples Gone</Data>
+            <Data name="TROne2Nipples Gone" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Nipples Gone</Data>
+            <Data name="To1Nipples Gone" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Nipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="FusionGirlNipples Shape" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlNipples Shape</Data>
+            <Data name="TROnev1Nipples Shape" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Nipples Shape</Data>
+            <Data name="TROne2Nipples Shape" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Nipples Shape</Data>
+            <Data name="To1Nipples Shape" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Nipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="FusionGirlNipples Size" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlNipples Size</Data>
+            <Data name="TROnev1Nipples Size" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Nipples Size</Data>
+            <Data name="TROne2Nipples Size" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Nipples Size</Data>
+            <Data name="To1Nipples Size" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Nipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FusionGirlNipples Perkiness" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlNipples Perkiness</Data>
+            <Data name="TROnev1Nipples Perkiness" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Nipples Perkiness</Data>
+            <Data name="TROne2Nipples Perkiness" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Nipples Perkiness</Data>
+            <Data name="To1Nipples Perkiness" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Nipples Perkiness</Data>
+            <Data name="bac2Nipples Perkiness" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Nipples Perkiness</Data>
+            <Data name="jac1Nipples Perkiness" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Nipples Perkiness</Data>
+            <Data name="jac3Nipples Perkiness" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Nipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FusionGirlNipples Puffy" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlNipples Puffy</Data>
+            <Data name="TROnev1Nipples Puffy" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Nipples Puffy</Data>
+            <Data name="TROne2Nipples Puffy" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Nipples Puffy</Data>
+            <Data name="To1Nipples Puffy" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Nipples Puffy</Data>
+            <Data name="jac3Nipples Puffy" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Nipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FusionGirlNipples Up" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlNipples Up</Data>
+            <Data name="TROnev1Nipples Up" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Nipples Up</Data>
+            <Data name="TROne2Nipples Up" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Nipples Up</Data>
+            <Data name="To1Nipples Up" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Nipples Up</Data>
+            <Data name="bac2Nipples Up" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Nipples Up</Data>
+            <Data name="jac1Nipples Up" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Nipples Up</Data>
+            <Data name="jac3Nipples Up" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Nipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="FusionGirlNipples Tip" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlNipples Tip</Data>
+            <Data name="TROnev1Nipples Tip" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Nipples Tip</Data>
+            <Data name="TROne2Nipples Tip" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Nipples Tip</Data>
+            <Data name="To1Nipples Tip" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Nipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FusionGirlChest Depth" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlChest Depth</Data>
+            <Data name="TROnev1Chest Depth" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Chest Depth</Data>
+            <Data name="TROne2Chest Depth" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Chest Depth</Data>
+            <Data name="To1Chest Depth" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Chest Depth</Data>
+            <Data name="bac2Chest Depth" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Chest Depth</Data>
+            <Data name="jac1Chest Depth" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Chest Depth</Data>
+            <Data name="jac3Chest Depth" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Chest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FusionGirlChest Width" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlChest Width</Data>
+            <Data name="short1Chest Width" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Chest Width</Data>
+            <Data name="be1Chest Width" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Chest Width</Data>
+            <Data name="TROnev1Chest Width" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Chest Width</Data>
+            <Data name="TROne2Chest Width" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Chest Width</Data>
+            <Data name="To1Chest Width" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Chest Width</Data>
+            <Data name="bac1Chest Width" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Chest Width</Data>
+            <Data name="bac2Chest Width" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Chest Width</Data>
+            <Data name="jac1Chest Width" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Chest Width</Data>
+            <Data name="jac3Chest Width" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FusionGirlWaist Chubby" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlWaist Chubby</Data>
+            <Data name="short1Waist Chubby" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Waist Chubby</Data>
+            <Data name="be1Waist Chubby" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Waist Chubby</Data>
+            <Data name="be2Waist Chubby" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Waist Chubby</Data>
+            <Data name="pis2Waist Chubby" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Waist Chubby</Data>
+            <Data name="pis3Waist Chubby" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Waist Chubby</Data>
+            <Data name="TROnev1Waist Chubby" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Waist Chubby</Data>
+            <Data name="TROne2Waist Chubby" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Waist Chubby</Data>
+            <Data name="To1Waist Chubby" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Waist Chubby</Data>
+            <Data name="bac1Waist Chubby" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Waist Chubby</Data>
+            <Data name="bac2Waist Chubby" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Waist Chubby</Data>
+            <Data name="jac1Waist Chubby" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Waist Chubby</Data>
+            <Data name="jac3Waist Chubby" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FusionGirlWaist Size" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlWaist Size</Data>
+            <Data name="short1Waist Size" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Waist Size</Data>
+            <Data name="be1Waist Size" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Waist Size</Data>
+            <Data name="be2Waist Size" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Waist Size</Data>
+            <Data name="TROnev1Waist Size" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Waist Size</Data>
+            <Data name="TROne2Waist Size" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Waist Size</Data>
+            <Data name="To1Waist Size" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Waist Size</Data>
+            <Data name="bac1Waist Size" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Waist Size</Data>
+            <Data name="bac2Waist Size" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Waist Size</Data>
+            <Data name="jac1Waist Size" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Waist Size</Data>
+            <Data name="jac3Waist Size" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FusionGirlWaist Height" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlWaist Height</Data>
+            <Data name="short1Waist Height" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Waist Height</Data>
+            <Data name="be1Waist Height" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Waist Height</Data>
+            <Data name="be2Waist Height" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Waist Height</Data>
+            <Data name="TROnev1Waist Height" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Waist Height</Data>
+            <Data name="TROne2Waist Height" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Waist Height</Data>
+            <Data name="To1Waist Height" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Waist Height</Data>
+            <Data name="bac1Waist Height" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Waist Height</Data>
+            <Data name="jac1Waist Height" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Waist Height</Data>
+            <Data name="jac3Waist Height" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FusionGirlWaist Line" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlWaist Line</Data>
+            <Data name="short1Waist Line" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Waist Line</Data>
+            <Data name="be1Waist Line" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Waist Line</Data>
+            <Data name="TROnev1Waist Line" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Waist Line</Data>
+            <Data name="TROne2Waist Line" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Waist Line</Data>
+            <Data name="To1Waist Line" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Waist Line</Data>
+            <Data name="jac3Waist Line" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FusionGirlBack Size" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBack Size</Data>
+            <Data name="short1Back Size" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Back Size</Data>
+            <Data name="be1Back Size" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Back Size</Data>
+            <Data name="be2Back Size" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Back Size</Data>
+            <Data name="TROnev1Back Size" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Back Size</Data>
+            <Data name="TROne2Back Size" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Back Size</Data>
+            <Data name="To1Back Size" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Back Size</Data>
+            <Data name="bac1Back Size" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Back Size</Data>
+            <Data name="bac2Back Size" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Back Size</Data>
+            <Data name="jac1Back Size" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Back Size</Data>
+            <Data name="jac3Back Size" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FusionGirlBack Arch" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBack Arch</Data>
+            <Data name="short1Back Arch" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Back Arch</Data>
+            <Data name="be1Back Arch" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Back Arch</Data>
+            <Data name="be2Back Arch" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Back Arch</Data>
+            <Data name="TROnev1Back Arch" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Back Arch</Data>
+            <Data name="TROne2Back Arch" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Back Arch</Data>
+            <Data name="To1Back Arch" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Back Arch</Data>
+            <Data name="bac1Back Arch" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Back Arch</Data>
+            <Data name="jac3Back Arch" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FusionGirlHips Bone" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlHips Bone</Data>
+            <Data name="short1Hips Bone" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Hips Bone</Data>
+            <Data name="be1Hips Bone" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Hips Bone</Data>
+            <Data name="be2Hips Bone" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Hips Bone</Data>
+            <Data name="pis1Hips Bone" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Hips Bone</Data>
+            <Data name="pis2Hips Bone" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Hips Bone</Data>
+            <Data name="pis3Hips Bone" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Hips Bone</Data>
+            <Data name="TROnev1Hips Bone" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Hips Bone</Data>
+            <Data name="To1Hips Bone" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Hips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FusionGirlHips Size" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlHips Size</Data>
+            <Data name="short1Hips Size" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Hips Size</Data>
+            <Data name="be1Hips Size" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Hips Size</Data>
+            <Data name="be2Hips Size" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Hips Size</Data>
+            <Data name="pis1Hips Size" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Hips Size</Data>
+            <Data name="pis2Hips Size" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Hips Size</Data>
+            <Data name="pis3Hips Size" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Hips Size</Data>
+            <Data name="TROnev1Hips Size" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Hips Size</Data>
+            <Data name="To1Hips Size" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Hips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FusionGirlHips Upper Width" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlHips Upper Width</Data>
+            <Data name="short1Hips Upper Width" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Hips Upper Width</Data>
+            <Data name="be1Hips Upper Width" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Hips Upper Width</Data>
+            <Data name="be2Hips Upper Width" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Hips Upper Width</Data>
+            <Data name="pis3Hips Upper Width" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Hips Upper Width</Data>
+            <Data name="TROnev1Hips Upper Width" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Hips Upper Width</Data>
+            <Data name="TROne2Hips Upper Width" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Hips Upper Width</Data>
+            <Data name="To1Hips Upper Width" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Hips Upper Width</Data>
+            <Data name="jac3Hips Upper Width" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FusionGirlBum Size" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBum Size</Data>
+            <Data name="short1Bum Size" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Bum Size</Data>
+            <Data name="be1Bum Size" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Bum Size</Data>
+            <Data name="be2Bum Size" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Bum Size</Data>
+            <Data name="pis1Bum Size" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Bum Size</Data>
+            <Data name="pis2Bum Size" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Bum Size</Data>
+            <Data name="pis3Bum Size" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Bum Size</Data>
+            <Data name="TROnev1Bum Size" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Bum Size</Data>
+            <Data name="TROne2Bum Size" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Bum Size</Data>
+            <Data name="To1Bum Size" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Bum Size</Data>
+            <Data name="jac3Bum Size" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FusionGirlBum Crack" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBum Crack</Data>
+            <Data name="short1Bum Crack" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Bum Crack</Data>
+            <Data name="be1Bum Crack" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Bum Crack</Data>
+            <Data name="be2Bum Crack" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Bum Crack</Data>
+            <Data name="pis2Bum Crack" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Bum Crack</Data>
+            <Data name="pis3Bum Crack" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Bum Crack</Data>
+            <Data name="TROnev1Bum Crack" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Bum Crack</Data>
+            <Data name="To1Bum Crack" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 1" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBum Shape 1</Data>
+            <Data name="short1Bum Shape 1" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Bum Shape 1</Data>
+            <Data name="be1Bum Shape 1" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Bum Shape 1</Data>
+            <Data name="be2Bum Shape 1" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Bum Shape 1</Data>
+            <Data name="pis1Bum Shape 1" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Bum Shape 1</Data>
+            <Data name="pis2Bum Shape 1" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Bum Shape 1</Data>
+            <Data name="pis3Bum Shape 1" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Bum Shape 1</Data>
+            <Data name="TROnev1Bum Shape 1" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Bum Shape 1</Data>
+            <Data name="To1Bum Shape 1" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 2" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBum Shape 2</Data>
+            <Data name="short1Bum Shape 2" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Bum Shape 2</Data>
+            <Data name="be1Bum Shape 2" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Bum Shape 2</Data>
+            <Data name="be2Bum Shape 2" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Bum Shape 2</Data>
+            <Data name="pis1Bum Shape 2" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Bum Shape 2</Data>
+            <Data name="pis2Bum Shape 2" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Bum Shape 2</Data>
+            <Data name="pis3Bum Shape 2" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Bum Shape 2</Data>
+            <Data name="TROnev1Bum Shape 2" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Bum Shape 2</Data>
+            <Data name="TROne2Bum Shape 2" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Bum Shape 2</Data>
+            <Data name="To1Bum Shape 2" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Bum Shape 2</Data>
+            <Data name="jac3Bum Shape 2" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FusionGirlBum Small" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBum Small</Data>
+            <Data name="short1Bum Small" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Bum Small</Data>
+            <Data name="be1Bum Small" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Bum Small</Data>
+            <Data name="be2Bum Small" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Bum Small</Data>
+            <Data name="pis1Bum Small" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Bum Small</Data>
+            <Data name="pis2Bum Small" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Bum Small</Data>
+            <Data name="pis3Bum Small" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Bum Small</Data>
+            <Data name="TROnev1Bum Small" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Bum Small</Data>
+            <Data name="To1Bum Small" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Bum Small</Data>
+            <Data name="jac3Bum Small" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FusionGirlBum Chubby" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBum Chubby</Data>
+            <Data name="short1Bum Chubby" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Bum Chubby</Data>
+            <Data name="be1Bum Chubby" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Bum Chubby</Data>
+            <Data name="be2Bum Chubby" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Bum Chubby</Data>
+            <Data name="pis1Bum Chubby" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Bum Chubby</Data>
+            <Data name="pis2Bum Chubby" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Bum Chubby</Data>
+            <Data name="pis3Bum Chubby" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Bum Chubby</Data>
+            <Data name="TROnev1Bum Chubby" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Bum Chubby</Data>
+            <Data name="TROne2Bum Chubby" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Bum Chubby</Data>
+            <Data name="To1Bum Chubby" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Bum Chubby</Data>
+            <Data name="bac1Bum Chubby" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Bum Chubby</Data>
+            <Data name="jac3Bum Chubby" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FusionGirlBum Round" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBum Round</Data>
+            <Data name="short1Bum Round" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Bum Round</Data>
+            <Data name="be1Bum Round" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Bum Round</Data>
+            <Data name="be2Bum Round" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Bum Round</Data>
+            <Data name="pis1Bum Round" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Bum Round</Data>
+            <Data name="pis2Bum Round" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Bum Round</Data>
+            <Data name="pis3Bum Round" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Bum Round</Data>
+            <Data name="TROnev1Bum Round" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Bum Round</Data>
+            <Data name="To1Bum Round" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FusionGirlBum Apple" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBum Apple</Data>
+            <Data name="Bo1Bum Apple" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Bum Apple</Data>
+            <Data name="short1Bum Apple" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Bum Apple</Data>
+            <Data name="be1Bum Apple" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Bum Apple</Data>
+            <Data name="be2Bum Apple" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Bum Apple</Data>
+            <Data name="pis1Bum Apple" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Bum Apple</Data>
+            <Data name="pis2Bum Apple" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Bum Apple</Data>
+            <Data name="pis3Bum Apple" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Bum Apple</Data>
+            <Data name="TROnev1Bum Apple" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Bum Apple</Data>
+            <Data name="TROne2Bum Apple" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Bum Apple</Data>
+            <Data name="To1Bum Apple" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Bum Apple</Data>
+            <Data name="bac1Bum Apple" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Bum Apple</Data>
+            <Data name="jac3Bum Apple" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Bum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FusionGirlCalf Size" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlCalf Size</Data>
+            <Data name="Bo1Calf Size" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Calf Size</Data>
+            <Data name="Bo2Calf Size" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Calf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FusionGirlCalf Small" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlCalf Small</Data>
+            <Data name="Bo1Calf Small" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Calf Small</Data>
+            <Data name="Bo2Calf Small" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Calf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FusionGirlLegs Chubby" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlLegs Chubby</Data>
+            <Data name="Bo1Legs Chubby" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Legs Chubby</Data>
+            <Data name="Bo2Legs Chubby" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Legs Chubby</Data>
+            <Data name="short1Legs Chubby" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Legs Chubby</Data>
+            <Data name="be1Legs Chubby" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Legs Chubby</Data>
+            <Data name="be2Legs Chubby" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Legs Chubby</Data>
+            <Data name="pis1Legs Chubby" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Legs Chubby</Data>
+            <Data name="pis2Legs Chubby" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Legs Chubby</Data>
+            <Data name="pis3Legs Chubby" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Legs Chubby</Data>
+            <Data name="TROnev1Legs Chubby" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Legs Chubby</Data>
+            <Data name="TROne2Legs Chubby" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Legs Chubby</Data>
+            <Data name="To1Legs Chubby" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Legs Chubby</Data>
+            <Data name="bac1Legs Chubby" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Legs Chubby</Data>
+            <Data name="bac2Legs Chubby" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Legs Chubby</Data>
+            <Data name="jac3Legs Chubby" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FusionGirlLegs Shape" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlLegs Shape</Data>
+            <Data name="Bo1Legs Shape" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Legs Shape</Data>
+            <Data name="Bo2Legs Shape" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Legs Shape</Data>
+            <Data name="short1Legs Shape" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Legs Shape</Data>
+            <Data name="be1Legs Shape" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Legs Shape</Data>
+            <Data name="be2Legs Shape" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Legs Shape</Data>
+            <Data name="pis1Legs Shape" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Legs Shape</Data>
+            <Data name="pis2Legs Shape" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Legs Shape</Data>
+            <Data name="pis3Legs Shape" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Legs Shape</Data>
+            <Data name="TROnev1Legs Shape" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Legs Shape</Data>
+            <Data name="To1Legs Shape" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FusionGirlLegs Thin" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlLegs Thin</Data>
+            <Data name="Bo1Legs Thin" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Legs Thin</Data>
+            <Data name="Bo2Legs Thin" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Legs Thin</Data>
+            <Data name="short1Legs Thin" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Legs Thin</Data>
+            <Data name="be1Legs Thin" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Legs Thin</Data>
+            <Data name="be2Legs Thin" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Legs Thin</Data>
+            <Data name="pis1Legs Thin" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Legs Thin</Data>
+            <Data name="pis2Legs Thin" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Legs Thin</Data>
+            <Data name="pis3Legs Thin" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Legs Thin</Data>
+            <Data name="TROnev1Legs Thin" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Legs Thin</Data>
+            <Data name="To1Legs Thin" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FusionGirlThighs Slim" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlThighs Slim</Data>
+            <Data name="Bo1Thighs Slim" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Thighs Slim</Data>
+            <Data name="Bo2Thighs Slim" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Thighs Slim</Data>
+            <Data name="short1Thighs Slim" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Thighs Slim</Data>
+            <Data name="be1Thighs Slim" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Thighs Slim</Data>
+            <Data name="be2Thighs Slim" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Thighs Slim</Data>
+            <Data name="pis1Thighs Slim" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Thighs Slim</Data>
+            <Data name="pis2Thighs Slim" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Thighs Slim</Data>
+            <Data name="pis3Thighs Slim" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Thighs Slim</Data>
+            <Data name="TROnev1Thighs Slim" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Thighs Slim</Data>
+            <Data name="To1Thighs Slim" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FusionGirlThighs Size" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlThighs Size</Data>
+            <Data name="Bo1Thighs Size" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Thighs Size</Data>
+            <Data name="Bo2Thighs Size" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Thighs Size</Data>
+            <Data name="short1Thighs Size" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Thighs Size</Data>
+            <Data name="be1Thighs Size" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Thighs Size</Data>
+            <Data name="be2Thighs Size" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Thighs Size</Data>
+            <Data name="pis1Thighs Size" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Thighs Size</Data>
+            <Data name="pis2Thighs Size" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Thighs Size</Data>
+            <Data name="pis3Thighs Size" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Thighs Size</Data>
+            <Data name="TROnev1Thighs Size" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Thighs Size</Data>
+            <Data name="To1Thighs Size" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Thighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FusionGirlAnkle Size" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlAnkle Size</Data>
+            <Data name="Bo1Ankle Size" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Ankle Size</Data>
+            <Data name="Bo2Ankle Size" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Ankle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FusionGirlArms Chubby" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlArms Chubby</Data>
+            <Data name="TROnev1Arms Chubby" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Arms Chubby</Data>
+            <Data name="TROne2Arms Chubby" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Arms Chubby</Data>
+            <Data name="To1Arms Chubby" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Arms Chubby</Data>
+            <Data name="bac1Arms Chubby" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Arms Chubby</Data>
+            <Data name="bac2Arms Chubby" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Arms Chubby</Data>
+            <Data name="jac1Arms Chubby" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Arms Chubby</Data>
+            <Data name="jac3Arms Chubby" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FusionGirlShoulder Smooth" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlShoulder Smooth</Data>
+            <Data name="TROnev1Shoulder Smooth" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Shoulder Smooth</Data>
+            <Data name="TROne2Shoulder Smooth" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Shoulder Smooth</Data>
+            <Data name="To1Shoulder Smooth" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Shoulder Smooth</Data>
+            <Data name="bac1Shoulder Smooth" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Shoulder Smooth</Data>
+            <Data name="bac2Shoulder Smooth" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Shoulder Smooth</Data>
+            <Data name="jac1Shoulder Smooth" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Shoulder Smooth</Data>
+            <Data name="jac3Shoulder Smooth" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FusionGirlShoulder Tweak" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlShoulder Tweak</Data>
+            <Data name="TROnev1Shoulder Tweak" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Shoulder Tweak</Data>
+            <Data name="TROne2Shoulder Tweak" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Shoulder Tweak</Data>
+            <Data name="To1Shoulder Tweak" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Shoulder Tweak</Data>
+            <Data name="bac1Shoulder Tweak" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Shoulder Tweak</Data>
+            <Data name="bac2Shoulder Tweak" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Shoulder Tweak</Data>
+            <Data name="jac1Shoulder Tweak" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Shoulder Tweak</Data>
+            <Data name="jac3Shoulder Tweak" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Shoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FusionGirlArms Size" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlArms Size</Data>
+            <Data name="TROnev1Arms Size" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Arms Size</Data>
+            <Data name="TROne2Arms Size" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Arms Size</Data>
+            <Data name="To1Arms Size" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Arms Size</Data>
+            <Data name="bac1Arms Size" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Arms Size</Data>
+            <Data name="bac2Arms Size" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Arms Size</Data>
+            <Data name="jac1Arms Size" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Arms Size</Data>
+            <Data name="jac3Arms Size" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FusionGirlArmpit Ajustment" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlArmpit Ajustment</Data>
+            <Data name="TROnev1Armpit Ajustment" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Armpit Ajustment</Data>
+            <Data name="TROne2Armpit Ajustment" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Armpit Ajustment</Data>
+            <Data name="To1Armpit Ajustment" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Armpit Ajustment</Data>
+            <Data name="bac1Armpit Ajustment" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Armpit Ajustment</Data>
+            <Data name="bac2Armpit Ajustment" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Armpit Ajustment</Data>
+            <Data name="jac1Armpit Ajustment" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Armpit Ajustment</Data>
+            <Data name="jac3Armpit Ajustment" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FusionGirlForearms Size" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlForearms Size</Data>
+            <Data name="jac1Forearms Size" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Forearms Size</Data>
+            <Data name="jac3Forearms Size" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Forearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FusionGirlTorso Size" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlTorso Size</Data>
+            <Data name="short1Torso Size" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Torso Size</Data>
+            <Data name="be1Torso Size" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Torso Size</Data>
+            <Data name="be2Torso Size" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Torso Size</Data>
+            <Data name="pis1Torso Size" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Torso Size</Data>
+            <Data name="pis2Torso Size" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Torso Size</Data>
+            <Data name="pis3Torso Size" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Torso Size</Data>
+            <Data name="TROnev1Torso Size" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Torso Size</Data>
+            <Data name="TROne2Torso Size" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Torso Size</Data>
+            <Data name="To1Torso Size" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Torso Size</Data>
+            <Data name="bac1Torso Size" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Torso Size</Data>
+            <Data name="bac2Torso Size" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Torso Size</Data>
+            <Data name="jac1Torso Size" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Torso Size</Data>
+            <Data name="jac3Torso Size" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FusionGirlSturnum Depth" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlSturnum Depth</Data>
+            <Data name="Bo1Sturnum Depth" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Sturnum Depth</Data>
+            <Data name="Bo2Sturnum Depth" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Sturnum Depth</Data>
+            <Data name="short1Sturnum Depth" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Sturnum Depth</Data>
+            <Data name="be1Sturnum Depth" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Sturnum Depth</Data>
+            <Data name="be2Sturnum Depth" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Sturnum Depth</Data>
+            <Data name="pis1Sturnum Depth" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Sturnum Depth</Data>
+            <Data name="pis2Sturnum Depth" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Sturnum Depth</Data>
+            <Data name="pis3Sturnum Depth" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Sturnum Depth</Data>
+            <Data name="TROnev1Sturnum Depth" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Sturnum Depth</Data>
+            <Data name="TROne2Sturnum Depth" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Sturnum Depth</Data>
+            <Data name="To1Sturnum Depth" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Sturnum Depth</Data>
+            <Data name="bac1Sturnum Depth" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Sturnum Depth</Data>
+            <Data name="bac2Sturnum Depth" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Sturnum Depth</Data>
+            <Data name="jac1Sturnum Depth" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Sturnum Depth</Data>
+            <Data name="jac3Sturnum Depth" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FusionGirlSturnum Height" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlSturnum Height</Data>
+            <Data name="Bo1Sturnum Height" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Sturnum Height</Data>
+            <Data name="Bo2Sturnum Height" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Sturnum Height</Data>
+            <Data name="short1Sturnum Height" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Sturnum Height</Data>
+            <Data name="be1Sturnum Height" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Sturnum Height</Data>
+            <Data name="be2Sturnum Height" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Sturnum Height</Data>
+            <Data name="pis1Sturnum Height" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Sturnum Height</Data>
+            <Data name="pis2Sturnum Height" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Sturnum Height</Data>
+            <Data name="pis3Sturnum Height" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Sturnum Height</Data>
+            <Data name="TROnev1Sturnum Height" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Sturnum Height</Data>
+            <Data name="TROne2Sturnum Height" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Sturnum Height</Data>
+            <Data name="To1Sturnum Height" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Sturnum Height</Data>
+            <Data name="bac1Sturnum Height" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Sturnum Height</Data>
+            <Data name="bac2Sturnum Height" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Sturnum Height</Data>
+            <Data name="jac1Sturnum Height" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Sturnum Height</Data>
+            <Data name="jac3Sturnum Height" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FusionGirlGroin Position" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlGroin Position</Data>
+            <Data name="Bo1Groin Position" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Groin Position</Data>
+            <Data name="Bo2Groin Position" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Groin Position</Data>
+            <Data name="short1Groin Position" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Groin Position</Data>
+            <Data name="be1Groin Position" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Groin Position</Data>
+            <Data name="be2Groin Position" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Groin Position</Data>
+            <Data name="pis1Groin Position" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Groin Position</Data>
+            <Data name="pis2Groin Position" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Groin Position</Data>
+            <Data name="pis3Groin Position" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Groin Position</Data>
+            <Data name="TROnev1Groin Position" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Groin Position</Data>
+            <Data name="TROne2Groin Position" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Groin Position</Data>
+            <Data name="To1Groin Position" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Groin Position</Data>
+            <Data name="bac1Groin Position" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Groin Position</Data>
+            <Data name="bac2Groin Position" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Groin Position</Data>
+            <Data name="jac1Groin Position" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Groin Position</Data>
+            <Data name="jac3Groin Position" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FusionGirlGroin Back" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlGroin Back</Data>
+            <Data name="Bo1Groin Back" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Groin Back</Data>
+            <Data name="Bo2Groin Back" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Groin Back</Data>
+            <Data name="short1Groin Back" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Groin Back</Data>
+            <Data name="be1Groin Back" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Groin Back</Data>
+            <Data name="be2Groin Back" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Groin Back</Data>
+            <Data name="pis1Groin Back" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Groin Back</Data>
+            <Data name="pis2Groin Back" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Groin Back</Data>
+            <Data name="pis3Groin Back" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Groin Back</Data>
+            <Data name="TROnev1Groin Back" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Groin Back</Data>
+            <Data name="TROne2Groin Back" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Groin Back</Data>
+            <Data name="To1Groin Back" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Groin Back</Data>
+            <Data name="bac1Groin Back" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Groin Back</Data>
+            <Data name="bac2Groin Back" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Groin Back</Data>
+            <Data name="jac1Groin Back" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Groin Back</Data>
+            <Data name="jac3Groin Back" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Groin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Flat" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlLabia Minora Flat</Data>
+            <Data name="TROnev1Labia Minora Flat" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Labia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Longer" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlLabia Minora Longer</Data>
+            <Data name="TROnev1Labia Minora Longer" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Labia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="FusionGirlClitoras Size" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlClitoras Size</Data>
+            <Data name="TROnev1Clitoras Size" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Clitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="FusionGirlClitoras Long" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Long" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlLabia Majora Long</Data>
+            <Data name="TROnev1Labia Majora Long" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Labia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Wide" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlLabia Majora Wide</Data>
+            <Data name="TROnev1Labia Majora Wide" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Labia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Inner" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlLabia Majora Inner</Data>
+            <Data name="Bo1Labia Majora Inner" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Labia Majora Inner</Data>
+            <Data name="TROnev1Labia Majora Inner" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Labia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FusionGirlAbDefinition" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlAbDefinition</Data>
+            <Data name="Bo1AbDefinition" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1AbDefinition</Data>
+            <Data name="short1AbDefinition" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1AbDefinition</Data>
+            <Data name="be1AbDefinition" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1AbDefinition</Data>
+            <Data name="be2AbDefinition" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2AbDefinition</Data>
+            <Data name="TROnev1AbDefinition" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1AbDefinition</Data>
+            <Data name="TROne2AbDefinition" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2AbDefinition</Data>
+            <Data name="To1AbDefinition" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1AbDefinition</Data>
+            <Data name="jac1AbDefinition" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1AbDefinition</Data>
+            <Data name="jac3AbDefinition" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FusionGirlBody Toning" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBody Toning</Data>
+            <Data name="Bo1Body Toning" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Body Toning</Data>
+            <Data name="Bo2Body Toning" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Body Toning</Data>
+            <Data name="short1Body Toning" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Body Toning</Data>
+            <Data name="be1Body Toning" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Body Toning</Data>
+            <Data name="be2Body Toning" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Body Toning</Data>
+            <Data name="pis1Body Toning" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Body Toning</Data>
+            <Data name="pis2Body Toning" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Body Toning</Data>
+            <Data name="pis3Body Toning" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Body Toning</Data>
+            <Data name="TROnev1Body Toning" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Body Toning</Data>
+            <Data name="TROne2Body Toning" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Body Toning</Data>
+            <Data name="To1Body Toning" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Body Toning</Data>
+            <Data name="bac1Body Toning" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Body Toning</Data>
+            <Data name="bac2Body Toning" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Body Toning</Data>
+            <Data name="jac1Body Toning" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Body Toning</Data>
+            <Data name="jac3Body Toning" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FusionGirlTigerSanBB" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlTigerSanBB</Data>
+            <Data name="Bo1TigerSanBB" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1TigerSanBB</Data>
+            <Data name="Bo2TigerSanBB" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2TigerSanBB</Data>
+            <Data name="short1TigerSanBB" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1TigerSanBB</Data>
+            <Data name="be1TigerSanBB" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1TigerSanBB</Data>
+            <Data name="be2TigerSanBB" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2TigerSanBB</Data>
+            <Data name="pis1TigerSanBB" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1TigerSanBB</Data>
+            <Data name="pis2TigerSanBB" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2TigerSanBB</Data>
+            <Data name="pis3TigerSanBB" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3TigerSanBB</Data>
+            <Data name="TROnev1TigerSanBB" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1TigerSanBB</Data>
+            <Data name="TROne2TigerSanBB" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2TigerSanBB</Data>
+            <Data name="To1TigerSanBB" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1TigerSanBB</Data>
+            <Data name="bac1TigerSanBB" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1TigerSanBB</Data>
+            <Data name="bac2TigerSanBB" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2TigerSanBB</Data>
+            <Data name="jac1TigerSanBB" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1TigerSanBB</Data>
+            <Data name="jac3TigerSanBB" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FusionGirlXunAbs" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlXunAbs</Data>
+            <Data name="short1XunAbs" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1XunAbs</Data>
+            <Data name="be1XunAbs" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1XunAbs</Data>
+            <Data name="be2XunAbs" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2XunAbs</Data>
+            <Data name="TROnev1XunAbs" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1XunAbs</Data>
+            <Data name="TROne2XunAbs" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2XunAbs</Data>
+            <Data name="To1XunAbs" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1XunAbs</Data>
+            <Data name="jac1XunAbs" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1XunAbs</Data>
+            <Data name="jac3XunAbs" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FusionGirlFFB Fitness 2" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlFFB Fitness 2</Data>
+            <Data name="short1FFB Fitness 2" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1FFB Fitness 2</Data>
+            <Data name="be1FFB Fitness 2" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1FFB Fitness 2</Data>
+            <Data name="be2FFB Fitness 2" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2FFB Fitness 2</Data>
+            <Data name="TROnev1FFB Fitness 2" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1FFB Fitness 2</Data>
+            <Data name="TROne2FFB Fitness 2" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2FFB Fitness 2</Data>
+            <Data name="To1FFB Fitness 2" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1FFB Fitness 2</Data>
+            <Data name="bac1FFB Fitness 2" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1FFB Fitness 2</Data>
+            <Data name="bac2FFB Fitness 2" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2FFB Fitness 2</Data>
+            <Data name="jac1FFB Fitness 2" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1FFB Fitness 2</Data>
+            <Data name="jac3FFB Fitness 2" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FusionGirlAthletic" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlAthletic</Data>
+            <Data name="Bo1Athletic" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Athletic</Data>
+            <Data name="Bo2Athletic" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Athletic</Data>
+            <Data name="short1Athletic" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Athletic</Data>
+            <Data name="be1Athletic" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Athletic</Data>
+            <Data name="be2Athletic" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2Athletic</Data>
+            <Data name="pis1Athletic" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Athletic</Data>
+            <Data name="pis2Athletic" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Athletic</Data>
+            <Data name="pis3Athletic" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Athletic</Data>
+            <Data name="TROnev1Athletic" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Athletic</Data>
+            <Data name="TROne2Athletic" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Athletic</Data>
+            <Data name="To1Athletic" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Athletic</Data>
+            <Data name="bac1Athletic" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Athletic</Data>
+            <Data name="bac2Athletic" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Athletic</Data>
+            <Data name="jac1Athletic" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Athletic</Data>
+            <Data name="jac3Athletic" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FusionGirlSeveNBase Bombshell" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlSeveNBase Bombshell</Data>
+            <Data name="Bo1SeveNBase Bombshell" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1SeveNBase Bombshell</Data>
+            <Data name="Bo2SeveNBase Bombshell" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2SeveNBase Bombshell</Data>
+            <Data name="short1SeveNBase Bombshell" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1SeveNBase Bombshell</Data>
+            <Data name="be1SeveNBase Bombshell" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1SeveNBase Bombshell</Data>
+            <Data name="be2SeveNBase Bombshell" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2SeveNBase Bombshell</Data>
+            <Data name="pis1SeveNBase Bombshell" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1SeveNBase Bombshell</Data>
+            <Data name="pis2SeveNBase Bombshell" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2SeveNBase Bombshell</Data>
+            <Data name="pis3SeveNBase Bombshell" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3SeveNBase Bombshell</Data>
+            <Data name="TROnev1SeveNBase Bombshell" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1SeveNBase Bombshell</Data>
+            <Data name="TROne2SeveNBase Bombshell" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2SeveNBase Bombshell</Data>
+            <Data name="To1SeveNBase Bombshell" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1SeveNBase Bombshell</Data>
+            <Data name="bac1SeveNBase Bombshell" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1SeveNBase Bombshell</Data>
+            <Data name="bac2SeveNBase Bombshell" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2SeveNBase Bombshell</Data>
+            <Data name="jac1SeveNBase Bombshell" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1SeveNBase Bombshell</Data>
+            <Data name="jac3SeveNBase Bombshell" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FusionGirlKnee Height" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlKnee Height</Data>
+            <Data name="Bo1Knee Height" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1Knee Height</Data>
+            <Data name="Bo2Knee Height" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2Knee Height</Data>
+            <Data name="pis1Knee Height" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Knee Height</Data>
+            <Data name="pis2Knee Height" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Knee Height</Data>
+            <Data name="pis3Knee Height" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Knee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FusionGirlShoulder Width" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlShoulder Width</Data>
+            <Data name="short1Shoulder Width" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1Shoulder Width</Data>
+            <Data name="be1Shoulder Width" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1Shoulder Width</Data>
+            <Data name="TROnev1Shoulder Width" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Shoulder Width</Data>
+            <Data name="TROne2Shoulder Width" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Shoulder Width</Data>
+            <Data name="To1Shoulder Width" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Shoulder Width</Data>
+            <Data name="bac1Shoulder Width" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Shoulder Width</Data>
+            <Data name="bac2Shoulder Width" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Shoulder Width</Data>
+            <Data name="jac1Shoulder Width" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Shoulder Width</Data>
+            <Data name="jac3Shoulder Width" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Shoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FusionGirlHighHeels" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlHighHeels</Data>
+            <Data name="Bo1HighHeels" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1HighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FusionGirlBodyFat" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBodyFat</Data>
+            <Data name="Bo1BodyFat" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1BodyFat</Data>
+            <Data name="Bo2BodyFat" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2BodyFat</Data>
+            <Data name="short1BodyFat" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1BodyFat</Data>
+            <Data name="be1BodyFat" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1BodyFat</Data>
+            <Data name="be2BodyFat" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2BodyFat</Data>
+            <Data name="pis1BodyFat" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1BodyFat</Data>
+            <Data name="pis2BodyFat" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2BodyFat</Data>
+            <Data name="pis3BodyFat" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3BodyFat</Data>
+            <Data name="TROnev1BodyFat" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1BodyFat</Data>
+            <Data name="TROne2BodyFat" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2BodyFat</Data>
+            <Data name="To1BodyFat" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1BodyFat</Data>
+            <Data name="bac1BodyFat" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1BodyFat</Data>
+            <Data name="bac2BodyFat" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2BodyFat</Data>
+            <Data name="jac1BodyFat" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1BodyFat</Data>
+            <Data name="jac3BodyFat" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FusionGirlLegThin" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlLegThin</Data>
+            <Data name="Bo1LegThin" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1LegThin</Data>
+            <Data name="Bo2LegThin" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2LegThin</Data>
+            <Data name="short1LegThin" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1LegThin</Data>
+            <Data name="be1LegThin" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1LegThin</Data>
+            <Data name="be2LegThin" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2LegThin</Data>
+            <Data name="pis1LegThin" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1LegThin</Data>
+            <Data name="pis2LegThin" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2LegThin</Data>
+            <Data name="pis3LegThin" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3LegThin</Data>
+            <Data name="TROnev1LegThin" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1LegThin</Data>
+            <Data name="To1LegThin" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FusionGirlHipsNarrow" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlHipsNarrow</Data>
+            <Data name="Bo1HipsNarrow" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1HipsNarrow</Data>
+            <Data name="Bo2HipsNarrow" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2HipsNarrow</Data>
+            <Data name="short1HipsNarrow" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1HipsNarrow</Data>
+            <Data name="be1HipsNarrow" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1HipsNarrow</Data>
+            <Data name="be2HipsNarrow" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2HipsNarrow</Data>
+            <Data name="pis1HipsNarrow" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1HipsNarrow</Data>
+            <Data name="pis2HipsNarrow" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2HipsNarrow</Data>
+            <Data name="pis3HipsNarrow" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3HipsNarrow</Data>
+            <Data name="TROnev1HipsNarrow" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1HipsNarrow</Data>
+            <Data name="To1HipsNarrow" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FusionGirlButtGravity" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlButtGravity</Data>
+            <Data name="Bo1ButtGravity" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1ButtGravity</Data>
+            <Data name="Bo2ButtGravity" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2ButtGravity</Data>
+            <Data name="short1ButtGravity" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1ButtGravity</Data>
+            <Data name="be2ButtGravity" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2ButtGravity</Data>
+            <Data name="pis1ButtGravity" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1ButtGravity</Data>
+            <Data name="pis2ButtGravity" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2ButtGravity</Data>
+            <Data name="pis3ButtGravity" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3ButtGravity</Data>
+            <Data name="TROnev1ButtGravity" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FusionGirlButtThin" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlButtThin</Data>
+            <Data name="Bo1ButtThin" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1ButtThin</Data>
+            <Data name="Bo2ButtThin" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2ButtThin</Data>
+            <Data name="short1ButtThin" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1ButtThin</Data>
+            <Data name="be1ButtThin" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1ButtThin</Data>
+            <Data name="be2ButtThin" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2ButtThin</Data>
+            <Data name="pis1ButtThin" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1ButtThin</Data>
+            <Data name="pis2ButtThin" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2ButtThin</Data>
+            <Data name="pis3ButtThin" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3ButtThin</Data>
+            <Data name="TROnev1ButtThin" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1ButtThin</Data>
+            <Data name="TROne2ButtThin" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2ButtThin</Data>
+            <Data name="To1ButtThin" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1ButtThin</Data>
+            <Data name="bac1ButtThin" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1ButtThin</Data>
+            <Data name="jac3ButtThin" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FusionGirlHipsForward" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlHipsForward</Data>
+            <Data name="Bo1HipsForward" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1HipsForward</Data>
+            <Data name="Bo2HipsForward" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2HipsForward</Data>
+            <Data name="short1HipsForward" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1HipsForward</Data>
+            <Data name="be1HipsForward" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1HipsForward</Data>
+            <Data name="be2HipsForward" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2HipsForward</Data>
+            <Data name="pis1HipsForward" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1HipsForward</Data>
+            <Data name="pis2HipsForward" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2HipsForward</Data>
+            <Data name="pis3HipsForward" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3HipsForward</Data>
+            <Data name="TROnev1HipsForward" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1HipsForward</Data>
+            <Data name="To1HipsForward" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FusionGirlHipRotateForward" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlHipRotateForward</Data>
+            <Data name="Bo1HipRotateForward" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1HipRotateForward</Data>
+            <Data name="Bo2HipRotateForward" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2HipRotateForward</Data>
+            <Data name="short1HipRotateForward" target="short1" local="true">Vtaw Tomb Raider FG.osd\short1HipRotateForward</Data>
+            <Data name="be1HipRotateForward" target="be1" local="true">Vtaw Tomb Raider FG.osd\be1HipRotateForward</Data>
+            <Data name="be2HipRotateForward" target="be2" local="true">Vtaw Tomb Raider FG.osd\be2HipRotateForward</Data>
+            <Data name="pis1HipRotateForward" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1HipRotateForward</Data>
+            <Data name="pis2HipRotateForward" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2HipRotateForward</Data>
+            <Data name="pis3HipRotateForward" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3HipRotateForward</Data>
+            <Data name="TROnev1HipRotateForward" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1HipRotateForward</Data>
+            <Data name="TROne2HipRotateForward" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2HipRotateForward</Data>
+            <Data name="To1HipRotateForward" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1HipRotateForward</Data>
+            <Data name="jac1HipRotateForward" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1HipRotateForward</Data>
+            <Data name="jac3HipRotateForward" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitin" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBreastArmpitin</Data>
+            <Data name="Bo1BreastArmpitin" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1BreastArmpitin</Data>
+            <Data name="Bo2BreastArmpitin" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2BreastArmpitin</Data>
+            <Data name="TROnev1BreastArmpitin" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1BreastArmpitin</Data>
+            <Data name="TROne2BreastArmpitin" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2BreastArmpitin</Data>
+            <Data name="To1BreastArmpitin" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1BreastArmpitin</Data>
+            <Data name="bac2BreastArmpitin" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2BreastArmpitin</Data>
+            <Data name="jac1BreastArmpitin" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1BreastArmpitin</Data>
+            <Data name="jac3BreastArmpitin" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitWide" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBreastArmpitWide</Data>
+            <Data name="Bo1BreastArmpitWide" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1BreastArmpitWide</Data>
+            <Data name="Bo2BreastArmpitWide" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2BreastArmpitWide</Data>
+            <Data name="TROnev1BreastArmpitWide" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1BreastArmpitWide</Data>
+            <Data name="TROne2BreastArmpitWide" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2BreastArmpitWide</Data>
+            <Data name="To1BreastArmpitWide" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1BreastArmpitWide</Data>
+            <Data name="bac2BreastArmpitWide" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2BreastArmpitWide</Data>
+            <Data name="jac1BreastArmpitWide" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1BreastArmpitWide</Data>
+            <Data name="jac3BreastArmpitWide" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FusionGirlBreastCurve" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBreastCurve</Data>
+            <Data name="Bo1BreastCurve" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1BreastCurve</Data>
+            <Data name="Bo2BreastCurve" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2BreastCurve</Data>
+            <Data name="TROnev1BreastCurve" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1BreastCurve</Data>
+            <Data name="TROne2BreastCurve" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2BreastCurve</Data>
+            <Data name="To1BreastCurve" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1BreastCurve</Data>
+            <Data name="bac2BreastCurve" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2BreastCurve</Data>
+            <Data name="jac1BreastCurve" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1BreastCurve</Data>
+            <Data name="jac3BreastCurve" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FusionGirlBreastHeight2" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBreastHeight2</Data>
+            <Data name="Bo1BreastHeight2" target="Bo1" local="true">Vtaw Tomb Raider FG.osd\Bo1BreastHeight2</Data>
+            <Data name="Bo2BreastHeight2" target="Bo2" local="true">Vtaw Tomb Raider FG.osd\Bo2BreastHeight2</Data>
+            <Data name="TROnev1BreastHeight2" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1BreastHeight2</Data>
+            <Data name="TROne2BreastHeight2" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2BreastHeight2</Data>
+            <Data name="To1BreastHeight2" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1BreastHeight2</Data>
+            <Data name="bac2BreastHeight2" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2BreastHeight2</Data>
+            <Data name="jac1BreastHeight2" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1BreastHeight2</Data>
+            <Data name="jac3BreastHeight2" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FusionGirlBreastConcave" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlBreastConcave</Data>
+            <Data name="TROnev1BreastConcave" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1BreastConcave</Data>
+            <Data name="TROne2BreastConcave" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2BreastConcave</Data>
+            <Data name="To1BreastConcave" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1BreastConcave</Data>
+            <Data name="bac2BreastConcave" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2BreastConcave</Data>
+            <Data name="jac1BreastConcave" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1BreastConcave</Data>
+            <Data name="jac3BreastConcave" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3BreastConcave</Data>
+        </Slider>
+        <Slider name="Zap-Feet" invert="false" default="100" hidden="true" zap="true">
+            <Data name="FusionGirlZap-Feet" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlZap-Feet</Data>
+        </Slider>
+        <Slider name="Pistols" invert="false" default="0" zap="true">
+            <Data name="pis1Pistols" target="pis1" local="true">Vtaw Tomb Raider FG.osd\pis1Pistols</Data>
+            <Data name="pis2Pistols" target="pis2" local="true">Vtaw Tomb Raider FG.osd\pis2Pistols</Data>
+            <Data name="pis3Pistols" target="pis3" local="true">Vtaw Tomb Raider FG.osd\pis3Pistols</Data>
+        </Slider>
+        <Slider name="Zap-TROnev1" invert="false" default="100" hidden="true" zap="true">
+            <Data name="TROnev1Zap-TROnev1" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Zap-TROnev1</Data>
+        </Slider>
+        <Slider name="Onepiece 1" invert="false" default="0" zap="true">
+            <Data name="TROnev1Onepiece 1" target="TROnev1" local="true">Vtaw Tomb Raider FG.osd\TROnev1Onepiece 1</Data>
+        </Slider>
+        <Slider name="Onepiece 2" invert="false" default="100" zap="true">
+            <Data name="TROne2Onepiece 2" target="TROne2" local="true">Vtaw Tomb Raider FG.osd\TROne2Onepiece 2</Data>
+        </Slider>
+        <Slider name="Top" invert="false" default="100" zap="true">
+            <Data name="To1Top" target="To1" local="true">Vtaw Tomb Raider FG.osd\To1Top</Data>
+        </Slider>
+        <Slider name="Backpack" invert="false" default="0" zap="true">
+            <Data name="bac1Backpack" target="bac1" local="true">Vtaw Tomb Raider FG.osd\bac1Backpack</Data>
+            <Data name="bac2Backpack" target="bac2" local="true">Vtaw Tomb Raider FG.osd\bac2Backpack</Data>
+        </Slider>
+        <Slider name="Jacket" invert="false" default="100" zap="true">
+            <Data name="jac1Jacket" target="jac1" local="true">Vtaw Tomb Raider FG.osd\jac1Jacket</Data>
+            <Data name="jac3Jacket" target="jac3" local="true">Vtaw Tomb Raider FG.osd\jac3Jacket</Data>
+        </Slider>
+        <Slider name="Headband" invert="false" default="0" zap="true">
+            <Data name="hea1Headband" target="hea1" local="true">Vtaw Tomb Raider FG.osd\hea1Headband</Data>
+            <Data name="hea2Headband" target="hea2" local="true">Vtaw Tomb Raider FG.osd\hea2Headband</Data>
+            <Data name="hea3Headband" target="hea3" local="true">Vtaw Tomb Raider FG.osd\hea3Headband</Data>
+            <Data name="hea4Headband" target="hea4" local="true">Vtaw Tomb Raider FG.osd\hea4Headband</Data>
+        </Slider>
+        <Slider name="ZapButt" invert="false" default="100" hidden="true" zap="true">
+            <Data name="FusionGirlZapButt" target="FusionGirl" local="true">Vtaw Tomb Raider FG.osd\FusionGirlZapButt</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

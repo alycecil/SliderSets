@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Slave Bra FG">
+        <DataFolder>Slave Bra FG</DataFolder>
+        <SourceFile>Slave Bra FG.nif</SourceFile>
+        <OutputPath>meshes\kharneth\slaveloincloth</OutputPath>
+        <OutputFile GenWeights="false">bra</OutputFile>
+        <Shape target="BraCloth">BraCloth</Shape>
+        <Shape target="BraLaces">BraLaces</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="BraClothBelly Pregnant" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="BraLacesBelly Big" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="BraClothBelly Size" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="BraClothBoobs Yuge" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBoobs Yuge</Data>
+            <Data name="BraLacesBoobs Yuge" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="BraClothBoobs Big" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBoobs Big</Data>
+            <Data name="BraLacesBoobs Big" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="BraClothBoobs Cleavage" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBoobs Cleavage</Data>
+            <Data name="BraLacesBoobs Cleavage" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="BraClothBoobs Flat" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBoobs Flat</Data>
+            <Data name="BraLacesBoobs Flat" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="BraClothBoobs Gravity" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBoobs Gravity</Data>
+            <Data name="BraLacesBoobs Gravity" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="BraClothBoobs Height" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBoobs Height</Data>
+            <Data name="BraLacesBoobs Height" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="BraClothBoobs Mellons" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBoobs Mellons</Data>
+            <Data name="BraLacesBoobs Mellons" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="BraClothBoobs Perky" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBoobs Perky</Data>
+            <Data name="BraLacesBoobs Perky" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="BraClothBoobs Push Up" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBoobs Push Up</Data>
+            <Data name="BraLacesBoobs Push Up" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="BraClothBoobs Small" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBoobs Small</Data>
+            <Data name="BraLacesBoobs Small" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="BraClothBoobs Together" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBoobs Together</Data>
+            <Data name="BraLacesBoobs Together" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="BraClothBoobs Top Slope" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBoobs Top Slope</Data>
+            <Data name="BraLacesBoobs Top Slope" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="BraClothBoobs Width" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBoobs Width</Data>
+            <Data name="BraLacesBoobs Width" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="BraClothBoobs Tiny" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBoobs Tiny</Data>
+            <Data name="BraLacesBoobs Tiny" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="BraClothNipples Distance" target="BraCloth" local="true">Slave Bra FG.osd\BraClothNipples Distance</Data>
+            <Data name="BraLacesNipples Distance" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="BraClothNipples Down" target="BraCloth" local="true">Slave Bra FG.osd\BraClothNipples Down</Data>
+            <Data name="BraLacesNipples Down" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="BraClothNipples Perkiness" target="BraCloth" local="true">Slave Bra FG.osd\BraClothNipples Perkiness</Data>
+            <Data name="BraLacesNipples Perkiness" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="BraClothNipples Puffy" target="BraCloth" local="true">Slave Bra FG.osd\BraClothNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="BraClothNipples Up" target="BraCloth" local="true">Slave Bra FG.osd\BraClothNipples Up</Data>
+            <Data name="BraLacesNipples Up" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="BraClothChest Depth" target="BraCloth" local="true">Slave Bra FG.osd\BraClothChest Depth</Data>
+            <Data name="BraLacesChest Depth" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="BraClothChest Width" target="BraCloth" local="true">Slave Bra FG.osd\BraClothChest Width</Data>
+            <Data name="BraLacesChest Width" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="BraLacesWaist Chubby" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="BraClothWaist Size" target="BraCloth" local="true">Slave Bra FG.osd\BraClothWaist Size</Data>
+            <Data name="BraLacesWaist Size" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesWaist Size</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="BraLacesBack Size" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="BraLacesBack Arch" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBack Arch</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="BraLacesLegs Chubby" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesLegs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="BraClothArms Chubby" target="BraCloth" local="true">Slave Bra FG.osd\BraClothArms Chubby</Data>
+            <Data name="BraLacesArms Chubby" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="BraLacesShoulder Smooth" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="BraLacesShoulder Tweak" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="BraLacesArms Size" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="BraClothArmpit Ajustment" target="BraCloth" local="true">Slave Bra FG.osd\BraClothArmpit Ajustment</Data>
+            <Data name="BraLacesArmpit Ajustment" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="BraClothTorso Size" target="BraCloth" local="true">Slave Bra FG.osd\BraClothTorso Size</Data>
+            <Data name="BraLacesTorso Size" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesTorso Size</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="BraClothGroin Position" target="BraCloth" local="true">Slave Bra FG.osd\BraClothGroin Position</Data>
+            <Data name="BraLacesGroin Position" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="BraClothGroin Back" target="BraCloth" local="true">Slave Bra FG.osd\BraClothGroin Back</Data>
+            <Data name="BraLacesGroin Back" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="BraClothAbDefinition" target="BraCloth" local="true">Slave Bra FG.osd\BraClothAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="BraClothBody Toning" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBody Toning</Data>
+            <Data name="BraLacesBody Toning" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="BraClothTigerSanBB" target="BraCloth" local="true">Slave Bra FG.osd\BraClothTigerSanBB</Data>
+            <Data name="BraLacesTigerSanBB" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="BraClothXunAbs" target="BraCloth" local="true">Slave Bra FG.osd\BraClothXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="BraClothFFB Fitness 2" target="BraCloth" local="true">Slave Bra FG.osd\BraClothFFB Fitness 2</Data>
+            <Data name="BraLacesFFB Fitness 2" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="BraClothAthletic" target="BraCloth" local="true">Slave Bra FG.osd\BraClothAthletic</Data>
+            <Data name="BraLacesAthletic" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="BraClothSeveNBase Bombshell" target="BraCloth" local="true">Slave Bra FG.osd\BraClothSeveNBase Bombshell</Data>
+            <Data name="BraLacesSeveNBase Bombshell" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="BraClothShoulder Width" target="BraCloth" local="true">Slave Bra FG.osd\BraClothShoulder Width</Data>
+            <Data name="BraLacesShoulder Width" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="BraClothBodyFat" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBodyFat</Data>
+            <Data name="BraLacesBodyFat" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBodyFat</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="BraLacesButtThin" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesButtThin</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="BraClothBreastArmpitin" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBreastArmpitin</Data>
+            <Data name="BraLacesBreastArmpitin" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="BraClothBreastArmpitWide" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBreastArmpitWide</Data>
+            <Data name="BraLacesBreastArmpitWide" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="BraClothBreastCurve" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBreastCurve</Data>
+            <Data name="BraLacesBreastCurve" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="BraClothBreastHeight2" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBreastHeight2</Data>
+            <Data name="BraLacesBreastHeight2" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="BraClothBreastConcave" target="BraCloth" local="true">Slave Bra FG.osd\BraClothBreastConcave</Data>
+            <Data name="BraLacesBreastConcave" target="BraLaces" local="true">Slave Bra FG.osd\BraLacesBreastConcave</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="BraClothNipples Length" target="BraCloth" local="true">Slave Bra FG.osd\BraClothNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="BraClothNipples Shape" target="BraCloth" local="true">Slave Bra FG.osd\BraClothNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="BraClothNipples Size" target="BraCloth" local="true">Slave Bra FG.osd\BraClothNipples Size</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 2B Arms FG">
+        <DataFolder>Vtaw Wardrobe 7 2B Arms FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 2B Arms FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\2B</OutputPath>
+        <OutputFile GenWeights="false">2BArms</OutputFile>
+        <Shape target="arms">arms</Shape>
+        <Shape target="feather1">feather1</Shape>
+        <Shape target="feather2">feather2</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="armsBoobs Yuge" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBoobs Yuge</Data>
+            <Data name="feather1Boobs Yuge" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Boobs Yuge</Data>
+            <Data name="feather2Boobs Yuge" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="armsBoobs Big" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBoobs Big</Data>
+            <Data name="feather1Boobs Big" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Boobs Big</Data>
+            <Data name="feather2Boobs Big" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="armsBoobs Cleavage" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="armsBoobs Flat" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="armsBoobs Gravity" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBoobs Gravity</Data>
+            <Data name="feather1Boobs Gravity" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Boobs Gravity</Data>
+            <Data name="feather2Boobs Gravity" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="armsBoobs Height" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="armsBoobs Mellons" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBoobs Mellons</Data>
+            <Data name="feather1Boobs Mellons" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Boobs Mellons</Data>
+            <Data name="feather2Boobs Mellons" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="armsBoobs Perky" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBoobs Perky</Data>
+            <Data name="feather1Boobs Perky" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Boobs Perky</Data>
+            <Data name="feather2Boobs Perky" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="armsBoobs Push Up" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBoobs Push Up</Data>
+            <Data name="feather1Boobs Push Up" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Boobs Push Up</Data>
+            <Data name="feather2Boobs Push Up" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="armsBoobs Small" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="armsBoobs Together" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="armsBoobs Top Slope" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBoobs Top Slope</Data>
+            <Data name="feather1Boobs Top Slope" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Boobs Top Slope</Data>
+            <Data name="feather2Boobs Top Slope" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="armsBoobs Width" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="armsBoobs Tiny" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBoobs Tiny</Data>
+            <Data name="feather1Boobs Tiny" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Boobs Tiny</Data>
+            <Data name="feather2Boobs Tiny" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="armsNipples Distance" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="armsNipples Down" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="armsNipples Perkiness" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="armsNipples Up" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="armsChest Depth" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="armsChest Width" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsChest Width</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="armsWaist Size" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsWaist Size</Data>
+            <Data name="feather1Waist Size" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Waist Size</Data>
+            <Data name="feather2Waist Size" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Waist Size</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="armsBack Size" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBack Size</Data>
+            <Data name="feather1Back Size" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Back Size</Data>
+            <Data name="feather2Back Size" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Back Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="armsArms Chubby" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsArms Chubby</Data>
+            <Data name="feather1Arms Chubby" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Arms Chubby</Data>
+            <Data name="feather2Arms Chubby" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="armsShoulder Smooth" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="armsShoulder Tweak" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="armsArms Size" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsArms Size</Data>
+            <Data name="feather1Arms Size" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Arms Size</Data>
+            <Data name="feather2Arms Size" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="armsArmpit Ajustment" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="armsForearms Size" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsForearms Size</Data>
+            <Data name="feather1Forearms Size" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Forearms Size</Data>
+            <Data name="feather2Forearms Size" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Forearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="armsTorso Size" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsTorso Size</Data>
+            <Data name="feather1Torso Size" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Torso Size</Data>
+            <Data name="feather2Torso Size" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="armsSturnum Depth" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsSturnum Depth</Data>
+            <Data name="feather1Sturnum Depth" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Sturnum Depth</Data>
+            <Data name="feather2Sturnum Depth" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="armsSturnum Height" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsSturnum Height</Data>
+            <Data name="feather1Sturnum Height" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Sturnum Height</Data>
+            <Data name="feather2Sturnum Height" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="armsGroin Position" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsGroin Position</Data>
+            <Data name="feather1Groin Position" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Groin Position</Data>
+            <Data name="feather2Groin Position" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="armsGroin Back" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsGroin Back</Data>
+            <Data name="feather1Groin Back" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Groin Back</Data>
+            <Data name="feather2Groin Back" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Groin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="armsBody Toning" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBody Toning</Data>
+            <Data name="feather1Body Toning" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Body Toning</Data>
+            <Data name="feather2Body Toning" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="armsTigerSanBB" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsTigerSanBB</Data>
+            <Data name="feather1TigerSanBB" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1TigerSanBB</Data>
+            <Data name="feather2TigerSanBB" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2TigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="armsAthletic" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsAthletic</Data>
+            <Data name="feather1Athletic" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Athletic</Data>
+            <Data name="feather2Athletic" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="armsSeveNBase Bombshell" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsSeveNBase Bombshell</Data>
+            <Data name="feather1SeveNBase Bombshell" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1SeveNBase Bombshell</Data>
+            <Data name="feather2SeveNBase Bombshell" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="armsShoulder Width" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsShoulder Width</Data>
+            <Data name="feather1Shoulder Width" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1Shoulder Width</Data>
+            <Data name="feather2Shoulder Width" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2Shoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="armsBodyFat" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBodyFat</Data>
+            <Data name="feather1BodyFat" target="feather1" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather1BodyFat</Data>
+            <Data name="feather2BodyFat" target="feather2" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\feather2BodyFat</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="armsBreastArmpitin" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="armsBreastArmpitWide" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="armsBreastCurve" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="armsBreastHeight2" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="armsBreastConcave" target="arms" local="true">Vtaw Wardrobe 7 2B Arms FG.osd\armsBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

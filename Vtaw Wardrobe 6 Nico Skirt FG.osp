@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Nico Skirt FG">
+        <DataFolder>Vtaw Wardrobe 6 Nico Skirt FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Nico Skirt FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\NicoSkirt</OutputPath>
+        <OutputFile GenWeights="false">NicoSkirt</OutputFile>
+        <Shape target="NicoSkirt">NicoSkirt</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="NicoSkirtBelly Pregnant" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="NicoSkirtBelly Big" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="NicoSkirtBelly Size" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="NicoSkirtBelly Tuck" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="NicoSkirtBoobs Yuge" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="NicoSkirtBoobs Big" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="NicoSkirtBoobs Gravity" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="NicoSkirtBoobs Mellons" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="NicoSkirtBoobs Perky" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="NicoSkirtBoobs Push Up" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="NicoSkirtBoobs Top Slope" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="NicoSkirtBoobs Tiny" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="NicoSkirtChest Width" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="NicoSkirtWaist Chubby" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="NicoSkirtWaist Size" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="NicoSkirtWaist Height" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtWaist Height</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="NicoSkirtBack Size" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBack Size</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="NicoSkirtHips Bone" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="NicoSkirtHips Size" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="NicoSkirtHips Upper Width" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="NicoSkirtBum Size" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="NicoSkirtBum Crack" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="NicoSkirtBum Shape 1" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="NicoSkirtBum Shape 2" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="NicoSkirtBum Small" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="NicoSkirtBum Chubby" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="NicoSkirtBum Round" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="NicoSkirtBum Apple" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="NicoSkirtCalf Size" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="NicoSkirtCalf Small" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="NicoSkirtLegs Chubby" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="NicoSkirtLegs Shape" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="NicoSkirtLegs Thin" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="NicoSkirtThighs Slim" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="NicoSkirtThighs Size" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="NicoSkirtAnkle Size" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtAnkle Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="NicoSkirtTorso Size" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="NicoSkirtSturnum Depth" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="NicoSkirtSturnum Height" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="NicoSkirtGroin Position" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="NicoSkirtGroin Back" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="NicoSkirtAbDefinition" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="NicoSkirtBody Toning" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="NicoSkirtTigerSanBB" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="NicoSkirtXunAbs" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="NicoSkirtFFB Fitness 2" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="NicoSkirtAthletic" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="NicoSkirtSeveNBase Bombshell" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="NicoSkirtKnee Height" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtKnee Height</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="NicoSkirtHighHeels" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="NicoSkirtBodyFat" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="NicoSkirtLegThin" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="NicoSkirtHipsNarrow" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="NicoSkirtButtGravity" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="NicoSkirtButtThin" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="NicoSkirtHipsForward" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="NicoSkirtHipRotateForward" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="NicoSkirtBreastArmpitin" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="NicoSkirtBreastArmpitWide" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="NicoSkirtBreastCurve" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="NicoSkirtBreastHeight2" target="NicoSkirt" local="true">Vtaw Wardrobe 6 Nico Skirt FG.osd\NicoSkirtBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

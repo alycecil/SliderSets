@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Jumpsuit FG">
+        <DataFolder>Vtaw Jumpsuit FG</DataFolder>
+        <SourceFile>Vtaw Jumpsuit FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe\jumpsuit</OutputPath>
+        <OutputFile GenWeights="false">jumpsuit</OutputFile>
+        <Shape target="jump">jump</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="jumpBelly Pregnant" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="jumpBelly Big" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="jumpBelly Size" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="jumpBelly Tuck" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="jumpBoobs Yuge" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="jumpBoobs Big" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="jumpBoobs Cleavage" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="jumpBoobs Flat" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="jumpBoobs Gravity" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="jumpBoobs Height" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="jumpBoobs Mellons" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="jumpBoobs Perky" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="jumpBoobs Push Up" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="jumpBoobs Small" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="jumpBoobs Together" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="jumpBoobs Top Slope" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="jumpBoobs Width" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="jumpBoobs Tiny" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="jumpNipples Distance" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="jumpNipples Down" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="jumpNipples Perkiness" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="jumpNipples Puffy" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="jumpNipples Up" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="jumpChest Depth" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="jumpChest Width" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="jumpWaist Chubby" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="jumpWaist Size" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="jumpWaist Height" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="jumpWaist Line" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="jumpBack Size" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="jumpBack Arch" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="jumpHips Bone" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="jumpHips Size" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="jumpHips Upper Width" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="jumpBum Size" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="jumpBum Crack" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="jumpBum Shape 1" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="jumpBum Shape 2" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="jumpBum Small" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="jumpBum Chubby" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="jumpBum Round" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="jumpBum Apple" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="jumpCalf Size" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="jumpCalf Small" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="jumpLegs Chubby" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="jumpLegs Shape" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="jumpLegs Thin" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="jumpThighs Slim" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="jumpThighs Size" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="jumpAnkle Size" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="jumpArms Chubby" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="jumpShoulder Smooth" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="jumpShoulder Tweak" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="jumpArms Size" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="jumpArmpit Ajustment" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="jumpTorso Size" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="jumpSturnum Depth" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="jumpSturnum Height" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="jumpGroin Position" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="jumpGroin Back" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="jumpAbDefinition" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="jumpBody Toning" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="jumpTigerSanBB" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="jumpXunAbs" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="jumpFFB Fitness 2" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="jumpAthletic" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="jumpSeveNBase Bombshell" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="jumpKnee Height" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="jumpShoulder Width" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="jumpHighHeels" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="jumpBodyFat" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="jumpLegThin" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="jumpHipsNarrow" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="jumpButtGravity" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="jumpButtThin" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="jumpHipsForward" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="jumpHipRotateForward" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="jumpBreastArmpitin" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="jumpBreastArmpitWide" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="jumpBreastCurve" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="jumpBreastHeight2" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="jumpBreastConcave" target="jump" local="true">Vtaw Jumpsuit FG.osd\jumpBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

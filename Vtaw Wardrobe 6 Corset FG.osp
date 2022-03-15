@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Corset FG">
+        <DataFolder>Vtaw Wardrobe 6 Corset FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Corset FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Corset</OutputPath>
+        <OutputFile GenWeights="false">Corset</OutputFile>
+        <Shape target="corset">corset</Shape>
+        <Shape target="laces">laces</Shape>
+        <Shape target="metal">metal</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="corsetBelly Pregnant" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBelly Pregnant</Data>
+            <Data name="metalBelly Pregnant" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBelly Pregnant</Data>
+            <Data name="lacesBelly Pregnant" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="corsetBelly Big" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBelly Big</Data>
+            <Data name="metalBelly Big" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBelly Big</Data>
+            <Data name="lacesBelly Big" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="corsetBelly Size" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBelly Size</Data>
+            <Data name="metalBelly Size" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBelly Size</Data>
+            <Data name="lacesBelly Size" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="corsetBelly Tuck" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBelly Tuck</Data>
+            <Data name="metalBelly Tuck" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="corsetBoobs Yuge" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBoobs Yuge</Data>
+            <Data name="metalBoobs Yuge" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBoobs Yuge</Data>
+            <Data name="lacesBoobs Yuge" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="corsetBoobs Big" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBoobs Big</Data>
+            <Data name="metalBoobs Big" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBoobs Big</Data>
+            <Data name="lacesBoobs Big" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="corsetBoobs Cleavage" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBoobs Cleavage</Data>
+            <Data name="metalBoobs Cleavage" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="corsetBoobs Flat" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBoobs Flat</Data>
+            <Data name="metalBoobs Flat" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="corsetBoobs Gravity" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBoobs Gravity</Data>
+            <Data name="metalBoobs Gravity" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBoobs Gravity</Data>
+            <Data name="lacesBoobs Gravity" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="corsetBoobs Height" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBoobs Height</Data>
+            <Data name="metalBoobs Height" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="corsetBoobs Mellons" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBoobs Mellons</Data>
+            <Data name="metalBoobs Mellons" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBoobs Mellons</Data>
+            <Data name="lacesBoobs Mellons" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="corsetBoobs Perky" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBoobs Perky</Data>
+            <Data name="metalBoobs Perky" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBoobs Perky</Data>
+            <Data name="lacesBoobs Perky" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="corsetBoobs Push Up" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBoobs Push Up</Data>
+            <Data name="metalBoobs Push Up" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBoobs Push Up</Data>
+            <Data name="lacesBoobs Push Up" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="corsetBoobs Small" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBoobs Small</Data>
+            <Data name="metalBoobs Small" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="corsetBoobs Together" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBoobs Together</Data>
+            <Data name="metalBoobs Together" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="corsetBoobs Top Slope" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBoobs Top Slope</Data>
+            <Data name="metalBoobs Top Slope" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBoobs Top Slope</Data>
+            <Data name="lacesBoobs Top Slope" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="corsetBoobs Width" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBoobs Width</Data>
+            <Data name="metalBoobs Width" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="corsetBoobs Tiny" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBoobs Tiny</Data>
+            <Data name="metalBoobs Tiny" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBoobs Tiny</Data>
+            <Data name="lacesBoobs Tiny" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="corsetNipples Distance" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetNipples Distance</Data>
+            <Data name="metalNipples Distance" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="corsetNipples Down" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetNipples Down</Data>
+            <Data name="metalNipples Down" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="corsetNipples Perkiness" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetNipples Perkiness</Data>
+            <Data name="metalNipples Perkiness" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="corsetNipples Puffy" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="corsetNipples Up" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetNipples Up</Data>
+            <Data name="metalNipples Up" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="corsetChest Depth" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetChest Depth</Data>
+            <Data name="metalChest Depth" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="corsetChest Width" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetChest Width</Data>
+            <Data name="metalChest Width" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalChest Width</Data>
+            <Data name="lacesChest Width" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="corsetWaist Chubby" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetWaist Chubby</Data>
+            <Data name="metalWaist Chubby" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalWaist Chubby</Data>
+            <Data name="lacesWaist Chubby" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="corsetWaist Size" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetWaist Size</Data>
+            <Data name="metalWaist Size" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalWaist Size</Data>
+            <Data name="lacesWaist Size" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="corsetWaist Height" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetWaist Height</Data>
+            <Data name="metalWaist Height" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalWaist Height</Data>
+            <Data name="lacesWaist Height" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="corsetWaist Line" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetWaist Line</Data>
+            <Data name="metalWaist Line" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalWaist Line</Data>
+            <Data name="lacesWaist Line" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="corsetBack Size" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBack Size</Data>
+            <Data name="metalBack Size" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBack Size</Data>
+            <Data name="lacesBack Size" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="corsetBack Arch" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBack Arch</Data>
+            <Data name="metalBack Arch" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBack Arch</Data>
+            <Data name="lacesBack Arch" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="corsetHips Bone" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="corsetHips Size" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="corsetHips Upper Width" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetHips Upper Width</Data>
+            <Data name="metalHips Upper Width" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalHips Upper Width</Data>
+            <Data name="lacesHips Upper Width" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="corsetBum Size" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBum Size</Data>
+            <Data name="metalBum Size" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBum Size</Data>
+            <Data name="lacesBum Size" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="corsetBum Crack" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBum Crack</Data>
+            <Data name="metalBum Crack" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBum Crack</Data>
+            <Data name="lacesBum Crack" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="corsetBum Shape 1" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBum Shape 1</Data>
+            <Data name="metalBum Shape 1" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBum Shape 1</Data>
+            <Data name="lacesBum Shape 1" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="corsetBum Shape 2" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBum Shape 2</Data>
+            <Data name="metalBum Shape 2" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBum Shape 2</Data>
+            <Data name="lacesBum Shape 2" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="corsetBum Small" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBum Small</Data>
+            <Data name="metalBum Small" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBum Small</Data>
+            <Data name="lacesBum Small" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="corsetBum Chubby" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBum Chubby</Data>
+            <Data name="metalBum Chubby" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBum Chubby</Data>
+            <Data name="lacesBum Chubby" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="corsetBum Round" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBum Round</Data>
+            <Data name="metalBum Round" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBum Round</Data>
+            <Data name="lacesBum Round" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="corsetBum Apple" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBum Apple</Data>
+            <Data name="metalBum Apple" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBum Apple</Data>
+            <Data name="lacesBum Apple" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="corsetLegs Chubby" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetLegs Chubby</Data>
+            <Data name="metalLegs Chubby" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalLegs Chubby</Data>
+            <Data name="lacesLegs Chubby" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="corsetLegs Shape" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetLegs Shape</Data>
+            <Data name="metalLegs Shape" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalLegs Shape</Data>
+            <Data name="lacesLegs Shape" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="corsetLegs Thin" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="corsetThighs Slim" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetThighs Slim</Data>
+            <Data name="metalThighs Slim" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalThighs Slim</Data>
+            <Data name="lacesThighs Slim" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="corsetThighs Size" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetThighs Size</Data>
+            <Data name="metalThighs Size" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalThighs Size</Data>
+            <Data name="lacesThighs Size" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesThighs Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="corsetArms Chubby" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetArms Chubby</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="corsetArms Size" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetArms Size</Data>
+            <Data name="metalArms Size" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalArms Size</Data>
+            <Data name="lacesArms Size" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="corsetArmpit Ajustment" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="corsetTorso Size" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetTorso Size</Data>
+            <Data name="metalTorso Size" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalTorso Size</Data>
+            <Data name="lacesTorso Size" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="corsetSturnum Depth" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetSturnum Depth</Data>
+            <Data name="metalSturnum Depth" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalSturnum Depth</Data>
+            <Data name="lacesSturnum Depth" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="corsetSturnum Height" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetSturnum Height</Data>
+            <Data name="metalSturnum Height" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalSturnum Height</Data>
+            <Data name="lacesSturnum Height" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="corsetGroin Position" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetGroin Position</Data>
+            <Data name="metalGroin Position" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalGroin Position</Data>
+            <Data name="lacesGroin Position" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="corsetGroin Back" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetGroin Back</Data>
+            <Data name="metalGroin Back" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalGroin Back</Data>
+            <Data name="lacesGroin Back" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="corsetAbDefinition" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetAbDefinition</Data>
+            <Data name="metalAbDefinition" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="corsetBody Toning" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBody Toning</Data>
+            <Data name="metalBody Toning" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBody Toning</Data>
+            <Data name="lacesBody Toning" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="corsetTigerSanBB" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetTigerSanBB</Data>
+            <Data name="metalTigerSanBB" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalTigerSanBB</Data>
+            <Data name="lacesTigerSanBB" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="corsetXunAbs" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetXunAbs</Data>
+            <Data name="metalXunAbs" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="corsetFFB Fitness 2" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetFFB Fitness 2</Data>
+            <Data name="metalFFB Fitness 2" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalFFB Fitness 2</Data>
+            <Data name="lacesFFB Fitness 2" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="corsetAthletic" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetAthletic</Data>
+            <Data name="metalAthletic" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalAthletic</Data>
+            <Data name="lacesAthletic" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="corsetSeveNBase Bombshell" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetSeveNBase Bombshell</Data>
+            <Data name="metalSeveNBase Bombshell" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalSeveNBase Bombshell</Data>
+            <Data name="lacesSeveNBase Bombshell" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="corsetShoulder Width" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="corsetBodyFat" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBodyFat</Data>
+            <Data name="metalBodyFat" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBodyFat</Data>
+            <Data name="lacesBodyFat" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="corsetLegThin" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="corsetHipsNarrow" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="corsetButtThin" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetButtThin</Data>
+            <Data name="metalButtThin" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalButtThin</Data>
+            <Data name="lacesButtThin" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="corsetHipsForward" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetHipsForward</Data>
+            <Data name="metalHipsForward" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalHipsForward</Data>
+            <Data name="lacesHipsForward" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="corsetHipRotateForward" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetHipRotateForward</Data>
+            <Data name="metalHipRotateForward" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalHipRotateForward</Data>
+            <Data name="lacesHipRotateForward" target="laces" local="true">Vtaw Wardrobe 6 Corset FG.osd\lacesHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="corsetBreastArmpitin" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="corsetBreastArmpitWide" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="corsetBreastCurve" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBreastCurve</Data>
+            <Data name="metalBreastCurve" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="corsetBreastHeight2" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBreastHeight2</Data>
+            <Data name="metalBreastHeight2" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="corsetBreastConcave" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetBreastConcave</Data>
+            <Data name="metalBreastConcave" target="metal" local="true">Vtaw Wardrobe 6 Corset FG.osd\metalBreastConcave</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="corsetNipples Length" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="corsetNipples Areola" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="corsetNipples Gone" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="corsetNipples Shape" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="corsetNipples Size" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="corsetNipples Tip" target="corset" local="true">Vtaw Wardrobe 6 Corset FG.osd\corsetNipples Tip</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

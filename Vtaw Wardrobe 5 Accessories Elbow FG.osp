@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Accessories Elbow FG">
+        <DataFolder>Vtaw Wardrobe 5 Accessories Elbow FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Accessories Elbow FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Accessories</OutputPath>
+        <OutputFile GenWeights="false">Elbow</OutputFile>
+        <Shape target="Elbow">Elbow</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="ElbowBoobs Yuge" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="ElbowBoobs Big" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="ElbowBoobs Gravity" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="ElbowBoobs Mellons" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="ElbowBoobs Perky" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="ElbowBoobs Push Up" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="ElbowBoobs Top Slope" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="ElbowBoobs Tiny" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="ElbowBack Size" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowBack Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="ElbowArms Chubby" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowArms Chubby</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="ElbowArms Size" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="ElbowArmpit Ajustment" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="ElbowForearms Size" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="ElbowTorso Size" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="ElbowSturnum Depth" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="ElbowSturnum Height" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="ElbowGroin Position" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="ElbowGroin Back" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="ElbowBody Toning" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="ElbowTigerSanBB" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="ElbowAthletic" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="ElbowSeveNBase Bombshell" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="ElbowShoulder Width" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="ElbowBodyFat" target="Elbow" local="true">Vtaw Wardrobe 5 Accessories Elbow FG.osd\ElbowBodyFat</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

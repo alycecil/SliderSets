@@ -1,0 +1,862 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="CBBE Body">
+        <DataFolder>CBBE</DataFolder>
+        <SourceFile>CBBEBody.nif</SourceFile>
+        <OutputPath>Meshes\Actors\Character\CharacterAssets</OutputPath>
+        <OutputFile GenWeights="false">FemaleBody</OutputFile>
+        <Shape target="CBBE">CBBE</Shape>
+        <Slider name="Breasts" invert="false" default="0">
+            <Data name="CBBEBreasts" target="CBBE" local="true">CBBEBody.osd\CBBEBreasts</Data>
+        </Slider>
+        <Slider name="BreastsCleavage" invert="false" default="0">
+            <Data name="CBBEBreastsCleavage" target="CBBE" local="true">CBBEBody.osd\CBBEBreastsCleavage</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" default="0">
+            <Data name="CBBEBreastsGone" target="CBBE" local="true">CBBEBody.osd\CBBEBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" default="0">
+            <Data name="CBBEBreastsNewSH" target="CBBE" local="true">CBBEBody.osd\CBBEBreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="CBBEBreastsSmall" target="CBBE" local="true">CBBEBody.osd\CBBEBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="CBBEBreastsSmall2" target="CBBE" local="true">CBBEBody.osd\CBBEBreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" default="0">
+            <Data name="CBBEBreastsTogether" target="CBBE" local="true">CBBEBody.osd\CBBEBreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" default="0">
+            <Data name="CBBEBreastTopSlope" target="CBBE" local="true">CBBEBody.osd\CBBEBreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="CBBEBreastWidth" target="CBBE" local="true">CBBEBody.osd\CBBEBreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="CBBEButt" target="CBBE" local="true">CBBEBody.osd\CBBEButt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="CBBEButtCrack" target="CBBE" local="true">CBBEBody.osd\CBBEButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="CBBEButtNew" target="CBBE" local="true">CBBEBody.osd\CBBEButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="CBBEButtShape2" target="CBBE" local="true">CBBEBody.osd\CBBEButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="CBBEButtSmall" target="CBBE" local="true">CBBEBody.osd\CBBEButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" default="0">
+            <Data name="CBBECalfSize" target="CBBE" local="true">CBBEBody.osd\CBBECalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" default="0">
+            <Data name="CBBECalfSmooth" target="CBBE" local="true">CBBEBody.osd\CBBECalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="CBBEChestDepth" target="CBBE" local="true">CBBEBody.osd\CBBEChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="CBBEChestWidth" target="CBBE" local="true">CBBEBody.osd\CBBEChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="CBBEChubbyArms" target="CBBE" local="true">CBBEBody.osd\CBBEChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="CBBEChubbyButt" target="CBBE" local="true">CBBEBody.osd\CBBEChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="CBBEChubbyLegs" target="CBBE" local="true">CBBEBody.osd\CBBEChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="CBBEChubbyWaist" target="CBBE" local="true">CBBEBody.osd\CBBEChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" default="0">
+            <Data name="CBBECrotchBack" target="CBBE" local="true">CBBEBody.osd\CBBECrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="CBBEDoubleMelon" target="CBBE" local="true">CBBEBody.osd\CBBEDoubleMelon</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" default="0">
+            <Data name="CBBEGroin" target="CBBE" local="true">CBBEBody.osd\CBBEGroin</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="CBBEHipBack" target="CBBE" local="true">CBBEBody.osd\CBBEHipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="CBBEHipBone" target="CBBE" local="true">CBBEBody.osd\CBBEHipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="CBBEHips" target="CBBE" local="true">CBBEBody.osd\CBBEHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="CBBEHipUpperWidth" target="CBBE" local="true">CBBEBody.osd\CBBEHipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" default="0">
+            <Data name="CBBEKneeHeight" target="CBBE" local="true">CBBEBody.osd\CBBEKneeHeight</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="CBBELegShape" target="CBBE" local="true">CBBEBody.osd\CBBELegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="CBBELegsThin" target="CBBE" local="true">CBBEBody.osd\CBBELegsThin</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" default="0">
+            <Data name="CBBENipBGone" target="CBBE" local="true">CBBEBody.osd\CBBENipBGone</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" default="0">
+            <Data name="CBBENippleAreola" target="CBBE" local="true">CBBEBody.osd\CBBENippleAreola</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" default="0">
+            <Data name="CBBENippleDistance" target="CBBE" local="true">CBBEBody.osd\CBBENippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="CBBENippleDown" target="CBBE" local="true">CBBEBody.osd\CBBENippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" default="0">
+            <Data name="CBBENippleLength" target="CBBE" local="true">CBBEBody.osd\CBBENippleLength</Data>
+        </Slider>
+        <Slider name="NipplePerk2" invert="false" default="0">
+            <Data name="CBBENipplePerk2" target="CBBE" local="true">CBBEBody.osd\CBBENipplePerk2</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" default="0">
+            <Data name="CBBENipplePerkiness" target="CBBE" local="true">CBBEBody.osd\CBBENipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" default="0">
+            <Data name="CBBENippleSize" target="CBBE" local="true">CBBEBody.osd\CBBENippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" default="0">
+            <Data name="CBBENippleTip" target="CBBE" local="true">CBBEBody.osd\CBBENippleTip</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="CBBENippleUp" target="CBBE" local="true">CBBEBody.osd\CBBENippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="CBBEPregnancyBelly" target="CBBE" local="true">CBBEBody.osd\CBBEPregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="CBBEPushUp" target="CBBE" local="true">CBBEBody.osd\CBBEPushUp</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="CBBERoundAss" target="CBBE" local="true">CBBEBody.osd\CBBERoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="CBBEShoulderSmooth" target="CBBE" local="true">CBBEBody.osd\CBBEShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="CBBEShoulderTweak" target="CBBE" local="true">CBBEBody.osd\CBBEShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="CBBEShoulderWidth" target="CBBE" local="true">CBBEBody.osd\CBBEShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="CBBESlimThighs" target="CBBE" local="true">CBBEBody.osd\CBBESlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" default="0">
+            <Data name="CBBESternumDepth" target="CBBE" local="true">CBBEBody.osd\CBBESternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" default="0">
+            <Data name="CBBESternumHeight" target="CBBE" local="true">CBBEBody.osd\CBBESternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="CBBEThighs" target="CBBE" local="true">CBBEBody.osd\CBBEThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="CBBETummyTuck" target="CBBE" local="true">CBBEBody.osd\CBBETummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="CBBEVanillaFo4" target="CBBE" local="true">CBBEBody.osd\CBBEVanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="CBBEWaist" target="CBBE" local="true">CBBEBody.osd\CBBEWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="CBBEWaistHeight" target="CBBE" local="true">CBBEBody.osd\CBBEWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="CBBEWideWaistLine" target="CBBE" local="true">CBBEBody.osd\CBBEWideWaistLine</Data>
+        </Slider>
+        <Slider name="Ankles" invert="false" default="0">
+            <Data name="CBBEAnkles" target="CBBE" local="true">CBBEBody.osd\CBBEAnkles</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="CBBEAppleCheeks" target="CBBE" local="true">CBBEBody.osd\CBBEAppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="CBBEArms" target="CBBE" local="true">CBBEBody.osd\CBBEArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="CBBEBack" target="CBBE" local="true">CBBEBody.osd\CBBEBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="CBBEBackArch" target="CBBE" local="true">CBBEBody.osd\CBBEBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="CBBEBelly" target="CBBE" local="true">CBBEBody.osd\CBBEBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="CBBEBigBelly" target="CBBE" local="true">CBBEBody.osd\CBBEBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="CBBEBigButt" target="CBBE" local="true">CBBEBody.osd\CBBEBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="CBBEBigTorso" target="CBBE" local="true">CBBEBody.osd\CBBEBigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="CBBEBreastCenter" target="CBBE" local="true">CBBEBody.osd\CBBEBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" default="0">
+            <Data name="CBBEBreastCenterBig" target="CBBE" local="true">CBBEBody.osd\CBBEBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="CBBEBreastFantasy" target="CBBE" local="true">CBBEBody.osd\CBBEBreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="CBBEBreastFlatness2" target="CBBE" local="true">CBBEBody.osd\CBBEBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="CBBEBreastGravity2" target="CBBE" local="true">CBBEBody.osd\CBBEBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="CBBEBreastHeight" target="CBBE" local="true">CBBEBody.osd\CBBEBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="CBBEBreastPerkiness" target="CBBE" local="true">CBBEBody.osd\CBBEBreastPerkiness</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="CBBEArmpitHeight" target="CBBE" local="true">CBBEBody.osd\CBBEArmpitHeight</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" default="0">
+            <Data name="CBBEForearmSize" target="CBBE" local="true">CBBEBody.osd\CBBEForearmSize</Data>
+        </Slider>
+        <Slider name="NippleShape" invert="false" default="0">
+            <Data name="CBBENippleShape" target="CBBE" local="true">CBBEBody.osd\CBBENippleShape</Data>
+        </Slider>
+        <Slider name="NippleTwistUp" invert="false" default="0">
+            <Data name="CBBENippleTwistUp" target="CBBE" local="true">CBBEBody.osd\CBBENippleTwistUp</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="CBBE7B Upper" target="CBBE" local="true">CBBEBody.osd\CBBE7B Upper</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="CBBE7B Lower" target="CBBE" local="true">CBBEBody.osd\CBBE7B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="CBBEMuscularChest" target="CBBE" local="true">CBBEBody.osd\CBBEMuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="CBBEMuscularArms" target="CBBE" local="true">CBBEBody.osd\CBBEMuscularArms</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="CBBEMuscularButt" target="CBBE" local="true">CBBEBody.osd\CBBEMuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="CBBEMuscularLegs" target="CBBE" local="true">CBBEBody.osd\CBBEMuscularLegs</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" default="0">
+            <Data name="CBBEFeetFeminine" target="CBBE" local="true">CBBEBody.osd\CBBEFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="CBBE Body Physics">
+        <DataFolder>CBBE</DataFolder>
+        <SourceFile>CBBEBodyPhysics.nif</SourceFile>
+        <OutputPath>Meshes\Actors\Character\CharacterAssets</OutputPath>
+        <OutputFile GenWeights="false">FemaleBody</OutputFile>
+        <Shape target="CBBE">CBBE</Shape>
+        <Slider name="Breasts" invert="false" default="0">
+            <Data name="CBBEBreasts" target="CBBE" local="true">CBBEBody.osd\CBBEBreasts</Data>
+        </Slider>
+        <Slider name="BreastsCleavage" invert="false" default="0">
+            <Data name="CBBEBreastsCleavage" target="CBBE" local="true">CBBEBody.osd\CBBEBreastsCleavage</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" default="0">
+            <Data name="CBBEBreastsGone" target="CBBE" local="true">CBBEBody.osd\CBBEBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" default="0">
+            <Data name="CBBEBreastsNewSH" target="CBBE" local="true">CBBEBody.osd\CBBEBreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="CBBEBreastsSmall" target="CBBE" local="true">CBBEBody.osd\CBBEBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="CBBEBreastsSmall2" target="CBBE" local="true">CBBEBody.osd\CBBEBreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" default="0">
+            <Data name="CBBEBreastsTogether" target="CBBE" local="true">CBBEBody.osd\CBBEBreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" default="0">
+            <Data name="CBBEBreastTopSlope" target="CBBE" local="true">CBBEBody.osd\CBBEBreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="CBBEBreastWidth" target="CBBE" local="true">CBBEBody.osd\CBBEBreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="CBBEButt" target="CBBE" local="true">CBBEBody.osd\CBBEButt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="CBBEButtCrack" target="CBBE" local="true">CBBEBody.osd\CBBEButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="CBBEButtNew" target="CBBE" local="true">CBBEBody.osd\CBBEButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="CBBEButtShape2" target="CBBE" local="true">CBBEBody.osd\CBBEButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="CBBEButtSmall" target="CBBE" local="true">CBBEBody.osd\CBBEButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" default="0">
+            <Data name="CBBECalfSize" target="CBBE" local="true">CBBEBody.osd\CBBECalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" default="0">
+            <Data name="CBBECalfSmooth" target="CBBE" local="true">CBBEBody.osd\CBBECalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="CBBEChestDepth" target="CBBE" local="true">CBBEBody.osd\CBBEChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="CBBEChestWidth" target="CBBE" local="true">CBBEBody.osd\CBBEChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="CBBEChubbyArms" target="CBBE" local="true">CBBEBody.osd\CBBEChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="CBBEChubbyButt" target="CBBE" local="true">CBBEBody.osd\CBBEChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="CBBEChubbyLegs" target="CBBE" local="true">CBBEBody.osd\CBBEChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="CBBEChubbyWaist" target="CBBE" local="true">CBBEBody.osd\CBBEChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" default="0">
+            <Data name="CBBECrotchBack" target="CBBE" local="true">CBBEBody.osd\CBBECrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="CBBEDoubleMelon" target="CBBE" local="true">CBBEBody.osd\CBBEDoubleMelon</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" default="0">
+            <Data name="CBBEGroin" target="CBBE" local="true">CBBEBody.osd\CBBEGroin</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="CBBEHipBack" target="CBBE" local="true">CBBEBody.osd\CBBEHipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="CBBEHipBone" target="CBBE" local="true">CBBEBody.osd\CBBEHipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="CBBEHips" target="CBBE" local="true">CBBEBody.osd\CBBEHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="CBBEHipUpperWidth" target="CBBE" local="true">CBBEBody.osd\CBBEHipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" default="0">
+            <Data name="CBBEKneeHeight" target="CBBE" local="true">CBBEBody.osd\CBBEKneeHeight</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="CBBELegShape" target="CBBE" local="true">CBBEBody.osd\CBBELegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="CBBELegsThin" target="CBBE" local="true">CBBEBody.osd\CBBELegsThin</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" default="0">
+            <Data name="CBBENipBGone" target="CBBE" local="true">CBBEBody.osd\CBBENipBGone</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" default="0">
+            <Data name="CBBENippleAreola" target="CBBE" local="true">CBBEBody.osd\CBBENippleAreola</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" default="0">
+            <Data name="CBBENippleDistance" target="CBBE" local="true">CBBEBody.osd\CBBENippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="CBBENippleDown" target="CBBE" local="true">CBBEBody.osd\CBBENippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" default="0">
+            <Data name="CBBENippleLength" target="CBBE" local="true">CBBEBody.osd\CBBENippleLength</Data>
+        </Slider>
+        <Slider name="NipplePerk2" invert="false" default="0">
+            <Data name="CBBENipplePerk2" target="CBBE" local="true">CBBEBody.osd\CBBENipplePerk2</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" default="0">
+            <Data name="CBBENipplePerkiness" target="CBBE" local="true">CBBEBody.osd\CBBENipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" default="0">
+            <Data name="CBBENippleSize" target="CBBE" local="true">CBBEBody.osd\CBBENippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" default="0">
+            <Data name="CBBENippleTip" target="CBBE" local="true">CBBEBody.osd\CBBENippleTip</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="CBBENippleUp" target="CBBE" local="true">CBBEBody.osd\CBBENippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="CBBEPregnancyBelly" target="CBBE" local="true">CBBEBody.osd\CBBEPregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="CBBEPushUp" target="CBBE" local="true">CBBEBody.osd\CBBEPushUp</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="CBBERoundAss" target="CBBE" local="true">CBBEBody.osd\CBBERoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="CBBEShoulderSmooth" target="CBBE" local="true">CBBEBody.osd\CBBEShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="CBBEShoulderTweak" target="CBBE" local="true">CBBEBody.osd\CBBEShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="CBBEShoulderWidth" target="CBBE" local="true">CBBEBody.osd\CBBEShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="CBBESlimThighs" target="CBBE" local="true">CBBEBody.osd\CBBESlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" default="0">
+            <Data name="CBBESternumDepth" target="CBBE" local="true">CBBEBody.osd\CBBESternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" default="0">
+            <Data name="CBBESternumHeight" target="CBBE" local="true">CBBEBody.osd\CBBESternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="CBBEThighs" target="CBBE" local="true">CBBEBody.osd\CBBEThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="CBBETummyTuck" target="CBBE" local="true">CBBEBody.osd\CBBETummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="CBBEVanillaFo4" target="CBBE" local="true">CBBEBody.osd\CBBEVanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="CBBEWaist" target="CBBE" local="true">CBBEBody.osd\CBBEWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="CBBEWaistHeight" target="CBBE" local="true">CBBEBody.osd\CBBEWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="CBBEWideWaistLine" target="CBBE" local="true">CBBEBody.osd\CBBEWideWaistLine</Data>
+        </Slider>
+        <Slider name="Ankles" invert="false" default="0">
+            <Data name="CBBEAnkles" target="CBBE" local="true">CBBEBody.osd\CBBEAnkles</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="CBBEAppleCheeks" target="CBBE" local="true">CBBEBody.osd\CBBEAppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="CBBEArms" target="CBBE" local="true">CBBEBody.osd\CBBEArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="CBBEBack" target="CBBE" local="true">CBBEBody.osd\CBBEBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="CBBEBackArch" target="CBBE" local="true">CBBEBody.osd\CBBEBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="CBBEBelly" target="CBBE" local="true">CBBEBody.osd\CBBEBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="CBBEBigBelly" target="CBBE" local="true">CBBEBody.osd\CBBEBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="CBBEBigButt" target="CBBE" local="true">CBBEBody.osd\CBBEBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="CBBEBigTorso" target="CBBE" local="true">CBBEBody.osd\CBBEBigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="CBBEBreastCenter" target="CBBE" local="true">CBBEBody.osd\CBBEBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" default="0">
+            <Data name="CBBEBreastCenterBig" target="CBBE" local="true">CBBEBody.osd\CBBEBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="CBBEBreastFantasy" target="CBBE" local="true">CBBEBody.osd\CBBEBreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="CBBEBreastFlatness2" target="CBBE" local="true">CBBEBody.osd\CBBEBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="CBBEBreastGravity2" target="CBBE" local="true">CBBEBody.osd\CBBEBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="CBBEBreastHeight" target="CBBE" local="true">CBBEBody.osd\CBBEBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="CBBEBreastPerkiness" target="CBBE" local="true">CBBEBody.osd\CBBEBreastPerkiness</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="CBBEArmpitHeight" target="CBBE" local="true">CBBEBody.osd\CBBEArmpitHeight</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" default="0">
+            <Data name="CBBEForearmSize" target="CBBE" local="true">CBBEBody.osd\CBBEForearmSize</Data>
+        </Slider>
+        <Slider name="NippleShape" invert="false" default="0">
+            <Data name="CBBENippleShape" target="CBBE" local="true">CBBEBody.osd\CBBENippleShape</Data>
+        </Slider>
+        <Slider name="NippleTwistUp" invert="false" default="0">
+            <Data name="CBBENippleTwistUp" target="CBBE" local="true">CBBEBody.osd\CBBENippleTwistUp</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="CBBE7B Upper" target="CBBE" local="true">CBBEBody.osd\CBBE7B Upper</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="CBBE7B Lower" target="CBBE" local="true">CBBEBody.osd\CBBE7B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="CBBEMuscularChest" target="CBBE" local="true">CBBEBody.osd\CBBEMuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="CBBEMuscularArms" target="CBBE" local="true">CBBEBody.osd\CBBEMuscularArms</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="CBBEMuscularButt" target="CBBE" local="true">CBBEBody.osd\CBBEMuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="CBBEMuscularLegs" target="CBBE" local="true">CBBEBody.osd\CBBEMuscularLegs</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" default="0">
+            <Data name="CBBEFeetFeminine" target="CBBE" local="true">CBBEBody.osd\CBBEFeetFeminine</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="CBBE NeverNude">
+        <DataFolder>CBBE</DataFolder>
+        <SourceFile>NeverNude.nif</SourceFile>
+        <OutputPath>Meshes\Actors\Character\CharacterAssets</OutputPath>
+        <OutputFile GenWeights="false">FemaleBody</OutputFile>
+        <Shape target="CBBE" DataFolder="CBBE">CBBE</Shape>
+        <Shape target="Undies">Undies</Shape>
+        <Slider name="Breasts" invert="false" default="0">
+            <Data name="CBBEBreasts" target="CBBE">CBBEBody.osd\CBBEBreasts</Data>
+            <Data name="UndiesBreasts" target="Undies" local="true">NeverNude.osd\UndiesBreasts</Data>
+        </Slider>
+        <Slider name="BreastsCleavage" invert="false" default="0">
+            <Data name="CBBEBreastsCleavage" target="CBBE">CBBEBody.osd\CBBEBreastsCleavage</Data>
+            <Data name="UndiesBreastsCleavage" target="Undies" local="true">NeverNude.osd\UndiesBreastsCleavage</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" default="0">
+            <Data name="CBBEBreastsGone" target="CBBE">CBBEBody.osd\CBBEBreastsGone</Data>
+            <Data name="UndiesBreastsGone" target="Undies" local="true">NeverNude.osd\UndiesBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" default="0">
+            <Data name="CBBEBreastsNewSH" target="CBBE">CBBEBody.osd\CBBEBreastsNewSH</Data>
+            <Data name="UndiesBreastsNewSH" target="Undies" local="true">NeverNude.osd\UndiesBreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="CBBEBreastsSmall" target="CBBE">CBBEBody.osd\CBBEBreastsSmall</Data>
+            <Data name="UndiesBreastsSmall" target="Undies" local="true">NeverNude.osd\UndiesBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="CBBEBreastsSmall2" target="CBBE">CBBEBody.osd\CBBEBreastsSmall2</Data>
+            <Data name="UndiesBreastsSmall2" target="Undies" local="true">NeverNude.osd\UndiesBreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" default="0">
+            <Data name="CBBEBreastsTogether" target="CBBE">CBBEBody.osd\CBBEBreastsTogether</Data>
+            <Data name="UndiesBreastsTogether" target="Undies" local="true">NeverNude.osd\UndiesBreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" default="0">
+            <Data name="CBBEBreastTopSlope" target="CBBE">CBBEBody.osd\CBBEBreastTopSlope</Data>
+            <Data name="UndiesBreastTopSlope" target="Undies" local="true">NeverNude.osd\UndiesBreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="CBBEBreastWidth" target="CBBE">CBBEBody.osd\CBBEBreastWidth</Data>
+            <Data name="UndiesBreastWidth" target="Undies" local="true">NeverNude.osd\UndiesBreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="CBBEButt" target="CBBE">CBBEBody.osd\CBBEButt</Data>
+            <Data name="UndiesButt" target="Undies" local="true">NeverNude.osd\UndiesButt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="CBBEButtCrack" target="CBBE">CBBEBody.osd\CBBEButtCrack</Data>
+            <Data name="UndiesButtCrack" target="Undies" local="true">NeverNude.osd\UndiesButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="CBBEButtNew" target="CBBE">CBBEBody.osd\CBBEButtNew</Data>
+            <Data name="UndiesButtNew" target="Undies" local="true">NeverNude.osd\UndiesButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="CBBEButtShape2" target="CBBE">CBBEBody.osd\CBBEButtShape2</Data>
+            <Data name="UndiesButtShape2" target="Undies" local="true">NeverNude.osd\UndiesButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="CBBEButtSmall" target="CBBE">CBBEBody.osd\CBBEButtSmall</Data>
+            <Data name="UndiesButtSmall" target="Undies" local="true">NeverNude.osd\UndiesButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" default="0">
+            <Data name="CBBECalfSize" target="CBBE">CBBEBody.osd\CBBECalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" default="0">
+            <Data name="CBBECalfSmooth" target="CBBE">CBBEBody.osd\CBBECalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="CBBEChestDepth" target="CBBE">CBBEBody.osd\CBBEChestDepth</Data>
+            <Data name="UndiesChestDepth" target="Undies" local="true">NeverNude.osd\UndiesChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="CBBEChestWidth" target="CBBE">CBBEBody.osd\CBBEChestWidth</Data>
+            <Data name="UndiesChestWidth" target="Undies" local="true">NeverNude.osd\UndiesChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="CBBEChubbyArms" target="CBBE">CBBEBody.osd\CBBEChubbyArms</Data>
+            <Data name="UndiesChubbyArms" target="Undies" local="true">NeverNude.osd\UndiesChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="CBBEChubbyButt" target="CBBE">CBBEBody.osd\CBBEChubbyButt</Data>
+            <Data name="UndiesChubbyButt" target="Undies" local="true">NeverNude.osd\UndiesChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="CBBEChubbyLegs" target="CBBE">CBBEBody.osd\CBBEChubbyLegs</Data>
+            <Data name="UndiesChubbyLegs" target="Undies" local="true">NeverNude.osd\UndiesChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="CBBEChubbyWaist" target="CBBE">CBBEBody.osd\CBBEChubbyWaist</Data>
+            <Data name="UndiesChubbyWaist" target="Undies" local="true">NeverNude.osd\UndiesChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" default="0">
+            <Data name="CBBECrotchBack" target="CBBE">CBBEBody.osd\CBBECrotchBack</Data>
+            <Data name="UndiesCrotchBack" target="Undies" local="true">NeverNude.osd\UndiesCrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="CBBEDoubleMelon" target="CBBE">CBBEBody.osd\CBBEDoubleMelon</Data>
+            <Data name="UndiesDoubleMelon" target="Undies" local="true">NeverNude.osd\UndiesDoubleMelon</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" default="0">
+            <Data name="CBBEGroin" target="CBBE">CBBEBody.osd\CBBEGroin</Data>
+            <Data name="UndiesGroin" target="Undies" local="true">NeverNude.osd\UndiesGroin</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="CBBEHipBack" target="CBBE">CBBEBody.osd\CBBEHipBack</Data>
+            <Data name="UndiesHipBack" target="Undies" local="true">NeverNude.osd\UndiesHipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="CBBEHipBone" target="CBBE">CBBEBody.osd\CBBEHipBone</Data>
+            <Data name="UndiesHipBone" target="Undies" local="true">NeverNude.osd\UndiesHipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="CBBEHips" target="CBBE">CBBEBody.osd\CBBEHips</Data>
+            <Data name="UndiesHips" target="Undies" local="true">NeverNude.osd\UndiesHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="CBBEHipUpperWidth" target="CBBE">CBBEBody.osd\CBBEHipUpperWidth</Data>
+            <Data name="UndiesHipUpperWidth" target="Undies" local="true">NeverNude.osd\UndiesHipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" default="0">
+            <Data name="CBBEKneeHeight" target="CBBE">CBBEBody.osd\CBBEKneeHeight</Data>
+            <Data name="UndiesKneeHeight" target="Undies" local="true">NeverNude.osd\UndiesKneeHeight</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="CBBELegShape" target="CBBE">CBBEBody.osd\CBBELegShape</Data>
+            <Data name="UndiesLegShape" target="Undies" local="true">NeverNude.osd\UndiesLegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="CBBELegsThin" target="CBBE">CBBEBody.osd\CBBELegsThin</Data>
+            <Data name="UndiesLegsThin" target="Undies" local="true">NeverNude.osd\UndiesLegsThin</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" default="0">
+            <Data name="CBBENipBGone" target="CBBE">CBBEBody.osd\CBBENipBGone</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" default="0">
+            <Data name="CBBENippleAreola" target="CBBE">CBBEBody.osd\CBBENippleAreola</Data>
+            <Data name="UndiesNippleAreola" target="Undies" local="true">NeverNude.osd\UndiesNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" default="0">
+            <Data name="CBBENippleDistance" target="CBBE">CBBEBody.osd\CBBENippleDistance</Data>
+            <Data name="UndiesNippleDistance" target="Undies" local="true">NeverNude.osd\UndiesNippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="CBBENippleDown" target="CBBE">CBBEBody.osd\CBBENippleDown</Data>
+            <Data name="UndiesNippleDown" target="Undies" local="true">NeverNude.osd\UndiesNippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" default="0">
+            <Data name="CBBENippleLength" target="CBBE">CBBEBody.osd\CBBENippleLength</Data>
+            <Data name="UndiesNippleLength" target="Undies" local="true">NeverNude.osd\UndiesNippleLength</Data>
+        </Slider>
+        <Slider name="NipplePerk2" invert="false" default="0">
+            <Data name="CBBENipplePerk2" target="CBBE">CBBEBody.osd\CBBENipplePerk2</Data>
+            <Data name="UndiesNipplePerk2" target="Undies" local="true">NeverNude.osd\UndiesNipplePerk2</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" default="0">
+            <Data name="CBBENipplePerkiness" target="CBBE">CBBEBody.osd\CBBENipplePerkiness</Data>
+            <Data name="UndiesNipplePerkiness" target="Undies" local="true">NeverNude.osd\UndiesNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" default="0">
+            <Data name="CBBENippleSize" target="CBBE">CBBEBody.osd\CBBENippleSize</Data>
+            <Data name="UndiesNippleSize" target="Undies" local="true">NeverNude.osd\UndiesNippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" default="0">
+            <Data name="CBBENippleTip" target="CBBE">CBBEBody.osd\CBBENippleTip</Data>
+            <Data name="UndiesNippleTip" target="Undies" local="true">NeverNude.osd\UndiesNippleTip</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="CBBENippleUp" target="CBBE">CBBEBody.osd\CBBENippleUp</Data>
+            <Data name="UndiesNippleUp" target="Undies" local="true">NeverNude.osd\UndiesNippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="CBBEPregnancyBelly" target="CBBE">CBBEBody.osd\CBBEPregnancyBelly</Data>
+            <Data name="UndiesPregnancyBelly" target="Undies" local="true">NeverNude.osd\UndiesPregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="CBBEPushUp" target="CBBE">CBBEBody.osd\CBBEPushUp</Data>
+            <Data name="UndiesPushUp" target="Undies" local="true">NeverNude.osd\UndiesPushUp</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="CBBERoundAss" target="CBBE">CBBEBody.osd\CBBERoundAss</Data>
+            <Data name="UndiesRoundAss" target="Undies" local="true">NeverNude.osd\UndiesRoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="CBBEShoulderSmooth" target="CBBE">CBBEBody.osd\CBBEShoulderSmooth</Data>
+            <Data name="UndiesShoulderSmooth" target="Undies" local="true">NeverNude.osd\UndiesShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="CBBEShoulderTweak" target="CBBE">CBBEBody.osd\CBBEShoulderTweak</Data>
+            <Data name="UndiesShoulderTweak" target="Undies" local="true">NeverNude.osd\UndiesShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="CBBEShoulderWidth" target="CBBE">CBBEBody.osd\CBBEShoulderWidth</Data>
+            <Data name="UndiesShoulderWidth" target="Undies" local="true">NeverNude.osd\UndiesShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="CBBESlimThighs" target="CBBE">CBBEBody.osd\CBBESlimThighs</Data>
+            <Data name="UndiesSlimThighs" target="Undies" local="true">NeverNude.osd\UndiesSlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" default="0">
+            <Data name="CBBESternumDepth" target="CBBE">CBBEBody.osd\CBBESternumDepth</Data>
+            <Data name="UndiesSternumDepth" target="Undies" local="true">NeverNude.osd\UndiesSternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" default="0">
+            <Data name="CBBESternumHeight" target="CBBE">CBBEBody.osd\CBBESternumHeight</Data>
+            <Data name="UndiesSternumHeight" target="Undies" local="true">NeverNude.osd\UndiesSternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="CBBEThighs" target="CBBE">CBBEBody.osd\CBBEThighs</Data>
+            <Data name="UndiesThighs" target="Undies" local="true">NeverNude.osd\UndiesThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="CBBETummyTuck" target="CBBE">CBBEBody.osd\CBBETummyTuck</Data>
+            <Data name="UndiesTummyTuck" target="Undies" local="true">NeverNude.osd\UndiesTummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="CBBEVanillaFo4" target="CBBE">CBBEBody.osd\CBBEVanillaFo4</Data>
+            <Data name="UndiesVanillaFo4" target="Undies" local="true">NeverNude.osd\UndiesVanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="CBBEWaist" target="CBBE">CBBEBody.osd\CBBEWaist</Data>
+            <Data name="UndiesWaist" target="Undies" local="true">NeverNude.osd\UndiesWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="CBBEWaistHeight" target="CBBE">CBBEBody.osd\CBBEWaistHeight</Data>
+            <Data name="UndiesWaistHeight" target="Undies" local="true">NeverNude.osd\UndiesWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="CBBEWideWaistLine" target="CBBE">CBBEBody.osd\CBBEWideWaistLine</Data>
+            <Data name="UndiesWideWaistLine" target="Undies" local="true">NeverNude.osd\UndiesWideWaistLine</Data>
+        </Slider>
+        <Slider name="Ankles" invert="false" default="0">
+            <Data name="CBBEAnkles" target="CBBE">CBBEBody.osd\CBBEAnkles</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="CBBEAppleCheeks" target="CBBE">CBBEBody.osd\CBBEAppleCheeks</Data>
+            <Data name="UndiesAppleCheeks" target="Undies" local="true">NeverNude.osd\UndiesAppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="CBBEArms" target="CBBE">CBBEBody.osd\CBBEArms</Data>
+            <Data name="UndiesArms" target="Undies" local="true">NeverNude.osd\UndiesArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="CBBEBack" target="CBBE">CBBEBody.osd\CBBEBack</Data>
+            <Data name="UndiesBack" target="Undies" local="true">NeverNude.osd\UndiesBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="CBBEBackArch" target="CBBE">CBBEBody.osd\CBBEBackArch</Data>
+            <Data name="UndiesBackArch" target="Undies" local="true">NeverNude.osd\UndiesBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="CBBEBelly" target="CBBE">CBBEBody.osd\CBBEBelly</Data>
+            <Data name="UndiesBelly" target="Undies" local="true">NeverNude.osd\UndiesBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="CBBEBigBelly" target="CBBE">CBBEBody.osd\CBBEBigBelly</Data>
+            <Data name="UndiesBigBelly" target="Undies" local="true">NeverNude.osd\UndiesBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="CBBEBigButt" target="CBBE">CBBEBody.osd\CBBEBigButt</Data>
+            <Data name="UndiesBigButt" target="Undies" local="true">NeverNude.osd\UndiesBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="CBBEBigTorso" target="CBBE">CBBEBody.osd\CBBEBigTorso</Data>
+            <Data name="UndiesBigTorso" target="Undies" local="true">NeverNude.osd\UndiesBigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="CBBEBreastCenter" target="CBBE">CBBEBody.osd\CBBEBreastCenter</Data>
+            <Data name="UndiesBreastCenter" target="Undies" local="true">NeverNude.osd\UndiesBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" default="0">
+            <Data name="CBBEBreastCenterBig" target="CBBE">CBBEBody.osd\CBBEBreastCenterBig</Data>
+            <Data name="UndiesBreastCenterBig" target="Undies" local="true">NeverNude.osd\UndiesBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="CBBEBreastFantasy" target="CBBE">CBBEBody.osd\CBBEBreastFantasy</Data>
+            <Data name="UndiesBreastFantasy" target="Undies" local="true">NeverNude.osd\UndiesBreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="CBBEBreastFlatness2" target="CBBE">CBBEBody.osd\CBBEBreastFlatness2</Data>
+            <Data name="UndiesBreastFlatness2" target="Undies" local="true">NeverNude.osd\UndiesBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="CBBEBreastGravity2" target="CBBE">CBBEBody.osd\CBBEBreastGravity2</Data>
+            <Data name="UndiesBreastGravity2" target="Undies" local="true">NeverNude.osd\UndiesBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="CBBEBreastHeight" target="CBBE">CBBEBody.osd\CBBEBreastHeight</Data>
+            <Data name="UndiesBreastHeight" target="Undies" local="true">NeverNude.osd\UndiesBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="CBBEBreastPerkiness" target="CBBE">CBBEBody.osd\CBBEBreastPerkiness</Data>
+            <Data name="UndiesBreastPerkiness" target="Undies" local="true">NeverNude.osd\UndiesBreastPerkiness</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="CBBEArmpitHeight" target="CBBE">CBBEBody.osd\CBBEArmpitHeight</Data>
+            <Data name="UndiesArmpitHeight" target="Undies" local="true">NeverNude.osd\UndiesArmpitHeight</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" default="0">
+            <Data name="CBBEForearmSize" target="CBBE">CBBEBody.osd\CBBEForearmSize</Data>
+        </Slider>
+        <Slider name="NippleShape" invert="false" default="0">
+            <Data name="CBBENippleShape" target="CBBE">CBBEBody.osd\CBBENippleShape</Data>
+            <Data name="UndiesNippleShape" target="Undies" local="true">NeverNude.osd\UndiesNippleShape</Data>
+        </Slider>
+        <Slider name="NippleTwistUp" invert="false" default="0">
+            <Data name="CBBENippleTwistUp" target="CBBE">CBBEBody.osd\CBBENippleTwistUp</Data>
+            <Data name="UndiesNippleTwistUp" target="Undies" local="true">NeverNude.osd\UndiesNippleTwistUp</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="CBBE7B Upper" target="CBBE">CBBEBody.osd\CBBE7B Upper</Data>
+            <Data name="Undies7B Upper" target="Undies" local="true">NeverNude.osd\Undies7B Upper</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="CBBE7B Lower" target="CBBE">CBBEBody.osd\CBBE7B Lower</Data>
+            <Data name="Undies7B Lower" target="Undies" local="true">NeverNude.osd\Undies7B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="CBBEMuscularChest" target="CBBE">CBBEBody.osd\CBBEMuscularChest</Data>
+            <Data name="UndiesMuscularChest" target="Undies" local="true">NeverNude.osd\UndiesMuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="CBBEMuscularArms" target="CBBE">CBBEBody.osd\CBBEMuscularArms</Data>
+            <Data name="UndiesMuscularArms" target="Undies" local="true">NeverNude.osd\UndiesMuscularArms</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="CBBEMuscularButt" target="CBBE">CBBEBody.osd\CBBEMuscularButt</Data>
+            <Data name="UndiesMuscularButt" target="Undies" local="true">NeverNude.osd\UndiesMuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="CBBEMuscularLegs" target="CBBE">CBBEBody.osd\CBBEMuscularLegs</Data>
+            <Data name="UndiesMuscularLegs" target="Undies" local="true">NeverNude.osd\UndiesMuscularLegs</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" default="0">
+            <Data name="CBBEFeetFeminine" target="CBBE" local="true">CBBEBody.osd\CBBEFeetFeminine</Data>
+        </Slider>
+        <Slider name="BodyZap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="CBBEBodyZap" target="CBBE" local="true">NeverNude.osd\CBBEBodyZap</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,729 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Sport FG">
+        <DataFolder>Vtaw Sport FG</DataFolder>
+        <SourceFile>Vtaw Sport FG.nif</SourceFile>
+        <OutputPath>Meshes\vtaw\wardrobe6\SBOutfit</OutputPath>
+        <OutputFile GenWeights="false">SBtop4</OutputFile>
+        <Shape target="FusionGirl" DataFolder="Vtaw Sport FG">FusionGirl</Shape>
+        <Shape target="Gl1">Gl1</Shape>
+        <Shape target="Gl2">Gl2</Shape>
+        <Shape target="Jac1">Jac1</Shape>
+        <Shape target="Jac2">Jac2</Shape>
+        <Shape target="Jac3">Jac3</Shape>
+        <Shape target="Le1">Le1</Shape>
+        <Shape target="Pi1">Pi1</Shape>
+        <Shape target="Sh1">Sh1</Shape>
+        <Shape target="Sh2">Sh2</Shape>
+        <Shape target="To1">To1</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FusionGirlBelly Pregnant" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBelly Pregnant</Data>
+            <Data name="Le1Belly Pregnant" target="Le1" local="true">Vtaw Sport FG.osd\Le1Belly Pregnant</Data>
+            <Data name="To1Belly Pregnant" target="To1" local="true">Vtaw Sport FG.osd\To1Belly Pregnant</Data>
+            <Data name="Jac1Belly Pregnant" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Belly Pregnant</Data>
+            <Data name="Jac2Belly Pregnant" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Belly Pregnant</Data>
+            <Data name="Jac3Belly Pregnant" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Belly Pregnant</Data>
+            <Data name="Pi1Belly Pregnant" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FusionGirlBelly Big" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBelly Big</Data>
+            <Data name="Le1Belly Big" target="Le1" local="true">Vtaw Sport FG.osd\Le1Belly Big</Data>
+            <Data name="To1Belly Big" target="To1" local="true">Vtaw Sport FG.osd\To1Belly Big</Data>
+            <Data name="Jac1Belly Big" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Belly Big</Data>
+            <Data name="Jac2Belly Big" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Belly Big</Data>
+            <Data name="Jac3Belly Big" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Belly Big</Data>
+            <Data name="Pi1Belly Big" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FusionGirlBelly Size" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBelly Size</Data>
+            <Data name="Le1Belly Size" target="Le1" local="true">Vtaw Sport FG.osd\Le1Belly Size</Data>
+            <Data name="To1Belly Size" target="To1" local="true">Vtaw Sport FG.osd\To1Belly Size</Data>
+            <Data name="Jac1Belly Size" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Belly Size</Data>
+            <Data name="Jac2Belly Size" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Belly Size</Data>
+            <Data name="Jac3Belly Size" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Belly Size</Data>
+            <Data name="Pi1Belly Size" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Belly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FusionGirlBelly Tuck" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBelly Tuck</Data>
+            <Data name="Le1Belly Tuck" target="Le1" local="true">Vtaw Sport FG.osd\Le1Belly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FusionGirlBoobs Yuge" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBoobs Yuge</Data>
+            <Data name="Sh1Boobs Yuge" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Boobs Yuge</Data>
+            <Data name="Sh2Boobs Yuge" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Boobs Yuge</Data>
+            <Data name="Le1Boobs Yuge" target="Le1" local="true">Vtaw Sport FG.osd\Le1Boobs Yuge</Data>
+            <Data name="To1Boobs Yuge" target="To1" local="true">Vtaw Sport FG.osd\To1Boobs Yuge</Data>
+            <Data name="Jac1Boobs Yuge" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Boobs Yuge</Data>
+            <Data name="Jac2Boobs Yuge" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Boobs Yuge</Data>
+            <Data name="Jac3Boobs Yuge" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Boobs Yuge</Data>
+            <Data name="Pi1Boobs Yuge" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FusionGirlBoobs Big" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBoobs Big</Data>
+            <Data name="Sh1Boobs Big" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Boobs Big</Data>
+            <Data name="Sh2Boobs Big" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Boobs Big</Data>
+            <Data name="Le1Boobs Big" target="Le1" local="true">Vtaw Sport FG.osd\Le1Boobs Big</Data>
+            <Data name="To1Boobs Big" target="To1" local="true">Vtaw Sport FG.osd\To1Boobs Big</Data>
+            <Data name="Jac1Boobs Big" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Boobs Big</Data>
+            <Data name="Jac2Boobs Big" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Boobs Big</Data>
+            <Data name="Jac3Boobs Big" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Boobs Big</Data>
+            <Data name="Pi1Boobs Big" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FusionGirlBoobs Cleavage" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBoobs Cleavage</Data>
+            <Data name="To1Boobs Cleavage" target="To1" local="true">Vtaw Sport FG.osd\To1Boobs Cleavage</Data>
+            <Data name="Jac1Boobs Cleavage" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Boobs Cleavage</Data>
+            <Data name="Jac3Boobs Cleavage" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Boobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FusionGirlBoobs Flat" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBoobs Flat</Data>
+            <Data name="To1Boobs Flat" target="To1" local="true">Vtaw Sport FG.osd\To1Boobs Flat</Data>
+            <Data name="Jac1Boobs Flat" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Boobs Flat</Data>
+            <Data name="Jac3Boobs Flat" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Boobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FusionGirlBoobs Gravity" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBoobs Gravity</Data>
+            <Data name="Sh1Boobs Gravity" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Boobs Gravity</Data>
+            <Data name="Sh2Boobs Gravity" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Boobs Gravity</Data>
+            <Data name="Le1Boobs Gravity" target="Le1" local="true">Vtaw Sport FG.osd\Le1Boobs Gravity</Data>
+            <Data name="To1Boobs Gravity" target="To1" local="true">Vtaw Sport FG.osd\To1Boobs Gravity</Data>
+            <Data name="Jac1Boobs Gravity" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Boobs Gravity</Data>
+            <Data name="Jac2Boobs Gravity" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Boobs Gravity</Data>
+            <Data name="Jac3Boobs Gravity" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Boobs Gravity</Data>
+            <Data name="Pi1Boobs Gravity" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FusionGirlBoobs Height" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBoobs Height</Data>
+            <Data name="To1Boobs Height" target="To1" local="true">Vtaw Sport FG.osd\To1Boobs Height</Data>
+            <Data name="Jac1Boobs Height" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Boobs Height</Data>
+            <Data name="Jac2Boobs Height" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Boobs Height</Data>
+            <Data name="Jac3Boobs Height" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Boobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FusionGirlBoobs Mellons" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBoobs Mellons</Data>
+            <Data name="Sh1Boobs Mellons" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Boobs Mellons</Data>
+            <Data name="Sh2Boobs Mellons" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Boobs Mellons</Data>
+            <Data name="Le1Boobs Mellons" target="Le1" local="true">Vtaw Sport FG.osd\Le1Boobs Mellons</Data>
+            <Data name="To1Boobs Mellons" target="To1" local="true">Vtaw Sport FG.osd\To1Boobs Mellons</Data>
+            <Data name="Jac1Boobs Mellons" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Boobs Mellons</Data>
+            <Data name="Jac2Boobs Mellons" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Boobs Mellons</Data>
+            <Data name="Jac3Boobs Mellons" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Boobs Mellons</Data>
+            <Data name="Pi1Boobs Mellons" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FusionGirlBoobs Perky" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBoobs Perky</Data>
+            <Data name="Sh1Boobs Perky" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Boobs Perky</Data>
+            <Data name="Sh2Boobs Perky" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Boobs Perky</Data>
+            <Data name="Le1Boobs Perky" target="Le1" local="true">Vtaw Sport FG.osd\Le1Boobs Perky</Data>
+            <Data name="To1Boobs Perky" target="To1" local="true">Vtaw Sport FG.osd\To1Boobs Perky</Data>
+            <Data name="Jac1Boobs Perky" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Boobs Perky</Data>
+            <Data name="Jac2Boobs Perky" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Boobs Perky</Data>
+            <Data name="Jac3Boobs Perky" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Boobs Perky</Data>
+            <Data name="Pi1Boobs Perky" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FusionGirlBoobs Push Up" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBoobs Push Up</Data>
+            <Data name="Sh1Boobs Push Up" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Boobs Push Up</Data>
+            <Data name="Sh2Boobs Push Up" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Boobs Push Up</Data>
+            <Data name="Le1Boobs Push Up" target="Le1" local="true">Vtaw Sport FG.osd\Le1Boobs Push Up</Data>
+            <Data name="To1Boobs Push Up" target="To1" local="true">Vtaw Sport FG.osd\To1Boobs Push Up</Data>
+            <Data name="Jac1Boobs Push Up" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Boobs Push Up</Data>
+            <Data name="Jac2Boobs Push Up" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Boobs Push Up</Data>
+            <Data name="Jac3Boobs Push Up" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Boobs Push Up</Data>
+            <Data name="Pi1Boobs Push Up" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FusionGirlBoobs Small" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBoobs Small</Data>
+            <Data name="To1Boobs Small" target="To1" local="true">Vtaw Sport FG.osd\To1Boobs Small</Data>
+            <Data name="Jac1Boobs Small" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Boobs Small</Data>
+            <Data name="Jac3Boobs Small" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Boobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FusionGirlBoobs Together" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBoobs Together</Data>
+            <Data name="To1Boobs Together" target="To1" local="true">Vtaw Sport FG.osd\To1Boobs Together</Data>
+            <Data name="Jac1Boobs Together" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Boobs Together</Data>
+            <Data name="Jac2Boobs Together" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Boobs Together</Data>
+            <Data name="Jac3Boobs Together" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Boobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FusionGirlBoobs Top Slope" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBoobs Top Slope</Data>
+            <Data name="Sh1Boobs Top Slope" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Boobs Top Slope</Data>
+            <Data name="Sh2Boobs Top Slope" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Boobs Top Slope</Data>
+            <Data name="Le1Boobs Top Slope" target="Le1" local="true">Vtaw Sport FG.osd\Le1Boobs Top Slope</Data>
+            <Data name="To1Boobs Top Slope" target="To1" local="true">Vtaw Sport FG.osd\To1Boobs Top Slope</Data>
+            <Data name="Jac1Boobs Top Slope" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Boobs Top Slope</Data>
+            <Data name="Jac2Boobs Top Slope" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Boobs Top Slope</Data>
+            <Data name="Jac3Boobs Top Slope" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Boobs Top Slope</Data>
+            <Data name="Pi1Boobs Top Slope" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FusionGirlBoobs Width" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBoobs Width</Data>
+            <Data name="To1Boobs Width" target="To1" local="true">Vtaw Sport FG.osd\To1Boobs Width</Data>
+            <Data name="Jac1Boobs Width" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Boobs Width</Data>
+            <Data name="Jac3Boobs Width" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Boobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FusionGirlBoobs Tiny" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBoobs Tiny</Data>
+            <Data name="Sh1Boobs Tiny" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Boobs Tiny</Data>
+            <Data name="Sh2Boobs Tiny" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Boobs Tiny</Data>
+            <Data name="Le1Boobs Tiny" target="Le1" local="true">Vtaw Sport FG.osd\Le1Boobs Tiny</Data>
+            <Data name="To1Boobs Tiny" target="To1" local="true">Vtaw Sport FG.osd\To1Boobs Tiny</Data>
+            <Data name="Jac1Boobs Tiny" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Boobs Tiny</Data>
+            <Data name="Jac2Boobs Tiny" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Boobs Tiny</Data>
+            <Data name="Jac3Boobs Tiny" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Boobs Tiny</Data>
+            <Data name="Pi1Boobs Tiny" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="FusionGirlNipples Length" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlNipples Length</Data>
+            <Data name="To1Nipples Length" target="To1" local="true">Vtaw Sport FG.osd\To1Nipples Length</Data>
+            <Data name="Jac1Nipples Length" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Nipples Length</Data>
+            <Data name="Jac3Nipples Length" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Nipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="FusionGirlNipples Areola" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlNipples Areola</Data>
+            <Data name="To1Nipples Areola" target="To1" local="true">Vtaw Sport FG.osd\To1Nipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FusionGirlNipples Distance" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlNipples Distance</Data>
+            <Data name="To1Nipples Distance" target="To1" local="true">Vtaw Sport FG.osd\To1Nipples Distance</Data>
+            <Data name="Jac1Nipples Distance" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Nipples Distance</Data>
+            <Data name="Jac3Nipples Distance" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Nipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FusionGirlNipples Down" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlNipples Down</Data>
+            <Data name="To1Nipples Down" target="To1" local="true">Vtaw Sport FG.osd\To1Nipples Down</Data>
+            <Data name="Jac1Nipples Down" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Nipples Down</Data>
+            <Data name="Jac3Nipples Down" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Nipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="FusionGirlNipples Gone" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlNipples Gone</Data>
+            <Data name="Sh1Nipples Gone" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Nipples Gone</Data>
+            <Data name="Sh2Nipples Gone" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Nipples Gone</Data>
+            <Data name="To1Nipples Gone" target="To1" local="true">Vtaw Sport FG.osd\To1Nipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="FusionGirlNipples Shape" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlNipples Shape</Data>
+            <Data name="To1Nipples Shape" target="To1" local="true">Vtaw Sport FG.osd\To1Nipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="FusionGirlNipples Size" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlNipples Size</Data>
+            <Data name="To1Nipples Size" target="To1" local="true">Vtaw Sport FG.osd\To1Nipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FusionGirlNipples Perkiness" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlNipples Perkiness</Data>
+            <Data name="To1Nipples Perkiness" target="To1" local="true">Vtaw Sport FG.osd\To1Nipples Perkiness</Data>
+            <Data name="Jac1Nipples Perkiness" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Nipples Perkiness</Data>
+            <Data name="Jac3Nipples Perkiness" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Nipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FusionGirlNipples Puffy" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlNipples Puffy</Data>
+            <Data name="To1Nipples Puffy" target="To1" local="true">Vtaw Sport FG.osd\To1Nipples Puffy</Data>
+            <Data name="Jac3Nipples Puffy" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Nipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FusionGirlNipples Up" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlNipples Up</Data>
+            <Data name="To1Nipples Up" target="To1" local="true">Vtaw Sport FG.osd\To1Nipples Up</Data>
+            <Data name="Jac1Nipples Up" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Nipples Up</Data>
+            <Data name="Jac3Nipples Up" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Nipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="FusionGirlNipples Tip" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlNipples Tip</Data>
+            <Data name="To1Nipples Tip" target="To1" local="true">Vtaw Sport FG.osd\To1Nipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FusionGirlChest Depth" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlChest Depth</Data>
+            <Data name="To1Chest Depth" target="To1" local="true">Vtaw Sport FG.osd\To1Chest Depth</Data>
+            <Data name="Jac1Chest Depth" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Chest Depth</Data>
+            <Data name="Jac2Chest Depth" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Chest Depth</Data>
+            <Data name="Jac3Chest Depth" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Chest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FusionGirlChest Width" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlChest Width</Data>
+            <Data name="Le1Chest Width" target="Le1" local="true">Vtaw Sport FG.osd\Le1Chest Width</Data>
+            <Data name="To1Chest Width" target="To1" local="true">Vtaw Sport FG.osd\To1Chest Width</Data>
+            <Data name="Jac1Chest Width" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Chest Width</Data>
+            <Data name="Jac2Chest Width" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Chest Width</Data>
+            <Data name="Jac3Chest Width" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FusionGirlWaist Chubby" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlWaist Chubby</Data>
+            <Data name="Le1Waist Chubby" target="Le1" local="true">Vtaw Sport FG.osd\Le1Waist Chubby</Data>
+            <Data name="To1Waist Chubby" target="To1" local="true">Vtaw Sport FG.osd\To1Waist Chubby</Data>
+            <Data name="Jac1Waist Chubby" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Waist Chubby</Data>
+            <Data name="Jac2Waist Chubby" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Waist Chubby</Data>
+            <Data name="Jac3Waist Chubby" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Waist Chubby</Data>
+            <Data name="Pi1Waist Chubby" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FusionGirlWaist Size" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlWaist Size</Data>
+            <Data name="Le1Waist Size" target="Le1" local="true">Vtaw Sport FG.osd\Le1Waist Size</Data>
+            <Data name="To1Waist Size" target="To1" local="true">Vtaw Sport FG.osd\To1Waist Size</Data>
+            <Data name="Jac1Waist Size" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Waist Size</Data>
+            <Data name="Jac2Waist Size" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Waist Size</Data>
+            <Data name="Jac3Waist Size" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Waist Size</Data>
+            <Data name="Pi1Waist Size" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FusionGirlWaist Height" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlWaist Height</Data>
+            <Data name="Le1Waist Height" target="Le1" local="true">Vtaw Sport FG.osd\Le1Waist Height</Data>
+            <Data name="To1Waist Height" target="To1" local="true">Vtaw Sport FG.osd\To1Waist Height</Data>
+            <Data name="Jac1Waist Height" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Waist Height</Data>
+            <Data name="Jac2Waist Height" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Waist Height</Data>
+            <Data name="Jac3Waist Height" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Waist Height</Data>
+            <Data name="Pi1Waist Height" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FusionGirlWaist Line" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlWaist Line</Data>
+            <Data name="Le1Waist Line" target="Le1" local="true">Vtaw Sport FG.osd\Le1Waist Line</Data>
+            <Data name="To1Waist Line" target="To1" local="true">Vtaw Sport FG.osd\To1Waist Line</Data>
+            <Data name="Jac2Waist Line" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Waist Line</Data>
+            <Data name="Jac3Waist Line" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FusionGirlBack Size" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBack Size</Data>
+            <Data name="Le1Back Size" target="Le1" local="true">Vtaw Sport FG.osd\Le1Back Size</Data>
+            <Data name="To1Back Size" target="To1" local="true">Vtaw Sport FG.osd\To1Back Size</Data>
+            <Data name="Jac1Back Size" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Back Size</Data>
+            <Data name="Jac2Back Size" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Back Size</Data>
+            <Data name="Jac3Back Size" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FusionGirlBack Arch" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBack Arch</Data>
+            <Data name="Le1Back Arch" target="Le1" local="true">Vtaw Sport FG.osd\Le1Back Arch</Data>
+            <Data name="To1Back Arch" target="To1" local="true">Vtaw Sport FG.osd\To1Back Arch</Data>
+            <Data name="Jac2Back Arch" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Back Arch</Data>
+            <Data name="Jac3Back Arch" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FusionGirlHips Bone" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlHips Bone</Data>
+            <Data name="Le1Hips Bone" target="Le1" local="true">Vtaw Sport FG.osd\Le1Hips Bone</Data>
+            <Data name="Jac2Hips Bone" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Hips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FusionGirlHips Size" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlHips Size</Data>
+            <Data name="Le1Hips Size" target="Le1" local="true">Vtaw Sport FG.osd\Le1Hips Size</Data>
+            <Data name="Jac2Hips Size" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Hips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FusionGirlHips Upper Width" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlHips Upper Width</Data>
+            <Data name="Le1Hips Upper Width" target="Le1" local="true">Vtaw Sport FG.osd\Le1Hips Upper Width</Data>
+            <Data name="To1Hips Upper Width" target="To1" local="true">Vtaw Sport FG.osd\To1Hips Upper Width</Data>
+            <Data name="Jac2Hips Upper Width" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Hips Upper Width</Data>
+            <Data name="Jac3Hips Upper Width" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FusionGirlBum Size" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBum Size</Data>
+            <Data name="Le1Bum Size" target="Le1" local="true">Vtaw Sport FG.osd\Le1Bum Size</Data>
+            <Data name="Jac2Bum Size" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Bum Size</Data>
+            <Data name="Jac3Bum Size" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FusionGirlBum Crack" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBum Crack</Data>
+            <Data name="Le1Bum Crack" target="Le1" local="true">Vtaw Sport FG.osd\Le1Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 1" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBum Shape 1</Data>
+            <Data name="Le1Bum Shape 1" target="Le1" local="true">Vtaw Sport FG.osd\Le1Bum Shape 1</Data>
+            <Data name="Jac2Bum Shape 1" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 2" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBum Shape 2</Data>
+            <Data name="Le1Bum Shape 2" target="Le1" local="true">Vtaw Sport FG.osd\Le1Bum Shape 2</Data>
+            <Data name="To1Bum Shape 2" target="To1" local="true">Vtaw Sport FG.osd\To1Bum Shape 2</Data>
+            <Data name="Jac2Bum Shape 2" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Bum Shape 2</Data>
+            <Data name="Jac3Bum Shape 2" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FusionGirlBum Small" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBum Small</Data>
+            <Data name="Le1Bum Small" target="Le1" local="true">Vtaw Sport FG.osd\Le1Bum Small</Data>
+            <Data name="Jac2Bum Small" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Bum Small</Data>
+            <Data name="Jac3Bum Small" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Bum Small</Data>
+            <Data name="Pi1Bum Small" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FusionGirlBum Chubby" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBum Chubby</Data>
+            <Data name="Le1Bum Chubby" target="Le1" local="true">Vtaw Sport FG.osd\Le1Bum Chubby</Data>
+            <Data name="To1Bum Chubby" target="To1" local="true">Vtaw Sport FG.osd\To1Bum Chubby</Data>
+            <Data name="Jac2Bum Chubby" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Bum Chubby</Data>
+            <Data name="Jac3Bum Chubby" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FusionGirlBum Round" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBum Round</Data>
+            <Data name="Le1Bum Round" target="Le1" local="true">Vtaw Sport FG.osd\Le1Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FusionGirlBum Apple" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBum Apple</Data>
+            <Data name="Sh2Bum Apple" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Bum Apple</Data>
+            <Data name="Le1Bum Apple" target="Le1" local="true">Vtaw Sport FG.osd\Le1Bum Apple</Data>
+            <Data name="To1Bum Apple" target="To1" local="true">Vtaw Sport FG.osd\To1Bum Apple</Data>
+            <Data name="Jac2Bum Apple" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Bum Apple</Data>
+            <Data name="Jac3Bum Apple" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Bum Apple</Data>
+            <Data name="Pi1Bum Apple" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Bum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FusionGirlCalf Size" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlCalf Size</Data>
+            <Data name="Le1Calf Size" target="Le1" local="true">Vtaw Sport FG.osd\Le1Calf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FusionGirlCalf Small" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlCalf Small</Data>
+            <Data name="Le1Calf Small" target="Le1" local="true">Vtaw Sport FG.osd\Le1Calf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FusionGirlLegs Chubby" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlLegs Chubby</Data>
+            <Data name="Le1Legs Chubby" target="Le1" local="true">Vtaw Sport FG.osd\Le1Legs Chubby</Data>
+            <Data name="To1Legs Chubby" target="To1" local="true">Vtaw Sport FG.osd\To1Legs Chubby</Data>
+            <Data name="Jac2Legs Chubby" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Legs Chubby</Data>
+            <Data name="Jac3Legs Chubby" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FusionGirlLegs Shape" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlLegs Shape</Data>
+            <Data name="Le1Legs Shape" target="Le1" local="true">Vtaw Sport FG.osd\Le1Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FusionGirlLegs Thin" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlLegs Thin</Data>
+            <Data name="Le1Legs Thin" target="Le1" local="true">Vtaw Sport FG.osd\Le1Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FusionGirlThighs Slim" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlThighs Slim</Data>
+            <Data name="Le1Thighs Slim" target="Le1" local="true">Vtaw Sport FG.osd\Le1Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FusionGirlThighs Size" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlThighs Size</Data>
+            <Data name="Le1Thighs Size" target="Le1" local="true">Vtaw Sport FG.osd\Le1Thighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FusionGirlAnkle Size" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlAnkle Size</Data>
+            <Data name="Sh2Ankle Size" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Ankle Size</Data>
+            <Data name="Le1Ankle Size" target="Le1" local="true">Vtaw Sport FG.osd\Le1Ankle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FusionGirlArms Chubby" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlArms Chubby</Data>
+            <Data name="To1Arms Chubby" target="To1" local="true">Vtaw Sport FG.osd\To1Arms Chubby</Data>
+            <Data name="Jac1Arms Chubby" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Arms Chubby</Data>
+            <Data name="Jac3Arms Chubby" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FusionGirlShoulder Smooth" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlShoulder Smooth</Data>
+            <Data name="To1Shoulder Smooth" target="To1" local="true">Vtaw Sport FG.osd\To1Shoulder Smooth</Data>
+            <Data name="Jac1Shoulder Smooth" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Shoulder Smooth</Data>
+            <Data name="Jac3Shoulder Smooth" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FusionGirlShoulder Tweak" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlShoulder Tweak</Data>
+            <Data name="To1Shoulder Tweak" target="To1" local="true">Vtaw Sport FG.osd\To1Shoulder Tweak</Data>
+            <Data name="Jac1Shoulder Tweak" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Shoulder Tweak</Data>
+            <Data name="Jac3Shoulder Tweak" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Shoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FusionGirlArms Size" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlArms Size</Data>
+            <Data name="To1Arms Size" target="To1" local="true">Vtaw Sport FG.osd\To1Arms Size</Data>
+            <Data name="Jac1Arms Size" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Arms Size</Data>
+            <Data name="Jac3Arms Size" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FusionGirlArmpit Ajustment" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlArmpit Ajustment</Data>
+            <Data name="To1Armpit Ajustment" target="To1" local="true">Vtaw Sport FG.osd\To1Armpit Ajustment</Data>
+            <Data name="Jac1Armpit Ajustment" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Armpit Ajustment</Data>
+            <Data name="Jac3Armpit Ajustment" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FusionGirlForearms Size" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlForearms Size</Data>
+            <Data name="Jac1Forearms Size" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Forearms Size</Data>
+            <Data name="Jac3Forearms Size" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Forearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FusionGirlTorso Size" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlTorso Size</Data>
+            <Data name="Le1Torso Size" target="Le1" local="true">Vtaw Sport FG.osd\Le1Torso Size</Data>
+            <Data name="To1Torso Size" target="To1" local="true">Vtaw Sport FG.osd\To1Torso Size</Data>
+            <Data name="Jac1Torso Size" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Torso Size</Data>
+            <Data name="Jac2Torso Size" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Torso Size</Data>
+            <Data name="Jac3Torso Size" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Torso Size</Data>
+            <Data name="Pi1Torso Size" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FusionGirlSturnum Depth" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlSturnum Depth</Data>
+            <Data name="Sh1Sturnum Depth" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Sturnum Depth</Data>
+            <Data name="Sh2Sturnum Depth" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Sturnum Depth</Data>
+            <Data name="Le1Sturnum Depth" target="Le1" local="true">Vtaw Sport FG.osd\Le1Sturnum Depth</Data>
+            <Data name="To1Sturnum Depth" target="To1" local="true">Vtaw Sport FG.osd\To1Sturnum Depth</Data>
+            <Data name="Jac1Sturnum Depth" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Sturnum Depth</Data>
+            <Data name="Jac2Sturnum Depth" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Sturnum Depth</Data>
+            <Data name="Jac3Sturnum Depth" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Sturnum Depth</Data>
+            <Data name="Pi1Sturnum Depth" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FusionGirlSturnum Height" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlSturnum Height</Data>
+            <Data name="Sh1Sturnum Height" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Sturnum Height</Data>
+            <Data name="Sh2Sturnum Height" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Sturnum Height</Data>
+            <Data name="Le1Sturnum Height" target="Le1" local="true">Vtaw Sport FG.osd\Le1Sturnum Height</Data>
+            <Data name="To1Sturnum Height" target="To1" local="true">Vtaw Sport FG.osd\To1Sturnum Height</Data>
+            <Data name="Jac1Sturnum Height" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Sturnum Height</Data>
+            <Data name="Jac2Sturnum Height" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Sturnum Height</Data>
+            <Data name="Jac3Sturnum Height" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Sturnum Height</Data>
+            <Data name="Pi1Sturnum Height" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FusionGirlGroin Position" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlGroin Position</Data>
+            <Data name="Sh1Groin Position" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Groin Position</Data>
+            <Data name="Sh2Groin Position" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Groin Position</Data>
+            <Data name="Le1Groin Position" target="Le1" local="true">Vtaw Sport FG.osd\Le1Groin Position</Data>
+            <Data name="To1Groin Position" target="To1" local="true">Vtaw Sport FG.osd\To1Groin Position</Data>
+            <Data name="Jac1Groin Position" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Groin Position</Data>
+            <Data name="Jac2Groin Position" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Groin Position</Data>
+            <Data name="Jac3Groin Position" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Groin Position</Data>
+            <Data name="Pi1Groin Position" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FusionGirlGroin Back" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlGroin Back</Data>
+            <Data name="Sh1Groin Back" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Groin Back</Data>
+            <Data name="Sh2Groin Back" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Groin Back</Data>
+            <Data name="Le1Groin Back" target="Le1" local="true">Vtaw Sport FG.osd\Le1Groin Back</Data>
+            <Data name="To1Groin Back" target="To1" local="true">Vtaw Sport FG.osd\To1Groin Back</Data>
+            <Data name="Jac1Groin Back" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Groin Back</Data>
+            <Data name="Jac2Groin Back" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Groin Back</Data>
+            <Data name="Jac3Groin Back" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Groin Back</Data>
+            <Data name="Pi1Groin Back" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Groin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Flat" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlLabia Minora Flat</Data>
+            <Data name="Le1Labia Minora Flat" target="Le1" local="true">Vtaw Sport FG.osd\Le1Labia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Longer" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlLabia Minora Longer</Data>
+            <Data name="Le1Labia Minora Longer" target="Le1" local="true">Vtaw Sport FG.osd\Le1Labia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="FusionGirlClitoras Size" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlClitoras Size</Data>
+            <Data name="Le1Clitoras Size" target="Le1" local="true">Vtaw Sport FG.osd\Le1Clitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="FusionGirlClitoras Long" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Long" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlLabia Majora Long</Data>
+            <Data name="Le1Labia Majora Long" target="Le1" local="true">Vtaw Sport FG.osd\Le1Labia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Wide" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlLabia Majora Wide</Data>
+            <Data name="Le1Labia Majora Wide" target="Le1" local="true">Vtaw Sport FG.osd\Le1Labia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Inner" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlLabia Majora Inner</Data>
+            <Data name="Sh1Labia Majora Inner" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Labia Majora Inner</Data>
+            <Data name="Sh2Labia Majora Inner" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Labia Majora Inner</Data>
+            <Data name="Le1Labia Majora Inner" target="Le1" local="true">Vtaw Sport FG.osd\Le1Labia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FusionGirlAbDefinition" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlAbDefinition</Data>
+            <Data name="Sh1AbDefinition" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1AbDefinition</Data>
+            <Data name="Sh2AbDefinition" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2AbDefinition</Data>
+            <Data name="Le1AbDefinition" target="Le1" local="true">Vtaw Sport FG.osd\Le1AbDefinition</Data>
+            <Data name="To1AbDefinition" target="To1" local="true">Vtaw Sport FG.osd\To1AbDefinition</Data>
+            <Data name="Jac1AbDefinition" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1AbDefinition</Data>
+            <Data name="Jac2AbDefinition" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2AbDefinition</Data>
+            <Data name="Jac3AbDefinition" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3AbDefinition</Data>
+            <Data name="Pi1AbDefinition" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FusionGirlBody Toning" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBody Toning</Data>
+            <Data name="Sh1Body Toning" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Body Toning</Data>
+            <Data name="Sh2Body Toning" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Body Toning</Data>
+            <Data name="Le1Body Toning" target="Le1" local="true">Vtaw Sport FG.osd\Le1Body Toning</Data>
+            <Data name="To1Body Toning" target="To1" local="true">Vtaw Sport FG.osd\To1Body Toning</Data>
+            <Data name="Jac1Body Toning" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Body Toning</Data>
+            <Data name="Jac2Body Toning" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Body Toning</Data>
+            <Data name="Jac3Body Toning" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Body Toning</Data>
+            <Data name="Pi1Body Toning" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FusionGirlTigerSanBB" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlTigerSanBB</Data>
+            <Data name="Sh1TigerSanBB" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1TigerSanBB</Data>
+            <Data name="Sh2TigerSanBB" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2TigerSanBB</Data>
+            <Data name="Le1TigerSanBB" target="Le1" local="true">Vtaw Sport FG.osd\Le1TigerSanBB</Data>
+            <Data name="To1TigerSanBB" target="To1" local="true">Vtaw Sport FG.osd\To1TigerSanBB</Data>
+            <Data name="Jac1TigerSanBB" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1TigerSanBB</Data>
+            <Data name="Jac2TigerSanBB" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2TigerSanBB</Data>
+            <Data name="Jac3TigerSanBB" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3TigerSanBB</Data>
+            <Data name="Pi1TigerSanBB" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FusionGirlXunAbs" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlXunAbs</Data>
+            <Data name="Le1XunAbs" target="Le1" local="true">Vtaw Sport FG.osd\Le1XunAbs</Data>
+            <Data name="To1XunAbs" target="To1" local="true">Vtaw Sport FG.osd\To1XunAbs</Data>
+            <Data name="Jac1XunAbs" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1XunAbs</Data>
+            <Data name="Jac2XunAbs" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2XunAbs</Data>
+            <Data name="Jac3XunAbs" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3XunAbs</Data>
+            <Data name="Pi1XunAbs" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FusionGirlFFB Fitness 2" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlFFB Fitness 2</Data>
+            <Data name="Le1FFB Fitness 2" target="Le1" local="true">Vtaw Sport FG.osd\Le1FFB Fitness 2</Data>
+            <Data name="To1FFB Fitness 2" target="To1" local="true">Vtaw Sport FG.osd\To1FFB Fitness 2</Data>
+            <Data name="Jac1FFB Fitness 2" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1FFB Fitness 2</Data>
+            <Data name="Jac2FFB Fitness 2" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2FFB Fitness 2</Data>
+            <Data name="Jac3FFB Fitness 2" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3FFB Fitness 2</Data>
+            <Data name="Pi1FFB Fitness 2" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FusionGirlAthletic" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlAthletic</Data>
+            <Data name="Sh1Athletic" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1Athletic</Data>
+            <Data name="Sh2Athletic" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2Athletic</Data>
+            <Data name="Le1Athletic" target="Le1" local="true">Vtaw Sport FG.osd\Le1Athletic</Data>
+            <Data name="To1Athletic" target="To1" local="true">Vtaw Sport FG.osd\To1Athletic</Data>
+            <Data name="Jac1Athletic" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Athletic</Data>
+            <Data name="Jac2Athletic" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Athletic</Data>
+            <Data name="Jac3Athletic" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Athletic</Data>
+            <Data name="Pi1Athletic" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FusionGirlSeveNBase Bombshell" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlSeveNBase Bombshell</Data>
+            <Data name="Sh1SeveNBase Bombshell" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1SeveNBase Bombshell</Data>
+            <Data name="Sh2SeveNBase Bombshell" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2SeveNBase Bombshell</Data>
+            <Data name="Le1SeveNBase Bombshell" target="Le1" local="true">Vtaw Sport FG.osd\Le1SeveNBase Bombshell</Data>
+            <Data name="To1SeveNBase Bombshell" target="To1" local="true">Vtaw Sport FG.osd\To1SeveNBase Bombshell</Data>
+            <Data name="Jac1SeveNBase Bombshell" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1SeveNBase Bombshell</Data>
+            <Data name="Jac2SeveNBase Bombshell" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2SeveNBase Bombshell</Data>
+            <Data name="Jac3SeveNBase Bombshell" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3SeveNBase Bombshell</Data>
+            <Data name="Pi1SeveNBase Bombshell" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FusionGirlKnee Height" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlKnee Height</Data>
+            <Data name="Le1Knee Height" target="Le1" local="true">Vtaw Sport FG.osd\Le1Knee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FusionGirlShoulder Width" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlShoulder Width</Data>
+            <Data name="Le1Shoulder Width" target="Le1" local="true">Vtaw Sport FG.osd\Le1Shoulder Width</Data>
+            <Data name="To1Shoulder Width" target="To1" local="true">Vtaw Sport FG.osd\To1Shoulder Width</Data>
+            <Data name="Jac1Shoulder Width" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Shoulder Width</Data>
+            <Data name="Jac2Shoulder Width" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Shoulder Width</Data>
+            <Data name="Jac3Shoulder Width" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Shoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FusionGirlHighHeels" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlHighHeels</Data>
+            <Data name="Sh1HighHeels" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1HighHeels</Data>
+            <Data name="Sh2HighHeels" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2HighHeels</Data>
+            <Data name="Le1HighHeels" target="Le1" local="true">Vtaw Sport FG.osd\Le1HighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FusionGirlBodyFat" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBodyFat</Data>
+            <Data name="Sh1BodyFat" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1BodyFat</Data>
+            <Data name="Sh2BodyFat" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2BodyFat</Data>
+            <Data name="Le1BodyFat" target="Le1" local="true">Vtaw Sport FG.osd\Le1BodyFat</Data>
+            <Data name="To1BodyFat" target="To1" local="true">Vtaw Sport FG.osd\To1BodyFat</Data>
+            <Data name="Jac1BodyFat" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1BodyFat</Data>
+            <Data name="Jac2BodyFat" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2BodyFat</Data>
+            <Data name="Jac3BodyFat" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3BodyFat</Data>
+            <Data name="Pi1BodyFat" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FusionGirlLegThin" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlLegThin</Data>
+            <Data name="Sh1LegThin" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1LegThin</Data>
+            <Data name="Sh2LegThin" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2LegThin</Data>
+            <Data name="Le1LegThin" target="Le1" local="true">Vtaw Sport FG.osd\Le1LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FusionGirlHipsNarrow" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlHipsNarrow</Data>
+            <Data name="Sh1HipsNarrow" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1HipsNarrow</Data>
+            <Data name="Sh2HipsNarrow" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2HipsNarrow</Data>
+            <Data name="Le1HipsNarrow" target="Le1" local="true">Vtaw Sport FG.osd\Le1HipsNarrow</Data>
+            <Data name="Jac2HipsNarrow" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FusionGirlButtGravity" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlButtGravity</Data>
+            <Data name="Sh1ButtGravity" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1ButtGravity</Data>
+            <Data name="Sh2ButtGravity" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2ButtGravity</Data>
+            <Data name="Le1ButtGravity" target="Le1" local="true">Vtaw Sport FG.osd\Le1ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FusionGirlButtThin" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlButtThin</Data>
+            <Data name="Sh1ButtThin" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1ButtThin</Data>
+            <Data name="Sh2ButtThin" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2ButtThin</Data>
+            <Data name="Le1ButtThin" target="Le1" local="true">Vtaw Sport FG.osd\Le1ButtThin</Data>
+            <Data name="To1ButtThin" target="To1" local="true">Vtaw Sport FG.osd\To1ButtThin</Data>
+            <Data name="Jac3ButtThin" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FusionGirlHipsForward" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlHipsForward</Data>
+            <Data name="Sh1HipsForward" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1HipsForward</Data>
+            <Data name="Sh2HipsForward" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2HipsForward</Data>
+            <Data name="Le1HipsForward" target="Le1" local="true">Vtaw Sport FG.osd\Le1HipsForward</Data>
+            <Data name="Jac2HipsForward" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2HipsForward</Data>
+            <Data name="Pi1HipsForward" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FusionGirlHipRotateForward" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlHipRotateForward</Data>
+            <Data name="Sh1HipRotateForward" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1HipRotateForward</Data>
+            <Data name="Sh2HipRotateForward" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2HipRotateForward</Data>
+            <Data name="Le1HipRotateForward" target="Le1" local="true">Vtaw Sport FG.osd\Le1HipRotateForward</Data>
+            <Data name="To1HipRotateForward" target="To1" local="true">Vtaw Sport FG.osd\To1HipRotateForward</Data>
+            <Data name="Jac1HipRotateForward" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1HipRotateForward</Data>
+            <Data name="Jac2HipRotateForward" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2HipRotateForward</Data>
+            <Data name="Jac3HipRotateForward" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3HipRotateForward</Data>
+            <Data name="Pi1HipRotateForward" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitin" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBreastArmpitin</Data>
+            <Data name="Sh1BreastArmpitin" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1BreastArmpitin</Data>
+            <Data name="Sh2BreastArmpitin" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2BreastArmpitin</Data>
+            <Data name="Le1BreastArmpitin" target="Le1" local="true">Vtaw Sport FG.osd\Le1BreastArmpitin</Data>
+            <Data name="To1BreastArmpitin" target="To1" local="true">Vtaw Sport FG.osd\To1BreastArmpitin</Data>
+            <Data name="Jac1BreastArmpitin" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1BreastArmpitin</Data>
+            <Data name="Jac3BreastArmpitin" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitWide" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBreastArmpitWide</Data>
+            <Data name="Sh1BreastArmpitWide" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1BreastArmpitWide</Data>
+            <Data name="Sh2BreastArmpitWide" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2BreastArmpitWide</Data>
+            <Data name="Le1BreastArmpitWide" target="Le1" local="true">Vtaw Sport FG.osd\Le1BreastArmpitWide</Data>
+            <Data name="To1BreastArmpitWide" target="To1" local="true">Vtaw Sport FG.osd\To1BreastArmpitWide</Data>
+            <Data name="Jac1BreastArmpitWide" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1BreastArmpitWide</Data>
+            <Data name="Jac3BreastArmpitWide" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FusionGirlBreastCurve" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBreastCurve</Data>
+            <Data name="Sh1BreastCurve" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1BreastCurve</Data>
+            <Data name="Sh2BreastCurve" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2BreastCurve</Data>
+            <Data name="Le1BreastCurve" target="Le1" local="true">Vtaw Sport FG.osd\Le1BreastCurve</Data>
+            <Data name="To1BreastCurve" target="To1" local="true">Vtaw Sport FG.osd\To1BreastCurve</Data>
+            <Data name="Jac1BreastCurve" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1BreastCurve</Data>
+            <Data name="Jac3BreastCurve" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FusionGirlBreastHeight2" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBreastHeight2</Data>
+            <Data name="Sh1BreastHeight2" target="Sh1" local="true">Vtaw Sport FG.osd\Sh1BreastHeight2</Data>
+            <Data name="Sh2BreastHeight2" target="Sh2" local="true">Vtaw Sport FG.osd\Sh2BreastHeight2</Data>
+            <Data name="Le1BreastHeight2" target="Le1" local="true">Vtaw Sport FG.osd\Le1BreastHeight2</Data>
+            <Data name="To1BreastHeight2" target="To1" local="true">Vtaw Sport FG.osd\To1BreastHeight2</Data>
+            <Data name="Jac1BreastHeight2" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1BreastHeight2</Data>
+            <Data name="Jac2BreastHeight2" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2BreastHeight2</Data>
+            <Data name="Jac3BreastHeight2" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FusionGirlBreastConcave" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlBreastConcave</Data>
+            <Data name="To1BreastConcave" target="To1" local="true">Vtaw Sport FG.osd\To1BreastConcave</Data>
+            <Data name="Jac1BreastConcave" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1BreastConcave</Data>
+            <Data name="Jac3BreastConcave" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3BreastConcave</Data>
+        </Slider>
+        <Slider name="Zap-Feet" invert="false" default="100" hidden="true" zap="true">
+            <Data name="FusionGirlZap-Feet" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlZap-Feet</Data>
+        </Slider>
+        <Slider name="Jacket" invert="false" default="0" zap="true">
+            <Data name="Jac1Jacket" target="Jac1" local="true">Vtaw Sport FG.osd\Jac1Jacket</Data>
+            <Data name="Jac2Jacket" target="Jac2" local="true">Vtaw Sport FG.osd\Jac2Jacket</Data>
+            <Data name="Jac3Jacket" target="Jac3" local="true">Vtaw Sport FG.osd\Jac3Jacket</Data>
+        </Slider>
+        <Slider name="Navel Piercing" invert="false" default="0" zap="true">
+            <Data name="Pi1Navel Piercing" target="Pi1" local="true">Vtaw Sport FG.osd\Pi1Navel Piercing</Data>
+        </Slider>
+        <Slider name="Glasses" invert="false" default="0" zap="true">
+            <Data name="Gl1Glasses" target="Gl1" local="true">Vtaw Sport FG.osd\Gl1Glasses</Data>
+            <Data name="Gl2Glasses" target="Gl2" local="true">Vtaw Sport FG.osd\Gl2Glasses</Data>
+        </Slider>
+        <Slider name="Zap-Legs" invert="false" default="100" hidden="true" zap="true">
+            <Data name="FusionGirlZap-Legs" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlZap-Legs</Data>
+        </Slider>
+        <Slider name="Zap-Boobs" invert="false" default="0" hidden="true" zap="true">
+            <Data name="FusionGirlZap-Boobs" target="FusionGirl" local="true">Vtaw Sport FG.osd\FusionGirlZap-Boobs</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

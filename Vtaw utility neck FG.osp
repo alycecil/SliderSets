@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw utility neck FG">
+        <DataFolder>Vtaw utility neck FG</DataFolder>
+        <SourceFile>Vtaw utility neck FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\utility1</OutputPath>
+        <OutputFile GenWeights="false">neck</OutputFile>
+        <Shape target="neck">neck</Shape>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="neckBelly Big" target="neck" local="true">Vtaw utility neck FG.osd\neckBelly Big</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="neckBoobs Yuge" target="neck" local="true">Vtaw utility neck FG.osd\neckBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="neckBoobs Big" target="neck" local="true">Vtaw utility neck FG.osd\neckBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="neckBoobs Cleavage" target="neck" local="true">Vtaw utility neck FG.osd\neckBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="neckBoobs Flat" target="neck" local="true">Vtaw utility neck FG.osd\neckBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="neckBoobs Gravity" target="neck" local="true">Vtaw utility neck FG.osd\neckBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="neckBoobs Height" target="neck" local="true">Vtaw utility neck FG.osd\neckBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="neckBoobs Mellons" target="neck" local="true">Vtaw utility neck FG.osd\neckBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="neckBoobs Perky" target="neck" local="true">Vtaw utility neck FG.osd\neckBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="neckBoobs Push Up" target="neck" local="true">Vtaw utility neck FG.osd\neckBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="neckBoobs Small" target="neck" local="true">Vtaw utility neck FG.osd\neckBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="neckBoobs Together" target="neck" local="true">Vtaw utility neck FG.osd\neckBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="neckBoobs Top Slope" target="neck" local="true">Vtaw utility neck FG.osd\neckBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="neckBoobs Width" target="neck" local="true">Vtaw utility neck FG.osd\neckBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="neckBoobs Tiny" target="neck" local="true">Vtaw utility neck FG.osd\neckBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="neckNipples Distance" target="neck" local="true">Vtaw utility neck FG.osd\neckNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="neckNipples Down" target="neck" local="true">Vtaw utility neck FG.osd\neckNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="neckNipples Perkiness" target="neck" local="true">Vtaw utility neck FG.osd\neckNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="neckNipples Up" target="neck" local="true">Vtaw utility neck FG.osd\neckNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="neckChest Depth" target="neck" local="true">Vtaw utility neck FG.osd\neckChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="neckChest Width" target="neck" local="true">Vtaw utility neck FG.osd\neckChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="neckWaist Chubby" target="neck" local="true">Vtaw utility neck FG.osd\neckWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="neckWaist Size" target="neck" local="true">Vtaw utility neck FG.osd\neckWaist Size</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="neckBack Size" target="neck" local="true">Vtaw utility neck FG.osd\neckBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="neckBack Arch" target="neck" local="true">Vtaw utility neck FG.osd\neckBack Arch</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="neckLegs Chubby" target="neck" local="true">Vtaw utility neck FG.osd\neckLegs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="neckArms Chubby" target="neck" local="true">Vtaw utility neck FG.osd\neckArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="neckShoulder Smooth" target="neck" local="true">Vtaw utility neck FG.osd\neckShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="neckShoulder Tweak" target="neck" local="true">Vtaw utility neck FG.osd\neckShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="neckArms Size" target="neck" local="true">Vtaw utility neck FG.osd\neckArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="neckArmpit Ajustment" target="neck" local="true">Vtaw utility neck FG.osd\neckArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="neckTorso Size" target="neck" local="true">Vtaw utility neck FG.osd\neckTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="neckSturnum Depth" target="neck" local="true">Vtaw utility neck FG.osd\neckSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="neckSturnum Height" target="neck" local="true">Vtaw utility neck FG.osd\neckSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="neckGroin Position" target="neck" local="true">Vtaw utility neck FG.osd\neckGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="neckGroin Back" target="neck" local="true">Vtaw utility neck FG.osd\neckGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="neckBody Toning" target="neck" local="true">Vtaw utility neck FG.osd\neckBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="neckTigerSanBB" target="neck" local="true">Vtaw utility neck FG.osd\neckTigerSanBB</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="neckFFB Fitness 2" target="neck" local="true">Vtaw utility neck FG.osd\neckFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="neckAthletic" target="neck" local="true">Vtaw utility neck FG.osd\neckAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="neckSeveNBase Bombshell" target="neck" local="true">Vtaw utility neck FG.osd\neckSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="neckShoulder Width" target="neck" local="true">Vtaw utility neck FG.osd\neckShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="neckBodyFat" target="neck" local="true">Vtaw utility neck FG.osd\neckBodyFat</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="neckBreastArmpitin" target="neck" local="true">Vtaw utility neck FG.osd\neckBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="neckBreastArmpitWide" target="neck" local="true">Vtaw utility neck FG.osd\neckBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="neckBreastCurve" target="neck" local="true">Vtaw utility neck FG.osd\neckBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="neckBreastHeight2" target="neck" local="true">Vtaw utility neck FG.osd\neckBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="neckBreastConcave" target="neck" local="true">Vtaw utility neck FG.osd\neckBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

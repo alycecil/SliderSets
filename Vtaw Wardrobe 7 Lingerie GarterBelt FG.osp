@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Lingerie GarterBelt FG">
+        <DataFolder>Vtaw Wardrobe 7 Lingerie GarterBelt FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Lingerie GarterBelt FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\Lingerie</OutputPath>
+        <OutputFile GenWeights="false">GarterBelt</OutputFile>
+        <Shape target="GarterBelt">GarterBelt</Shape>
+        <Shape target="GarterBelt Lace">GarterBelt Lace</Shape>
+        <Shape target="GarterBelt Metal">GarterBelt Metal</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="GarterBelt LaceBelly Pregnant" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBelly Pregnant</Data>
+            <Data name="GarterBeltBelly Pregnant" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBelly Pregnant</Data>
+            <Data name="GarterBelt MetalBelly Pregnant" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="GarterBelt LaceBelly Big" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBelly Big</Data>
+            <Data name="GarterBeltBelly Big" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBelly Big</Data>
+            <Data name="GarterBelt MetalBelly Big" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="GarterBelt LaceBelly Size" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBelly Size</Data>
+            <Data name="GarterBeltBelly Size" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="GarterBelt LaceBelly Tuck" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBelly Tuck</Data>
+            <Data name="GarterBeltBelly Tuck" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBelly Tuck</Data>
+            <Data name="GarterBelt MetalBelly Tuck" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="GarterBelt LaceBoobs Yuge" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBoobs Yuge</Data>
+            <Data name="GarterBeltBoobs Yuge" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBoobs Yuge</Data>
+            <Data name="GarterBelt MetalBoobs Yuge" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="GarterBelt LaceBoobs Big" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBoobs Big</Data>
+            <Data name="GarterBeltBoobs Big" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBoobs Big</Data>
+            <Data name="GarterBelt MetalBoobs Big" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="GarterBelt LaceBoobs Gravity" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBoobs Gravity</Data>
+            <Data name="GarterBeltBoobs Gravity" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBoobs Gravity</Data>
+            <Data name="GarterBelt MetalBoobs Gravity" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="GarterBelt LaceBoobs Mellons" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBoobs Mellons</Data>
+            <Data name="GarterBeltBoobs Mellons" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBoobs Mellons</Data>
+            <Data name="GarterBelt MetalBoobs Mellons" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="GarterBelt LaceBoobs Perky" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBoobs Perky</Data>
+            <Data name="GarterBeltBoobs Perky" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBoobs Perky</Data>
+            <Data name="GarterBelt MetalBoobs Perky" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="GarterBelt LaceBoobs Push Up" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBoobs Push Up</Data>
+            <Data name="GarterBeltBoobs Push Up" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBoobs Push Up</Data>
+            <Data name="GarterBelt MetalBoobs Push Up" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="GarterBelt LaceBoobs Top Slope" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBoobs Top Slope</Data>
+            <Data name="GarterBeltBoobs Top Slope" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBoobs Top Slope</Data>
+            <Data name="GarterBelt MetalBoobs Top Slope" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="GarterBelt LaceBoobs Tiny" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBoobs Tiny</Data>
+            <Data name="GarterBeltBoobs Tiny" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBoobs Tiny</Data>
+            <Data name="GarterBelt MetalBoobs Tiny" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="GarterBelt LaceChest Width" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceChest Width</Data>
+            <Data name="GarterBeltChest Width" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="GarterBelt LaceWaist Chubby" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceWaist Chubby</Data>
+            <Data name="GarterBeltWaist Chubby" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltWaist Chubby</Data>
+            <Data name="GarterBelt MetalWaist Chubby" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="GarterBelt LaceWaist Size" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceWaist Size</Data>
+            <Data name="GarterBeltWaist Size" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="GarterBelt LaceWaist Height" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceWaist Height</Data>
+            <Data name="GarterBeltWaist Height" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="GarterBelt LaceWaist Line" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceWaist Line</Data>
+            <Data name="GarterBeltWaist Line" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="GarterBelt LaceBack Size" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBack Size</Data>
+            <Data name="GarterBeltBack Size" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBack Size</Data>
+            <Data name="GarterBelt MetalBack Size" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="GarterBelt LaceBack Arch" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBack Arch</Data>
+            <Data name="GarterBeltBack Arch" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="GarterBelt LaceHips Bone" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceHips Bone</Data>
+            <Data name="GarterBeltHips Bone" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltHips Bone</Data>
+            <Data name="GarterBelt MetalHips Bone" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="GarterBelt LaceHips Size" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceHips Size</Data>
+            <Data name="GarterBeltHips Size" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltHips Size</Data>
+            <Data name="GarterBelt MetalHips Size" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="GarterBelt LaceHips Upper Width" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceHips Upper Width</Data>
+            <Data name="GarterBeltHips Upper Width" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="GarterBelt LaceBum Size" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBum Size</Data>
+            <Data name="GarterBeltBum Size" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBum Size</Data>
+            <Data name="GarterBelt MetalBum Size" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="GarterBelt LaceBum Crack" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBum Crack</Data>
+            <Data name="GarterBeltBum Crack" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBum Crack</Data>
+            <Data name="GarterBelt MetalBum Crack" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="GarterBelt LaceBum Shape 1" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBum Shape 1</Data>
+            <Data name="GarterBeltBum Shape 1" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBum Shape 1</Data>
+            <Data name="GarterBelt MetalBum Shape 1" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="GarterBelt LaceBum Shape 2" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBum Shape 2</Data>
+            <Data name="GarterBeltBum Shape 2" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBum Shape 2</Data>
+            <Data name="GarterBelt MetalBum Shape 2" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="GarterBelt LaceBum Small" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBum Small</Data>
+            <Data name="GarterBeltBum Small" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBum Small</Data>
+            <Data name="GarterBelt MetalBum Small" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="GarterBelt LaceBum Chubby" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBum Chubby</Data>
+            <Data name="GarterBeltBum Chubby" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBum Chubby</Data>
+            <Data name="GarterBelt MetalBum Chubby" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="GarterBelt LaceBum Round" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBum Round</Data>
+            <Data name="GarterBeltBum Round" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBum Round</Data>
+            <Data name="GarterBelt MetalBum Round" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="GarterBelt LaceBum Apple" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBum Apple</Data>
+            <Data name="GarterBeltBum Apple" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBum Apple</Data>
+            <Data name="GarterBelt MetalBum Apple" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="GarterBelt LaceLegs Chubby" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceLegs Chubby</Data>
+            <Data name="GarterBeltLegs Chubby" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltLegs Chubby</Data>
+            <Data name="GarterBelt MetalLegs Chubby" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="GarterBelt LaceLegs Shape" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceLegs Shape</Data>
+            <Data name="GarterBeltLegs Shape" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltLegs Shape</Data>
+            <Data name="GarterBelt MetalLegs Shape" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="GarterBelt LaceLegs Thin" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceLegs Thin</Data>
+            <Data name="GarterBeltLegs Thin" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltLegs Thin</Data>
+            <Data name="GarterBelt MetalLegs Thin" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="GarterBelt LaceThighs Slim" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceThighs Slim</Data>
+            <Data name="GarterBeltThighs Slim" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltThighs Slim</Data>
+            <Data name="GarterBelt MetalThighs Slim" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="GarterBelt LaceThighs Size" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceThighs Size</Data>
+            <Data name="GarterBeltThighs Size" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltThighs Size</Data>
+            <Data name="GarterBelt MetalThighs Size" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="GarterBelt LaceTorso Size" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceTorso Size</Data>
+            <Data name="GarterBeltTorso Size" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltTorso Size</Data>
+            <Data name="GarterBelt MetalTorso Size" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="GarterBelt LaceSturnum Depth" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceSturnum Depth</Data>
+            <Data name="GarterBeltSturnum Depth" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltSturnum Depth</Data>
+            <Data name="GarterBelt MetalSturnum Depth" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="GarterBelt LaceSturnum Height" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceSturnum Height</Data>
+            <Data name="GarterBeltSturnum Height" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltSturnum Height</Data>
+            <Data name="GarterBelt MetalSturnum Height" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="GarterBelt LaceGroin Position" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceGroin Position</Data>
+            <Data name="GarterBeltGroin Position" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltGroin Position</Data>
+            <Data name="GarterBelt MetalGroin Position" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="GarterBelt LaceGroin Back" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceGroin Back</Data>
+            <Data name="GarterBeltGroin Back" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltGroin Back</Data>
+            <Data name="GarterBelt MetalGroin Back" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="GarterBelt LaceAbDefinition" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceAbDefinition</Data>
+            <Data name="GarterBeltAbDefinition" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="GarterBelt LaceBody Toning" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBody Toning</Data>
+            <Data name="GarterBeltBody Toning" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBody Toning</Data>
+            <Data name="GarterBelt MetalBody Toning" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="GarterBelt LaceTigerSanBB" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceTigerSanBB</Data>
+            <Data name="GarterBeltTigerSanBB" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltTigerSanBB</Data>
+            <Data name="GarterBelt MetalTigerSanBB" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="GarterBelt LaceXunAbs" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceXunAbs</Data>
+            <Data name="GarterBeltXunAbs" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="GarterBelt LaceFFB Fitness 2" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceFFB Fitness 2</Data>
+            <Data name="GarterBeltFFB Fitness 2" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="GarterBelt LaceAthletic" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceAthletic</Data>
+            <Data name="GarterBeltAthletic" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltAthletic</Data>
+            <Data name="GarterBelt MetalAthletic" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="GarterBelt LaceSeveNBase Bombshell" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceSeveNBase Bombshell</Data>
+            <Data name="GarterBeltSeveNBase Bombshell" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltSeveNBase Bombshell</Data>
+            <Data name="GarterBelt MetalSeveNBase Bombshell" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="GarterBelt MetalKnee Height" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="GarterBeltShoulder Width" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="GarterBelt LaceBodyFat" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceBodyFat</Data>
+            <Data name="GarterBeltBodyFat" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltBodyFat</Data>
+            <Data name="GarterBelt MetalBodyFat" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="GarterBelt LaceLegThin" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceLegThin</Data>
+            <Data name="GarterBeltLegThin" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltLegThin</Data>
+            <Data name="GarterBelt MetalLegThin" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="GarterBelt LaceHipsNarrow" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceHipsNarrow</Data>
+            <Data name="GarterBeltHipsNarrow" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltHipsNarrow</Data>
+            <Data name="GarterBelt MetalHipsNarrow" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="GarterBelt LaceButtGravity" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceButtGravity</Data>
+            <Data name="GarterBeltButtGravity" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltButtGravity</Data>
+            <Data name="GarterBelt MetalButtGravity" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="GarterBelt LaceButtThin" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceButtThin</Data>
+            <Data name="GarterBeltButtThin" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltButtThin</Data>
+            <Data name="GarterBelt MetalButtThin" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="GarterBelt LaceHipsForward" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceHipsForward</Data>
+            <Data name="GarterBeltHipsForward" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltHipsForward</Data>
+            <Data name="GarterBelt MetalHipsForward" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="GarterBelt LaceHipRotateForward" target="GarterBelt Lace" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt LaceHipRotateForward</Data>
+            <Data name="GarterBeltHipRotateForward" target="GarterBelt" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBeltHipRotateForward</Data>
+            <Data name="GarterBelt MetalHipRotateForward" target="GarterBelt Metal" local="true">Vtaw Wardrobe 7 Lingerie GarterBelt FG.osd\GarterBelt MetalHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

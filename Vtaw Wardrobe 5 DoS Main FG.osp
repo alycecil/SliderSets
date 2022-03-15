@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 DoS Main FG">
+        <DataFolder>Vtaw Wardrobe 5 DoS Main FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 DoS Main FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\DoS</OutputPath>
+        <OutputFile GenWeights="false">Main</OutputFile>
+        <Shape target="belts">belts</Shape>
+        <Shape target="main">main</Shape>
+        <Shape target="zipper">zipper</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="zipperBelly Pregnant" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBelly Pregnant</Data>
+            <Data name="beltsBelly Pregnant" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBelly Pregnant</Data>
+            <Data name="mainBelly Pregnant" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="zipperBelly Big" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBelly Big</Data>
+            <Data name="beltsBelly Big" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBelly Big</Data>
+            <Data name="mainBelly Big" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="zipperBelly Size" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBelly Size</Data>
+            <Data name="beltsBelly Size" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBelly Size</Data>
+            <Data name="mainBelly Size" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="zipperBelly Tuck" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBelly Tuck</Data>
+            <Data name="beltsBelly Tuck" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBelly Tuck</Data>
+            <Data name="mainBelly Tuck" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="zipperBoobs Yuge" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBoobs Yuge</Data>
+            <Data name="beltsBoobs Yuge" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBoobs Yuge</Data>
+            <Data name="mainBoobs Yuge" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="zipperBoobs Big" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBoobs Big</Data>
+            <Data name="beltsBoobs Big" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBoobs Big</Data>
+            <Data name="mainBoobs Big" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="beltsBoobs Cleavage" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBoobs Cleavage</Data>
+            <Data name="mainBoobs Cleavage" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="beltsBoobs Flat" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBoobs Flat</Data>
+            <Data name="mainBoobs Flat" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="zipperBoobs Gravity" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBoobs Gravity</Data>
+            <Data name="beltsBoobs Gravity" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBoobs Gravity</Data>
+            <Data name="mainBoobs Gravity" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="beltsBoobs Height" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBoobs Height</Data>
+            <Data name="mainBoobs Height" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="zipperBoobs Mellons" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBoobs Mellons</Data>
+            <Data name="beltsBoobs Mellons" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBoobs Mellons</Data>
+            <Data name="mainBoobs Mellons" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="zipperBoobs Perky" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBoobs Perky</Data>
+            <Data name="beltsBoobs Perky" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBoobs Perky</Data>
+            <Data name="mainBoobs Perky" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="zipperBoobs Push Up" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBoobs Push Up</Data>
+            <Data name="beltsBoobs Push Up" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBoobs Push Up</Data>
+            <Data name="mainBoobs Push Up" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="beltsBoobs Small" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBoobs Small</Data>
+            <Data name="mainBoobs Small" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="beltsBoobs Together" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBoobs Together</Data>
+            <Data name="mainBoobs Together" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="zipperBoobs Top Slope" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBoobs Top Slope</Data>
+            <Data name="beltsBoobs Top Slope" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBoobs Top Slope</Data>
+            <Data name="mainBoobs Top Slope" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="beltsBoobs Width" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBoobs Width</Data>
+            <Data name="mainBoobs Width" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="zipperBoobs Tiny" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBoobs Tiny</Data>
+            <Data name="beltsBoobs Tiny" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBoobs Tiny</Data>
+            <Data name="mainBoobs Tiny" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="beltsNipples Distance" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsNipples Distance</Data>
+            <Data name="mainNipples Distance" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="beltsNipples Down" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsNipples Down</Data>
+            <Data name="mainNipples Down" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="beltsNipples Perkiness" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsNipples Perkiness</Data>
+            <Data name="mainNipples Perkiness" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="mainNipples Puffy" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="beltsNipples Up" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsNipples Up</Data>
+            <Data name="mainNipples Up" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="beltsChest Depth" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsChest Depth</Data>
+            <Data name="mainChest Depth" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="beltsChest Width" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsChest Width</Data>
+            <Data name="mainChest Width" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="zipperWaist Chubby" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperWaist Chubby</Data>
+            <Data name="beltsWaist Chubby" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsWaist Chubby</Data>
+            <Data name="mainWaist Chubby" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="beltsWaist Size" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsWaist Size</Data>
+            <Data name="mainWaist Size" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="zipperWaist Height" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperWaist Height</Data>
+            <Data name="beltsWaist Height" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsWaist Height</Data>
+            <Data name="mainWaist Height" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="beltsWaist Line" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsWaist Line</Data>
+            <Data name="mainWaist Line" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="beltsBack Size" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBack Size</Data>
+            <Data name="mainBack Size" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="beltsBack Arch" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBack Arch</Data>
+            <Data name="mainBack Arch" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="beltsHips Bone" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsHips Bone</Data>
+            <Data name="mainHips Bone" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="beltsHips Size" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsHips Size</Data>
+            <Data name="mainHips Size" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="beltsHips Upper Width" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsHips Upper Width</Data>
+            <Data name="mainHips Upper Width" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="beltsBum Size" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBum Size</Data>
+            <Data name="mainBum Size" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="mainBum Crack" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="beltsBum Shape 1" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBum Shape 1</Data>
+            <Data name="mainBum Shape 1" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="zipperBum Shape 2" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBum Shape 2</Data>
+            <Data name="beltsBum Shape 2" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBum Shape 2</Data>
+            <Data name="mainBum Shape 2" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="zipperBum Small" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBum Small</Data>
+            <Data name="beltsBum Small" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBum Small</Data>
+            <Data name="mainBum Small" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="zipperBum Chubby" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBum Chubby</Data>
+            <Data name="beltsBum Chubby" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBum Chubby</Data>
+            <Data name="mainBum Chubby" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="beltsBum Round" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBum Round</Data>
+            <Data name="mainBum Round" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="beltsBum Apple" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBum Apple</Data>
+            <Data name="mainBum Apple" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="zipperLegs Chubby" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperLegs Chubby</Data>
+            <Data name="beltsLegs Chubby" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsLegs Chubby</Data>
+            <Data name="mainLegs Chubby" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="mainLegs Shape" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="zipperLegs Thin" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperLegs Thin</Data>
+            <Data name="mainLegs Thin" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="zipperThighs Slim" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperThighs Slim</Data>
+            <Data name="beltsThighs Slim" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsThighs Slim</Data>
+            <Data name="mainThighs Slim" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="zipperThighs Size" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperThighs Size</Data>
+            <Data name="beltsThighs Size" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsThighs Size</Data>
+            <Data name="mainThighs Size" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainThighs Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="beltsArms Chubby" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsArms Chubby</Data>
+            <Data name="mainArms Chubby" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="beltsShoulder Smooth" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="beltsShoulder Tweak" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="beltsArms Size" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="beltsArmpit Ajustment" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="zipperTorso Size" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperTorso Size</Data>
+            <Data name="beltsTorso Size" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsTorso Size</Data>
+            <Data name="mainTorso Size" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="zipperSturnum Depth" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperSturnum Depth</Data>
+            <Data name="beltsSturnum Depth" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsSturnum Depth</Data>
+            <Data name="mainSturnum Depth" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="zipperSturnum Height" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperSturnum Height</Data>
+            <Data name="beltsSturnum Height" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsSturnum Height</Data>
+            <Data name="mainSturnum Height" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="zipperGroin Position" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperGroin Position</Data>
+            <Data name="beltsGroin Position" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsGroin Position</Data>
+            <Data name="mainGroin Position" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="zipperGroin Back" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperGroin Back</Data>
+            <Data name="beltsGroin Back" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsGroin Back</Data>
+            <Data name="mainGroin Back" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="zipperAbDefinition" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperAbDefinition</Data>
+            <Data name="beltsAbDefinition" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsAbDefinition</Data>
+            <Data name="mainAbDefinition" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="zipperBody Toning" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBody Toning</Data>
+            <Data name="beltsBody Toning" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBody Toning</Data>
+            <Data name="mainBody Toning" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="zipperTigerSanBB" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperTigerSanBB</Data>
+            <Data name="beltsTigerSanBB" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsTigerSanBB</Data>
+            <Data name="mainTigerSanBB" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="zipperXunAbs" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperXunAbs</Data>
+            <Data name="beltsXunAbs" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsXunAbs</Data>
+            <Data name="mainXunAbs" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="zipperFFB Fitness 2" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperFFB Fitness 2</Data>
+            <Data name="beltsFFB Fitness 2" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsFFB Fitness 2</Data>
+            <Data name="mainFFB Fitness 2" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="zipperAthletic" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperAthletic</Data>
+            <Data name="beltsAthletic" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsAthletic</Data>
+            <Data name="mainAthletic" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="zipperSeveNBase Bombshell" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperSeveNBase Bombshell</Data>
+            <Data name="beltsSeveNBase Bombshell" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsSeveNBase Bombshell</Data>
+            <Data name="mainSeveNBase Bombshell" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="beltsShoulder Width" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsShoulder Width</Data>
+            <Data name="mainShoulder Width" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="zipperBodyFat" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperBodyFat</Data>
+            <Data name="beltsBodyFat" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBodyFat</Data>
+            <Data name="mainBodyFat" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="zipperLegThin" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperLegThin</Data>
+            <Data name="beltsLegThin" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsLegThin</Data>
+            <Data name="mainLegThin" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="beltsHipsNarrow" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsHipsNarrow</Data>
+            <Data name="mainHipsNarrow" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="mainButtGravity" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="beltsButtThin" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsButtThin</Data>
+            <Data name="mainButtThin" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="zipperHipsForward" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperHipsForward</Data>
+            <Data name="beltsHipsForward" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsHipsForward</Data>
+            <Data name="mainHipsForward" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="zipperHipRotateForward" target="zipper" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\zipperHipRotateForward</Data>
+            <Data name="beltsHipRotateForward" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsHipRotateForward</Data>
+            <Data name="mainHipRotateForward" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="beltsBreastArmpitin" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBreastArmpitin</Data>
+            <Data name="mainBreastArmpitin" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="beltsBreastArmpitWide" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBreastArmpitWide</Data>
+            <Data name="mainBreastArmpitWide" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="beltsBreastCurve" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBreastCurve</Data>
+            <Data name="mainBreastCurve" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="beltsBreastHeight2" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBreastHeight2</Data>
+            <Data name="mainBreastHeight2" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="beltsBreastConcave" target="belts" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\beltsBreastConcave</Data>
+            <Data name="mainBreastConcave" target="main" local="true">Vtaw Wardrobe 5 DoS Main FG.osd\mainBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

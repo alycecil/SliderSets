@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG">
+        <DataFolder>Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\BlackcatBoots</OutputPath>
+        <OutputFile GenWeights="false">BlackcatBootsV2NoFur</OutputFile>
+        <Shape target="Boots">Boots</Shape>
+        <Shape target="BootsMetl">BootsMetl</Shape>
+        <Shape target="BootsStraps">BootsStraps</Shape>
+        <Shape target="BootsZip">BootsZip</Shape>
+        <Shape target="FusionNudeHH" DataFolder="VtawWardrobe7">FusionNudeHH</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Pregnant" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Big" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Tuck" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Yuge" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBoobs Yuge</Data>
+            <Data name="BootsZipBoobs Yuge" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipBoobs Yuge</Data>
+            <Data name="BootsMetlBoobs Yuge" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlBoobs Yuge</Data>
+            <Data name="BootsBoobs Yuge" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBoobs Yuge</Data>
+            <Data name="BootsStrapsBoobs Yuge" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Big" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBoobs Big</Data>
+            <Data name="BootsZipBoobs Big" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipBoobs Big</Data>
+            <Data name="BootsMetlBoobs Big" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlBoobs Big</Data>
+            <Data name="BootsBoobs Big" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBoobs Big</Data>
+            <Data name="BootsStrapsBoobs Big" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Cleavage" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Flat" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Gravity" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBoobs Gravity</Data>
+            <Data name="BootsZipBoobs Gravity" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipBoobs Gravity</Data>
+            <Data name="BootsMetlBoobs Gravity" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlBoobs Gravity</Data>
+            <Data name="BootsBoobs Gravity" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBoobs Gravity</Data>
+            <Data name="BootsStrapsBoobs Gravity" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Mellons" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBoobs Mellons</Data>
+            <Data name="BootsZipBoobs Mellons" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipBoobs Mellons</Data>
+            <Data name="BootsMetlBoobs Mellons" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlBoobs Mellons</Data>
+            <Data name="BootsBoobs Mellons" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBoobs Mellons</Data>
+            <Data name="BootsStrapsBoobs Mellons" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Perky" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBoobs Perky</Data>
+            <Data name="BootsZipBoobs Perky" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipBoobs Perky</Data>
+            <Data name="BootsMetlBoobs Perky" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlBoobs Perky</Data>
+            <Data name="BootsBoobs Perky" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBoobs Perky</Data>
+            <Data name="BootsStrapsBoobs Perky" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Push Up" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBoobs Push Up</Data>
+            <Data name="BootsZipBoobs Push Up" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipBoobs Push Up</Data>
+            <Data name="BootsMetlBoobs Push Up" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlBoobs Push Up</Data>
+            <Data name="BootsBoobs Push Up" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBoobs Push Up</Data>
+            <Data name="BootsStrapsBoobs Push Up" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Small" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Together" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Top Slope" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBoobs Top Slope</Data>
+            <Data name="BootsZipBoobs Top Slope" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipBoobs Top Slope</Data>
+            <Data name="BootsMetlBoobs Top Slope" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlBoobs Top Slope</Data>
+            <Data name="BootsBoobs Top Slope" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBoobs Top Slope</Data>
+            <Data name="BootsStrapsBoobs Top Slope" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Tiny" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBoobs Tiny</Data>
+            <Data name="BootsZipBoobs Tiny" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipBoobs Tiny</Data>
+            <Data name="BootsMetlBoobs Tiny" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlBoobs Tiny</Data>
+            <Data name="BootsBoobs Tiny" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBoobs Tiny</Data>
+            <Data name="BootsStrapsBoobs Tiny" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Length" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Areola" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Distance" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Down" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Gone" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHNipples Gone</Data>
+            <Data name="BootsZipNipples Gone" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipNipples Gone</Data>
+            <Data name="BootsMetlNipples Gone" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlNipples Gone</Data>
+            <Data name="BootsNipples Gone" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsNipples Gone</Data>
+            <Data name="BootsStrapsNipples Gone" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Shape" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Perkiness" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Puffy" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Up" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHNipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Tip" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHNipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FusionNudeHHChest Depth" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FusionNudeHHChest Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Line" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FusionNudeHHBack Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FusionNudeHHBack Arch" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FusionNudeHHHips Bone" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FusionNudeHHHips Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FusionNudeHHHips Upper Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FusionNudeHHBum Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FusionNudeHHBum Crack" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FusionNudeHHBum Shape 1" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FusionNudeHHBum Shape 2" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FusionNudeHHBum Small" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHBum Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FusionNudeHHBum Round" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FusionNudeHHBum Apple" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBum Apple</Data>
+            <Data name="BootsBum Apple" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FusionNudeHHCalf Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHCalf Size</Data>
+            <Data name="BootsZipCalf Size" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipCalf Size</Data>
+            <Data name="BootsMetlCalf Size" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlCalf Size</Data>
+            <Data name="BootsCalf Size" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsCalf Size</Data>
+            <Data name="BootsStrapsCalf Size" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FusionNudeHHCalf Small" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHCalf Small</Data>
+            <Data name="BootsZipCalf Small" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipCalf Small</Data>
+            <Data name="BootsMetlCalf Small" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlCalf Small</Data>
+            <Data name="BootsCalf Small" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsCalf Small</Data>
+            <Data name="BootsStrapsCalf Small" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHLegs Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHLegs Chubby</Data>
+            <Data name="BootsZipLegs Chubby" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipLegs Chubby</Data>
+            <Data name="BootsMetlLegs Chubby" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlLegs Chubby</Data>
+            <Data name="BootsLegs Chubby" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsLegs Chubby</Data>
+            <Data name="BootsStrapsLegs Chubby" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FusionNudeHHLegs Shape" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHLegs Shape</Data>
+            <Data name="BootsZipLegs Shape" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipLegs Shape</Data>
+            <Data name="BootsMetlLegs Shape" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlLegs Shape</Data>
+            <Data name="BootsLegs Shape" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsLegs Shape</Data>
+            <Data name="BootsStrapsLegs Shape" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FusionNudeHHLegs Thin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHLegs Thin</Data>
+            <Data name="BootsZipLegs Thin" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipLegs Thin</Data>
+            <Data name="BootsMetlLegs Thin" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlLegs Thin</Data>
+            <Data name="BootsLegs Thin" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsLegs Thin</Data>
+            <Data name="BootsStrapsLegs Thin" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FusionNudeHHThighs Slim" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHThighs Slim</Data>
+            <Data name="BootsZipThighs Slim" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipThighs Slim</Data>
+            <Data name="BootsMetlThighs Slim" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlThighs Slim</Data>
+            <Data name="BootsThighs Slim" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsThighs Slim</Data>
+            <Data name="BootsStrapsThighs Slim" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FusionNudeHHThighs Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHThighs Size</Data>
+            <Data name="BootsZipThighs Size" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipThighs Size</Data>
+            <Data name="BootsMetlThighs Size" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlThighs Size</Data>
+            <Data name="BootsThighs Size" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsThighs Size</Data>
+            <Data name="BootsStrapsThighs Size" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FusionNudeHHAnkle Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHAnkle Size</Data>
+            <Data name="BootsZipAnkle Size" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipAnkle Size</Data>
+            <Data name="BootsMetlAnkle Size" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlAnkle Size</Data>
+            <Data name="BootsAnkle Size" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsAnkle Size</Data>
+            <Data name="BootsStrapsAnkle Size" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHArms Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FusionNudeHHShoulder Smooth" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FusionNudeHHShoulder Tweak" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FusionNudeHHArms Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FusionNudeHHArmpit Ajustment" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FusionNudeHHForearms Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FusionNudeHHTorso Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FusionNudeHHSturnum Depth" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHSturnum Depth</Data>
+            <Data name="BootsZipSturnum Depth" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipSturnum Depth</Data>
+            <Data name="BootsMetlSturnum Depth" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlSturnum Depth</Data>
+            <Data name="BootsSturnum Depth" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsSturnum Depth</Data>
+            <Data name="BootsStrapsSturnum Depth" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FusionNudeHHSturnum Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHSturnum Height</Data>
+            <Data name="BootsZipSturnum Height" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipSturnum Height</Data>
+            <Data name="BootsMetlSturnum Height" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlSturnum Height</Data>
+            <Data name="BootsSturnum Height" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsSturnum Height</Data>
+            <Data name="BootsStrapsSturnum Height" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FusionNudeHHGroin Position" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHGroin Position</Data>
+            <Data name="BootsZipGroin Position" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipGroin Position</Data>
+            <Data name="BootsMetlGroin Position" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlGroin Position</Data>
+            <Data name="BootsGroin Position" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsGroin Position</Data>
+            <Data name="BootsStrapsGroin Position" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FusionNudeHHGroin Back" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHGroin Back</Data>
+            <Data name="BootsZipGroin Back" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipGroin Back</Data>
+            <Data name="BootsMetlGroin Back" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlGroin Back</Data>
+            <Data name="BootsGroin Back" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsGroin Back</Data>
+            <Data name="BootsStrapsGroin Back" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Minora Flat" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Minora Longer" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="FusionNudeHHClitoras Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="FusionNudeHHClitoras Long" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Majora Long" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Majora Wide" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Majora Inner" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHLabia Majora Inner</Data>
+            <Data name="BootsZipLabia Majora Inner" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipLabia Majora Inner</Data>
+            <Data name="BootsMetlLabia Majora Inner" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlLabia Majora Inner</Data>
+            <Data name="BootsLabia Majora Inner" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsLabia Majora Inner</Data>
+            <Data name="BootsStrapsLabia Majora Inner" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FusionNudeHHAbDefinition" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHAbDefinition</Data>
+            <Data name="BootsZipAbDefinition" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipAbDefinition</Data>
+            <Data name="BootsMetlAbDefinition" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlAbDefinition</Data>
+            <Data name="BootsAbDefinition" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsAbDefinition</Data>
+            <Data name="BootsStrapsAbDefinition" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FusionNudeHHBody Toning" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBody Toning</Data>
+            <Data name="BootsZipBody Toning" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipBody Toning</Data>
+            <Data name="BootsMetlBody Toning" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlBody Toning</Data>
+            <Data name="BootsBody Toning" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBody Toning</Data>
+            <Data name="BootsStrapsBody Toning" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FusionNudeHHTigerSanBB" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHTigerSanBB</Data>
+            <Data name="BootsZipTigerSanBB" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipTigerSanBB</Data>
+            <Data name="BootsMetlTigerSanBB" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlTigerSanBB</Data>
+            <Data name="BootsTigerSanBB" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsTigerSanBB</Data>
+            <Data name="BootsStrapsTigerSanBB" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FusionNudeHHXunAbs" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FusionNudeHHFFB Fitness 2" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FusionNudeHHAthletic" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHAthletic</Data>
+            <Data name="BootsZipAthletic" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipAthletic</Data>
+            <Data name="BootsMetlAthletic" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlAthletic</Data>
+            <Data name="BootsAthletic" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsAthletic</Data>
+            <Data name="BootsStrapsAthletic" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FusionNudeHHSeveNBase Bombshell" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHSeveNBase Bombshell</Data>
+            <Data name="BootsZipSeveNBase Bombshell" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipSeveNBase Bombshell</Data>
+            <Data name="BootsMetlSeveNBase Bombshell" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlSeveNBase Bombshell</Data>
+            <Data name="BootsSeveNBase Bombshell" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsSeveNBase Bombshell</Data>
+            <Data name="BootsStrapsSeveNBase Bombshell" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FusionNudeHHKnee Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHKnee Height</Data>
+            <Data name="BootsZipKnee Height" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipKnee Height</Data>
+            <Data name="BootsMetlKnee Height" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlKnee Height</Data>
+            <Data name="BootsKnee Height" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsKnee Height</Data>
+            <Data name="BootsStrapsKnee Height" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FusionNudeHHShoulder Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FusionNudeHHHighHeels" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHHighHeels</Data>
+            <Data name="BootsZipHighHeels" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipHighHeels</Data>
+            <Data name="BootsMetlHighHeels" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlHighHeels</Data>
+            <Data name="BootsHighHeels" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsHighHeels</Data>
+            <Data name="BootsStrapsHighHeels" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FusionNudeHHBodyFat" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBodyFat</Data>
+            <Data name="BootsZipBodyFat" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipBodyFat</Data>
+            <Data name="BootsMetlBodyFat" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlBodyFat</Data>
+            <Data name="BootsBodyFat" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBodyFat</Data>
+            <Data name="BootsStrapsBodyFat" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FusionNudeHHLegThin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHLegThin</Data>
+            <Data name="BootsZipLegThin" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipLegThin</Data>
+            <Data name="BootsMetlLegThin" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlLegThin</Data>
+            <Data name="BootsLegThin" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsLegThin</Data>
+            <Data name="BootsStrapsLegThin" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FusionNudeHHHipsNarrow" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHHipsNarrow</Data>
+            <Data name="BootsZipHipsNarrow" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipHipsNarrow</Data>
+            <Data name="BootsMetlHipsNarrow" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlHipsNarrow</Data>
+            <Data name="BootsHipsNarrow" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsHipsNarrow</Data>
+            <Data name="BootsStrapsHipsNarrow" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FusionNudeHHButtGravity" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHButtGravity</Data>
+            <Data name="BootsZipButtGravity" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipButtGravity</Data>
+            <Data name="BootsMetlButtGravity" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlButtGravity</Data>
+            <Data name="BootsButtGravity" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsButtGravity</Data>
+            <Data name="BootsStrapsButtGravity" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FusionNudeHHButtThin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHButtThin</Data>
+            <Data name="BootsZipButtThin" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipButtThin</Data>
+            <Data name="BootsMetlButtThin" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlButtThin</Data>
+            <Data name="BootsButtThin" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsButtThin</Data>
+            <Data name="BootsStrapsButtThin" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FusionNudeHHHipsForward" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHHipsForward</Data>
+            <Data name="BootsZipHipsForward" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipHipsForward</Data>
+            <Data name="BootsMetlHipsForward" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlHipsForward</Data>
+            <Data name="BootsHipsForward" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsHipsForward</Data>
+            <Data name="BootsStrapsHipsForward" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FusionNudeHHHipRotateForward" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHHipRotateForward</Data>
+            <Data name="BootsZipHipRotateForward" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipHipRotateForward</Data>
+            <Data name="BootsMetlHipRotateForward" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlHipRotateForward</Data>
+            <Data name="BootsHipRotateForward" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsHipRotateForward</Data>
+            <Data name="BootsStrapsHipRotateForward" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FusionNudeHHBreastArmpitin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBreastArmpitin</Data>
+            <Data name="BootsZipBreastArmpitin" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipBreastArmpitin</Data>
+            <Data name="BootsMetlBreastArmpitin" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlBreastArmpitin</Data>
+            <Data name="BootsBreastArmpitin" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBreastArmpitin</Data>
+            <Data name="BootsStrapsBreastArmpitin" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FusionNudeHHBreastArmpitWide" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBreastArmpitWide</Data>
+            <Data name="BootsZipBreastArmpitWide" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipBreastArmpitWide</Data>
+            <Data name="BootsMetlBreastArmpitWide" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlBreastArmpitWide</Data>
+            <Data name="BootsBreastArmpitWide" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBreastArmpitWide</Data>
+            <Data name="BootsStrapsBreastArmpitWide" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FusionNudeHHBreastCurve" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBreastCurve</Data>
+            <Data name="BootsZipBreastCurve" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipBreastCurve</Data>
+            <Data name="BootsMetlBreastCurve" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlBreastCurve</Data>
+            <Data name="BootsBreastCurve" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBreastCurve</Data>
+            <Data name="BootsStrapsBreastCurve" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FusionNudeHHBreastHeight2" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBreastHeight2</Data>
+            <Data name="BootsZipBreastHeight2" target="BootsZip" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsZipBreastHeight2</Data>
+            <Data name="BootsMetlBreastHeight2" target="BootsMetl" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsMetlBreastHeight2</Data>
+            <Data name="BootsBreastHeight2" target="Boots" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsBreastHeight2</Data>
+            <Data name="BootsStrapsBreastHeight2" target="BootsStraps" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\BootsStrapsBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FusionNudeHHBreastConcave" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHBreastConcave</Data>
+        </Slider>
+        <Slider name="Zap-Feet" invert="false" default="100" hidden="true" zap="true">
+            <Data name="FusionNudeHHZap-Feet" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHZap-Feet</Data>
+        </Slider>
+        <Slider name="Zap-Body" invert="false" default="100" hidden="true" zap="true">
+            <Data name="FusionNudeHHZap-Body" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Blackcat Boots V2 NoFur FG.osd\FusionNudeHHZap-Body</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

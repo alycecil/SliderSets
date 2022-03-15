@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw utility jacket FG">
+        <DataFolder>Vtaw utility jacket FG</DataFolder>
+        <SourceFile>Vtaw utility jacket FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\utility1</OutputPath>
+        <OutputFile GenWeights="false">jack</OutputFile>
+        <Shape target="bot">bot</Shape>
+        <Shape target="buckle">buckle</Shape>
+        <Shape target="jack2">jack2</Shape>
+        <Shape target="jack3">jack3</Shape>
+        <Shape target="jack5">jack5</Shape>
+        <Shape target="jack6">jack6</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="botBelly Pregnant" target="bot" local="true">Vtaw utility jacket FG.osd\botBelly Pregnant</Data>
+            <Data name="buckleBelly Pregnant" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBelly Pregnant</Data>
+            <Data name="jack2Belly Pregnant" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Belly Pregnant</Data>
+            <Data name="jack5Belly Pregnant" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="botBelly Big" target="bot" local="true">Vtaw utility jacket FG.osd\botBelly Big</Data>
+            <Data name="buckleBelly Big" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBelly Big</Data>
+            <Data name="jack2Belly Big" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Belly Big</Data>
+            <Data name="jack6Belly Big" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="botBelly Size" target="bot" local="true">Vtaw utility jacket FG.osd\botBelly Size</Data>
+            <Data name="buckleBelly Size" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBelly Size</Data>
+            <Data name="jack2Belly Size" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Belly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="botBoobs Yuge" target="bot" local="true">Vtaw utility jacket FG.osd\botBoobs Yuge</Data>
+            <Data name="buckleBoobs Yuge" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBoobs Yuge</Data>
+            <Data name="jack2Boobs Yuge" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Boobs Yuge</Data>
+            <Data name="jack3Boobs Yuge" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Boobs Yuge</Data>
+            <Data name="jack5Boobs Yuge" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Boobs Yuge</Data>
+            <Data name="jack6Boobs Yuge" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="botBoobs Big" target="bot" local="true">Vtaw utility jacket FG.osd\botBoobs Big</Data>
+            <Data name="buckleBoobs Big" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBoobs Big</Data>
+            <Data name="jack2Boobs Big" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Boobs Big</Data>
+            <Data name="jack3Boobs Big" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Boobs Big</Data>
+            <Data name="jack5Boobs Big" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Boobs Big</Data>
+            <Data name="jack6Boobs Big" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="botBoobs Cleavage" target="bot" local="true">Vtaw utility jacket FG.osd\botBoobs Cleavage</Data>
+            <Data name="buckleBoobs Cleavage" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBoobs Cleavage</Data>
+            <Data name="jack2Boobs Cleavage" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Boobs Cleavage</Data>
+            <Data name="jack5Boobs Cleavage" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Boobs Cleavage</Data>
+            <Data name="jack6Boobs Cleavage" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Boobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="botBoobs Flat" target="bot" local="true">Vtaw utility jacket FG.osd\botBoobs Flat</Data>
+            <Data name="jack2Boobs Flat" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Boobs Flat</Data>
+            <Data name="jack5Boobs Flat" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Boobs Flat</Data>
+            <Data name="jack6Boobs Flat" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Boobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="botBoobs Gravity" target="bot" local="true">Vtaw utility jacket FG.osd\botBoobs Gravity</Data>
+            <Data name="buckleBoobs Gravity" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBoobs Gravity</Data>
+            <Data name="jack2Boobs Gravity" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Boobs Gravity</Data>
+            <Data name="jack3Boobs Gravity" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Boobs Gravity</Data>
+            <Data name="jack5Boobs Gravity" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Boobs Gravity</Data>
+            <Data name="jack6Boobs Gravity" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="botBoobs Height" target="bot" local="true">Vtaw utility jacket FG.osd\botBoobs Height</Data>
+            <Data name="buckleBoobs Height" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBoobs Height</Data>
+            <Data name="jack2Boobs Height" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Boobs Height</Data>
+            <Data name="jack3Boobs Height" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Boobs Height</Data>
+            <Data name="jack5Boobs Height" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Boobs Height</Data>
+            <Data name="jack6Boobs Height" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Boobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="botBoobs Mellons" target="bot" local="true">Vtaw utility jacket FG.osd\botBoobs Mellons</Data>
+            <Data name="buckleBoobs Mellons" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBoobs Mellons</Data>
+            <Data name="jack2Boobs Mellons" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Boobs Mellons</Data>
+            <Data name="jack3Boobs Mellons" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Boobs Mellons</Data>
+            <Data name="jack5Boobs Mellons" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Boobs Mellons</Data>
+            <Data name="jack6Boobs Mellons" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="botBoobs Perky" target="bot" local="true">Vtaw utility jacket FG.osd\botBoobs Perky</Data>
+            <Data name="buckleBoobs Perky" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBoobs Perky</Data>
+            <Data name="jack2Boobs Perky" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Boobs Perky</Data>
+            <Data name="jack3Boobs Perky" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Boobs Perky</Data>
+            <Data name="jack5Boobs Perky" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Boobs Perky</Data>
+            <Data name="jack6Boobs Perky" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="botBoobs Push Up" target="bot" local="true">Vtaw utility jacket FG.osd\botBoobs Push Up</Data>
+            <Data name="buckleBoobs Push Up" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBoobs Push Up</Data>
+            <Data name="jack2Boobs Push Up" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Boobs Push Up</Data>
+            <Data name="jack3Boobs Push Up" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Boobs Push Up</Data>
+            <Data name="jack5Boobs Push Up" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Boobs Push Up</Data>
+            <Data name="jack6Boobs Push Up" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="botBoobs Small" target="bot" local="true">Vtaw utility jacket FG.osd\botBoobs Small</Data>
+            <Data name="jack2Boobs Small" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Boobs Small</Data>
+            <Data name="jack5Boobs Small" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Boobs Small</Data>
+            <Data name="jack6Boobs Small" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Boobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="botBoobs Together" target="bot" local="true">Vtaw utility jacket FG.osd\botBoobs Together</Data>
+            <Data name="buckleBoobs Together" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBoobs Together</Data>
+            <Data name="jack2Boobs Together" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Boobs Together</Data>
+            <Data name="jack5Boobs Together" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Boobs Together</Data>
+            <Data name="jack6Boobs Together" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Boobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="botBoobs Top Slope" target="bot" local="true">Vtaw utility jacket FG.osd\botBoobs Top Slope</Data>
+            <Data name="buckleBoobs Top Slope" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBoobs Top Slope</Data>
+            <Data name="jack2Boobs Top Slope" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Boobs Top Slope</Data>
+            <Data name="jack3Boobs Top Slope" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Boobs Top Slope</Data>
+            <Data name="jack5Boobs Top Slope" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Boobs Top Slope</Data>
+            <Data name="jack6Boobs Top Slope" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="botBoobs Width" target="bot" local="true">Vtaw utility jacket FG.osd\botBoobs Width</Data>
+            <Data name="buckleBoobs Width" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBoobs Width</Data>
+            <Data name="jack2Boobs Width" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Boobs Width</Data>
+            <Data name="jack5Boobs Width" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Boobs Width</Data>
+            <Data name="jack6Boobs Width" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Boobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="botBoobs Tiny" target="bot" local="true">Vtaw utility jacket FG.osd\botBoobs Tiny</Data>
+            <Data name="buckleBoobs Tiny" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBoobs Tiny</Data>
+            <Data name="jack2Boobs Tiny" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Boobs Tiny</Data>
+            <Data name="jack3Boobs Tiny" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Boobs Tiny</Data>
+            <Data name="jack5Boobs Tiny" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Boobs Tiny</Data>
+            <Data name="jack6Boobs Tiny" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="botNipples Distance" target="bot" local="true">Vtaw utility jacket FG.osd\botNipples Distance</Data>
+            <Data name="buckleNipples Distance" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleNipples Distance</Data>
+            <Data name="jack2Nipples Distance" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Nipples Distance</Data>
+            <Data name="jack5Nipples Distance" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Nipples Distance</Data>
+            <Data name="jack6Nipples Distance" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Nipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="botNipples Down" target="bot" local="true">Vtaw utility jacket FG.osd\botNipples Down</Data>
+            <Data name="jack2Nipples Down" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Nipples Down</Data>
+            <Data name="jack5Nipples Down" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Nipples Down</Data>
+            <Data name="jack6Nipples Down" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Nipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="botNipples Perkiness" target="bot" local="true">Vtaw utility jacket FG.osd\botNipples Perkiness</Data>
+            <Data name="jack2Nipples Perkiness" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Nipples Perkiness</Data>
+            <Data name="jack5Nipples Perkiness" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Nipples Perkiness</Data>
+            <Data name="jack6Nipples Perkiness" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Nipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="jack2Nipples Puffy" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Nipples Puffy</Data>
+            <Data name="jack5Nipples Puffy" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Nipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="botNipples Up" target="bot" local="true">Vtaw utility jacket FG.osd\botNipples Up</Data>
+            <Data name="jack2Nipples Up" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Nipples Up</Data>
+            <Data name="jack5Nipples Up" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Nipples Up</Data>
+            <Data name="jack6Nipples Up" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Nipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="botChest Depth" target="bot" local="true">Vtaw utility jacket FG.osd\botChest Depth</Data>
+            <Data name="buckleChest Depth" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleChest Depth</Data>
+            <Data name="jack2Chest Depth" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Chest Depth</Data>
+            <Data name="jack3Chest Depth" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Chest Depth</Data>
+            <Data name="jack5Chest Depth" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Chest Depth</Data>
+            <Data name="jack6Chest Depth" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Chest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="botChest Width" target="bot" local="true">Vtaw utility jacket FG.osd\botChest Width</Data>
+            <Data name="jack2Chest Width" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Chest Width</Data>
+            <Data name="jack6Chest Width" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="botWaist Chubby" target="bot" local="true">Vtaw utility jacket FG.osd\botWaist Chubby</Data>
+            <Data name="buckleWaist Chubby" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleWaist Chubby</Data>
+            <Data name="jack2Waist Chubby" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="botWaist Size" target="bot" local="true">Vtaw utility jacket FG.osd\botWaist Size</Data>
+            <Data name="buckleWaist Size" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleWaist Size</Data>
+            <Data name="jack2Waist Size" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="botWaist Height" target="bot" local="true">Vtaw utility jacket FG.osd\botWaist Height</Data>
+            <Data name="buckleWaist Height" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleWaist Height</Data>
+            <Data name="jack2Waist Height" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="botWaist Line" target="bot" local="true">Vtaw utility jacket FG.osd\botWaist Line</Data>
+            <Data name="jack2Waist Line" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="botBack Size" target="bot" local="true">Vtaw utility jacket FG.osd\botBack Size</Data>
+            <Data name="jack2Back Size" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Back Size</Data>
+            <Data name="jack3Back Size" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="botBack Arch" target="bot" local="true">Vtaw utility jacket FG.osd\botBack Arch</Data>
+            <Data name="jack2Back Arch" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="botHips Bone" target="bot" local="true">Vtaw utility jacket FG.osd\botHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="botHips Upper Width" target="bot" local="true">Vtaw utility jacket FG.osd\botHips Upper Width</Data>
+            <Data name="jack2Hips Upper Width" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="botBum Size" target="bot" local="true">Vtaw utility jacket FG.osd\botBum Size</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="botBum Shape 2" target="bot" local="true">Vtaw utility jacket FG.osd\botBum Shape 2</Data>
+            <Data name="jack2Bum Shape 2" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="botBum Small" target="bot" local="true">Vtaw utility jacket FG.osd\botBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="botBum Chubby" target="bot" local="true">Vtaw utility jacket FG.osd\botBum Chubby</Data>
+            <Data name="jack2Bum Chubby" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="botBum Apple" target="bot" local="true">Vtaw utility jacket FG.osd\botBum Apple</Data>
+            <Data name="jack2Bum Apple" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Bum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="botLegs Chubby" target="bot" local="true">Vtaw utility jacket FG.osd\botLegs Chubby</Data>
+            <Data name="jack2Legs Chubby" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Legs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="jack2Arms Chubby" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Arms Chubby</Data>
+            <Data name="jack3Arms Chubby" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Arms Chubby</Data>
+            <Data name="jack6Arms Chubby" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="jack2Shoulder Smooth" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Shoulder Smooth</Data>
+            <Data name="jack3Shoulder Smooth" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Shoulder Smooth</Data>
+            <Data name="jack6Shoulder Smooth" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="jack2Shoulder Tweak" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Shoulder Tweak</Data>
+            <Data name="jack3Shoulder Tweak" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Shoulder Tweak</Data>
+            <Data name="jack6Shoulder Tweak" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Shoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="botArms Size" target="bot" local="true">Vtaw utility jacket FG.osd\botArms Size</Data>
+            <Data name="jack2Arms Size" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Arms Size</Data>
+            <Data name="jack3Arms Size" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Arms Size</Data>
+            <Data name="jack6Arms Size" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="jack2Armpit Ajustment" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Armpit Ajustment</Data>
+            <Data name="jack3Armpit Ajustment" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Armpit Ajustment</Data>
+            <Data name="jack6Armpit Ajustment" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="botTorso Size" target="bot" local="true">Vtaw utility jacket FG.osd\botTorso Size</Data>
+            <Data name="buckleTorso Size" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleTorso Size</Data>
+            <Data name="jack2Torso Size" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Torso Size</Data>
+            <Data name="jack3Torso Size" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Torso Size</Data>
+            <Data name="jack5Torso Size" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Torso Size</Data>
+            <Data name="jack6Torso Size" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="botSturnum Depth" target="bot" local="true">Vtaw utility jacket FG.osd\botSturnum Depth</Data>
+            <Data name="buckleSturnum Depth" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleSturnum Depth</Data>
+            <Data name="jack2Sturnum Depth" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Sturnum Depth</Data>
+            <Data name="jack3Sturnum Depth" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Sturnum Depth</Data>
+            <Data name="jack5Sturnum Depth" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Sturnum Depth</Data>
+            <Data name="jack6Sturnum Depth" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="botSturnum Height" target="bot" local="true">Vtaw utility jacket FG.osd\botSturnum Height</Data>
+            <Data name="buckleSturnum Height" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleSturnum Height</Data>
+            <Data name="jack2Sturnum Height" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Sturnum Height</Data>
+            <Data name="jack3Sturnum Height" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Sturnum Height</Data>
+            <Data name="jack5Sturnum Height" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Sturnum Height</Data>
+            <Data name="jack6Sturnum Height" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="botGroin Position" target="bot" local="true">Vtaw utility jacket FG.osd\botGroin Position</Data>
+            <Data name="jack2Groin Position" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Groin Position</Data>
+            <Data name="jack3Groin Position" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Groin Position</Data>
+            <Data name="jack6Groin Position" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="botGroin Back" target="bot" local="true">Vtaw utility jacket FG.osd\botGroin Back</Data>
+            <Data name="jack2Groin Back" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Groin Back</Data>
+            <Data name="jack3Groin Back" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Groin Back</Data>
+            <Data name="jack6Groin Back" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="botAbDefinition" target="bot" local="true">Vtaw utility jacket FG.osd\botAbDefinition</Data>
+            <Data name="buckleAbDefinition" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleAbDefinition</Data>
+            <Data name="jack2AbDefinition" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="botBody Toning" target="bot" local="true">Vtaw utility jacket FG.osd\botBody Toning</Data>
+            <Data name="buckleBody Toning" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBody Toning</Data>
+            <Data name="jack2Body Toning" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Body Toning</Data>
+            <Data name="jack3Body Toning" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Body Toning</Data>
+            <Data name="jack5Body Toning" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Body Toning</Data>
+            <Data name="jack6Body Toning" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="botTigerSanBB" target="bot" local="true">Vtaw utility jacket FG.osd\botTigerSanBB</Data>
+            <Data name="buckleTigerSanBB" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleTigerSanBB</Data>
+            <Data name="jack2TigerSanBB" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2TigerSanBB</Data>
+            <Data name="jack3TigerSanBB" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3TigerSanBB</Data>
+            <Data name="jack5TigerSanBB" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5TigerSanBB</Data>
+            <Data name="jack6TigerSanBB" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="botXunAbs" target="bot" local="true">Vtaw utility jacket FG.osd\botXunAbs</Data>
+            <Data name="buckleXunAbs" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleXunAbs</Data>
+            <Data name="jack2XunAbs" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="botFFB Fitness 2" target="bot" local="true">Vtaw utility jacket FG.osd\botFFB Fitness 2</Data>
+            <Data name="buckleFFB Fitness 2" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleFFB Fitness 2</Data>
+            <Data name="jack2FFB Fitness 2" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="botAthletic" target="bot" local="true">Vtaw utility jacket FG.osd\botAthletic</Data>
+            <Data name="buckleAthletic" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleAthletic</Data>
+            <Data name="jack2Athletic" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Athletic</Data>
+            <Data name="jack3Athletic" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Athletic</Data>
+            <Data name="jack5Athletic" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5Athletic</Data>
+            <Data name="jack6Athletic" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="botSeveNBase Bombshell" target="bot" local="true">Vtaw utility jacket FG.osd\botSeveNBase Bombshell</Data>
+            <Data name="buckleSeveNBase Bombshell" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleSeveNBase Bombshell</Data>
+            <Data name="jack2SeveNBase Bombshell" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2SeveNBase Bombshell</Data>
+            <Data name="jack3SeveNBase Bombshell" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3SeveNBase Bombshell</Data>
+            <Data name="jack5SeveNBase Bombshell" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5SeveNBase Bombshell</Data>
+            <Data name="jack6SeveNBase Bombshell" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="botShoulder Width" target="bot" local="true">Vtaw utility jacket FG.osd\botShoulder Width</Data>
+            <Data name="jack2Shoulder Width" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2Shoulder Width</Data>
+            <Data name="jack3Shoulder Width" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3Shoulder Width</Data>
+            <Data name="jack6Shoulder Width" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6Shoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="botBodyFat" target="bot" local="true">Vtaw utility jacket FG.osd\botBodyFat</Data>
+            <Data name="buckleBodyFat" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBodyFat</Data>
+            <Data name="jack2BodyFat" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2BodyFat</Data>
+            <Data name="jack3BodyFat" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3BodyFat</Data>
+            <Data name="jack5BodyFat" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5BodyFat</Data>
+            <Data name="jack6BodyFat" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6BodyFat</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="botHipsNarrow" target="bot" local="true">Vtaw utility jacket FG.osd\botHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="botButtThin" target="bot" local="true">Vtaw utility jacket FG.osd\botButtThin</Data>
+            <Data name="jack2ButtThin" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2ButtThin</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="botHipRotateForward" target="bot" local="true">Vtaw utility jacket FG.osd\botHipRotateForward</Data>
+            <Data name="buckleHipRotateForward" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleHipRotateForward</Data>
+            <Data name="jack2HipRotateForward" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="jack2BreastArmpitin" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2BreastArmpitin</Data>
+            <Data name="jack3BreastArmpitin" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3BreastArmpitin</Data>
+            <Data name="jack5BreastArmpitin" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5BreastArmpitin</Data>
+            <Data name="jack6BreastArmpitin" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="jack2BreastArmpitWide" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2BreastArmpitWide</Data>
+            <Data name="jack3BreastArmpitWide" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3BreastArmpitWide</Data>
+            <Data name="jack5BreastArmpitWide" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5BreastArmpitWide</Data>
+            <Data name="jack6BreastArmpitWide" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="botBreastCurve" target="bot" local="true">Vtaw utility jacket FG.osd\botBreastCurve</Data>
+            <Data name="jack2BreastCurve" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2BreastCurve</Data>
+            <Data name="jack5BreastCurve" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5BreastCurve</Data>
+            <Data name="jack6BreastCurve" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="botBreastHeight2" target="bot" local="true">Vtaw utility jacket FG.osd\botBreastHeight2</Data>
+            <Data name="buckleBreastHeight2" target="buckle" local="true">Vtaw utility jacket FG.osd\buckleBreastHeight2</Data>
+            <Data name="jack2BreastHeight2" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2BreastHeight2</Data>
+            <Data name="jack3BreastHeight2" target="jack3" local="true">Vtaw utility jacket FG.osd\jack3BreastHeight2</Data>
+            <Data name="jack5BreastHeight2" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5BreastHeight2</Data>
+            <Data name="jack6BreastHeight2" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="jack2BreastConcave" target="jack2" local="true">Vtaw utility jacket FG.osd\jack2BreastConcave</Data>
+            <Data name="jack5BreastConcave" target="jack5" local="true">Vtaw utility jacket FG.osd\jack5BreastConcave</Data>
+            <Data name="jack6BreastConcave" target="jack6" local="true">Vtaw utility jacket FG.osd\jack6BreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

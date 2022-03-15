@@ -1,0 +1,721 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Dva BodySuit FG">
+        <DataFolder>Vtaw Wardrobe 7 Dva BodySuit FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Dva BodySuit FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\DvaBodySuit</OutputPath>
+        <OutputFile GenWeights="false">DvaBodySuit</OutputFile>
+        <Shape target="Body Armor 2">Body Armor 2</Shape>
+        <Shape target="Body2">Body2</Shape>
+        <Shape target="FusionGirl" DataFolder="FusionGirl">FusionGirl</Shape>
+        <Shape target="Logo2">Logo2</Shape>
+        <Shape target="METAL 22">METAL 22</Shape>
+        <Shape target="Metal Back 2">Metal Back 2</Shape>
+        <Shape target="Metal Top2">Metal Top2</Shape>
+        <Shape target="metal shoes">metal shoes</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FusionGirlBelly Pregnant" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Pregnant</Data>
+            <Data name="Body2Belly Pregnant" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Belly Pregnant</Data>
+            <Data name="Logo2Belly Pregnant" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Belly Pregnant</Data>
+            <Data name="Metal Top2Belly Pregnant" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Belly Pregnant</Data>
+            <Data name="Metal Back 2Belly Pregnant" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Belly Pregnant</Data>
+            <Data name="Body Armor 2Belly Pregnant" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Belly Pregnant</Data>
+            <Data name="METAL 22Belly Pregnant" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FusionGirlBelly Big" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Big</Data>
+            <Data name="Body2Belly Big" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Belly Big</Data>
+            <Data name="Metal Top2Belly Big" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Belly Big</Data>
+            <Data name="Metal Back 2Belly Big" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Belly Big</Data>
+            <Data name="Body Armor 2Belly Big" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Belly Big</Data>
+            <Data name="METAL 22Belly Big" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FusionGirlBelly Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Size</Data>
+            <Data name="Body2Belly Size" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Belly Size</Data>
+            <Data name="Metal Top2Belly Size" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Belly Size</Data>
+            <Data name="Metal Back 2Belly Size" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Belly Size</Data>
+            <Data name="Body Armor 2Belly Size" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Belly Size</Data>
+            <Data name="METAL 22Belly Size" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Belly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FusionGirlBelly Tuck" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Tuck</Data>
+            <Data name="Body2Belly Tuck" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Belly Tuck</Data>
+            <Data name="Body Armor 2Belly Tuck" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Belly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FusionGirlBoobs Yuge" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Yuge</Data>
+            <Data name="Body2Boobs Yuge" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Boobs Yuge</Data>
+            <Data name="Logo2Boobs Yuge" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Boobs Yuge</Data>
+            <Data name="Metal Top2Boobs Yuge" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Boobs Yuge</Data>
+            <Data name="Metal Back 2Boobs Yuge" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Boobs Yuge</Data>
+            <Data name="Body Armor 2Boobs Yuge" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Boobs Yuge</Data>
+            <Data name="metal shoesBoobs Yuge" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesBoobs Yuge</Data>
+            <Data name="METAL 22Boobs Yuge" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FusionGirlBoobs Big" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Big</Data>
+            <Data name="Body2Boobs Big" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Boobs Big</Data>
+            <Data name="Logo2Boobs Big" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Boobs Big</Data>
+            <Data name="Metal Top2Boobs Big" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Boobs Big</Data>
+            <Data name="Metal Back 2Boobs Big" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Boobs Big</Data>
+            <Data name="Body Armor 2Boobs Big" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Boobs Big</Data>
+            <Data name="metal shoesBoobs Big" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesBoobs Big</Data>
+            <Data name="METAL 22Boobs Big" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FusionGirlBoobs Cleavage" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Cleavage</Data>
+            <Data name="Body2Boobs Cleavage" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Boobs Cleavage</Data>
+            <Data name="Metal Top2Boobs Cleavage" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Boobs Cleavage</Data>
+            <Data name="Body Armor 2Boobs Cleavage" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Boobs Cleavage</Data>
+            <Data name="METAL 22Boobs Cleavage" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Boobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FusionGirlBoobs Flat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Flat</Data>
+            <Data name="Body2Boobs Flat" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Boobs Flat</Data>
+            <Data name="Body Armor 2Boobs Flat" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Boobs Flat</Data>
+            <Data name="METAL 22Boobs Flat" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Boobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FusionGirlBoobs Gravity" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Gravity</Data>
+            <Data name="Body2Boobs Gravity" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Boobs Gravity</Data>
+            <Data name="Logo2Boobs Gravity" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Boobs Gravity</Data>
+            <Data name="Metal Top2Boobs Gravity" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Boobs Gravity</Data>
+            <Data name="Metal Back 2Boobs Gravity" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Boobs Gravity</Data>
+            <Data name="Body Armor 2Boobs Gravity" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Boobs Gravity</Data>
+            <Data name="metal shoesBoobs Gravity" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesBoobs Gravity</Data>
+            <Data name="METAL 22Boobs Gravity" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FusionGirlBoobs Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Height</Data>
+            <Data name="Body2Boobs Height" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Boobs Height</Data>
+            <Data name="Metal Top2Boobs Height" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Boobs Height</Data>
+            <Data name="Body Armor 2Boobs Height" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Boobs Height</Data>
+            <Data name="METAL 22Boobs Height" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Boobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FusionGirlBoobs Mellons" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Mellons</Data>
+            <Data name="Body2Boobs Mellons" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Boobs Mellons</Data>
+            <Data name="Logo2Boobs Mellons" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Boobs Mellons</Data>
+            <Data name="Metal Top2Boobs Mellons" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Boobs Mellons</Data>
+            <Data name="Metal Back 2Boobs Mellons" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Boobs Mellons</Data>
+            <Data name="Body Armor 2Boobs Mellons" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Boobs Mellons</Data>
+            <Data name="metal shoesBoobs Mellons" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesBoobs Mellons</Data>
+            <Data name="METAL 22Boobs Mellons" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FusionGirlBoobs Perky" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Perky</Data>
+            <Data name="Body2Boobs Perky" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Boobs Perky</Data>
+            <Data name="Logo2Boobs Perky" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Boobs Perky</Data>
+            <Data name="Metal Top2Boobs Perky" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Boobs Perky</Data>
+            <Data name="Metal Back 2Boobs Perky" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Boobs Perky</Data>
+            <Data name="Body Armor 2Boobs Perky" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Boobs Perky</Data>
+            <Data name="metal shoesBoobs Perky" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesBoobs Perky</Data>
+            <Data name="METAL 22Boobs Perky" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FusionGirlBoobs Push Up" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Push Up</Data>
+            <Data name="Body2Boobs Push Up" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Boobs Push Up</Data>
+            <Data name="Logo2Boobs Push Up" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Boobs Push Up</Data>
+            <Data name="Metal Top2Boobs Push Up" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Boobs Push Up</Data>
+            <Data name="Metal Back 2Boobs Push Up" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Boobs Push Up</Data>
+            <Data name="Body Armor 2Boobs Push Up" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Boobs Push Up</Data>
+            <Data name="metal shoesBoobs Push Up" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesBoobs Push Up</Data>
+            <Data name="METAL 22Boobs Push Up" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FusionGirlBoobs Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Small</Data>
+            <Data name="Body2Boobs Small" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Boobs Small</Data>
+            <Data name="Body Armor 2Boobs Small" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Boobs Small</Data>
+            <Data name="METAL 22Boobs Small" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Boobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FusionGirlBoobs Together" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Together</Data>
+            <Data name="Body2Boobs Together" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Boobs Together</Data>
+            <Data name="Metal Top2Boobs Together" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Boobs Together</Data>
+            <Data name="Body Armor 2Boobs Together" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Boobs Together</Data>
+            <Data name="METAL 22Boobs Together" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Boobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FusionGirlBoobs Top Slope" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Top Slope</Data>
+            <Data name="Body2Boobs Top Slope" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Boobs Top Slope</Data>
+            <Data name="Logo2Boobs Top Slope" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Boobs Top Slope</Data>
+            <Data name="Metal Top2Boobs Top Slope" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Boobs Top Slope</Data>
+            <Data name="Metal Back 2Boobs Top Slope" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Boobs Top Slope</Data>
+            <Data name="Body Armor 2Boobs Top Slope" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Boobs Top Slope</Data>
+            <Data name="metal shoesBoobs Top Slope" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesBoobs Top Slope</Data>
+            <Data name="METAL 22Boobs Top Slope" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FusionGirlBoobs Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Width</Data>
+            <Data name="Body2Boobs Width" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Boobs Width</Data>
+            <Data name="Metal Top2Boobs Width" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Boobs Width</Data>
+            <Data name="Body Armor 2Boobs Width" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Boobs Width</Data>
+            <Data name="METAL 22Boobs Width" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Boobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FusionGirlBoobs Tiny" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Tiny</Data>
+            <Data name="Body2Boobs Tiny" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Boobs Tiny</Data>
+            <Data name="Logo2Boobs Tiny" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Boobs Tiny</Data>
+            <Data name="Metal Top2Boobs Tiny" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Boobs Tiny</Data>
+            <Data name="Metal Back 2Boobs Tiny" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Boobs Tiny</Data>
+            <Data name="Body Armor 2Boobs Tiny" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Boobs Tiny</Data>
+            <Data name="metal shoesBoobs Tiny" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesBoobs Tiny</Data>
+            <Data name="METAL 22Boobs Tiny" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FusionGirlNipples Distance" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Distance</Data>
+            <Data name="Body2Nipples Distance" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Nipples Distance</Data>
+            <Data name="Body Armor 2Nipples Distance" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Nipples Distance</Data>
+            <Data name="METAL 22Nipples Distance" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Nipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FusionGirlNipples Down" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Down</Data>
+            <Data name="Body2Nipples Down" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Nipples Down</Data>
+            <Data name="Body Armor 2Nipples Down" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Nipples Down</Data>
+            <Data name="METAL 22Nipples Down" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Nipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FusionGirlNipples Perkiness" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Perkiness</Data>
+            <Data name="Body2Nipples Perkiness" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Nipples Perkiness</Data>
+            <Data name="Body Armor 2Nipples Perkiness" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Nipples Perkiness</Data>
+            <Data name="METAL 22Nipples Perkiness" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Nipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FusionGirlNipples Puffy" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Puffy</Data>
+            <Data name="Body2Nipples Puffy" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Nipples Puffy</Data>
+            <Data name="METAL 22Nipples Puffy" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Nipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FusionGirlNipples Up" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Up</Data>
+            <Data name="Body2Nipples Up" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Nipples Up</Data>
+            <Data name="Body Armor 2Nipples Up" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Nipples Up</Data>
+            <Data name="METAL 22Nipples Up" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Nipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FusionGirlChest Depth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlChest Depth</Data>
+            <Data name="Body2Chest Depth" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Chest Depth</Data>
+            <Data name="Metal Top2Chest Depth" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Chest Depth</Data>
+            <Data name="Body Armor 2Chest Depth" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Chest Depth</Data>
+            <Data name="METAL 22Chest Depth" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Chest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FusionGirlChest Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlChest Width</Data>
+            <Data name="Body2Chest Width" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Chest Width</Data>
+            <Data name="Metal Top2Chest Width" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Chest Width</Data>
+            <Data name="Metal Back 2Chest Width" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Chest Width</Data>
+            <Data name="Body Armor 2Chest Width" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Chest Width</Data>
+            <Data name="METAL 22Chest Width" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FusionGirlWaist Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Chubby</Data>
+            <Data name="Body2Waist Chubby" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Waist Chubby</Data>
+            <Data name="Logo2Waist Chubby" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Waist Chubby</Data>
+            <Data name="Metal Top2Waist Chubby" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Waist Chubby</Data>
+            <Data name="Metal Back 2Waist Chubby" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Waist Chubby</Data>
+            <Data name="Body Armor 2Waist Chubby" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Waist Chubby</Data>
+            <Data name="METAL 22Waist Chubby" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FusionGirlWaist Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Size</Data>
+            <Data name="Body2Waist Size" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Waist Size</Data>
+            <Data name="Metal Top2Waist Size" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Waist Size</Data>
+            <Data name="Metal Back 2Waist Size" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Waist Size</Data>
+            <Data name="Body Armor 2Waist Size" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Waist Size</Data>
+            <Data name="METAL 22Waist Size" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FusionGirlWaist Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Height</Data>
+            <Data name="Body2Waist Height" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Waist Height</Data>
+            <Data name="Metal Top2Waist Height" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Waist Height</Data>
+            <Data name="Metal Back 2Waist Height" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Waist Height</Data>
+            <Data name="Body Armor 2Waist Height" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Waist Height</Data>
+            <Data name="METAL 22Waist Height" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FusionGirlWaist Line" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Line</Data>
+            <Data name="Body2Waist Line" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Waist Line</Data>
+            <Data name="Metal Back 2Waist Line" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Waist Line</Data>
+            <Data name="Body Armor 2Waist Line" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Waist Line</Data>
+            <Data name="METAL 22Waist Line" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FusionGirlBack Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBack Size</Data>
+            <Data name="Body2Back Size" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Back Size</Data>
+            <Data name="Metal Top2Back Size" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Back Size</Data>
+            <Data name="Metal Back 2Back Size" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Back Size</Data>
+            <Data name="Body Armor 2Back Size" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FusionGirlBack Arch" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBack Arch</Data>
+            <Data name="Body2Back Arch" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Back Arch</Data>
+            <Data name="Metal Top2Back Arch" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Back Arch</Data>
+            <Data name="Metal Back 2Back Arch" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Back Arch</Data>
+            <Data name="Body Armor 2Back Arch" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FusionGirlHips Bone" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Bone</Data>
+            <Data name="Body2Hips Bone" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Hips Bone</Data>
+            <Data name="Logo2Hips Bone" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Hips Bone</Data>
+            <Data name="Metal Back 2Hips Bone" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Hips Bone</Data>
+            <Data name="Body Armor 2Hips Bone" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Hips Bone</Data>
+            <Data name="METAL 22Hips Bone" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Hips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FusionGirlHips Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Size</Data>
+            <Data name="Body2Hips Size" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Hips Size</Data>
+            <Data name="Logo2Hips Size" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Hips Size</Data>
+            <Data name="Body Armor 2Hips Size" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Hips Size</Data>
+            <Data name="METAL 22Hips Size" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Hips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FusionGirlHips Upper Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Upper Width</Data>
+            <Data name="Body2Hips Upper Width" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Hips Upper Width</Data>
+            <Data name="Logo2Hips Upper Width" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Hips Upper Width</Data>
+            <Data name="Metal Back 2Hips Upper Width" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Hips Upper Width</Data>
+            <Data name="Body Armor 2Hips Upper Width" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Hips Upper Width</Data>
+            <Data name="METAL 22Hips Upper Width" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FusionGirlBum Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Size</Data>
+            <Data name="Body2Bum Size" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Bum Size</Data>
+            <Data name="Logo2Bum Size" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Bum Size</Data>
+            <Data name="Metal Back 2Bum Size" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Bum Size</Data>
+            <Data name="Body Armor 2Bum Size" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Bum Size</Data>
+            <Data name="METAL 22Bum Size" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FusionGirlBum Crack" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Crack</Data>
+            <Data name="Body2Bum Crack" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Bum Crack</Data>
+            <Data name="Logo2Bum Crack" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Bum Crack</Data>
+            <Data name="Body Armor 2Bum Crack" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 1" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Shape 1</Data>
+            <Data name="Body2Bum Shape 1" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Bum Shape 1</Data>
+            <Data name="Logo2Bum Shape 1" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Bum Shape 1</Data>
+            <Data name="Metal Back 2Bum Shape 1" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Bum Shape 1</Data>
+            <Data name="Body Armor 2Bum Shape 1" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Bum Shape 1</Data>
+            <Data name="METAL 22Bum Shape 1" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Shape 2</Data>
+            <Data name="Body2Bum Shape 2" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Bum Shape 2</Data>
+            <Data name="Logo2Bum Shape 2" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Bum Shape 2</Data>
+            <Data name="Metal Top2Bum Shape 2" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Bum Shape 2</Data>
+            <Data name="Metal Back 2Bum Shape 2" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Bum Shape 2</Data>
+            <Data name="Body Armor 2Bum Shape 2" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Bum Shape 2</Data>
+            <Data name="METAL 22Bum Shape 2" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FusionGirlBum Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Small</Data>
+            <Data name="Body2Bum Small" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Bum Small</Data>
+            <Data name="Logo2Bum Small" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Bum Small</Data>
+            <Data name="Metal Back 2Bum Small" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Bum Small</Data>
+            <Data name="Body Armor 2Bum Small" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Bum Small</Data>
+            <Data name="METAL 22Bum Small" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FusionGirlBum Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Chubby</Data>
+            <Data name="Body2Bum Chubby" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Bum Chubby</Data>
+            <Data name="Logo2Bum Chubby" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Bum Chubby</Data>
+            <Data name="Metal Top2Bum Chubby" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Bum Chubby</Data>
+            <Data name="Metal Back 2Bum Chubby" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Bum Chubby</Data>
+            <Data name="Body Armor 2Bum Chubby" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Bum Chubby</Data>
+            <Data name="METAL 22Bum Chubby" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FusionGirlBum Round" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Round</Data>
+            <Data name="Body2Bum Round" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Bum Round</Data>
+            <Data name="Logo2Bum Round" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Bum Round</Data>
+            <Data name="Metal Back 2Bum Round" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Bum Round</Data>
+            <Data name="Body Armor 2Bum Round" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Bum Round</Data>
+            <Data name="METAL 22Bum Round" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FusionGirlBum Apple" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Apple</Data>
+            <Data name="Body2Bum Apple" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Bum Apple</Data>
+            <Data name="Logo2Bum Apple" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Bum Apple</Data>
+            <Data name="Metal Top2Bum Apple" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Bum Apple</Data>
+            <Data name="Metal Back 2Bum Apple" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Bum Apple</Data>
+            <Data name="Body Armor 2Bum Apple" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Bum Apple</Data>
+            <Data name="METAL 22Bum Apple" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Bum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FusionGirlCalf Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlCalf Size</Data>
+            <Data name="Body2Calf Size" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Calf Size</Data>
+            <Data name="Logo2Calf Size" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Calf Size</Data>
+            <Data name="Body Armor 2Calf Size" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Calf Size</Data>
+            <Data name="METAL 22Calf Size" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Calf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FusionGirlCalf Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlCalf Small</Data>
+            <Data name="Body2Calf Small" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Calf Small</Data>
+            <Data name="Logo2Calf Small" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Calf Small</Data>
+            <Data name="Body Armor 2Calf Small" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Calf Small</Data>
+            <Data name="METAL 22Calf Small" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Calf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FusionGirlLegs Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Chubby</Data>
+            <Data name="Body2Legs Chubby" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Legs Chubby</Data>
+            <Data name="Logo2Legs Chubby" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Legs Chubby</Data>
+            <Data name="Metal Top2Legs Chubby" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Legs Chubby</Data>
+            <Data name="Metal Back 2Legs Chubby" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Legs Chubby</Data>
+            <Data name="Body Armor 2Legs Chubby" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Legs Chubby</Data>
+            <Data name="METAL 22Legs Chubby" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FusionGirlLegs Shape" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Shape</Data>
+            <Data name="Body2Legs Shape" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Legs Shape</Data>
+            <Data name="Logo2Legs Shape" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Legs Shape</Data>
+            <Data name="Body Armor 2Legs Shape" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Legs Shape</Data>
+            <Data name="METAL 22Legs Shape" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FusionGirlLegs Thin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Thin</Data>
+            <Data name="Body2Legs Thin" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Legs Thin</Data>
+            <Data name="Logo2Legs Thin" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Legs Thin</Data>
+            <Data name="Body Armor 2Legs Thin" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Legs Thin</Data>
+            <Data name="METAL 22Legs Thin" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FusionGirlThighs Slim" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlThighs Slim</Data>
+            <Data name="Body2Thighs Slim" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Thighs Slim</Data>
+            <Data name="Logo2Thighs Slim" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Thighs Slim</Data>
+            <Data name="Metal Back 2Thighs Slim" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Thighs Slim</Data>
+            <Data name="Body Armor 2Thighs Slim" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Thighs Slim</Data>
+            <Data name="METAL 22Thighs Slim" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FusionGirlThighs Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlThighs Size</Data>
+            <Data name="Body2Thighs Size" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Thighs Size</Data>
+            <Data name="Logo2Thighs Size" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Thighs Size</Data>
+            <Data name="Metal Back 2Thighs Size" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Thighs Size</Data>
+            <Data name="Body Armor 2Thighs Size" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Thighs Size</Data>
+            <Data name="METAL 22Thighs Size" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Thighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FusionGirlAnkle Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAnkle Size</Data>
+            <Data name="Body2Ankle Size" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Ankle Size</Data>
+            <Data name="Logo2Ankle Size" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Ankle Size</Data>
+            <Data name="Body Armor 2Ankle Size" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Ankle Size</Data>
+            <Data name="METAL 22Ankle Size" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Ankle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FusionGirlArms Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArms Chubby</Data>
+            <Data name="Body2Arms Chubby" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Arms Chubby</Data>
+            <Data name="Metal Top2Arms Chubby" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Arms Chubby</Data>
+            <Data name="Body Armor 2Arms Chubby" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Arms Chubby</Data>
+            <Data name="METAL 22Arms Chubby" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FusionGirlShoulder Smooth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Smooth</Data>
+            <Data name="Body2Shoulder Smooth" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Shoulder Smooth</Data>
+            <Data name="Metal Top2Shoulder Smooth" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Shoulder Smooth</Data>
+            <Data name="Body Armor 2Shoulder Smooth" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FusionGirlShoulder Tweak" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Tweak</Data>
+            <Data name="Body2Shoulder Tweak" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Shoulder Tweak</Data>
+            <Data name="Metal Top2Shoulder Tweak" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Shoulder Tweak</Data>
+            <Data name="Body Armor 2Shoulder Tweak" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Shoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FusionGirlArms Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArms Size</Data>
+            <Data name="Body2Arms Size" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Arms Size</Data>
+            <Data name="Metal Top2Arms Size" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Arms Size</Data>
+            <Data name="Metal Back 2Arms Size" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Arms Size</Data>
+            <Data name="Body Armor 2Arms Size" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FusionGirlArmpit Ajustment" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArmpit Ajustment</Data>
+            <Data name="Body2Armpit Ajustment" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Armpit Ajustment</Data>
+            <Data name="Metal Top2Armpit Ajustment" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Armpit Ajustment</Data>
+            <Data name="Body Armor 2Armpit Ajustment" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FusionGirlForearms Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlForearms Size</Data>
+            <Data name="Body2Forearms Size" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Forearms Size</Data>
+            <Data name="Metal Top2Forearms Size" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Forearms Size</Data>
+            <Data name="Body Armor 2Forearms Size" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Forearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FusionGirlTorso Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlTorso Size</Data>
+            <Data name="Body2Torso Size" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Torso Size</Data>
+            <Data name="Logo2Torso Size" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Torso Size</Data>
+            <Data name="Metal Top2Torso Size" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Torso Size</Data>
+            <Data name="Metal Back 2Torso Size" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Torso Size</Data>
+            <Data name="Body Armor 2Torso Size" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Torso Size</Data>
+            <Data name="METAL 22Torso Size" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Torso Size</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FusionGirlGroin Position" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlGroin Position</Data>
+            <Data name="Body2Groin Position" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Groin Position</Data>
+            <Data name="Logo2Groin Position" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Groin Position</Data>
+            <Data name="Metal Top2Groin Position" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Groin Position</Data>
+            <Data name="Metal Back 2Groin Position" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Groin Position</Data>
+            <Data name="Body Armor 2Groin Position" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Groin Position</Data>
+            <Data name="metal shoesGroin Position" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesGroin Position</Data>
+            <Data name="METAL 22Groin Position" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FusionGirlGroin Back" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlGroin Back</Data>
+            <Data name="Body2Groin Back" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Groin Back</Data>
+            <Data name="Logo2Groin Back" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Groin Back</Data>
+            <Data name="Metal Top2Groin Back" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Groin Back</Data>
+            <Data name="Metal Back 2Groin Back" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Groin Back</Data>
+            <Data name="Body Armor 2Groin Back" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Groin Back</Data>
+            <Data name="metal shoesGroin Back" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesGroin Back</Data>
+            <Data name="METAL 22Groin Back" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FusionGirlAbDefinition" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAbDefinition</Data>
+            <Data name="Body2AbDefinition" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2AbDefinition</Data>
+            <Data name="Body Armor 2AbDefinition" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2AbDefinition</Data>
+            <Data name="metal shoesAbDefinition" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesAbDefinition</Data>
+            <Data name="METAL 22AbDefinition" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FusionGirlBody Toning" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBody Toning</Data>
+            <Data name="Body2Body Toning" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Body Toning</Data>
+            <Data name="Logo2Body Toning" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Body Toning</Data>
+            <Data name="Metal Top2Body Toning" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Body Toning</Data>
+            <Data name="Metal Back 2Body Toning" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Body Toning</Data>
+            <Data name="Body Armor 2Body Toning" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Body Toning</Data>
+            <Data name="metal shoesBody Toning" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesBody Toning</Data>
+            <Data name="METAL 22Body Toning" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FusionGirlTigerSanBB" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlTigerSanBB</Data>
+            <Data name="Body2TigerSanBB" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2TigerSanBB</Data>
+            <Data name="Logo2TigerSanBB" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2TigerSanBB</Data>
+            <Data name="Metal Top2TigerSanBB" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2TigerSanBB</Data>
+            <Data name="Metal Back 2TigerSanBB" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2TigerSanBB</Data>
+            <Data name="Body Armor 2TigerSanBB" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2TigerSanBB</Data>
+            <Data name="metal shoesTigerSanBB" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesTigerSanBB</Data>
+            <Data name="METAL 22TigerSanBB" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FusionGirlXunAbs" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlXunAbs</Data>
+            <Data name="Body2XunAbs" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2XunAbs</Data>
+            <Data name="Metal Back 2XunAbs" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2XunAbs</Data>
+            <Data name="Body Armor 2XunAbs" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2XunAbs</Data>
+            <Data name="METAL 22XunAbs" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FusionGirlFFB Fitness 2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlFFB Fitness 2</Data>
+            <Data name="Body2FFB Fitness 2" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2FFB Fitness 2</Data>
+            <Data name="Metal Top2FFB Fitness 2" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2FFB Fitness 2</Data>
+            <Data name="Metal Back 2FFB Fitness 2" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2FFB Fitness 2</Data>
+            <Data name="Body Armor 2FFB Fitness 2" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2FFB Fitness 2</Data>
+            <Data name="METAL 22FFB Fitness 2" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FusionGirlAthletic" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAthletic</Data>
+            <Data name="Body2Athletic" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Athletic</Data>
+            <Data name="Logo2Athletic" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Athletic</Data>
+            <Data name="Metal Top2Athletic" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Athletic</Data>
+            <Data name="Metal Back 2Athletic" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Athletic</Data>
+            <Data name="Body Armor 2Athletic" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Athletic</Data>
+            <Data name="metal shoesAthletic" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesAthletic</Data>
+            <Data name="METAL 22Athletic" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FusionGirlSeveNBase Bombshell" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSeveNBase Bombshell</Data>
+            <Data name="Body2SeveNBase Bombshell" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2SeveNBase Bombshell</Data>
+            <Data name="Logo2SeveNBase Bombshell" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2SeveNBase Bombshell</Data>
+            <Data name="Metal Top2SeveNBase Bombshell" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2SeveNBase Bombshell</Data>
+            <Data name="Metal Back 2SeveNBase Bombshell" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2SeveNBase Bombshell</Data>
+            <Data name="Body Armor 2SeveNBase Bombshell" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2SeveNBase Bombshell</Data>
+            <Data name="metal shoesSeveNBase Bombshell" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesSeveNBase Bombshell</Data>
+            <Data name="METAL 22SeveNBase Bombshell" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FusionGirlKnee Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlKnee Height</Data>
+            <Data name="Body2Knee Height" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Knee Height</Data>
+            <Data name="Logo2Knee Height" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2Knee Height</Data>
+            <Data name="Body Armor 2Knee Height" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Knee Height</Data>
+            <Data name="METAL 22Knee Height" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Knee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FusionGirlShoulder Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Width</Data>
+            <Data name="Body2Shoulder Width" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Shoulder Width</Data>
+            <Data name="Metal Top2Shoulder Width" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2Shoulder Width</Data>
+            <Data name="Metal Back 2Shoulder Width" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2Shoulder Width</Data>
+            <Data name="Body Armor 2Shoulder Width" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Shoulder Width</Data>
+            <Data name="METAL 22Shoulder Width" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Shoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FusionGirlHighHeels" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHighHeels</Data>
+            <Data name="Body2HighHeels" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2HighHeels</Data>
+            <Data name="Body Armor 2HighHeels" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2HighHeels</Data>
+            <Data name="metal shoesHighHeels" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FusionGirlBodyFat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBodyFat</Data>
+            <Data name="Body2BodyFat" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2BodyFat</Data>
+            <Data name="Logo2BodyFat" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2BodyFat</Data>
+            <Data name="Metal Top2BodyFat" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2BodyFat</Data>
+            <Data name="Metal Back 2BodyFat" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2BodyFat</Data>
+            <Data name="Body Armor 2BodyFat" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2BodyFat</Data>
+            <Data name="metal shoesBodyFat" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesBodyFat</Data>
+            <Data name="METAL 22BodyFat" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FusionGirlLegThin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegThin</Data>
+            <Data name="Body2LegThin" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2LegThin</Data>
+            <Data name="Logo2LegThin" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2LegThin</Data>
+            <Data name="Body Armor 2LegThin" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2LegThin</Data>
+            <Data name="metal shoesLegThin" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesLegThin</Data>
+            <Data name="METAL 22LegThin" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FusionGirlHipsNarrow" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipsNarrow</Data>
+            <Data name="Body2HipsNarrow" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2HipsNarrow</Data>
+            <Data name="Logo2HipsNarrow" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2HipsNarrow</Data>
+            <Data name="Metal Back 2HipsNarrow" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2HipsNarrow</Data>
+            <Data name="Body Armor 2HipsNarrow" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2HipsNarrow</Data>
+            <Data name="metal shoesHipsNarrow" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesHipsNarrow</Data>
+            <Data name="METAL 22HipsNarrow" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FusionGirlButtGravity" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlButtGravity</Data>
+            <Data name="Body2ButtGravity" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2ButtGravity</Data>
+            <Data name="Logo2ButtGravity" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2ButtGravity</Data>
+            <Data name="Body Armor 2ButtGravity" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2ButtGravity</Data>
+            <Data name="metal shoesButtGravity" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FusionGirlButtThin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlButtThin</Data>
+            <Data name="Body2ButtThin" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2ButtThin</Data>
+            <Data name="Logo2ButtThin" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2ButtThin</Data>
+            <Data name="Metal Top2ButtThin" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2ButtThin</Data>
+            <Data name="Metal Back 2ButtThin" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2ButtThin</Data>
+            <Data name="Body Armor 2ButtThin" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2ButtThin</Data>
+            <Data name="metal shoesButtThin" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesButtThin</Data>
+            <Data name="METAL 22ButtThin" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FusionGirlHipsForward" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipsForward</Data>
+            <Data name="Body2HipsForward" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2HipsForward</Data>
+            <Data name="Logo2HipsForward" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2HipsForward</Data>
+            <Data name="Metal Back 2HipsForward" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2HipsForward</Data>
+            <Data name="Body Armor 2HipsForward" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2HipsForward</Data>
+            <Data name="metal shoesHipsForward" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesHipsForward</Data>
+            <Data name="METAL 22HipsForward" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FusionGirlHipRotateForward" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipRotateForward</Data>
+            <Data name="Body2HipRotateForward" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2HipRotateForward</Data>
+            <Data name="Logo2HipRotateForward" target="Logo2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Logo2HipRotateForward</Data>
+            <Data name="Metal Top2HipRotateForward" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2HipRotateForward</Data>
+            <Data name="Metal Back 2HipRotateForward" target="Metal Back 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Back 2HipRotateForward</Data>
+            <Data name="Body Armor 2HipRotateForward" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2HipRotateForward</Data>
+            <Data name="metal shoesHipRotateForward" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesHipRotateForward</Data>
+            <Data name="METAL 22HipRotateForward" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastArmpitin</Data>
+            <Data name="Body2BreastArmpitin" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2BreastArmpitin</Data>
+            <Data name="Metal Top2BreastArmpitin" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2BreastArmpitin</Data>
+            <Data name="Body Armor 2BreastArmpitin" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2BreastArmpitin</Data>
+            <Data name="metal shoesBreastArmpitin" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesBreastArmpitin</Data>
+            <Data name="METAL 22BreastArmpitin" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitWide" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastArmpitWide</Data>
+            <Data name="Body2BreastArmpitWide" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2BreastArmpitWide</Data>
+            <Data name="Metal Top2BreastArmpitWide" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2BreastArmpitWide</Data>
+            <Data name="Body Armor 2BreastArmpitWide" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2BreastArmpitWide</Data>
+            <Data name="metal shoesBreastArmpitWide" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesBreastArmpitWide</Data>
+            <Data name="METAL 22BreastArmpitWide" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FusionGirlBreastCurve" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastCurve</Data>
+            <Data name="Body2BreastCurve" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2BreastCurve</Data>
+            <Data name="Metal Top2BreastCurve" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2BreastCurve</Data>
+            <Data name="Body Armor 2BreastCurve" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2BreastCurve</Data>
+            <Data name="metal shoesBreastCurve" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesBreastCurve</Data>
+            <Data name="METAL 22BreastCurve" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FusionGirlBreastHeight2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastHeight2</Data>
+            <Data name="Body2BreastHeight2" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2BreastHeight2</Data>
+            <Data name="Metal Top2BreastHeight2" target="Metal Top2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Metal Top2BreastHeight2</Data>
+            <Data name="Body Armor 2BreastHeight2" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2BreastHeight2</Data>
+            <Data name="metal shoesBreastHeight2" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesBreastHeight2</Data>
+            <Data name="METAL 22BreastHeight2" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FusionGirlBreastConcave" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastConcave</Data>
+            <Data name="Body2BreastConcave" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2BreastConcave</Data>
+            <Data name="Body Armor 2BreastConcave" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2BreastConcave</Data>
+            <Data name="METAL 22BreastConcave" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22BreastConcave</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="FusionGirlNipples Length" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Length</Data>
+            <Data name="Body2Nipples Length" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Nipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="FusionGirlNipples Areola" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Areola</Data>
+            <Data name="Body2Nipples Areola" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Nipples Areola</Data>
+            <Data name="METAL 22Nipples Areola" target="METAL 22" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\METAL 22Nipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="FusionGirlNipples Gone" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Gone</Data>
+            <Data name="Body2Nipples Gone" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Nipples Gone</Data>
+            <Data name="Body Armor 2Nipples Gone" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Nipples Gone</Data>
+            <Data name="metal shoesNipples Gone" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="FusionGirlNipples Shape" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Shape</Data>
+            <Data name="Body2Nipples Shape" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Nipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="FusionGirlNipples Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Size</Data>
+            <Data name="Body2Nipples Size" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Nipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="FusionGirlNipples Tip" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Tip</Data>
+            <Data name="Body2Nipples Tip" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Nipples Tip</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FusionGirlSturnum Depth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FusionGirlSturnum Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSturnum Height</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Flat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Minora Flat</Data>
+            <Data name="Body2Labia Minora Flat" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Labia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Longer" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Minora Longer</Data>
+            <Data name="Body2Labia Minora Longer" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Labia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="FusionGirlClitoras Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlClitoras Size</Data>
+            <Data name="Body2Clitoras Size" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Clitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="FusionGirlClitoras Long" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Long" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Long</Data>
+            <Data name="Body2Labia Majora Long" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Labia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Wide" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Wide</Data>
+            <Data name="Body2Labia Majora Wide" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Labia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Inner" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Inner</Data>
+            <Data name="Body2Labia Majora Inner" target="Body2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body2Labia Majora Inner</Data>
+            <Data name="Body Armor 2Labia Majora Inner" target="Body Armor 2" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\Body Armor 2Labia Majora Inner</Data>
+            <Data name="metal shoesLabia Majora Inner" target="metal shoes" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\metal shoesLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="Zap-Body" invert="false" default="100" hidden="true" zap="true">
+            <Data name="FusionGirlZap-Body" target="FusionGirl" local="true">Vtaw Wardrobe 7 Dva BodySuit FG.osd\FusionGirlZap-Body</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

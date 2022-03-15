@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw scarf 2 FG">
+        <DataFolder>Vtaw scarf 2 FG</DataFolder>
+        <SourceFile>Vtaw scarf 2 FG.nif</SourceFile>
+        <OutputPath>meshes\wtaw\wardrobe\scarf</OutputPath>
+        <OutputFile GenWeights="false">2</OutputFile>
+        <Shape target="scarf2">scarf2</Shape>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="scarf2Belly Big" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Belly Big</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="scarf2Boobs Yuge" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="scarf2Boobs Big" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="scarf2Boobs Cleavage" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Boobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="scarf2Boobs Flat" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Boobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="scarf2Boobs Gravity" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="scarf2Boobs Height" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Boobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="scarf2Boobs Mellons" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="scarf2Boobs Perky" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="scarf2Boobs Push Up" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="scarf2Boobs Small" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Boobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="scarf2Boobs Together" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Boobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="scarf2Boobs Top Slope" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="scarf2Boobs Width" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Boobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="scarf2Boobs Tiny" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="scarf2Chest Depth" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Chest Depth</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="scarf2Back Size" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Back Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="scarf2Arms Chubby" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="scarf2Shoulder Smooth" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="scarf2Shoulder Tweak" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Shoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="scarf2Arms Size" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="scarf2Armpit Ajustment" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="scarf2Torso Size" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="scarf2Sturnum Depth" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="scarf2Sturnum Height" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="scarf2Groin Position" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="scarf2Groin Back" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Groin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="scarf2Body Toning" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="scarf2TigerSanBB" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2TigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="scarf2Athletic" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="scarf2SeveNBase Bombshell" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="scarf2Shoulder Width" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2Shoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="scarf2BodyFat" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2BodyFat</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="scarf2BreastArmpitin" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="scarf2BreastArmpitWide" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="scarf2BreastCurve" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="scarf2BreastHeight2" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="scarf2BreastConcave" target="scarf2" local="true">Vtaw scarf 2 FG.osd\scarf2BreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

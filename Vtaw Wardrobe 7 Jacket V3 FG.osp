@@ -1,0 +1,696 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Jacket V3 FG">
+        <DataFolder>Vtaw Wardrobe 7 Jacket V3 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Jacket V3 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\Jacket</OutputPath>
+        <OutputFile GenWeights="false">JacketV3</OutputFile>
+        <Shape target="Abs L">Abs L</Shape>
+        <Shape target="Abs R">Abs R</Shape>
+        <Shape target="Metal">Metal</Shape>
+        <Shape target="Metal B L">Metal B L</Shape>
+        <Shape target="Metal B R">Metal B R</Shape>
+        <Shape target="Straps B L">Straps B L</Shape>
+        <Shape target="Straps B R">Straps B R</Shape>
+        <Shape target="Straps back">Straps back</Shape>
+        <Shape target="Straps side">Straps side</Shape>
+        <Shape target="Straps top">Straps top</Shape>
+        <Shape target="jacket">jacket</Shape>
+        <Shape target="spyke">spyke</Shape>
+        <Shape target="zip">zip</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="MetalBelly Pregnant" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBelly Pregnant</Data>
+            <Data name="zipBelly Pregnant" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBelly Pregnant</Data>
+            <Data name="spykeBelly Pregnant" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBelly Pregnant</Data>
+            <Data name="Straps backBelly Pregnant" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBelly Pregnant</Data>
+            <Data name="Abs LBelly Pregnant" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBelly Pregnant</Data>
+            <Data name="Abs RBelly Pregnant" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBelly Pregnant</Data>
+            <Data name="jacketBelly Pregnant" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="MetalBelly Big" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBelly Big</Data>
+            <Data name="zipBelly Big" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBelly Big</Data>
+            <Data name="spykeBelly Big" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBelly Big</Data>
+            <Data name="Abs LBelly Big" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBelly Big</Data>
+            <Data name="Abs RBelly Big" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBelly Big</Data>
+            <Data name="jacketBelly Big" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="MetalBelly Size" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBelly Size</Data>
+            <Data name="zipBelly Size" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBelly Size</Data>
+            <Data name="spykeBelly Size" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBelly Size</Data>
+            <Data name="Straps backBelly Size" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBelly Size</Data>
+            <Data name="Abs LBelly Size" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBelly Size</Data>
+            <Data name="Abs RBelly Size" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBelly Size</Data>
+            <Data name="jacketBelly Size" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Straps topBoobs Yuge" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topBoobs Yuge</Data>
+            <Data name="MetalBoobs Yuge" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBoobs Yuge</Data>
+            <Data name="zipBoobs Yuge" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBoobs Yuge</Data>
+            <Data name="spykeBoobs Yuge" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBoobs Yuge</Data>
+            <Data name="Straps backBoobs Yuge" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBoobs Yuge</Data>
+            <Data name="Metal B LBoobs Yuge" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBoobs Yuge</Data>
+            <Data name="Metal B RBoobs Yuge" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBoobs Yuge</Data>
+            <Data name="Straps B LBoobs Yuge" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBoobs Yuge</Data>
+            <Data name="Abs LBoobs Yuge" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBoobs Yuge</Data>
+            <Data name="Straps sideBoobs Yuge" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBoobs Yuge</Data>
+            <Data name="Abs RBoobs Yuge" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBoobs Yuge</Data>
+            <Data name="Straps B RBoobs Yuge" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBoobs Yuge</Data>
+            <Data name="jacketBoobs Yuge" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Straps topBoobs Big" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topBoobs Big</Data>
+            <Data name="MetalBoobs Big" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBoobs Big</Data>
+            <Data name="zipBoobs Big" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBoobs Big</Data>
+            <Data name="spykeBoobs Big" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBoobs Big</Data>
+            <Data name="Straps backBoobs Big" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBoobs Big</Data>
+            <Data name="Metal B LBoobs Big" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBoobs Big</Data>
+            <Data name="Metal B RBoobs Big" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBoobs Big</Data>
+            <Data name="Straps B LBoobs Big" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBoobs Big</Data>
+            <Data name="Abs LBoobs Big" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBoobs Big</Data>
+            <Data name="Straps sideBoobs Big" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBoobs Big</Data>
+            <Data name="Abs RBoobs Big" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBoobs Big</Data>
+            <Data name="Straps B RBoobs Big" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBoobs Big</Data>
+            <Data name="jacketBoobs Big" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="MetalBoobs Cleavage" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBoobs Cleavage</Data>
+            <Data name="zipBoobs Cleavage" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBoobs Cleavage</Data>
+            <Data name="Metal B LBoobs Cleavage" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBoobs Cleavage</Data>
+            <Data name="Metal B RBoobs Cleavage" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBoobs Cleavage</Data>
+            <Data name="Straps B LBoobs Cleavage" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBoobs Cleavage</Data>
+            <Data name="Abs LBoobs Cleavage" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBoobs Cleavage</Data>
+            <Data name="Straps sideBoobs Cleavage" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBoobs Cleavage</Data>
+            <Data name="Abs RBoobs Cleavage" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBoobs Cleavage</Data>
+            <Data name="Straps B RBoobs Cleavage" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBoobs Cleavage</Data>
+            <Data name="jacketBoobs Cleavage" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="MetalBoobs Flat" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBoobs Flat</Data>
+            <Data name="Metal B LBoobs Flat" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBoobs Flat</Data>
+            <Data name="Metal B RBoobs Flat" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBoobs Flat</Data>
+            <Data name="Straps B LBoobs Flat" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBoobs Flat</Data>
+            <Data name="Abs LBoobs Flat" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBoobs Flat</Data>
+            <Data name="Straps sideBoobs Flat" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBoobs Flat</Data>
+            <Data name="Abs RBoobs Flat" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBoobs Flat</Data>
+            <Data name="Straps B RBoobs Flat" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBoobs Flat</Data>
+            <Data name="jacketBoobs Flat" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Straps topBoobs Gravity" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topBoobs Gravity</Data>
+            <Data name="MetalBoobs Gravity" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBoobs Gravity</Data>
+            <Data name="zipBoobs Gravity" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBoobs Gravity</Data>
+            <Data name="spykeBoobs Gravity" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBoobs Gravity</Data>
+            <Data name="Straps backBoobs Gravity" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBoobs Gravity</Data>
+            <Data name="Metal B LBoobs Gravity" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBoobs Gravity</Data>
+            <Data name="Metal B RBoobs Gravity" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBoobs Gravity</Data>
+            <Data name="Straps B LBoobs Gravity" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBoobs Gravity</Data>
+            <Data name="Abs LBoobs Gravity" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBoobs Gravity</Data>
+            <Data name="Straps sideBoobs Gravity" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBoobs Gravity</Data>
+            <Data name="Abs RBoobs Gravity" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBoobs Gravity</Data>
+            <Data name="Straps B RBoobs Gravity" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBoobs Gravity</Data>
+            <Data name="jacketBoobs Gravity" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="MetalBoobs Height" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBoobs Height</Data>
+            <Data name="zipBoobs Height" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBoobs Height</Data>
+            <Data name="Metal B LBoobs Height" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBoobs Height</Data>
+            <Data name="Metal B RBoobs Height" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBoobs Height</Data>
+            <Data name="Straps B LBoobs Height" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBoobs Height</Data>
+            <Data name="Abs LBoobs Height" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBoobs Height</Data>
+            <Data name="Straps sideBoobs Height" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBoobs Height</Data>
+            <Data name="Abs RBoobs Height" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBoobs Height</Data>
+            <Data name="Straps B RBoobs Height" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBoobs Height</Data>
+            <Data name="jacketBoobs Height" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Straps topBoobs Mellons" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topBoobs Mellons</Data>
+            <Data name="MetalBoobs Mellons" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBoobs Mellons</Data>
+            <Data name="zipBoobs Mellons" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBoobs Mellons</Data>
+            <Data name="spykeBoobs Mellons" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBoobs Mellons</Data>
+            <Data name="Straps backBoobs Mellons" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBoobs Mellons</Data>
+            <Data name="Metal B LBoobs Mellons" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBoobs Mellons</Data>
+            <Data name="Metal B RBoobs Mellons" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBoobs Mellons</Data>
+            <Data name="Straps B LBoobs Mellons" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBoobs Mellons</Data>
+            <Data name="Abs LBoobs Mellons" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBoobs Mellons</Data>
+            <Data name="Straps sideBoobs Mellons" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBoobs Mellons</Data>
+            <Data name="Abs RBoobs Mellons" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBoobs Mellons</Data>
+            <Data name="Straps B RBoobs Mellons" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBoobs Mellons</Data>
+            <Data name="jacketBoobs Mellons" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Straps topBoobs Perky" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topBoobs Perky</Data>
+            <Data name="MetalBoobs Perky" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBoobs Perky</Data>
+            <Data name="zipBoobs Perky" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBoobs Perky</Data>
+            <Data name="spykeBoobs Perky" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBoobs Perky</Data>
+            <Data name="Straps backBoobs Perky" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBoobs Perky</Data>
+            <Data name="Metal B LBoobs Perky" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBoobs Perky</Data>
+            <Data name="Metal B RBoobs Perky" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBoobs Perky</Data>
+            <Data name="Straps B LBoobs Perky" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBoobs Perky</Data>
+            <Data name="Abs LBoobs Perky" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBoobs Perky</Data>
+            <Data name="Straps sideBoobs Perky" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBoobs Perky</Data>
+            <Data name="Abs RBoobs Perky" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBoobs Perky</Data>
+            <Data name="Straps B RBoobs Perky" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBoobs Perky</Data>
+            <Data name="jacketBoobs Perky" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Straps topBoobs Push Up" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topBoobs Push Up</Data>
+            <Data name="MetalBoobs Push Up" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBoobs Push Up</Data>
+            <Data name="zipBoobs Push Up" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBoobs Push Up</Data>
+            <Data name="spykeBoobs Push Up" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBoobs Push Up</Data>
+            <Data name="Straps backBoobs Push Up" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBoobs Push Up</Data>
+            <Data name="Metal B LBoobs Push Up" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBoobs Push Up</Data>
+            <Data name="Metal B RBoobs Push Up" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBoobs Push Up</Data>
+            <Data name="Straps B LBoobs Push Up" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBoobs Push Up</Data>
+            <Data name="Abs LBoobs Push Up" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBoobs Push Up</Data>
+            <Data name="Straps sideBoobs Push Up" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBoobs Push Up</Data>
+            <Data name="Abs RBoobs Push Up" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBoobs Push Up</Data>
+            <Data name="Straps B RBoobs Push Up" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBoobs Push Up</Data>
+            <Data name="jacketBoobs Push Up" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="Metal B LBoobs Small" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBoobs Small</Data>
+            <Data name="Metal B RBoobs Small" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBoobs Small</Data>
+            <Data name="Straps B LBoobs Small" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBoobs Small</Data>
+            <Data name="Abs LBoobs Small" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBoobs Small</Data>
+            <Data name="Straps sideBoobs Small" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBoobs Small</Data>
+            <Data name="Abs RBoobs Small" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBoobs Small</Data>
+            <Data name="Straps B RBoobs Small" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBoobs Small</Data>
+            <Data name="jacketBoobs Small" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="MetalBoobs Together" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBoobs Together</Data>
+            <Data name="zipBoobs Together" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBoobs Together</Data>
+            <Data name="Metal B LBoobs Together" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBoobs Together</Data>
+            <Data name="Metal B RBoobs Together" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBoobs Together</Data>
+            <Data name="Straps B LBoobs Together" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBoobs Together</Data>
+            <Data name="Abs LBoobs Together" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBoobs Together</Data>
+            <Data name="Straps sideBoobs Together" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBoobs Together</Data>
+            <Data name="Abs RBoobs Together" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBoobs Together</Data>
+            <Data name="Straps B RBoobs Together" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBoobs Together</Data>
+            <Data name="jacketBoobs Together" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="Straps topBoobs Top Slope" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topBoobs Top Slope</Data>
+            <Data name="MetalBoobs Top Slope" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBoobs Top Slope</Data>
+            <Data name="zipBoobs Top Slope" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBoobs Top Slope</Data>
+            <Data name="spykeBoobs Top Slope" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBoobs Top Slope</Data>
+            <Data name="Straps backBoobs Top Slope" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBoobs Top Slope</Data>
+            <Data name="Metal B LBoobs Top Slope" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBoobs Top Slope</Data>
+            <Data name="Metal B RBoobs Top Slope" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBoobs Top Slope</Data>
+            <Data name="Straps B LBoobs Top Slope" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBoobs Top Slope</Data>
+            <Data name="Abs LBoobs Top Slope" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBoobs Top Slope</Data>
+            <Data name="Straps sideBoobs Top Slope" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBoobs Top Slope</Data>
+            <Data name="Abs RBoobs Top Slope" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBoobs Top Slope</Data>
+            <Data name="Straps B RBoobs Top Slope" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBoobs Top Slope</Data>
+            <Data name="jacketBoobs Top Slope" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="Metal B LBoobs Width" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBoobs Width</Data>
+            <Data name="Metal B RBoobs Width" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBoobs Width</Data>
+            <Data name="Straps B LBoobs Width" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBoobs Width</Data>
+            <Data name="Abs LBoobs Width" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBoobs Width</Data>
+            <Data name="Straps sideBoobs Width" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBoobs Width</Data>
+            <Data name="Abs RBoobs Width" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBoobs Width</Data>
+            <Data name="Straps B RBoobs Width" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBoobs Width</Data>
+            <Data name="jacketBoobs Width" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Straps topBoobs Tiny" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topBoobs Tiny</Data>
+            <Data name="MetalBoobs Tiny" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBoobs Tiny</Data>
+            <Data name="zipBoobs Tiny" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBoobs Tiny</Data>
+            <Data name="spykeBoobs Tiny" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBoobs Tiny</Data>
+            <Data name="Straps backBoobs Tiny" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBoobs Tiny</Data>
+            <Data name="Metal B LBoobs Tiny" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBoobs Tiny</Data>
+            <Data name="Metal B RBoobs Tiny" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBoobs Tiny</Data>
+            <Data name="Straps B LBoobs Tiny" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBoobs Tiny</Data>
+            <Data name="Abs LBoobs Tiny" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBoobs Tiny</Data>
+            <Data name="Straps sideBoobs Tiny" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBoobs Tiny</Data>
+            <Data name="Abs RBoobs Tiny" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBoobs Tiny</Data>
+            <Data name="Straps B RBoobs Tiny" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBoobs Tiny</Data>
+            <Data name="jacketBoobs Tiny" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="Metal B LNipples Distance" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LNipples Distance</Data>
+            <Data name="Metal B RNipples Distance" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RNipples Distance</Data>
+            <Data name="Straps B LNipples Distance" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LNipples Distance</Data>
+            <Data name="Abs LNipples Distance" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LNipples Distance</Data>
+            <Data name="Abs RNipples Distance" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RNipples Distance</Data>
+            <Data name="Straps B RNipples Distance" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RNipples Distance</Data>
+            <Data name="jacketNipples Distance" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="Metal B LNipples Down" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LNipples Down</Data>
+            <Data name="Metal B RNipples Down" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RNipples Down</Data>
+            <Data name="Straps B LNipples Down" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LNipples Down</Data>
+            <Data name="Abs LNipples Down" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LNipples Down</Data>
+            <Data name="Abs RNipples Down" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RNipples Down</Data>
+            <Data name="Straps B RNipples Down" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RNipples Down</Data>
+            <Data name="jacketNipples Down" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="Metal B LNipples Perkiness" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LNipples Perkiness</Data>
+            <Data name="Metal B RNipples Perkiness" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RNipples Perkiness</Data>
+            <Data name="Straps B LNipples Perkiness" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LNipples Perkiness</Data>
+            <Data name="Abs LNipples Perkiness" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LNipples Perkiness</Data>
+            <Data name="Abs RNipples Perkiness" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RNipples Perkiness</Data>
+            <Data name="Straps B RNipples Perkiness" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RNipples Perkiness</Data>
+            <Data name="jacketNipples Perkiness" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="Metal B LNipples Puffy" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LNipples Puffy</Data>
+            <Data name="Metal B RNipples Puffy" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RNipples Puffy</Data>
+            <Data name="Straps B LNipples Puffy" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LNipples Puffy</Data>
+            <Data name="Straps B RNipples Puffy" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RNipples Puffy</Data>
+            <Data name="jacketNipples Puffy" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="Metal B LNipples Up" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LNipples Up</Data>
+            <Data name="Metal B RNipples Up" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RNipples Up</Data>
+            <Data name="Straps B LNipples Up" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LNipples Up</Data>
+            <Data name="Abs LNipples Up" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LNipples Up</Data>
+            <Data name="Abs RNipples Up" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RNipples Up</Data>
+            <Data name="Straps B RNipples Up" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RNipples Up</Data>
+            <Data name="jacketNipples Up" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="MetalChest Depth" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalChest Depth</Data>
+            <Data name="zipChest Depth" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipChest Depth</Data>
+            <Data name="spykeChest Depth" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeChest Depth</Data>
+            <Data name="Metal B LChest Depth" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LChest Depth</Data>
+            <Data name="Metal B RChest Depth" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RChest Depth</Data>
+            <Data name="Straps B LChest Depth" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LChest Depth</Data>
+            <Data name="Abs LChest Depth" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LChest Depth</Data>
+            <Data name="Straps sideChest Depth" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideChest Depth</Data>
+            <Data name="Abs RChest Depth" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RChest Depth</Data>
+            <Data name="Straps B RChest Depth" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RChest Depth</Data>
+            <Data name="jacketChest Depth" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="MetalChest Width" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalChest Width</Data>
+            <Data name="spykeChest Width" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeChest Width</Data>
+            <Data name="Straps backChest Width" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backChest Width</Data>
+            <Data name="Metal B LChest Width" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LChest Width</Data>
+            <Data name="Metal B RChest Width" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RChest Width</Data>
+            <Data name="Straps B LChest Width" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LChest Width</Data>
+            <Data name="Abs LChest Width" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LChest Width</Data>
+            <Data name="Abs RChest Width" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RChest Width</Data>
+            <Data name="Straps B RChest Width" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RChest Width</Data>
+            <Data name="jacketChest Width" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="MetalWaist Chubby" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalWaist Chubby</Data>
+            <Data name="zipWaist Chubby" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipWaist Chubby</Data>
+            <Data name="spykeWaist Chubby" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeWaist Chubby</Data>
+            <Data name="Straps backWaist Chubby" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backWaist Chubby</Data>
+            <Data name="Abs LWaist Chubby" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LWaist Chubby</Data>
+            <Data name="Abs RWaist Chubby" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RWaist Chubby</Data>
+            <Data name="jacketWaist Chubby" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="MetalWaist Size" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalWaist Size</Data>
+            <Data name="spykeWaist Size" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeWaist Size</Data>
+            <Data name="Straps backWaist Size" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backWaist Size</Data>
+            <Data name="Abs LWaist Size" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LWaist Size</Data>
+            <Data name="Abs RWaist Size" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RWaist Size</Data>
+            <Data name="jacketWaist Size" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="MetalWaist Height" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalWaist Height</Data>
+            <Data name="zipWaist Height" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipWaist Height</Data>
+            <Data name="spykeWaist Height" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeWaist Height</Data>
+            <Data name="Straps backWaist Height" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backWaist Height</Data>
+            <Data name="Abs LWaist Height" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LWaist Height</Data>
+            <Data name="Abs RWaist Height" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RWaist Height</Data>
+            <Data name="jacketWaist Height" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="spykeWaist Line" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeWaist Line</Data>
+            <Data name="Abs LWaist Line" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LWaist Line</Data>
+            <Data name="Abs RWaist Line" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RWaist Line</Data>
+            <Data name="jacketWaist Line" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="MetalBack Size" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBack Size</Data>
+            <Data name="spykeBack Size" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBack Size</Data>
+            <Data name="Straps backBack Size" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBack Size</Data>
+            <Data name="jacketBack Size" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="MetalBack Arch" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBack Arch</Data>
+            <Data name="spykeBack Arch" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBack Arch</Data>
+            <Data name="Straps backBack Arch" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBack Arch</Data>
+            <Data name="jacketBack Arch" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="spykeHips Bone" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeHips Bone</Data>
+            <Data name="jacketHips Bone" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="spykeHips Size" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeHips Size</Data>
+            <Data name="jacketHips Size" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="spykeHips Upper Width" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeHips Upper Width</Data>
+            <Data name="Abs LHips Upper Width" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LHips Upper Width</Data>
+            <Data name="Abs RHips Upper Width" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RHips Upper Width</Data>
+            <Data name="jacketHips Upper Width" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="spykeBum Size" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBum Size</Data>
+            <Data name="jacketBum Size" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBum Size</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="spykeBum Shape 1" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBum Shape 1</Data>
+            <Data name="Abs LBum Shape 1" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBum Shape 1</Data>
+            <Data name="jacketBum Shape 1" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="MetalBum Shape 2" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBum Shape 2</Data>
+            <Data name="zipBum Shape 2" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBum Shape 2</Data>
+            <Data name="spykeBum Shape 2" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBum Shape 2</Data>
+            <Data name="Straps backBum Shape 2" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBum Shape 2</Data>
+            <Data name="Abs LBum Shape 2" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBum Shape 2</Data>
+            <Data name="Abs RBum Shape 2" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBum Shape 2</Data>
+            <Data name="jacketBum Shape 2" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="MetalBum Small" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBum Small</Data>
+            <Data name="spykeBum Small" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBum Small</Data>
+            <Data name="jacketBum Small" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="MetalBum Chubby" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBum Chubby</Data>
+            <Data name="spykeBum Chubby" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBum Chubby</Data>
+            <Data name="Straps backBum Chubby" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBum Chubby</Data>
+            <Data name="Abs RBum Chubby" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBum Chubby</Data>
+            <Data name="jacketBum Chubby" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="spykeBum Round" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBum Round</Data>
+            <Data name="jacketBum Round" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="MetalBum Apple" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBum Apple</Data>
+            <Data name="spykeBum Apple" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBum Apple</Data>
+            <Data name="Straps backBum Apple" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBum Apple</Data>
+            <Data name="Abs LBum Apple" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBum Apple</Data>
+            <Data name="jacketBum Apple" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="MetalLegs Chubby" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalLegs Chubby</Data>
+            <Data name="spykeLegs Chubby" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeLegs Chubby</Data>
+            <Data name="Straps backLegs Chubby" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backLegs Chubby</Data>
+            <Data name="jacketLegs Chubby" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketLegs Chubby</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="jacketThighs Slim" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketThighs Slim</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="Straps topArms Chubby" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topArms Chubby</Data>
+            <Data name="MetalArms Chubby" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalArms Chubby</Data>
+            <Data name="Straps sideArms Chubby" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideArms Chubby</Data>
+            <Data name="jacketArms Chubby" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="Straps topShoulder Smooth" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topShoulder Smooth</Data>
+            <Data name="MetalShoulder Smooth" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalShoulder Smooth</Data>
+            <Data name="Straps sideShoulder Smooth" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideShoulder Smooth</Data>
+            <Data name="jacketShoulder Smooth" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="Straps topShoulder Tweak" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topShoulder Tweak</Data>
+            <Data name="MetalShoulder Tweak" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalShoulder Tweak</Data>
+            <Data name="Straps sideShoulder Tweak" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideShoulder Tweak</Data>
+            <Data name="jacketShoulder Tweak" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="Straps topArms Size" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topArms Size</Data>
+            <Data name="MetalArms Size" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalArms Size</Data>
+            <Data name="Straps backArms Size" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backArms Size</Data>
+            <Data name="Straps sideArms Size" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideArms Size</Data>
+            <Data name="jacketArms Size" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="Straps topArmpit Ajustment" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topArmpit Ajustment</Data>
+            <Data name="MetalArmpit Ajustment" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalArmpit Ajustment</Data>
+            <Data name="Straps sideArmpit Ajustment" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideArmpit Ajustment</Data>
+            <Data name="jacketArmpit Ajustment" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="jacketForearms Size" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Straps topTorso Size" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topTorso Size</Data>
+            <Data name="MetalTorso Size" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalTorso Size</Data>
+            <Data name="zipTorso Size" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipTorso Size</Data>
+            <Data name="spykeTorso Size" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeTorso Size</Data>
+            <Data name="Straps backTorso Size" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backTorso Size</Data>
+            <Data name="Metal B LTorso Size" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LTorso Size</Data>
+            <Data name="Metal B RTorso Size" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RTorso Size</Data>
+            <Data name="Straps B LTorso Size" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LTorso Size</Data>
+            <Data name="Abs LTorso Size" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LTorso Size</Data>
+            <Data name="Straps sideTorso Size" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideTorso Size</Data>
+            <Data name="Abs RTorso Size" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RTorso Size</Data>
+            <Data name="Straps B RTorso Size" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RTorso Size</Data>
+            <Data name="jacketTorso Size" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Straps topSturnum Depth" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topSturnum Depth</Data>
+            <Data name="MetalSturnum Depth" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalSturnum Depth</Data>
+            <Data name="zipSturnum Depth" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipSturnum Depth</Data>
+            <Data name="spykeSturnum Depth" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeSturnum Depth</Data>
+            <Data name="Straps backSturnum Depth" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backSturnum Depth</Data>
+            <Data name="Metal B LSturnum Depth" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LSturnum Depth</Data>
+            <Data name="Metal B RSturnum Depth" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RSturnum Depth</Data>
+            <Data name="Straps B LSturnum Depth" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LSturnum Depth</Data>
+            <Data name="Abs LSturnum Depth" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LSturnum Depth</Data>
+            <Data name="Straps sideSturnum Depth" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideSturnum Depth</Data>
+            <Data name="Abs RSturnum Depth" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RSturnum Depth</Data>
+            <Data name="Straps B RSturnum Depth" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RSturnum Depth</Data>
+            <Data name="jacketSturnum Depth" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Straps topSturnum Height" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topSturnum Height</Data>
+            <Data name="MetalSturnum Height" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalSturnum Height</Data>
+            <Data name="zipSturnum Height" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipSturnum Height</Data>
+            <Data name="spykeSturnum Height" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeSturnum Height</Data>
+            <Data name="Straps backSturnum Height" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backSturnum Height</Data>
+            <Data name="Metal B LSturnum Height" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LSturnum Height</Data>
+            <Data name="Metal B RSturnum Height" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RSturnum Height</Data>
+            <Data name="Straps B LSturnum Height" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LSturnum Height</Data>
+            <Data name="Abs LSturnum Height" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LSturnum Height</Data>
+            <Data name="Straps sideSturnum Height" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideSturnum Height</Data>
+            <Data name="Abs RSturnum Height" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RSturnum Height</Data>
+            <Data name="Straps B RSturnum Height" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RSturnum Height</Data>
+            <Data name="jacketSturnum Height" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Straps topGroin Position" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topGroin Position</Data>
+            <Data name="MetalGroin Position" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalGroin Position</Data>
+            <Data name="zipGroin Position" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipGroin Position</Data>
+            <Data name="spykeGroin Position" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeGroin Position</Data>
+            <Data name="Straps backGroin Position" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backGroin Position</Data>
+            <Data name="Abs LGroin Position" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LGroin Position</Data>
+            <Data name="Straps sideGroin Position" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideGroin Position</Data>
+            <Data name="jacketGroin Position" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Straps topGroin Back" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topGroin Back</Data>
+            <Data name="MetalGroin Back" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalGroin Back</Data>
+            <Data name="zipGroin Back" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipGroin Back</Data>
+            <Data name="spykeGroin Back" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeGroin Back</Data>
+            <Data name="Straps backGroin Back" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backGroin Back</Data>
+            <Data name="Abs LGroin Back" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LGroin Back</Data>
+            <Data name="Straps sideGroin Back" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideGroin Back</Data>
+            <Data name="jacketGroin Back" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="MetalAbDefinition" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalAbDefinition</Data>
+            <Data name="zipAbDefinition" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipAbDefinition</Data>
+            <Data name="spykeAbDefinition" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeAbDefinition</Data>
+            <Data name="Abs LAbDefinition" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LAbDefinition</Data>
+            <Data name="Abs RAbDefinition" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RAbDefinition</Data>
+            <Data name="jacketAbDefinition" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Straps topBody Toning" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topBody Toning</Data>
+            <Data name="MetalBody Toning" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBody Toning</Data>
+            <Data name="zipBody Toning" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBody Toning</Data>
+            <Data name="spykeBody Toning" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBody Toning</Data>
+            <Data name="Straps backBody Toning" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBody Toning</Data>
+            <Data name="Metal B LBody Toning" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBody Toning</Data>
+            <Data name="Metal B RBody Toning" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBody Toning</Data>
+            <Data name="Straps B LBody Toning" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBody Toning</Data>
+            <Data name="Abs LBody Toning" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBody Toning</Data>
+            <Data name="Straps sideBody Toning" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBody Toning</Data>
+            <Data name="Abs RBody Toning" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBody Toning</Data>
+            <Data name="Straps B RBody Toning" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBody Toning</Data>
+            <Data name="jacketBody Toning" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Straps topTigerSanBB" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topTigerSanBB</Data>
+            <Data name="MetalTigerSanBB" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalTigerSanBB</Data>
+            <Data name="zipTigerSanBB" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipTigerSanBB</Data>
+            <Data name="spykeTigerSanBB" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeTigerSanBB</Data>
+            <Data name="Straps backTigerSanBB" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backTigerSanBB</Data>
+            <Data name="Metal B LTigerSanBB" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LTigerSanBB</Data>
+            <Data name="Metal B RTigerSanBB" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RTigerSanBB</Data>
+            <Data name="Straps B LTigerSanBB" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LTigerSanBB</Data>
+            <Data name="Abs LTigerSanBB" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LTigerSanBB</Data>
+            <Data name="Straps sideTigerSanBB" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideTigerSanBB</Data>
+            <Data name="Abs RTigerSanBB" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RTigerSanBB</Data>
+            <Data name="Straps B RTigerSanBB" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RTigerSanBB</Data>
+            <Data name="jacketTigerSanBB" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="MetalXunAbs" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalXunAbs</Data>
+            <Data name="zipXunAbs" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipXunAbs</Data>
+            <Data name="spykeXunAbs" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeXunAbs</Data>
+            <Data name="Abs LXunAbs" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LXunAbs</Data>
+            <Data name="Abs RXunAbs" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RXunAbs</Data>
+            <Data name="jacketXunAbs" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="MetalFFB Fitness 2" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalFFB Fitness 2</Data>
+            <Data name="zipFFB Fitness 2" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipFFB Fitness 2</Data>
+            <Data name="spykeFFB Fitness 2" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeFFB Fitness 2</Data>
+            <Data name="Straps backFFB Fitness 2" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backFFB Fitness 2</Data>
+            <Data name="Abs LFFB Fitness 2" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LFFB Fitness 2</Data>
+            <Data name="Abs RFFB Fitness 2" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RFFB Fitness 2</Data>
+            <Data name="jacketFFB Fitness 2" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Straps topAthletic" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topAthletic</Data>
+            <Data name="MetalAthletic" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalAthletic</Data>
+            <Data name="zipAthletic" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipAthletic</Data>
+            <Data name="spykeAthletic" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeAthletic</Data>
+            <Data name="Straps backAthletic" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backAthletic</Data>
+            <Data name="Metal B LAthletic" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LAthletic</Data>
+            <Data name="Metal B RAthletic" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RAthletic</Data>
+            <Data name="Straps B LAthletic" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LAthletic</Data>
+            <Data name="Abs LAthletic" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LAthletic</Data>
+            <Data name="Straps sideAthletic" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideAthletic</Data>
+            <Data name="Abs RAthletic" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RAthletic</Data>
+            <Data name="Straps B RAthletic" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RAthletic</Data>
+            <Data name="jacketAthletic" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Straps topSeveNBase Bombshell" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topSeveNBase Bombshell</Data>
+            <Data name="MetalSeveNBase Bombshell" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalSeveNBase Bombshell</Data>
+            <Data name="zipSeveNBase Bombshell" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipSeveNBase Bombshell</Data>
+            <Data name="spykeSeveNBase Bombshell" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeSeveNBase Bombshell</Data>
+            <Data name="Straps backSeveNBase Bombshell" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backSeveNBase Bombshell</Data>
+            <Data name="Metal B LSeveNBase Bombshell" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LSeveNBase Bombshell</Data>
+            <Data name="Metal B RSeveNBase Bombshell" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RSeveNBase Bombshell</Data>
+            <Data name="Straps B LSeveNBase Bombshell" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LSeveNBase Bombshell</Data>
+            <Data name="Abs LSeveNBase Bombshell" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LSeveNBase Bombshell</Data>
+            <Data name="Straps sideSeveNBase Bombshell" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideSeveNBase Bombshell</Data>
+            <Data name="Abs RSeveNBase Bombshell" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RSeveNBase Bombshell</Data>
+            <Data name="Straps B RSeveNBase Bombshell" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RSeveNBase Bombshell</Data>
+            <Data name="jacketSeveNBase Bombshell" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Straps topShoulder Width" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topShoulder Width</Data>
+            <Data name="MetalShoulder Width" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalShoulder Width</Data>
+            <Data name="spykeShoulder Width" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeShoulder Width</Data>
+            <Data name="Straps backShoulder Width" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backShoulder Width</Data>
+            <Data name="Metal B LShoulder Width" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LShoulder Width</Data>
+            <Data name="Metal B RShoulder Width" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RShoulder Width</Data>
+            <Data name="Straps B LShoulder Width" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LShoulder Width</Data>
+            <Data name="Straps sideShoulder Width" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideShoulder Width</Data>
+            <Data name="Straps B RShoulder Width" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RShoulder Width</Data>
+            <Data name="jacketShoulder Width" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Straps topBodyFat" target="Straps top" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps topBodyFat</Data>
+            <Data name="MetalBodyFat" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBodyFat</Data>
+            <Data name="zipBodyFat" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBodyFat</Data>
+            <Data name="spykeBodyFat" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeBodyFat</Data>
+            <Data name="Straps backBodyFat" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backBodyFat</Data>
+            <Data name="Metal B LBodyFat" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBodyFat</Data>
+            <Data name="Metal B RBodyFat" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBodyFat</Data>
+            <Data name="Straps B LBodyFat" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBodyFat</Data>
+            <Data name="Abs LBodyFat" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBodyFat</Data>
+            <Data name="Straps sideBodyFat" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBodyFat</Data>
+            <Data name="Abs RBodyFat" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBodyFat</Data>
+            <Data name="Straps B RBodyFat" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBodyFat</Data>
+            <Data name="jacketBodyFat" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBodyFat</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="spykeHipsNarrow" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeHipsNarrow</Data>
+            <Data name="jacketHipsNarrow" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="MetalButtThin" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalButtThin</Data>
+            <Data name="spykeButtThin" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeButtThin</Data>
+            <Data name="Straps backButtThin" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backButtThin</Data>
+            <Data name="jacketButtThin" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="MetalHipsForward" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalHipsForward</Data>
+            <Data name="spykeHipsForward" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeHipsForward</Data>
+            <Data name="jacketHipsForward" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="MetalHipRotateForward" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalHipRotateForward</Data>
+            <Data name="zipHipRotateForward" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipHipRotateForward</Data>
+            <Data name="spykeHipRotateForward" target="spyke" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\spykeHipRotateForward</Data>
+            <Data name="Straps backHipRotateForward" target="Straps back" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps backHipRotateForward</Data>
+            <Data name="Abs LHipRotateForward" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LHipRotateForward</Data>
+            <Data name="Abs RHipRotateForward" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RHipRotateForward</Data>
+            <Data name="jacketHipRotateForward" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="MetalBreastArmpitin" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBreastArmpitin</Data>
+            <Data name="Metal B LBreastArmpitin" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBreastArmpitin</Data>
+            <Data name="Metal B RBreastArmpitin" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBreastArmpitin</Data>
+            <Data name="Straps B LBreastArmpitin" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBreastArmpitin</Data>
+            <Data name="Straps sideBreastArmpitin" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBreastArmpitin</Data>
+            <Data name="Straps B RBreastArmpitin" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBreastArmpitin</Data>
+            <Data name="jacketBreastArmpitin" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="MetalBreastArmpitWide" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBreastArmpitWide</Data>
+            <Data name="Metal B LBreastArmpitWide" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBreastArmpitWide</Data>
+            <Data name="Metal B RBreastArmpitWide" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBreastArmpitWide</Data>
+            <Data name="Straps B LBreastArmpitWide" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBreastArmpitWide</Data>
+            <Data name="Straps sideBreastArmpitWide" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBreastArmpitWide</Data>
+            <Data name="Straps B RBreastArmpitWide" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBreastArmpitWide</Data>
+            <Data name="jacketBreastArmpitWide" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="MetalBreastCurve" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBreastCurve</Data>
+            <Data name="Metal B LBreastCurve" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBreastCurve</Data>
+            <Data name="Metal B RBreastCurve" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBreastCurve</Data>
+            <Data name="Straps B LBreastCurve" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBreastCurve</Data>
+            <Data name="Abs LBreastCurve" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBreastCurve</Data>
+            <Data name="Straps sideBreastCurve" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBreastCurve</Data>
+            <Data name="Abs RBreastCurve" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBreastCurve</Data>
+            <Data name="Straps B RBreastCurve" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBreastCurve</Data>
+            <Data name="jacketBreastCurve" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="MetalBreastHeight2" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBreastHeight2</Data>
+            <Data name="zipBreastHeight2" target="zip" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\zipBreastHeight2</Data>
+            <Data name="Metal B LBreastHeight2" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBreastHeight2</Data>
+            <Data name="Metal B RBreastHeight2" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBreastHeight2</Data>
+            <Data name="Straps B LBreastHeight2" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBreastHeight2</Data>
+            <Data name="Abs LBreastHeight2" target="Abs L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs LBreastHeight2</Data>
+            <Data name="Straps sideBreastHeight2" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBreastHeight2</Data>
+            <Data name="Abs RBreastHeight2" target="Abs R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Abs RBreastHeight2</Data>
+            <Data name="Straps B RBreastHeight2" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBreastHeight2</Data>
+            <Data name="jacketBreastHeight2" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="MetalBreastConcave" target="Metal" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\MetalBreastConcave</Data>
+            <Data name="Metal B LBreastConcave" target="Metal B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B LBreastConcave</Data>
+            <Data name="Metal B RBreastConcave" target="Metal B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Metal B RBreastConcave</Data>
+            <Data name="Straps B LBreastConcave" target="Straps B L" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B LBreastConcave</Data>
+            <Data name="Straps sideBreastConcave" target="Straps side" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps sideBreastConcave</Data>
+            <Data name="Straps B RBreastConcave" target="Straps B R" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\Straps B RBreastConcave</Data>
+            <Data name="jacketBreastConcave" target="jacket" local="true">Vtaw Wardrobe 7 Jacket V3 FG.osd\jacketBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

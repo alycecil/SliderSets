@@ -1,0 +1,1148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="_Amputee Wasteland Dress">
+        <DataFolder>Amputee</DataFolder>
+        <SourceFile>_Amputee Wasteland Dress.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\Amputee</OutputPath>
+        <OutputFile GenWeights="false">WastelandDress</OutputFile>
+        <Shape target="Body">Body</Shape>
+        <Shape target="Buttons">Buttons</Shape>
+        <Shape target="Charred_Arm_Armwrap" DataFolder="FusionGirl">Charred_Arm_Armwrap</Shape>
+        <Shape target="Charred_BarbedWire_2">Charred_BarbedWire_2</Shape>
+        <Shape target="Knee">Knee</Shape>
+        <Shape target="Metal Knee">Metal Knee</Shape>
+        <Shape target="Metal Knee2">Metal Knee2</Shape>
+        <Shape target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0">Model002_24_-part1-armbandage.part1-armbandage_0_0_0</Shape>
+        <Shape target="Panties">Panties</Shape>
+        <Shape target="Straps Knee">Straps Knee</Shape>
+        <Shape target="TopKnot">TopKnot</Shape>
+        <Shape target="ZBrush_defualt_group.055_ZBrush_defualt_group.094">ZBrush_defualt_group.055_ZBrush_defualt_group.094</Shape>
+        <Shape target="bag.009_ZBrush_defualt_group.011">bag.009_ZBrush_defualt_group.011</Shape>
+        <Shape target="bag.034_ZBrush_defualt_group.039">bag.034_ZBrush_defualt_group.039</Shape>
+        <Shape target="bag7">bag7</Shape>
+        <Shape target="belt">belt</Shape>
+        <Shape target="belt2">belt2</Shape>
+        <Shape target="belt3">belt3</Shape>
+        <Shape target="belt4">belt4</Shape>
+        <Shape target="belt5">belt5</Shape>
+        <Shape target="belt6">belt6</Shape>
+        <Shape target="belt8">belt8</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="BodyBelly Pregnant" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBelly Pregnant</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Belly Pregnant" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Belly Pregnant</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Belly Pregnant" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Belly Pregnant</Data>
+            <Data name="beltBelly Pregnant" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBelly Pregnant</Data>
+            <Data name="belt2Belly Pregnant" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Belly Pregnant</Data>
+            <Data name="belt4Belly Pregnant" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Belly Pregnant</Data>
+            <Data name="belt5Belly Pregnant" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Belly Pregnant</Data>
+            <Data name="belt6Belly Pregnant" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Belly Pregnant</Data>
+            <Data name="TopKnotBelly Pregnant" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBelly Pregnant</Data>
+            <Data name="ButtonsBelly Pregnant" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBelly Pregnant</Data>
+            <Data name="PantiesBelly Pregnant" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="BodyBelly Big" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBelly Big</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Belly Big" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Belly Big</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Belly Big" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Belly Big</Data>
+            <Data name="beltBelly Big" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBelly Big</Data>
+            <Data name="belt2Belly Big" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Belly Big</Data>
+            <Data name="belt4Belly Big" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Belly Big</Data>
+            <Data name="belt5Belly Big" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Belly Big</Data>
+            <Data name="belt6Belly Big" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Belly Big</Data>
+            <Data name="TopKnotBelly Big" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBelly Big</Data>
+            <Data name="PantiesBelly Big" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="BodyBelly Size" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBelly Size</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Belly Size" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Belly Size</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Belly Size" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Belly Size</Data>
+            <Data name="belt2Belly Size" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Belly Size</Data>
+            <Data name="belt4Belly Size" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Belly Size</Data>
+            <Data name="belt6Belly Size" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Belly Size</Data>
+            <Data name="TopKnotBelly Size" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBelly Size</Data>
+            <Data name="PantiesBelly Size" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="BodyBelly Tuck" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBelly Tuck</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Belly Tuck" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Belly Tuck</Data>
+            <Data name="belt2Belly Tuck" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Belly Tuck</Data>
+            <Data name="belt4Belly Tuck" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Belly Tuck</Data>
+            <Data name="belt6Belly Tuck" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Belly Tuck</Data>
+            <Data name="PantiesBelly Tuck" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBoobs Yuge" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapBoobs Yuge</Data>
+            <Data name="Charred_BarbedWire_2Boobs Yuge" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Boobs Yuge</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Yuge" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Yuge</Data>
+            <Data name="BodyBoobs Yuge" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBoobs Yuge</Data>
+            <Data name="bag7Boobs Yuge" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Boobs Yuge</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Yuge" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Boobs Yuge</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Yuge" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Boobs Yuge</Data>
+            <Data name="beltBoobs Yuge" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBoobs Yuge</Data>
+            <Data name="belt2Boobs Yuge" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Boobs Yuge</Data>
+            <Data name="belt3Boobs Yuge" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Boobs Yuge</Data>
+            <Data name="belt4Boobs Yuge" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Boobs Yuge</Data>
+            <Data name="belt5Boobs Yuge" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Boobs Yuge</Data>
+            <Data name="belt6Boobs Yuge" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Boobs Yuge</Data>
+            <Data name="belt8Boobs Yuge" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Boobs Yuge</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Yuge" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Yuge</Data>
+            <Data name="Straps KneeBoobs Yuge" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeBoobs Yuge</Data>
+            <Data name="KneeBoobs Yuge" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeBoobs Yuge</Data>
+            <Data name="TopKnotBoobs Yuge" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBoobs Yuge</Data>
+            <Data name="ButtonsBoobs Yuge" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBoobs Yuge</Data>
+            <Data name="PantiesBoobs Yuge" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBoobs Big" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapBoobs Big</Data>
+            <Data name="Charred_BarbedWire_2Boobs Big" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Boobs Big</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Big" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Big</Data>
+            <Data name="BodyBoobs Big" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBoobs Big</Data>
+            <Data name="bag7Boobs Big" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Boobs Big</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Big" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Boobs Big</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Big" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Boobs Big</Data>
+            <Data name="beltBoobs Big" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBoobs Big</Data>
+            <Data name="belt2Boobs Big" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Boobs Big</Data>
+            <Data name="belt3Boobs Big" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Boobs Big</Data>
+            <Data name="belt4Boobs Big" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Boobs Big</Data>
+            <Data name="belt5Boobs Big" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Boobs Big</Data>
+            <Data name="belt6Boobs Big" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Boobs Big</Data>
+            <Data name="belt8Boobs Big" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Boobs Big</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Big" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Big</Data>
+            <Data name="Straps KneeBoobs Big" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeBoobs Big</Data>
+            <Data name="KneeBoobs Big" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeBoobs Big</Data>
+            <Data name="TopKnotBoobs Big" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBoobs Big</Data>
+            <Data name="ButtonsBoobs Big" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBoobs Big</Data>
+            <Data name="PantiesBoobs Big" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="BodyBoobs Cleavage" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBoobs Cleavage</Data>
+            <Data name="TopKnotBoobs Cleavage" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBoobs Cleavage</Data>
+            <Data name="ButtonsBoobs Cleavage" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="BodyBoobs Flat" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBoobs Flat</Data>
+            <Data name="TopKnotBoobs Flat" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBoobs Flat</Data>
+            <Data name="ButtonsBoobs Flat" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBoobs Gravity" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapBoobs Gravity</Data>
+            <Data name="Charred_BarbedWire_2Boobs Gravity" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Boobs Gravity</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Gravity" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Gravity</Data>
+            <Data name="BodyBoobs Gravity" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBoobs Gravity</Data>
+            <Data name="bag7Boobs Gravity" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Boobs Gravity</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Gravity" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Boobs Gravity</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Gravity" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Boobs Gravity</Data>
+            <Data name="beltBoobs Gravity" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBoobs Gravity</Data>
+            <Data name="belt2Boobs Gravity" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Boobs Gravity</Data>
+            <Data name="belt3Boobs Gravity" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Boobs Gravity</Data>
+            <Data name="belt4Boobs Gravity" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Boobs Gravity</Data>
+            <Data name="belt5Boobs Gravity" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Boobs Gravity</Data>
+            <Data name="belt6Boobs Gravity" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Boobs Gravity</Data>
+            <Data name="belt8Boobs Gravity" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Boobs Gravity</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Gravity" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Gravity</Data>
+            <Data name="Straps KneeBoobs Gravity" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeBoobs Gravity</Data>
+            <Data name="KneeBoobs Gravity" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeBoobs Gravity</Data>
+            <Data name="TopKnotBoobs Gravity" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBoobs Gravity</Data>
+            <Data name="ButtonsBoobs Gravity" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBoobs Gravity</Data>
+            <Data name="PantiesBoobs Gravity" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Height" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Height</Data>
+            <Data name="BodyBoobs Height" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBoobs Height</Data>
+            <Data name="TopKnotBoobs Height" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBoobs Height</Data>
+            <Data name="ButtonsBoobs Height" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBoobs Mellons" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapBoobs Mellons</Data>
+            <Data name="Charred_BarbedWire_2Boobs Mellons" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Boobs Mellons</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Mellons" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Mellons</Data>
+            <Data name="BodyBoobs Mellons" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBoobs Mellons</Data>
+            <Data name="bag7Boobs Mellons" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Boobs Mellons</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Mellons" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Boobs Mellons</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Mellons" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Boobs Mellons</Data>
+            <Data name="beltBoobs Mellons" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBoobs Mellons</Data>
+            <Data name="belt2Boobs Mellons" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Boobs Mellons</Data>
+            <Data name="belt3Boobs Mellons" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Boobs Mellons</Data>
+            <Data name="belt4Boobs Mellons" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Boobs Mellons</Data>
+            <Data name="belt5Boobs Mellons" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Boobs Mellons</Data>
+            <Data name="belt6Boobs Mellons" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Boobs Mellons</Data>
+            <Data name="belt8Boobs Mellons" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Boobs Mellons</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Mellons" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Mellons</Data>
+            <Data name="Straps KneeBoobs Mellons" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeBoobs Mellons</Data>
+            <Data name="KneeBoobs Mellons" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeBoobs Mellons</Data>
+            <Data name="TopKnotBoobs Mellons" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBoobs Mellons</Data>
+            <Data name="ButtonsBoobs Mellons" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBoobs Mellons</Data>
+            <Data name="PantiesBoobs Mellons" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBoobs Perky" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapBoobs Perky</Data>
+            <Data name="Charred_BarbedWire_2Boobs Perky" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Boobs Perky</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Perky" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Perky</Data>
+            <Data name="BodyBoobs Perky" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBoobs Perky</Data>
+            <Data name="bag7Boobs Perky" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Boobs Perky</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Perky" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Boobs Perky</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Perky" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Boobs Perky</Data>
+            <Data name="beltBoobs Perky" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBoobs Perky</Data>
+            <Data name="belt2Boobs Perky" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Boobs Perky</Data>
+            <Data name="belt3Boobs Perky" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Boobs Perky</Data>
+            <Data name="belt4Boobs Perky" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Boobs Perky</Data>
+            <Data name="belt5Boobs Perky" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Boobs Perky</Data>
+            <Data name="belt6Boobs Perky" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Boobs Perky</Data>
+            <Data name="belt8Boobs Perky" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Boobs Perky</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Perky" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Perky</Data>
+            <Data name="Straps KneeBoobs Perky" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeBoobs Perky</Data>
+            <Data name="KneeBoobs Perky" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeBoobs Perky</Data>
+            <Data name="TopKnotBoobs Perky" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBoobs Perky</Data>
+            <Data name="ButtonsBoobs Perky" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBoobs Perky</Data>
+            <Data name="PantiesBoobs Perky" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBoobs Push Up" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapBoobs Push Up</Data>
+            <Data name="Charred_BarbedWire_2Boobs Push Up" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Boobs Push Up</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Push Up" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Push Up</Data>
+            <Data name="BodyBoobs Push Up" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBoobs Push Up</Data>
+            <Data name="bag7Boobs Push Up" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Boobs Push Up</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Push Up" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Boobs Push Up</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Push Up" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Boobs Push Up</Data>
+            <Data name="beltBoobs Push Up" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBoobs Push Up</Data>
+            <Data name="belt2Boobs Push Up" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Boobs Push Up</Data>
+            <Data name="belt3Boobs Push Up" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Boobs Push Up</Data>
+            <Data name="belt4Boobs Push Up" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Boobs Push Up</Data>
+            <Data name="belt5Boobs Push Up" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Boobs Push Up</Data>
+            <Data name="belt6Boobs Push Up" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Boobs Push Up</Data>
+            <Data name="belt8Boobs Push Up" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Boobs Push Up</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Push Up" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Push Up</Data>
+            <Data name="Straps KneeBoobs Push Up" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeBoobs Push Up</Data>
+            <Data name="KneeBoobs Push Up" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeBoobs Push Up</Data>
+            <Data name="TopKnotBoobs Push Up" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBoobs Push Up</Data>
+            <Data name="ButtonsBoobs Push Up" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBoobs Push Up</Data>
+            <Data name="PantiesBoobs Push Up" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="BodyBoobs Small" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBoobs Small</Data>
+            <Data name="TopKnotBoobs Small" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBoobs Small</Data>
+            <Data name="ButtonsBoobs Small" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="BodyBoobs Together" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBoobs Together</Data>
+            <Data name="TopKnotBoobs Together" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBoobs Together</Data>
+            <Data name="ButtonsBoobs Together" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBoobs Top Slope" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapBoobs Top Slope</Data>
+            <Data name="Charred_BarbedWire_2Boobs Top Slope" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Boobs Top Slope</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Top Slope" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Top Slope</Data>
+            <Data name="BodyBoobs Top Slope" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBoobs Top Slope</Data>
+            <Data name="bag7Boobs Top Slope" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Boobs Top Slope</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Top Slope" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Boobs Top Slope</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Top Slope" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Boobs Top Slope</Data>
+            <Data name="beltBoobs Top Slope" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBoobs Top Slope</Data>
+            <Data name="belt2Boobs Top Slope" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Boobs Top Slope</Data>
+            <Data name="belt3Boobs Top Slope" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Boobs Top Slope</Data>
+            <Data name="belt4Boobs Top Slope" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Boobs Top Slope</Data>
+            <Data name="belt5Boobs Top Slope" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Boobs Top Slope</Data>
+            <Data name="belt6Boobs Top Slope" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Boobs Top Slope</Data>
+            <Data name="belt8Boobs Top Slope" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Boobs Top Slope</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Top Slope" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Top Slope</Data>
+            <Data name="Straps KneeBoobs Top Slope" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeBoobs Top Slope</Data>
+            <Data name="KneeBoobs Top Slope" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeBoobs Top Slope</Data>
+            <Data name="TopKnotBoobs Top Slope" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBoobs Top Slope</Data>
+            <Data name="ButtonsBoobs Top Slope" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBoobs Top Slope</Data>
+            <Data name="PantiesBoobs Top Slope" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Width</Data>
+            <Data name="BodyBoobs Width" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBoobs Width</Data>
+            <Data name="TopKnotBoobs Width" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBoobs Width</Data>
+            <Data name="ButtonsBoobs Width" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBoobs Tiny" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapBoobs Tiny</Data>
+            <Data name="Charred_BarbedWire_2Boobs Tiny" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Boobs Tiny</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Tiny" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Tiny</Data>
+            <Data name="BodyBoobs Tiny" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBoobs Tiny</Data>
+            <Data name="bag7Boobs Tiny" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Boobs Tiny</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Boobs Tiny" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Boobs Tiny</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Boobs Tiny" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Boobs Tiny</Data>
+            <Data name="beltBoobs Tiny" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBoobs Tiny</Data>
+            <Data name="belt2Boobs Tiny" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Boobs Tiny</Data>
+            <Data name="belt3Boobs Tiny" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Boobs Tiny</Data>
+            <Data name="belt4Boobs Tiny" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Boobs Tiny</Data>
+            <Data name="belt5Boobs Tiny" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Boobs Tiny</Data>
+            <Data name="belt6Boobs Tiny" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Boobs Tiny</Data>
+            <Data name="belt8Boobs Tiny" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Boobs Tiny</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Tiny" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Boobs Tiny</Data>
+            <Data name="Straps KneeBoobs Tiny" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeBoobs Tiny</Data>
+            <Data name="KneeBoobs Tiny" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeBoobs Tiny</Data>
+            <Data name="TopKnotBoobs Tiny" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBoobs Tiny</Data>
+            <Data name="ButtonsBoobs Tiny" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBoobs Tiny</Data>
+            <Data name="PantiesBoobs Tiny" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="BodyNipples Areola" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyNipples Areola</Data>
+            <Data name="TopKnotNipples Areola" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="BodyNipples Distance" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyNipples Distance</Data>
+            <Data name="TopKnotNipples Distance" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotNipples Distance</Data>
+            <Data name="ButtonsNipples Distance" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="BodyNipples Down" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyNipples Down</Data>
+            <Data name="TopKnotNipples Down" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotNipples Down</Data>
+            <Data name="ButtonsNipples Down" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="BodyNipples Gone" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyNipples Gone</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Nipples Gone" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Nipples Gone</Data>
+            <Data name="TopKnotNipples Gone" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="BodyNipples Perkiness" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyNipples Perkiness</Data>
+            <Data name="TopKnotNipples Perkiness" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotNipples Perkiness</Data>
+            <Data name="ButtonsNipples Perkiness" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="BodyNipples Puffy" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyNipples Puffy</Data>
+            <Data name="TopKnotNipples Puffy" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="BodyNipples Up" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyNipples Up</Data>
+            <Data name="TopKnotNipples Up" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotNipples Up</Data>
+            <Data name="ButtonsNipples Up" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Depth" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Depth</Data>
+            <Data name="BodyChest Depth" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyChest Depth</Data>
+            <Data name="belt6Chest Depth" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Chest Depth</Data>
+            <Data name="TopKnotChest Depth" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotChest Depth</Data>
+            <Data name="ButtonsChest Depth" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Width</Data>
+            <Data name="BodyChest Width" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyChest Width</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Chest Width" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Chest Width</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Chest Width" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Chest Width</Data>
+            <Data name="beltChest Width" target="belt" local="true">_Amputee Wasteland Dress.osd\beltChest Width</Data>
+            <Data name="belt2Chest Width" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Chest Width</Data>
+            <Data name="belt4Chest Width" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Chest Width</Data>
+            <Data name="belt5Chest Width" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Chest Width</Data>
+            <Data name="belt6Chest Width" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Chest Width</Data>
+            <Data name="TopKnotChest Width" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotChest Width</Data>
+            <Data name="PantiesChest Width" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="BodyWaist Chubby" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyWaist Chubby</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Waist Chubby" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Waist Chubby</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Waist Chubby" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Waist Chubby</Data>
+            <Data name="beltWaist Chubby" target="belt" local="true">_Amputee Wasteland Dress.osd\beltWaist Chubby</Data>
+            <Data name="belt2Waist Chubby" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Waist Chubby</Data>
+            <Data name="belt4Waist Chubby" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Waist Chubby</Data>
+            <Data name="belt5Waist Chubby" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Waist Chubby</Data>
+            <Data name="belt6Waist Chubby" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Waist Chubby</Data>
+            <Data name="TopKnotWaist Chubby" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotWaist Chubby</Data>
+            <Data name="ButtonsWaist Chubby" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsWaist Chubby</Data>
+            <Data name="PantiesWaist Chubby" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Waist Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Waist Size</Data>
+            <Data name="BodyWaist Size" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyWaist Size</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Waist Size" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Waist Size</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Waist Size" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Waist Size</Data>
+            <Data name="beltWaist Size" target="belt" local="true">_Amputee Wasteland Dress.osd\beltWaist Size</Data>
+            <Data name="belt2Waist Size" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Waist Size</Data>
+            <Data name="belt4Waist Size" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Waist Size</Data>
+            <Data name="belt5Waist Size" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Waist Size</Data>
+            <Data name="belt6Waist Size" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Waist Size</Data>
+            <Data name="TopKnotWaist Size" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotWaist Size</Data>
+            <Data name="PantiesWaist Size" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="BodyWaist Height" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyWaist Height</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Waist Height" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Waist Height</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Waist Height" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Waist Height</Data>
+            <Data name="beltWaist Height" target="belt" local="true">_Amputee Wasteland Dress.osd\beltWaist Height</Data>
+            <Data name="belt2Waist Height" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Waist Height</Data>
+            <Data name="belt4Waist Height" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Waist Height</Data>
+            <Data name="belt5Waist Height" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Waist Height</Data>
+            <Data name="belt6Waist Height" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Waist Height</Data>
+            <Data name="TopKnotWaist Height" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotWaist Height</Data>
+            <Data name="PantiesWaist Height" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="BodyWaist Line" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyWaist Line</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Waist Line" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Waist Line</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Waist Line" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Waist Line</Data>
+            <Data name="beltWaist Line" target="belt" local="true">_Amputee Wasteland Dress.osd\beltWaist Line</Data>
+            <Data name="belt2Waist Line" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Waist Line</Data>
+            <Data name="belt4Waist Line" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Waist Line</Data>
+            <Data name="belt5Waist Line" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Waist Line</Data>
+            <Data name="belt6Waist Line" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Waist Line</Data>
+            <Data name="TopKnotWaist Line" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotWaist Line</Data>
+            <Data name="PantiesWaist Line" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="BodyBack Size" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBack Size</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Back Size" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Back Size</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Back Size" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Back Size</Data>
+            <Data name="beltBack Size" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBack Size</Data>
+            <Data name="belt2Back Size" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Back Size</Data>
+            <Data name="belt4Back Size" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Back Size</Data>
+            <Data name="belt5Back Size" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Back Size</Data>
+            <Data name="belt6Back Size" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Back Size</Data>
+            <Data name="TopKnotBack Size" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBack Size</Data>
+            <Data name="PantiesBack Size" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="BodyBack Arch" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBack Arch</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Back Arch" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Back Arch</Data>
+            <Data name="belt2Back Arch" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Back Arch</Data>
+            <Data name="belt4Back Arch" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Back Arch</Data>
+            <Data name="belt6Back Arch" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Back Arch</Data>
+            <Data name="TopKnotBack Arch" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBack Arch</Data>
+            <Data name="PantiesBack Arch" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="BodyHips Bone" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyHips Bone</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Hips Bone" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Hips Bone</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Hips Bone" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Hips Bone</Data>
+            <Data name="beltHips Bone" target="belt" local="true">_Amputee Wasteland Dress.osd\beltHips Bone</Data>
+            <Data name="belt2Hips Bone" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Hips Bone</Data>
+            <Data name="belt4Hips Bone" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Hips Bone</Data>
+            <Data name="belt5Hips Bone" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Hips Bone</Data>
+            <Data name="belt6Hips Bone" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Hips Bone</Data>
+            <Data name="PantiesHips Bone" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="BodyHips Size" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyHips Size</Data>
+            <Data name="bag7Hips Size" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Hips Size</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Hips Size" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Hips Size</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Hips Size" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Hips Size</Data>
+            <Data name="beltHips Size" target="belt" local="true">_Amputee Wasteland Dress.osd\beltHips Size</Data>
+            <Data name="belt2Hips Size" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Hips Size</Data>
+            <Data name="belt3Hips Size" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Hips Size</Data>
+            <Data name="belt4Hips Size" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Hips Size</Data>
+            <Data name="belt5Hips Size" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Hips Size</Data>
+            <Data name="belt6Hips Size" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Hips Size</Data>
+            <Data name="belt8Hips Size" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Hips Size</Data>
+            <Data name="PantiesHips Size" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="BodyHips Upper Width" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyHips Upper Width</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Hips Upper Width" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Hips Upper Width</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Hips Upper Width" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Hips Upper Width</Data>
+            <Data name="beltHips Upper Width" target="belt" local="true">_Amputee Wasteland Dress.osd\beltHips Upper Width</Data>
+            <Data name="belt2Hips Upper Width" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Hips Upper Width</Data>
+            <Data name="belt4Hips Upper Width" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Hips Upper Width</Data>
+            <Data name="belt5Hips Upper Width" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Hips Upper Width</Data>
+            <Data name="belt6Hips Upper Width" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Hips Upper Width</Data>
+            <Data name="TopKnotHips Upper Width" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotHips Upper Width</Data>
+            <Data name="PantiesHips Upper Width" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="BodyBum Size" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBum Size</Data>
+            <Data name="bag7Bum Size" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Bum Size</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Size" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Bum Size</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Bum Size" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Bum Size</Data>
+            <Data name="beltBum Size" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBum Size</Data>
+            <Data name="belt2Bum Size" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Bum Size</Data>
+            <Data name="belt3Bum Size" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Bum Size</Data>
+            <Data name="belt4Bum Size" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Bum Size</Data>
+            <Data name="belt5Bum Size" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Bum Size</Data>
+            <Data name="belt6Bum Size" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Bum Size</Data>
+            <Data name="belt8Bum Size" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Bum Size</Data>
+            <Data name="PantiesBum Size" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="BodyBum Crack" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBum Crack</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Crack" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Bum Crack</Data>
+            <Data name="beltBum Crack" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBum Crack</Data>
+            <Data name="belt2Bum Crack" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Bum Crack</Data>
+            <Data name="belt4Bum Crack" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Bum Crack</Data>
+            <Data name="belt5Bum Crack" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Bum Crack</Data>
+            <Data name="PantiesBum Crack" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="BodyBum Shape 1" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBum Shape 1</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Shape 1" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Bum Shape 1</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Bum Shape 1" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Bum Shape 1</Data>
+            <Data name="beltBum Shape 1" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBum Shape 1</Data>
+            <Data name="belt2Bum Shape 1" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Bum Shape 1</Data>
+            <Data name="belt3Bum Shape 1" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Bum Shape 1</Data>
+            <Data name="belt4Bum Shape 1" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Bum Shape 1</Data>
+            <Data name="belt5Bum Shape 1" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Bum Shape 1</Data>
+            <Data name="belt6Bum Shape 1" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Bum Shape 1</Data>
+            <Data name="belt8Bum Shape 1" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Bum Shape 1</Data>
+            <Data name="PantiesBum Shape 1" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="BodyBum Shape 2" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBum Shape 2</Data>
+            <Data name="bag7Bum Shape 2" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Bum Shape 2</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Shape 2" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Bum Shape 2</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Bum Shape 2" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Bum Shape 2</Data>
+            <Data name="beltBum Shape 2" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBum Shape 2</Data>
+            <Data name="belt2Bum Shape 2" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Bum Shape 2</Data>
+            <Data name="belt3Bum Shape 2" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Bum Shape 2</Data>
+            <Data name="belt4Bum Shape 2" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Bum Shape 2</Data>
+            <Data name="belt5Bum Shape 2" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Bum Shape 2</Data>
+            <Data name="belt6Bum Shape 2" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Bum Shape 2</Data>
+            <Data name="belt8Bum Shape 2" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Bum Shape 2</Data>
+            <Data name="TopKnotBum Shape 2" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBum Shape 2</Data>
+            <Data name="PantiesBum Shape 2" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="BodyBum Small" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBum Small</Data>
+            <Data name="bag7Bum Small" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Bum Small</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Small" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Bum Small</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Bum Small" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Bum Small</Data>
+            <Data name="beltBum Small" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBum Small</Data>
+            <Data name="belt2Bum Small" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Bum Small</Data>
+            <Data name="belt3Bum Small" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Bum Small</Data>
+            <Data name="belt4Bum Small" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Bum Small</Data>
+            <Data name="belt5Bum Small" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Bum Small</Data>
+            <Data name="belt6Bum Small" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Bum Small</Data>
+            <Data name="belt8Bum Small" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Bum Small</Data>
+            <Data name="Straps KneeBum Small" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeBum Small</Data>
+            <Data name="KneeBum Small" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeBum Small</Data>
+            <Data name="Metal KneeBum Small" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeBum Small</Data>
+            <Data name="Metal Knee2Bum Small" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2Bum Small</Data>
+            <Data name="PantiesBum Small" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="BodyBum Chubby" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBum Chubby</Data>
+            <Data name="bag7Bum Chubby" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Bum Chubby</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Chubby" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Bum Chubby</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Bum Chubby" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Bum Chubby</Data>
+            <Data name="beltBum Chubby" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBum Chubby</Data>
+            <Data name="belt2Bum Chubby" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Bum Chubby</Data>
+            <Data name="belt3Bum Chubby" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Bum Chubby</Data>
+            <Data name="belt4Bum Chubby" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Bum Chubby</Data>
+            <Data name="belt5Bum Chubby" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Bum Chubby</Data>
+            <Data name="belt6Bum Chubby" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Bum Chubby</Data>
+            <Data name="belt8Bum Chubby" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Bum Chubby</Data>
+            <Data name="TopKnotBum Chubby" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBum Chubby</Data>
+            <Data name="PantiesBum Chubby" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="BodyBum Round" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBum Round</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Round" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Bum Round</Data>
+            <Data name="beltBum Round" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBum Round</Data>
+            <Data name="belt2Bum Round" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Bum Round</Data>
+            <Data name="belt4Bum Round" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Bum Round</Data>
+            <Data name="belt5Bum Round" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Bum Round</Data>
+            <Data name="belt6Bum Round" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Bum Round</Data>
+            <Data name="PantiesBum Round" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="BodyBum Apple" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBum Apple</Data>
+            <Data name="bag7Bum Apple" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Bum Apple</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Bum Apple" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Bum Apple</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Bum Apple" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Bum Apple</Data>
+            <Data name="beltBum Apple" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBum Apple</Data>
+            <Data name="belt2Bum Apple" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Bum Apple</Data>
+            <Data name="belt4Bum Apple" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Bum Apple</Data>
+            <Data name="belt5Bum Apple" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Bum Apple</Data>
+            <Data name="belt6Bum Apple" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Bum Apple</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Bum Apple" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Bum Apple</Data>
+            <Data name="TopKnotBum Apple" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBum Apple</Data>
+            <Data name="PantiesBum Apple" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="BodyCalf Size" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyCalf Size</Data>
+            <Data name="Straps KneeCalf Size" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeCalf Size</Data>
+            <Data name="KneeCalf Size" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeCalf Size</Data>
+            <Data name="Metal KneeCalf Size" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeCalf Size</Data>
+            <Data name="Metal Knee2Calf Size" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2Calf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="BodyCalf Small" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyCalf Small</Data>
+            <Data name="Straps KneeCalf Small" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeCalf Small</Data>
+            <Data name="KneeCalf Small" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeCalf Small</Data>
+            <Data name="Metal KneeCalf Small" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeCalf Small</Data>
+            <Data name="Metal Knee2Calf Small" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2Calf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="BodyLegs Chubby" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyLegs Chubby</Data>
+            <Data name="bag7Legs Chubby" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Legs Chubby</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Legs Chubby" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Legs Chubby</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Legs Chubby" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Legs Chubby</Data>
+            <Data name="beltLegs Chubby" target="belt" local="true">_Amputee Wasteland Dress.osd\beltLegs Chubby</Data>
+            <Data name="belt2Legs Chubby" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Legs Chubby</Data>
+            <Data name="belt3Legs Chubby" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Legs Chubby</Data>
+            <Data name="belt4Legs Chubby" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Legs Chubby</Data>
+            <Data name="belt5Legs Chubby" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Legs Chubby</Data>
+            <Data name="belt6Legs Chubby" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Legs Chubby</Data>
+            <Data name="belt8Legs Chubby" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Legs Chubby</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Legs Chubby" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Legs Chubby</Data>
+            <Data name="Straps KneeLegs Chubby" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeLegs Chubby</Data>
+            <Data name="KneeLegs Chubby" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeLegs Chubby</Data>
+            <Data name="Metal KneeLegs Chubby" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeLegs Chubby</Data>
+            <Data name="Metal Knee2Legs Chubby" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2Legs Chubby</Data>
+            <Data name="TopKnotLegs Chubby" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotLegs Chubby</Data>
+            <Data name="PantiesLegs Chubby" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="BodyLegs Shape" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyLegs Shape</Data>
+            <Data name="bag7Legs Shape" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Legs Shape</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Legs Shape" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Legs Shape</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Legs Shape" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Legs Shape</Data>
+            <Data name="beltLegs Shape" target="belt" local="true">_Amputee Wasteland Dress.osd\beltLegs Shape</Data>
+            <Data name="belt2Legs Shape" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Legs Shape</Data>
+            <Data name="belt3Legs Shape" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Legs Shape</Data>
+            <Data name="belt4Legs Shape" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Legs Shape</Data>
+            <Data name="belt5Legs Shape" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Legs Shape</Data>
+            <Data name="belt8Legs Shape" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Legs Shape</Data>
+            <Data name="Straps KneeLegs Shape" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeLegs Shape</Data>
+            <Data name="KneeLegs Shape" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeLegs Shape</Data>
+            <Data name="Metal KneeLegs Shape" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeLegs Shape</Data>
+            <Data name="Metal Knee2Legs Shape" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2Legs Shape</Data>
+            <Data name="PantiesLegs Shape" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="BodyLegs Thin" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyLegs Thin</Data>
+            <Data name="bag7Legs Thin" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Legs Thin</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Legs Thin" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Legs Thin</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Legs Thin" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Legs Thin</Data>
+            <Data name="beltLegs Thin" target="belt" local="true">_Amputee Wasteland Dress.osd\beltLegs Thin</Data>
+            <Data name="belt2Legs Thin" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Legs Thin</Data>
+            <Data name="belt3Legs Thin" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Legs Thin</Data>
+            <Data name="belt5Legs Thin" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Legs Thin</Data>
+            <Data name="belt8Legs Thin" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Legs Thin</Data>
+            <Data name="Straps KneeLegs Thin" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeLegs Thin</Data>
+            <Data name="KneeLegs Thin" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeLegs Thin</Data>
+            <Data name="Metal KneeLegs Thin" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeLegs Thin</Data>
+            <Data name="Metal Knee2Legs Thin" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2Legs Thin</Data>
+            <Data name="PantiesLegs Thin" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="BodyThighs Slim" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyThighs Slim</Data>
+            <Data name="bag7Thighs Slim" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Thighs Slim</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Thighs Slim" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Thighs Slim</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Thighs Slim" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Thighs Slim</Data>
+            <Data name="beltThighs Slim" target="belt" local="true">_Amputee Wasteland Dress.osd\beltThighs Slim</Data>
+            <Data name="belt2Thighs Slim" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Thighs Slim</Data>
+            <Data name="belt3Thighs Slim" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Thighs Slim</Data>
+            <Data name="belt4Thighs Slim" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Thighs Slim</Data>
+            <Data name="belt5Thighs Slim" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Thighs Slim</Data>
+            <Data name="belt6Thighs Slim" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Thighs Slim</Data>
+            <Data name="belt8Thighs Slim" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Thighs Slim</Data>
+            <Data name="Straps KneeThighs Slim" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeThighs Slim</Data>
+            <Data name="KneeThighs Slim" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeThighs Slim</Data>
+            <Data name="Metal KneeThighs Slim" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeThighs Slim</Data>
+            <Data name="Metal Knee2Thighs Slim" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2Thighs Slim</Data>
+            <Data name="PantiesThighs Slim" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="BodyThighs Size" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyThighs Size</Data>
+            <Data name="bag7Thighs Size" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Thighs Size</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Thighs Size" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Thighs Size</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Thighs Size" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Thighs Size</Data>
+            <Data name="beltThighs Size" target="belt" local="true">_Amputee Wasteland Dress.osd\beltThighs Size</Data>
+            <Data name="belt2Thighs Size" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Thighs Size</Data>
+            <Data name="belt3Thighs Size" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Thighs Size</Data>
+            <Data name="belt4Thighs Size" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Thighs Size</Data>
+            <Data name="belt5Thighs Size" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Thighs Size</Data>
+            <Data name="belt8Thighs Size" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Thighs Size</Data>
+            <Data name="Straps KneeThighs Size" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeThighs Size</Data>
+            <Data name="KneeThighs Size" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeThighs Size</Data>
+            <Data name="Metal KneeThighs Size" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeThighs Size</Data>
+            <Data name="Metal Knee2Thighs Size" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2Thighs Size</Data>
+            <Data name="PantiesThighs Size" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="BodyAnkle Size" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyAnkle Size</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Ankle Size" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Ankle Size</Data>
+            <Data name="Straps KneeAnkle Size" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeAnkle Size</Data>
+            <Data name="KneeAnkle Size" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeAnkle Size</Data>
+            <Data name="Metal KneeAnkle Size" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeAnkle Size</Data>
+            <Data name="Metal Knee2Ankle Size" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2Ankle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapArms Chubby" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapArms Chubby</Data>
+            <Data name="Charred_BarbedWire_2Arms Chubby" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Arms Chubby</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Chubby" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Chubby</Data>
+            <Data name="BodyArms Chubby" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyArms Chubby</Data>
+            <Data name="TopKnotArms Chubby" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapShoulder Smooth" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapShoulder Smooth</Data>
+            <Data name="Charred_BarbedWire_2Shoulder Smooth" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Shoulder Smooth</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Smooth" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Smooth</Data>
+            <Data name="BodyShoulder Smooth" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyShoulder Smooth</Data>
+            <Data name="TopKnotShoulder Smooth" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Tweak" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Tweak</Data>
+            <Data name="BodyShoulder Tweak" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyShoulder Tweak</Data>
+            <Data name="TopKnotShoulder Tweak" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapArms Size" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapArms Size</Data>
+            <Data name="Charred_BarbedWire_2Arms Size" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Arms Size</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Size</Data>
+            <Data name="BodyArms Size" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyArms Size</Data>
+            <Data name="TopKnotArms Size" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapArmpit Ajustment" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapArmpit Ajustment</Data>
+            <Data name="Charred_BarbedWire_2Armpit Ajustment" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Armpit Ajustment</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Armpit Ajustment" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Armpit Ajustment</Data>
+            <Data name="BodyArmpit Ajustment" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyArmpit Ajustment</Data>
+            <Data name="TopKnotArmpit Ajustment" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapForearms Size" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapForearms Size</Data>
+            <Data name="Charred_BarbedWire_2Forearms Size" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Forearms Size</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Forearms Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Forearms Size</Data>
+            <Data name="BodyForearms Size" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapTorso Size" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapTorso Size</Data>
+            <Data name="Charred_BarbedWire_2Torso Size" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Torso Size</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Torso Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Torso Size</Data>
+            <Data name="BodyTorso Size" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyTorso Size</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Torso Size" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Torso Size</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Torso Size" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Torso Size</Data>
+            <Data name="beltTorso Size" target="belt" local="true">_Amputee Wasteland Dress.osd\beltTorso Size</Data>
+            <Data name="belt2Torso Size" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Torso Size</Data>
+            <Data name="belt4Torso Size" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Torso Size</Data>
+            <Data name="belt5Torso Size" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Torso Size</Data>
+            <Data name="belt6Torso Size" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Torso Size</Data>
+            <Data name="TopKnotTorso Size" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotTorso Size</Data>
+            <Data name="ButtonsTorso Size" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsTorso Size</Data>
+            <Data name="PantiesTorso Size" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapSturnum Depth" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapSturnum Depth</Data>
+            <Data name="Charred_BarbedWire_2Sturnum Depth" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Sturnum Depth</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Depth" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Depth</Data>
+            <Data name="BodySturnum Depth" target="Body" local="true">_Amputee Wasteland Dress.osd\BodySturnum Depth</Data>
+            <Data name="bag7Sturnum Depth" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Sturnum Depth</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Sturnum Depth" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Sturnum Depth</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Sturnum Depth" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Sturnum Depth</Data>
+            <Data name="beltSturnum Depth" target="belt" local="true">_Amputee Wasteland Dress.osd\beltSturnum Depth</Data>
+            <Data name="belt2Sturnum Depth" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Sturnum Depth</Data>
+            <Data name="belt3Sturnum Depth" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Sturnum Depth</Data>
+            <Data name="belt4Sturnum Depth" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Sturnum Depth</Data>
+            <Data name="belt5Sturnum Depth" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Sturnum Depth</Data>
+            <Data name="belt6Sturnum Depth" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Sturnum Depth</Data>
+            <Data name="belt8Sturnum Depth" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Sturnum Depth</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Sturnum Depth" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Sturnum Depth</Data>
+            <Data name="Straps KneeSturnum Depth" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeSturnum Depth</Data>
+            <Data name="KneeSturnum Depth" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeSturnum Depth</Data>
+            <Data name="TopKnotSturnum Depth" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotSturnum Depth</Data>
+            <Data name="ButtonsSturnum Depth" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsSturnum Depth</Data>
+            <Data name="PantiesSturnum Depth" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapSturnum Height" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapSturnum Height</Data>
+            <Data name="Charred_BarbedWire_2Sturnum Height" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Sturnum Height</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Height" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Height</Data>
+            <Data name="BodySturnum Height" target="Body" local="true">_Amputee Wasteland Dress.osd\BodySturnum Height</Data>
+            <Data name="bag7Sturnum Height" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Sturnum Height</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Sturnum Height" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Sturnum Height</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Sturnum Height" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Sturnum Height</Data>
+            <Data name="beltSturnum Height" target="belt" local="true">_Amputee Wasteland Dress.osd\beltSturnum Height</Data>
+            <Data name="belt2Sturnum Height" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Sturnum Height</Data>
+            <Data name="belt3Sturnum Height" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Sturnum Height</Data>
+            <Data name="belt4Sturnum Height" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Sturnum Height</Data>
+            <Data name="belt5Sturnum Height" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Sturnum Height</Data>
+            <Data name="belt6Sturnum Height" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Sturnum Height</Data>
+            <Data name="belt8Sturnum Height" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Sturnum Height</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Sturnum Height" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Sturnum Height</Data>
+            <Data name="Straps KneeSturnum Height" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeSturnum Height</Data>
+            <Data name="KneeSturnum Height" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeSturnum Height</Data>
+            <Data name="TopKnotSturnum Height" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotSturnum Height</Data>
+            <Data name="ButtonsSturnum Height" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsSturnum Height</Data>
+            <Data name="PantiesSturnum Height" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapGroin Position" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapGroin Position</Data>
+            <Data name="Charred_BarbedWire_2Groin Position" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Groin Position</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Position" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Position</Data>
+            <Data name="BodyGroin Position" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyGroin Position</Data>
+            <Data name="bag7Groin Position" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Groin Position</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Groin Position" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Groin Position</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Groin Position" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Groin Position</Data>
+            <Data name="beltGroin Position" target="belt" local="true">_Amputee Wasteland Dress.osd\beltGroin Position</Data>
+            <Data name="belt2Groin Position" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Groin Position</Data>
+            <Data name="belt3Groin Position" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Groin Position</Data>
+            <Data name="belt4Groin Position" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Groin Position</Data>
+            <Data name="belt5Groin Position" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Groin Position</Data>
+            <Data name="belt6Groin Position" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Groin Position</Data>
+            <Data name="belt8Groin Position" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Groin Position</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Groin Position" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Groin Position</Data>
+            <Data name="Straps KneeGroin Position" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeGroin Position</Data>
+            <Data name="KneeGroin Position" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeGroin Position</Data>
+            <Data name="TopKnotGroin Position" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotGroin Position</Data>
+            <Data name="PantiesGroin Position" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapGroin Back" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapGroin Back</Data>
+            <Data name="Charred_BarbedWire_2Groin Back" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Groin Back</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Back" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Back</Data>
+            <Data name="BodyGroin Back" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyGroin Back</Data>
+            <Data name="bag7Groin Back" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Groin Back</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Groin Back" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Groin Back</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Groin Back" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Groin Back</Data>
+            <Data name="beltGroin Back" target="belt" local="true">_Amputee Wasteland Dress.osd\beltGroin Back</Data>
+            <Data name="belt2Groin Back" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Groin Back</Data>
+            <Data name="belt3Groin Back" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Groin Back</Data>
+            <Data name="belt4Groin Back" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Groin Back</Data>
+            <Data name="belt5Groin Back" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Groin Back</Data>
+            <Data name="belt6Groin Back" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Groin Back</Data>
+            <Data name="belt8Groin Back" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Groin Back</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Groin Back" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Groin Back</Data>
+            <Data name="Straps KneeGroin Back" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeGroin Back</Data>
+            <Data name="KneeGroin Back" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeGroin Back</Data>
+            <Data name="TopKnotGroin Back" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotGroin Back</Data>
+            <Data name="PantiesGroin Back" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="BodyLabia Minora Flat" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="BodyLabia Minora Longer" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="BodyClitoras Size" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyClitoras Size</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="BodyLabia Majora Wide" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="BodyAbDefinition" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyAbDefinition</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011AbDefinition" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011AbDefinition</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039AbDefinition" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039AbDefinition</Data>
+            <Data name="beltAbDefinition" target="belt" local="true">_Amputee Wasteland Dress.osd\beltAbDefinition</Data>
+            <Data name="belt2AbDefinition" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2AbDefinition</Data>
+            <Data name="belt4AbDefinition" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4AbDefinition</Data>
+            <Data name="belt5AbDefinition" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5AbDefinition</Data>
+            <Data name="belt6AbDefinition" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6AbDefinition</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094AbDefinition" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094AbDefinition</Data>
+            <Data name="TopKnotAbDefinition" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotAbDefinition</Data>
+            <Data name="ButtonsAbDefinition" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsAbDefinition</Data>
+            <Data name="PantiesAbDefinition" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBody Toning" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapBody Toning</Data>
+            <Data name="Charred_BarbedWire_2Body Toning" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Body Toning</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Body Toning" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Body Toning</Data>
+            <Data name="BodyBody Toning" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBody Toning</Data>
+            <Data name="bag7Body Toning" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Body Toning</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Body Toning" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Body Toning</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Body Toning" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Body Toning</Data>
+            <Data name="beltBody Toning" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBody Toning</Data>
+            <Data name="belt2Body Toning" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Body Toning</Data>
+            <Data name="belt3Body Toning" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Body Toning</Data>
+            <Data name="belt4Body Toning" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Body Toning</Data>
+            <Data name="belt5Body Toning" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Body Toning</Data>
+            <Data name="belt6Body Toning" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Body Toning</Data>
+            <Data name="belt8Body Toning" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Body Toning</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Body Toning" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Body Toning</Data>
+            <Data name="Straps KneeBody Toning" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeBody Toning</Data>
+            <Data name="KneeBody Toning" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeBody Toning</Data>
+            <Data name="Metal KneeBody Toning" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeBody Toning</Data>
+            <Data name="Metal Knee2Body Toning" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2Body Toning</Data>
+            <Data name="TopKnotBody Toning" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBody Toning</Data>
+            <Data name="ButtonsBody Toning" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBody Toning</Data>
+            <Data name="PantiesBody Toning" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapTigerSanBB" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapTigerSanBB</Data>
+            <Data name="Charred_BarbedWire_2TigerSanBB" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2TigerSanBB</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0TigerSanBB" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0TigerSanBB</Data>
+            <Data name="BodyTigerSanBB" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyTigerSanBB</Data>
+            <Data name="bag7TigerSanBB" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7TigerSanBB</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011TigerSanBB" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011TigerSanBB</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039TigerSanBB" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039TigerSanBB</Data>
+            <Data name="beltTigerSanBB" target="belt" local="true">_Amputee Wasteland Dress.osd\beltTigerSanBB</Data>
+            <Data name="belt2TigerSanBB" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2TigerSanBB</Data>
+            <Data name="belt3TigerSanBB" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3TigerSanBB</Data>
+            <Data name="belt4TigerSanBB" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4TigerSanBB</Data>
+            <Data name="belt5TigerSanBB" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5TigerSanBB</Data>
+            <Data name="belt6TigerSanBB" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6TigerSanBB</Data>
+            <Data name="belt8TigerSanBB" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8TigerSanBB</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094TigerSanBB" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094TigerSanBB</Data>
+            <Data name="Straps KneeTigerSanBB" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeTigerSanBB</Data>
+            <Data name="KneeTigerSanBB" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeTigerSanBB</Data>
+            <Data name="Metal KneeTigerSanBB" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeTigerSanBB</Data>
+            <Data name="Metal Knee2TigerSanBB" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2TigerSanBB</Data>
+            <Data name="TopKnotTigerSanBB" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotTigerSanBB</Data>
+            <Data name="ButtonsTigerSanBB" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsTigerSanBB</Data>
+            <Data name="PantiesTigerSanBB" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="BodyXunAbs" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyXunAbs</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011XunAbs" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011XunAbs</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039XunAbs" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039XunAbs</Data>
+            <Data name="belt2XunAbs" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2XunAbs</Data>
+            <Data name="belt4XunAbs" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4XunAbs</Data>
+            <Data name="belt6XunAbs" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6XunAbs</Data>
+            <Data name="TopKnotXunAbs" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotXunAbs</Data>
+            <Data name="ButtonsXunAbs" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsXunAbs</Data>
+            <Data name="PantiesXunAbs" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="BodyFFB Fitness 2" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyFFB Fitness 2</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011FFB Fitness 2" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011FFB Fitness 2</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039FFB Fitness 2" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039FFB Fitness 2</Data>
+            <Data name="beltFFB Fitness 2" target="belt" local="true">_Amputee Wasteland Dress.osd\beltFFB Fitness 2</Data>
+            <Data name="belt2FFB Fitness 2" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2FFB Fitness 2</Data>
+            <Data name="belt4FFB Fitness 2" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4FFB Fitness 2</Data>
+            <Data name="belt5FFB Fitness 2" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5FFB Fitness 2</Data>
+            <Data name="belt6FFB Fitness 2" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6FFB Fitness 2</Data>
+            <Data name="TopKnotFFB Fitness 2" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotFFB Fitness 2</Data>
+            <Data name="ButtonsFFB Fitness 2" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsFFB Fitness 2</Data>
+            <Data name="PantiesFFB Fitness 2" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapAthletic" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapAthletic</Data>
+            <Data name="Charred_BarbedWire_2Athletic" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Athletic</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Athletic" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Athletic</Data>
+            <Data name="BodyAthletic" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyAthletic</Data>
+            <Data name="bag7Athletic" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Athletic</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Athletic" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Athletic</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Athletic" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Athletic</Data>
+            <Data name="beltAthletic" target="belt" local="true">_Amputee Wasteland Dress.osd\beltAthletic</Data>
+            <Data name="belt2Athletic" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2Athletic</Data>
+            <Data name="belt3Athletic" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Athletic</Data>
+            <Data name="belt4Athletic" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Athletic</Data>
+            <Data name="belt5Athletic" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Athletic</Data>
+            <Data name="belt6Athletic" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Athletic</Data>
+            <Data name="belt8Athletic" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Athletic</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Athletic" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Athletic</Data>
+            <Data name="Straps KneeAthletic" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeAthletic</Data>
+            <Data name="KneeAthletic" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeAthletic</Data>
+            <Data name="Metal KneeAthletic" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeAthletic</Data>
+            <Data name="Metal Knee2Athletic" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2Athletic</Data>
+            <Data name="TopKnotAthletic" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotAthletic</Data>
+            <Data name="ButtonsAthletic" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsAthletic</Data>
+            <Data name="PantiesAthletic" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapSeveNBase Bombshell" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapSeveNBase Bombshell</Data>
+            <Data name="Charred_BarbedWire_2SeveNBase Bombshell" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2SeveNBase Bombshell</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0SeveNBase Bombshell" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0SeveNBase Bombshell</Data>
+            <Data name="BodySeveNBase Bombshell" target="Body" local="true">_Amputee Wasteland Dress.osd\BodySeveNBase Bombshell</Data>
+            <Data name="bag7SeveNBase Bombshell" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7SeveNBase Bombshell</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011SeveNBase Bombshell" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011SeveNBase Bombshell</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039SeveNBase Bombshell" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039SeveNBase Bombshell</Data>
+            <Data name="beltSeveNBase Bombshell" target="belt" local="true">_Amputee Wasteland Dress.osd\beltSeveNBase Bombshell</Data>
+            <Data name="belt2SeveNBase Bombshell" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2SeveNBase Bombshell</Data>
+            <Data name="belt3SeveNBase Bombshell" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3SeveNBase Bombshell</Data>
+            <Data name="belt4SeveNBase Bombshell" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4SeveNBase Bombshell</Data>
+            <Data name="belt5SeveNBase Bombshell" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5SeveNBase Bombshell</Data>
+            <Data name="belt6SeveNBase Bombshell" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6SeveNBase Bombshell</Data>
+            <Data name="belt8SeveNBase Bombshell" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8SeveNBase Bombshell</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094SeveNBase Bombshell" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094SeveNBase Bombshell</Data>
+            <Data name="Straps KneeSeveNBase Bombshell" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeSeveNBase Bombshell</Data>
+            <Data name="KneeSeveNBase Bombshell" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeSeveNBase Bombshell</Data>
+            <Data name="Metal KneeSeveNBase Bombshell" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeSeveNBase Bombshell</Data>
+            <Data name="Metal Knee2SeveNBase Bombshell" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2SeveNBase Bombshell</Data>
+            <Data name="TopKnotSeveNBase Bombshell" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotSeveNBase Bombshell</Data>
+            <Data name="ButtonsSeveNBase Bombshell" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsSeveNBase Bombshell</Data>
+            <Data name="PantiesSeveNBase Bombshell" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="BodyKnee Height" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyKnee Height</Data>
+            <Data name="bag7Knee Height" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7Knee Height</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039Knee Height" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039Knee Height</Data>
+            <Data name="beltKnee Height" target="belt" local="true">_Amputee Wasteland Dress.osd\beltKnee Height</Data>
+            <Data name="belt3Knee Height" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3Knee Height</Data>
+            <Data name="belt5Knee Height" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Knee Height</Data>
+            <Data name="belt8Knee Height" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8Knee Height</Data>
+            <Data name="Straps KneeKnee Height" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeKnee Height</Data>
+            <Data name="KneeKnee Height" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeKnee Height</Data>
+            <Data name="Metal KneeKnee Height" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeKnee Height</Data>
+            <Data name="Metal Knee2Knee Height" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2Knee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapShoulder Width" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapShoulder Width</Data>
+            <Data name="Charred_BarbedWire_2Shoulder Width" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2Shoulder Width</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Width</Data>
+            <Data name="BodyShoulder Width" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyShoulder Width</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011Shoulder Width" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011Shoulder Width</Data>
+            <Data name="beltShoulder Width" target="belt" local="true">_Amputee Wasteland Dress.osd\beltShoulder Width</Data>
+            <Data name="belt4Shoulder Width" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4Shoulder Width</Data>
+            <Data name="belt5Shoulder Width" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5Shoulder Width</Data>
+            <Data name="belt6Shoulder Width" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6Shoulder Width</Data>
+            <Data name="TopKnotShoulder Width" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="BodyHighHeels" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyHighHeels</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094HighHeels" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094HighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBodyFat" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapBodyFat</Data>
+            <Data name="Charred_BarbedWire_2BodyFat" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2BodyFat</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BodyFat" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BodyFat</Data>
+            <Data name="BodyBodyFat" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBodyFat</Data>
+            <Data name="bag7BodyFat" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7BodyFat</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011BodyFat" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011BodyFat</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039BodyFat" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039BodyFat</Data>
+            <Data name="beltBodyFat" target="belt" local="true">_Amputee Wasteland Dress.osd\beltBodyFat</Data>
+            <Data name="belt2BodyFat" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2BodyFat</Data>
+            <Data name="belt3BodyFat" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3BodyFat</Data>
+            <Data name="belt4BodyFat" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4BodyFat</Data>
+            <Data name="belt5BodyFat" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5BodyFat</Data>
+            <Data name="belt6BodyFat" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6BodyFat</Data>
+            <Data name="belt8BodyFat" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8BodyFat</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094BodyFat" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094BodyFat</Data>
+            <Data name="Straps KneeBodyFat" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeBodyFat</Data>
+            <Data name="KneeBodyFat" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeBodyFat</Data>
+            <Data name="Metal KneeBodyFat" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeBodyFat</Data>
+            <Data name="Metal Knee2BodyFat" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2BodyFat</Data>
+            <Data name="TopKnotBodyFat" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBodyFat</Data>
+            <Data name="ButtonsBodyFat" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBodyFat</Data>
+            <Data name="PantiesBodyFat" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="BodyLegThin" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyLegThin</Data>
+            <Data name="bag7LegThin" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7LegThin</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011LegThin" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011LegThin</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039LegThin" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039LegThin</Data>
+            <Data name="beltLegThin" target="belt" local="true">_Amputee Wasteland Dress.osd\beltLegThin</Data>
+            <Data name="belt2LegThin" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2LegThin</Data>
+            <Data name="belt3LegThin" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3LegThin</Data>
+            <Data name="belt4LegThin" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4LegThin</Data>
+            <Data name="belt5LegThin" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5LegThin</Data>
+            <Data name="belt8LegThin" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8LegThin</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094LegThin" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094LegThin</Data>
+            <Data name="Straps KneeLegThin" target="Straps Knee" local="true">_Amputee Wasteland Dress.osd\Straps KneeLegThin</Data>
+            <Data name="KneeLegThin" target="Knee" local="true">_Amputee Wasteland Dress.osd\KneeLegThin</Data>
+            <Data name="Metal KneeLegThin" target="Metal Knee" local="true">_Amputee Wasteland Dress.osd\Metal KneeLegThin</Data>
+            <Data name="Metal Knee2LegThin" target="Metal Knee2" local="true">_Amputee Wasteland Dress.osd\Metal Knee2LegThin</Data>
+            <Data name="PantiesLegThin" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="BodyHipsNarrow" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyHipsNarrow</Data>
+            <Data name="bag7HipsNarrow" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7HipsNarrow</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011HipsNarrow" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011HipsNarrow</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039HipsNarrow" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039HipsNarrow</Data>
+            <Data name="beltHipsNarrow" target="belt" local="true">_Amputee Wasteland Dress.osd\beltHipsNarrow</Data>
+            <Data name="belt2HipsNarrow" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2HipsNarrow</Data>
+            <Data name="belt3HipsNarrow" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3HipsNarrow</Data>
+            <Data name="belt4HipsNarrow" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4HipsNarrow</Data>
+            <Data name="belt5HipsNarrow" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5HipsNarrow</Data>
+            <Data name="belt6HipsNarrow" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6HipsNarrow</Data>
+            <Data name="belt8HipsNarrow" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8HipsNarrow</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094HipsNarrow" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094HipsNarrow</Data>
+            <Data name="PantiesHipsNarrow" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="BodyButtGravity" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyButtGravity</Data>
+            <Data name="bag7ButtGravity" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7ButtGravity</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039ButtGravity" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039ButtGravity</Data>
+            <Data name="belt2ButtGravity" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2ButtGravity</Data>
+            <Data name="belt3ButtGravity" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3ButtGravity</Data>
+            <Data name="belt8ButtGravity" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8ButtGravity</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094ButtGravity" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094ButtGravity</Data>
+            <Data name="PantiesButtGravity" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="BodyButtThin" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyButtThin</Data>
+            <Data name="bag7ButtThin" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7ButtThin</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011ButtThin" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011ButtThin</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039ButtThin" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039ButtThin</Data>
+            <Data name="beltButtThin" target="belt" local="true">_Amputee Wasteland Dress.osd\beltButtThin</Data>
+            <Data name="belt2ButtThin" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2ButtThin</Data>
+            <Data name="belt3ButtThin" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3ButtThin</Data>
+            <Data name="belt4ButtThin" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4ButtThin</Data>
+            <Data name="belt5ButtThin" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5ButtThin</Data>
+            <Data name="belt6ButtThin" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6ButtThin</Data>
+            <Data name="belt8ButtThin" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8ButtThin</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094ButtThin" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094ButtThin</Data>
+            <Data name="TopKnotButtThin" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotButtThin</Data>
+            <Data name="PantiesButtThin" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="BodyHipsForward" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyHipsForward</Data>
+            <Data name="bag7HipsForward" target="bag7" local="true">_Amputee Wasteland Dress.osd\bag7HipsForward</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011HipsForward" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011HipsForward</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039HipsForward" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039HipsForward</Data>
+            <Data name="beltHipsForward" target="belt" local="true">_Amputee Wasteland Dress.osd\beltHipsForward</Data>
+            <Data name="belt2HipsForward" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2HipsForward</Data>
+            <Data name="belt3HipsForward" target="belt3" local="true">_Amputee Wasteland Dress.osd\belt3HipsForward</Data>
+            <Data name="belt4HipsForward" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4HipsForward</Data>
+            <Data name="belt5HipsForward" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5HipsForward</Data>
+            <Data name="belt6HipsForward" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6HipsForward</Data>
+            <Data name="belt8HipsForward" target="belt8" local="true">_Amputee Wasteland Dress.osd\belt8HipsForward</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094HipsForward" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094HipsForward</Data>
+            <Data name="PantiesHipsForward" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="BodyHipRotateForward" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyHipRotateForward</Data>
+            <Data name="bag.009_ZBrush_defualt_group.011HipRotateForward" target="bag.009_ZBrush_defualt_group.011" local="true">_Amputee Wasteland Dress.osd\bag.009_ZBrush_defualt_group.011HipRotateForward</Data>
+            <Data name="bag.034_ZBrush_defualt_group.039HipRotateForward" target="bag.034_ZBrush_defualt_group.039" local="true">_Amputee Wasteland Dress.osd\bag.034_ZBrush_defualt_group.039HipRotateForward</Data>
+            <Data name="beltHipRotateForward" target="belt" local="true">_Amputee Wasteland Dress.osd\beltHipRotateForward</Data>
+            <Data name="belt2HipRotateForward" target="belt2" local="true">_Amputee Wasteland Dress.osd\belt2HipRotateForward</Data>
+            <Data name="belt4HipRotateForward" target="belt4" local="true">_Amputee Wasteland Dress.osd\belt4HipRotateForward</Data>
+            <Data name="belt5HipRotateForward" target="belt5" local="true">_Amputee Wasteland Dress.osd\belt5HipRotateForward</Data>
+            <Data name="belt6HipRotateForward" target="belt6" local="true">_Amputee Wasteland Dress.osd\belt6HipRotateForward</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094HipRotateForward" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094HipRotateForward</Data>
+            <Data name="TopKnotHipRotateForward" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotHipRotateForward</Data>
+            <Data name="PantiesHipRotateForward" target="Panties" local="true">_Amputee Wasteland Dress.osd\PantiesHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBreastArmpitin" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapBreastArmpitin</Data>
+            <Data name="Charred_BarbedWire_2BreastArmpitin" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2BreastArmpitin</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitin" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitin</Data>
+            <Data name="BodyBreastArmpitin" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBreastArmpitin</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094BreastArmpitin" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094BreastArmpitin</Data>
+            <Data name="TopKnotBreastArmpitin" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapBreastArmpitWide" target="Charred_Arm_Armwrap" local="true">_Amputee Wasteland Dress.osd\Charred_Arm_ArmwrapBreastArmpitWide</Data>
+            <Data name="Charred_BarbedWire_2BreastArmpitWide" target="Charred_BarbedWire_2" local="true">_Amputee Wasteland Dress.osd\Charred_BarbedWire_2BreastArmpitWide</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitWide" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitWide</Data>
+            <Data name="BodyBreastArmpitWide" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBreastArmpitWide</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094BreastArmpitWide" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094BreastArmpitWide</Data>
+            <Data name="TopKnotBreastArmpitWide" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="BodyBreastCurve" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBreastCurve</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094BreastCurve" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094BreastCurve</Data>
+            <Data name="TopKnotBreastCurve" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBreastCurve</Data>
+            <Data name="ButtonsBreastCurve" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastHeight2" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Wasteland Dress.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastHeight2</Data>
+            <Data name="BodyBreastHeight2" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBreastHeight2</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094BreastHeight2" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094BreastHeight2</Data>
+            <Data name="TopKnotBreastHeight2" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBreastHeight2</Data>
+            <Data name="ButtonsBreastHeight2" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="BodyBreastConcave" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyBreastConcave</Data>
+            <Data name="TopKnotBreastConcave" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotBreastConcave</Data>
+            <Data name="ButtonsBreastConcave" target="Buttons" local="true">_Amputee Wasteland Dress.osd\ButtonsBreastConcave</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="BodyNipples Length" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyNipples Length</Data>
+            <Data name="TopKnotNipples Length" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="BodyNipples Shape" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyNipples Shape</Data>
+            <Data name="TopKnotNipples Shape" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="BodyNipples Size" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyNipples Size</Data>
+            <Data name="TopKnotNipples Size" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="BodyNipples Tip" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyNipples Tip</Data>
+            <Data name="TopKnotNipples Tip" target="TopKnot" local="true">_Amputee Wasteland Dress.osd\TopKnotNipples Tip</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="BodyClitoras Long" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="BodyLabia Majora Long" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="BodyLabia Majora Inner" target="Body" local="true">_Amputee Wasteland Dress.osd\BodyLabia Majora Inner</Data>
+            <Data name="ZBrush_defualt_group.055_ZBrush_defualt_group.094Labia Majora Inner" target="ZBrush_defualt_group.055_ZBrush_defualt_group.094" local="true">_Amputee Wasteland Dress.osd\ZBrush_defualt_group.055_ZBrush_defualt_group.094Labia Majora Inner</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

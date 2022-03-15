@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Raider neck for jacket FG">
+        <DataFolder>Vtaw Raider neck for jacket FG</DataFolder>
+        <SourceFile>Vtaw Raider neck for jacket FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe4\top</OutputPath>
+        <OutputFile GenWeights="false">neckforjacket</OutputFile>
+        <Shape target="neck">neck</Shape>
+    </SliderSet>
+</SliderSetInfo>

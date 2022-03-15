@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Slave Bra and Skirt (Slot 33) FG">
+        <DataFolder>Slave Bra and Skirt (Slot 33) FG</DataFolder>
+        <SourceFile>Slave Bra and Skirt (Slot 33) FG.nif</SourceFile>
+        <OutputPath>meshes\kharneth\slaveloincloth</OutputPath>
+        <OutputFile GenWeights="false">braskirt33</OutputFile>
+        <Shape target="BraCloth">BraCloth</Shape>
+        <Shape target="BraLaces">BraLaces</Shape>
+        <Shape target="FusionGirl" DataFolder="FusionGirl">FusionGirl</Shape>
+        <Shape target="Loincloth">Loincloth</Shape>
+        <Shape target="WaistBand">WaistBand</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FusionGirlBelly Pregnant" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Pregnant</Data>
+            <Data name="BraClothBelly Pregnant" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBelly Pregnant</Data>
+            <Data name="LoinclothBelly Pregnant" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBelly Pregnant</Data>
+            <Data name="WaistBandBelly Pregnant" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FusionGirlBelly Big" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Big</Data>
+            <Data name="BraLacesBelly Big" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBelly Big</Data>
+            <Data name="LoinclothBelly Big" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBelly Big</Data>
+            <Data name="WaistBandBelly Big" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FusionGirlBelly Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Size</Data>
+            <Data name="BraClothBelly Size" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBelly Size</Data>
+            <Data name="LoinclothBelly Size" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBelly Size</Data>
+            <Data name="WaistBandBelly Size" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FusionGirlBelly Tuck" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FusionGirlBoobs Yuge" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Yuge</Data>
+            <Data name="BraClothBoobs Yuge" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBoobs Yuge</Data>
+            <Data name="BraLacesBoobs Yuge" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBoobs Yuge</Data>
+            <Data name="LoinclothBoobs Yuge" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBoobs Yuge</Data>
+            <Data name="WaistBandBoobs Yuge" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FusionGirlBoobs Big" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Big</Data>
+            <Data name="BraClothBoobs Big" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBoobs Big</Data>
+            <Data name="BraLacesBoobs Big" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBoobs Big</Data>
+            <Data name="LoinclothBoobs Big" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBoobs Big</Data>
+            <Data name="WaistBandBoobs Big" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FusionGirlBoobs Cleavage" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Cleavage</Data>
+            <Data name="BraClothBoobs Cleavage" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBoobs Cleavage</Data>
+            <Data name="BraLacesBoobs Cleavage" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FusionGirlBoobs Flat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Flat</Data>
+            <Data name="BraClothBoobs Flat" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBoobs Flat</Data>
+            <Data name="BraLacesBoobs Flat" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FusionGirlBoobs Gravity" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Gravity</Data>
+            <Data name="BraClothBoobs Gravity" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBoobs Gravity</Data>
+            <Data name="BraLacesBoobs Gravity" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBoobs Gravity</Data>
+            <Data name="LoinclothBoobs Gravity" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBoobs Gravity</Data>
+            <Data name="WaistBandBoobs Gravity" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FusionGirlBoobs Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Height</Data>
+            <Data name="BraClothBoobs Height" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBoobs Height</Data>
+            <Data name="BraLacesBoobs Height" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FusionGirlBoobs Mellons" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Mellons</Data>
+            <Data name="BraClothBoobs Mellons" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBoobs Mellons</Data>
+            <Data name="BraLacesBoobs Mellons" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBoobs Mellons</Data>
+            <Data name="LoinclothBoobs Mellons" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBoobs Mellons</Data>
+            <Data name="WaistBandBoobs Mellons" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FusionGirlBoobs Perky" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Perky</Data>
+            <Data name="BraClothBoobs Perky" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBoobs Perky</Data>
+            <Data name="BraLacesBoobs Perky" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBoobs Perky</Data>
+            <Data name="LoinclothBoobs Perky" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBoobs Perky</Data>
+            <Data name="WaistBandBoobs Perky" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FusionGirlBoobs Push Up" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Push Up</Data>
+            <Data name="BraClothBoobs Push Up" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBoobs Push Up</Data>
+            <Data name="BraLacesBoobs Push Up" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBoobs Push Up</Data>
+            <Data name="LoinclothBoobs Push Up" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBoobs Push Up</Data>
+            <Data name="WaistBandBoobs Push Up" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FusionGirlBoobs Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Small</Data>
+            <Data name="BraClothBoobs Small" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBoobs Small</Data>
+            <Data name="BraLacesBoobs Small" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FusionGirlBoobs Together" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Together</Data>
+            <Data name="BraClothBoobs Together" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBoobs Together</Data>
+            <Data name="BraLacesBoobs Together" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FusionGirlBoobs Top Slope" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Top Slope</Data>
+            <Data name="BraClothBoobs Top Slope" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBoobs Top Slope</Data>
+            <Data name="BraLacesBoobs Top Slope" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBoobs Top Slope</Data>
+            <Data name="LoinclothBoobs Top Slope" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBoobs Top Slope</Data>
+            <Data name="WaistBandBoobs Top Slope" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FusionGirlBoobs Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Width</Data>
+            <Data name="BraClothBoobs Width" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBoobs Width</Data>
+            <Data name="BraLacesBoobs Width" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FusionGirlBoobs Tiny" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Tiny</Data>
+            <Data name="BraClothBoobs Tiny" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBoobs Tiny</Data>
+            <Data name="BraLacesBoobs Tiny" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBoobs Tiny</Data>
+            <Data name="LoinclothBoobs Tiny" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBoobs Tiny</Data>
+            <Data name="WaistBandBoobs Tiny" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="FusionGirlNipples Length" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Length</Data>
+            <Data name="BraClothNipples Length" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="FusionGirlNipples Areola" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FusionGirlNipples Distance" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Distance</Data>
+            <Data name="BraClothNipples Distance" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothNipples Distance</Data>
+            <Data name="BraLacesNipples Distance" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FusionGirlNipples Down" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Down</Data>
+            <Data name="BraClothNipples Down" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothNipples Down</Data>
+            <Data name="BraLacesNipples Down" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="FusionGirlNipples Gone" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="FusionGirlNipples Shape" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Shape</Data>
+            <Data name="BraClothNipples Shape" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="FusionGirlNipples Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Size</Data>
+            <Data name="BraClothNipples Size" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FusionGirlNipples Perkiness" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Perkiness</Data>
+            <Data name="BraClothNipples Perkiness" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothNipples Perkiness</Data>
+            <Data name="BraLacesNipples Perkiness" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FusionGirlNipples Puffy" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Puffy</Data>
+            <Data name="BraClothNipples Puffy" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FusionGirlNipples Up" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Up</Data>
+            <Data name="BraClothNipples Up" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothNipples Up</Data>
+            <Data name="BraLacesNipples Up" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesNipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="FusionGirlNipples Tip" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FusionGirlChest Depth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlChest Depth</Data>
+            <Data name="BraClothChest Depth" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothChest Depth</Data>
+            <Data name="BraLacesChest Depth" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FusionGirlChest Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlChest Width</Data>
+            <Data name="BraClothChest Width" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothChest Width</Data>
+            <Data name="BraLacesChest Width" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesChest Width</Data>
+            <Data name="WaistBandChest Width" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FusionGirlWaist Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Chubby</Data>
+            <Data name="BraLacesWaist Chubby" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesWaist Chubby</Data>
+            <Data name="LoinclothWaist Chubby" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothWaist Chubby</Data>
+            <Data name="WaistBandWaist Chubby" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FusionGirlWaist Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Size</Data>
+            <Data name="BraClothWaist Size" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothWaist Size</Data>
+            <Data name="BraLacesWaist Size" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesWaist Size</Data>
+            <Data name="LoinclothWaist Size" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothWaist Size</Data>
+            <Data name="WaistBandWaist Size" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FusionGirlWaist Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Height</Data>
+            <Data name="LoinclothWaist Height" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothWaist Height</Data>
+            <Data name="WaistBandWaist Height" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FusionGirlWaist Line" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Line</Data>
+            <Data name="WaistBandWaist Line" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FusionGirlBack Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBack Size</Data>
+            <Data name="BraLacesBack Size" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBack Size</Data>
+            <Data name="LoinclothBack Size" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBack Size</Data>
+            <Data name="WaistBandBack Size" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FusionGirlBack Arch" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBack Arch</Data>
+            <Data name="BraLacesBack Arch" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBack Arch</Data>
+            <Data name="LoinclothBack Arch" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBack Arch</Data>
+            <Data name="WaistBandBack Arch" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FusionGirlHips Bone" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Bone</Data>
+            <Data name="LoinclothHips Bone" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothHips Bone</Data>
+            <Data name="WaistBandHips Bone" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FusionGirlHips Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Size</Data>
+            <Data name="LoinclothHips Size" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothHips Size</Data>
+            <Data name="WaistBandHips Size" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FusionGirlHips Upper Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Upper Width</Data>
+            <Data name="LoinclothHips Upper Width" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothHips Upper Width</Data>
+            <Data name="WaistBandHips Upper Width" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FusionGirlBum Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Size</Data>
+            <Data name="LoinclothBum Size" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBum Size</Data>
+            <Data name="WaistBandBum Size" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FusionGirlBum Crack" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Crack</Data>
+            <Data name="LoinclothBum Crack" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBum Crack</Data>
+            <Data name="WaistBandBum Crack" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 1" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Shape 1</Data>
+            <Data name="LoinclothBum Shape 1" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBum Shape 1</Data>
+            <Data name="WaistBandBum Shape 1" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Shape 2</Data>
+            <Data name="LoinclothBum Shape 2" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBum Shape 2</Data>
+            <Data name="WaistBandBum Shape 2" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FusionGirlBum Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Small</Data>
+            <Data name="LoinclothBum Small" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBum Small</Data>
+            <Data name="WaistBandBum Small" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FusionGirlBum Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Chubby</Data>
+            <Data name="LoinclothBum Chubby" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBum Chubby</Data>
+            <Data name="WaistBandBum Chubby" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FusionGirlBum Round" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Round</Data>
+            <Data name="LoinclothBum Round" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBum Round</Data>
+            <Data name="WaistBandBum Round" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FusionGirlBum Apple" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Apple</Data>
+            <Data name="LoinclothBum Apple" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBum Apple</Data>
+            <Data name="WaistBandBum Apple" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FusionGirlCalf Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FusionGirlCalf Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FusionGirlLegs Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Chubby</Data>
+            <Data name="BraLacesLegs Chubby" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesLegs Chubby</Data>
+            <Data name="LoinclothLegs Chubby" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothLegs Chubby</Data>
+            <Data name="WaistBandLegs Chubby" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FusionGirlLegs Shape" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Shape</Data>
+            <Data name="LoinclothLegs Shape" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FusionGirlLegs Thin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Thin</Data>
+            <Data name="LoinclothLegs Thin" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FusionGirlThighs Slim" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlThighs Slim</Data>
+            <Data name="LoinclothThighs Slim" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothThighs Slim</Data>
+            <Data name="WaistBandThighs Slim" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FusionGirlThighs Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlThighs Size</Data>
+            <Data name="LoinclothThighs Size" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothThighs Size</Data>
+            <Data name="WaistBandThighs Size" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FusionGirlAnkle Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FusionGirlArms Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArms Chubby</Data>
+            <Data name="BraClothArms Chubby" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothArms Chubby</Data>
+            <Data name="BraLacesArms Chubby" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FusionGirlShoulder Smooth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Smooth</Data>
+            <Data name="BraLacesShoulder Smooth" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FusionGirlShoulder Tweak" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Tweak</Data>
+            <Data name="BraLacesShoulder Tweak" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FusionGirlArms Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArms Size</Data>
+            <Data name="BraLacesArms Size" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FusionGirlArmpit Ajustment" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArmpit Ajustment</Data>
+            <Data name="BraClothArmpit Ajustment" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothArmpit Ajustment</Data>
+            <Data name="BraLacesArmpit Ajustment" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FusionGirlForearms Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FusionGirlTorso Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlTorso Size</Data>
+            <Data name="BraClothTorso Size" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothTorso Size</Data>
+            <Data name="BraLacesTorso Size" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesTorso Size</Data>
+            <Data name="LoinclothTorso Size" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothTorso Size</Data>
+            <Data name="WaistBandTorso Size" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FusionGirlSturnum Depth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FusionGirlSturnum Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FusionGirlGroin Position" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlGroin Position</Data>
+            <Data name="BraClothGroin Position" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothGroin Position</Data>
+            <Data name="BraLacesGroin Position" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesGroin Position</Data>
+            <Data name="LoinclothGroin Position" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothGroin Position</Data>
+            <Data name="WaistBandGroin Position" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FusionGirlGroin Back" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlGroin Back</Data>
+            <Data name="BraClothGroin Back" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothGroin Back</Data>
+            <Data name="BraLacesGroin Back" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Flat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Longer" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="FusionGirlClitoras Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="FusionGirlClitoras Long" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Long" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Wide" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Inner" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FusionGirlAbDefinition" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAbDefinition</Data>
+            <Data name="BraClothAbDefinition" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothAbDefinition</Data>
+            <Data name="LoinclothAbDefinition" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothAbDefinition</Data>
+            <Data name="WaistBandAbDefinition" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FusionGirlBody Toning" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBody Toning</Data>
+            <Data name="BraClothBody Toning" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBody Toning</Data>
+            <Data name="BraLacesBody Toning" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBody Toning</Data>
+            <Data name="LoinclothBody Toning" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBody Toning</Data>
+            <Data name="WaistBandBody Toning" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FusionGirlTigerSanBB" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlTigerSanBB</Data>
+            <Data name="BraClothTigerSanBB" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothTigerSanBB</Data>
+            <Data name="BraLacesTigerSanBB" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesTigerSanBB</Data>
+            <Data name="LoinclothTigerSanBB" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothTigerSanBB</Data>
+            <Data name="WaistBandTigerSanBB" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FusionGirlXunAbs" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlXunAbs</Data>
+            <Data name="BraClothXunAbs" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothXunAbs</Data>
+            <Data name="LoinclothXunAbs" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothXunAbs</Data>
+            <Data name="WaistBandXunAbs" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FusionGirlFFB Fitness 2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlFFB Fitness 2</Data>
+            <Data name="BraClothFFB Fitness 2" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothFFB Fitness 2</Data>
+            <Data name="BraLacesFFB Fitness 2" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesFFB Fitness 2</Data>
+            <Data name="LoinclothFFB Fitness 2" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothFFB Fitness 2</Data>
+            <Data name="WaistBandFFB Fitness 2" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FusionGirlAthletic" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAthletic</Data>
+            <Data name="BraClothAthletic" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothAthletic</Data>
+            <Data name="BraLacesAthletic" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesAthletic</Data>
+            <Data name="LoinclothAthletic" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothAthletic</Data>
+            <Data name="WaistBandAthletic" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FusionGirlSeveNBase Bombshell" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSeveNBase Bombshell</Data>
+            <Data name="BraClothSeveNBase Bombshell" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothSeveNBase Bombshell</Data>
+            <Data name="BraLacesSeveNBase Bombshell" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesSeveNBase Bombshell</Data>
+            <Data name="LoinclothSeveNBase Bombshell" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothSeveNBase Bombshell</Data>
+            <Data name="WaistBandSeveNBase Bombshell" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FusionGirlKnee Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FusionGirlShoulder Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Width</Data>
+            <Data name="BraClothShoulder Width" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothShoulder Width</Data>
+            <Data name="BraLacesShoulder Width" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesShoulder Width</Data>
+            <Data name="WaistBandShoulder Width" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FusionGirlHighHeels" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FusionGirlBodyFat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBodyFat</Data>
+            <Data name="BraClothBodyFat" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBodyFat</Data>
+            <Data name="BraLacesBodyFat" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBodyFat</Data>
+            <Data name="LoinclothBodyFat" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothBodyFat</Data>
+            <Data name="WaistBandBodyFat" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FusionGirlLegThin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegThin</Data>
+            <Data name="LoinclothLegThin" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothLegThin</Data>
+            <Data name="WaistBandLegThin" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FusionGirlHipsNarrow" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipsNarrow</Data>
+            <Data name="LoinclothHipsNarrow" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothHipsNarrow</Data>
+            <Data name="WaistBandHipsNarrow" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FusionGirlButtGravity" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlButtGravity</Data>
+            <Data name="LoinclothButtGravity" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FusionGirlButtThin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlButtThin</Data>
+            <Data name="BraLacesButtThin" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesButtThin</Data>
+            <Data name="LoinclothButtThin" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothButtThin</Data>
+            <Data name="WaistBandButtThin" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FusionGirlHipsForward" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipsForward</Data>
+            <Data name="LoinclothHipsForward" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothHipsForward</Data>
+            <Data name="WaistBandHipsForward" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FusionGirlHipRotateForward" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipRotateForward</Data>
+            <Data name="LoinclothHipRotateForward" target="Loincloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\LoinclothHipRotateForward</Data>
+            <Data name="WaistBandHipRotateForward" target="WaistBand" local="true">Slave Bra and Skirt (Slot 33) FG.osd\WaistBandHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastArmpitin</Data>
+            <Data name="BraClothBreastArmpitin" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBreastArmpitin</Data>
+            <Data name="BraLacesBreastArmpitin" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitWide" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastArmpitWide</Data>
+            <Data name="BraClothBreastArmpitWide" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBreastArmpitWide</Data>
+            <Data name="BraLacesBreastArmpitWide" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FusionGirlBreastCurve" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastCurve</Data>
+            <Data name="BraClothBreastCurve" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBreastCurve</Data>
+            <Data name="BraLacesBreastCurve" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FusionGirlBreastHeight2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastHeight2</Data>
+            <Data name="BraClothBreastHeight2" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBreastHeight2</Data>
+            <Data name="BraLacesBreastHeight2" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FusionGirlBreastConcave" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastConcave</Data>
+            <Data name="BraClothBreastConcave" target="BraCloth" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraClothBreastConcave</Data>
+            <Data name="BraLacesBreastConcave" target="BraLaces" local="true">Slave Bra and Skirt (Slot 33) FG.osd\BraLacesBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

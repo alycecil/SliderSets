@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Lingerie Bra FG">
+        <DataFolder>Vtaw Wardrobe 6 Lingerie Bra FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Lingerie Bra FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Lingerie</OutputPath>
+        <OutputFile GenWeights="false">LingerieBra</OutputFile>
+        <Shape target="Bra">Bra</Shape>
+        <Shape target="Bra Straps">Bra Straps</Shape>
+        <Shape target="plast">plast</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="Bra StrapsBelly Pregnant" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBelly Pregnant</Data>
+            <Data name="BraBelly Pregnant" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBelly Pregnant</Data>
+            <Data name="plastBelly Pregnant" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="Bra StrapsBelly Big" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBelly Big</Data>
+            <Data name="BraBelly Big" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="Bra StrapsBelly Size" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBelly Size</Data>
+            <Data name="BraBelly Size" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBelly Size</Data>
+            <Data name="plastBelly Size" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Bra StrapsBoobs Yuge" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBoobs Yuge</Data>
+            <Data name="BraBoobs Yuge" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBoobs Yuge</Data>
+            <Data name="plastBoobs Yuge" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Bra StrapsBoobs Big" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBoobs Big</Data>
+            <Data name="BraBoobs Big" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBoobs Big</Data>
+            <Data name="plastBoobs Big" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="Bra StrapsBoobs Cleavage" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBoobs Cleavage</Data>
+            <Data name="BraBoobs Cleavage" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="Bra StrapsBoobs Flat" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBoobs Flat</Data>
+            <Data name="BraBoobs Flat" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Bra StrapsBoobs Gravity" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBoobs Gravity</Data>
+            <Data name="BraBoobs Gravity" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBoobs Gravity</Data>
+            <Data name="plastBoobs Gravity" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="Bra StrapsBoobs Height" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBoobs Height</Data>
+            <Data name="BraBoobs Height" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Bra StrapsBoobs Mellons" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBoobs Mellons</Data>
+            <Data name="BraBoobs Mellons" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBoobs Mellons</Data>
+            <Data name="plastBoobs Mellons" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Bra StrapsBoobs Perky" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBoobs Perky</Data>
+            <Data name="BraBoobs Perky" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBoobs Perky</Data>
+            <Data name="plastBoobs Perky" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Bra StrapsBoobs Push Up" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBoobs Push Up</Data>
+            <Data name="BraBoobs Push Up" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBoobs Push Up</Data>
+            <Data name="plastBoobs Push Up" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="Bra StrapsBoobs Small" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBoobs Small</Data>
+            <Data name="BraBoobs Small" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="Bra StrapsBoobs Together" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBoobs Together</Data>
+            <Data name="BraBoobs Together" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="Bra StrapsBoobs Top Slope" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBoobs Top Slope</Data>
+            <Data name="BraBoobs Top Slope" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBoobs Top Slope</Data>
+            <Data name="plastBoobs Top Slope" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="Bra StrapsBoobs Width" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBoobs Width</Data>
+            <Data name="BraBoobs Width" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Bra StrapsBoobs Tiny" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBoobs Tiny</Data>
+            <Data name="BraBoobs Tiny" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBoobs Tiny</Data>
+            <Data name="plastBoobs Tiny" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="Bra StrapsNipples Distance" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsNipples Distance</Data>
+            <Data name="BraNipples Distance" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="Bra StrapsNipples Down" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsNipples Down</Data>
+            <Data name="BraNipples Down" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="Bra StrapsNipples Perkiness" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsNipples Perkiness</Data>
+            <Data name="BraNipples Perkiness" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="Bra StrapsNipples Puffy" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsNipples Puffy</Data>
+            <Data name="BraNipples Puffy" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="Bra StrapsNipples Up" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsNipples Up</Data>
+            <Data name="BraNipples Up" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="Bra StrapsChest Depth" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsChest Depth</Data>
+            <Data name="BraChest Depth" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="Bra StrapsChest Width" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsChest Width</Data>
+            <Data name="BraChest Width" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraChest Width</Data>
+            <Data name="plastChest Width" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="Bra StrapsWaist Chubby" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsWaist Chubby</Data>
+            <Data name="BraWaist Chubby" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraWaist Chubby</Data>
+            <Data name="plastWaist Chubby" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="Bra StrapsWaist Size" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsWaist Size</Data>
+            <Data name="BraWaist Size" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraWaist Size</Data>
+            <Data name="plastWaist Size" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="Bra StrapsWaist Height" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsWaist Height</Data>
+            <Data name="BraWaist Height" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraWaist Height</Data>
+            <Data name="plastWaist Height" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="Bra StrapsWaist Line" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsWaist Line</Data>
+            <Data name="BraWaist Line" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="Bra StrapsBack Size" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBack Size</Data>
+            <Data name="BraBack Size" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBack Size</Data>
+            <Data name="plastBack Size" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="Bra StrapsBack Arch" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBack Arch</Data>
+            <Data name="BraBack Arch" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBack Arch</Data>
+            <Data name="plastBack Arch" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="Bra StrapsHips Upper Width" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsHips Upper Width</Data>
+            <Data name="BraHips Upper Width" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="Bra StrapsBum Shape 2" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBum Shape 2</Data>
+            <Data name="BraBum Shape 2" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBum Shape 2</Data>
+            <Data name="plastBum Shape 2" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="Bra StrapsBum Chubby" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBum Chubby</Data>
+            <Data name="BraBum Chubby" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBum Chubby</Data>
+            <Data name="plastBum Chubby" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="Bra StrapsBum Apple" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBum Apple</Data>
+            <Data name="BraBum Apple" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBum Apple</Data>
+            <Data name="plastBum Apple" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="Bra StrapsLegs Chubby" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsLegs Chubby</Data>
+            <Data name="BraLegs Chubby" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraLegs Chubby</Data>
+            <Data name="plastLegs Chubby" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastLegs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="Bra StrapsArms Chubby" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsArms Chubby</Data>
+            <Data name="plastArms Chubby" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="Bra StrapsShoulder Smooth" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="Bra StrapsShoulder Tweak" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="Bra StrapsArms Size" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsArms Size</Data>
+            <Data name="BraArms Size" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraArms Size</Data>
+            <Data name="plastArms Size" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="Bra StrapsArmpit Ajustment" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Bra StrapsTorso Size" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsTorso Size</Data>
+            <Data name="BraTorso Size" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraTorso Size</Data>
+            <Data name="plastTorso Size" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Bra StrapsSturnum Depth" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsSturnum Depth</Data>
+            <Data name="BraSturnum Depth" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraSturnum Depth</Data>
+            <Data name="plastSturnum Depth" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Bra StrapsSturnum Height" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsSturnum Height</Data>
+            <Data name="BraSturnum Height" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraSturnum Height</Data>
+            <Data name="plastSturnum Height" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Bra StrapsGroin Position" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsGroin Position</Data>
+            <Data name="BraGroin Position" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraGroin Position</Data>
+            <Data name="plastGroin Position" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Bra StrapsGroin Back" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsGroin Back</Data>
+            <Data name="BraGroin Back" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraGroin Back</Data>
+            <Data name="plastGroin Back" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="Bra StrapsAbDefinition" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsAbDefinition</Data>
+            <Data name="BraAbDefinition" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Bra StrapsBody Toning" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBody Toning</Data>
+            <Data name="BraBody Toning" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBody Toning</Data>
+            <Data name="plastBody Toning" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Bra StrapsTigerSanBB" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsTigerSanBB</Data>
+            <Data name="BraTigerSanBB" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraTigerSanBB</Data>
+            <Data name="plastTigerSanBB" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="Bra StrapsXunAbs" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsXunAbs</Data>
+            <Data name="BraXunAbs" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="Bra StrapsFFB Fitness 2" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsFFB Fitness 2</Data>
+            <Data name="BraFFB Fitness 2" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraFFB Fitness 2</Data>
+            <Data name="plastFFB Fitness 2" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Bra StrapsAthletic" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsAthletic</Data>
+            <Data name="BraAthletic" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraAthletic</Data>
+            <Data name="plastAthletic" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Bra StrapsSeveNBase Bombshell" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsSeveNBase Bombshell</Data>
+            <Data name="BraSeveNBase Bombshell" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraSeveNBase Bombshell</Data>
+            <Data name="plastSeveNBase Bombshell" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Bra StrapsShoulder Width" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsShoulder Width</Data>
+            <Data name="BraShoulder Width" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraShoulder Width</Data>
+            <Data name="plastShoulder Width" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Bra StrapsBodyFat" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBodyFat</Data>
+            <Data name="BraBodyFat" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBodyFat</Data>
+            <Data name="plastBodyFat" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastBodyFat</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="Bra StrapsButtThin" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsButtThin</Data>
+            <Data name="BraButtThin" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraButtThin</Data>
+            <Data name="plastButtThin" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastButtThin</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="Bra StrapsHipRotateForward" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsHipRotateForward</Data>
+            <Data name="BraHipRotateForward" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraHipRotateForward</Data>
+            <Data name="plastHipRotateForward" target="plast" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\plastHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="Bra StrapsBreastArmpitin" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBreastArmpitin</Data>
+            <Data name="BraBreastArmpitin" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="Bra StrapsBreastArmpitWide" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBreastArmpitWide</Data>
+            <Data name="BraBreastArmpitWide" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="Bra StrapsBreastCurve" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBreastCurve</Data>
+            <Data name="BraBreastCurve" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="Bra StrapsBreastHeight2" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBreastHeight2</Data>
+            <Data name="BraBreastHeight2" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="Bra StrapsBreastConcave" target="Bra Straps" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\Bra StrapsBreastConcave</Data>
+            <Data name="BraBreastConcave" target="Bra" local="true">Vtaw Wardrobe 6 Lingerie Bra FG.osd\BraBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

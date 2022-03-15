@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Slave Skirt FG">
+        <DataFolder>Slave Skirt FG</DataFolder>
+        <SourceFile>Slave Skirt FG.nif</SourceFile>
+        <OutputPath>meshes\kharneth\slaveloincloth</OutputPath>
+        <OutputFile GenWeights="false">loincloth</OutputFile>
+        <Shape target="Loincloth">Loincloth</Shape>
+        <Shape target="WaistBand">WaistBand</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="LoinclothBelly Pregnant" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBelly Pregnant</Data>
+            <Data name="WaistBandBelly Pregnant" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="LoinclothBelly Big" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBelly Big</Data>
+            <Data name="WaistBandBelly Big" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="LoinclothBelly Size" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBelly Size</Data>
+            <Data name="WaistBandBelly Size" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="LoinclothBoobs Yuge" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBoobs Yuge</Data>
+            <Data name="WaistBandBoobs Yuge" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="LoinclothBoobs Big" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBoobs Big</Data>
+            <Data name="WaistBandBoobs Big" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="LoinclothBoobs Gravity" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBoobs Gravity</Data>
+            <Data name="WaistBandBoobs Gravity" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="LoinclothBoobs Mellons" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBoobs Mellons</Data>
+            <Data name="WaistBandBoobs Mellons" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="LoinclothBoobs Perky" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBoobs Perky</Data>
+            <Data name="WaistBandBoobs Perky" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="LoinclothBoobs Push Up" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBoobs Push Up</Data>
+            <Data name="WaistBandBoobs Push Up" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="LoinclothBoobs Top Slope" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBoobs Top Slope</Data>
+            <Data name="WaistBandBoobs Top Slope" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="LoinclothBoobs Tiny" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBoobs Tiny</Data>
+            <Data name="WaistBandBoobs Tiny" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="WaistBandChest Width" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="LoinclothWaist Chubby" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothWaist Chubby</Data>
+            <Data name="WaistBandWaist Chubby" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="LoinclothWaist Size" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothWaist Size</Data>
+            <Data name="WaistBandWaist Size" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="LoinclothWaist Height" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothWaist Height</Data>
+            <Data name="WaistBandWaist Height" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="WaistBandWaist Line" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="LoinclothBack Size" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBack Size</Data>
+            <Data name="WaistBandBack Size" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="LoinclothBack Arch" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBack Arch</Data>
+            <Data name="WaistBandBack Arch" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="LoinclothHips Bone" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothHips Bone</Data>
+            <Data name="WaistBandHips Bone" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="LoinclothHips Size" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothHips Size</Data>
+            <Data name="WaistBandHips Size" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="LoinclothHips Upper Width" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothHips Upper Width</Data>
+            <Data name="WaistBandHips Upper Width" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="LoinclothBum Size" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBum Size</Data>
+            <Data name="WaistBandBum Size" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="LoinclothBum Crack" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBum Crack</Data>
+            <Data name="WaistBandBum Crack" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="LoinclothBum Shape 1" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBum Shape 1</Data>
+            <Data name="WaistBandBum Shape 1" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="LoinclothBum Shape 2" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBum Shape 2</Data>
+            <Data name="WaistBandBum Shape 2" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="LoinclothBum Small" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBum Small</Data>
+            <Data name="WaistBandBum Small" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="LoinclothBum Chubby" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBum Chubby</Data>
+            <Data name="WaistBandBum Chubby" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="LoinclothBum Round" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBum Round</Data>
+            <Data name="WaistBandBum Round" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="LoinclothBum Apple" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBum Apple</Data>
+            <Data name="WaistBandBum Apple" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="LoinclothLegs Chubby" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothLegs Chubby</Data>
+            <Data name="WaistBandLegs Chubby" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="LoinclothLegs Shape" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="LoinclothLegs Thin" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="LoinclothThighs Slim" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothThighs Slim</Data>
+            <Data name="WaistBandThighs Slim" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="LoinclothThighs Size" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothThighs Size</Data>
+            <Data name="WaistBandThighs Size" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="LoinclothTorso Size" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothTorso Size</Data>
+            <Data name="WaistBandTorso Size" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandTorso Size</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="LoinclothGroin Position" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothGroin Position</Data>
+            <Data name="WaistBandGroin Position" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandGroin Position</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="LoinclothAbDefinition" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothAbDefinition</Data>
+            <Data name="WaistBandAbDefinition" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="LoinclothBody Toning" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBody Toning</Data>
+            <Data name="WaistBandBody Toning" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="LoinclothTigerSanBB" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothTigerSanBB</Data>
+            <Data name="WaistBandTigerSanBB" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="LoinclothXunAbs" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothXunAbs</Data>
+            <Data name="WaistBandXunAbs" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="LoinclothFFB Fitness 2" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothFFB Fitness 2</Data>
+            <Data name="WaistBandFFB Fitness 2" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="LoinclothAthletic" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothAthletic</Data>
+            <Data name="WaistBandAthletic" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="LoinclothSeveNBase Bombshell" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothSeveNBase Bombshell</Data>
+            <Data name="WaistBandSeveNBase Bombshell" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="WaistBandShoulder Width" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="LoinclothBodyFat" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothBodyFat</Data>
+            <Data name="WaistBandBodyFat" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="LoinclothLegThin" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothLegThin</Data>
+            <Data name="WaistBandLegThin" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="LoinclothHipsNarrow" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothHipsNarrow</Data>
+            <Data name="WaistBandHipsNarrow" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="LoinclothButtGravity" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="LoinclothButtThin" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothButtThin</Data>
+            <Data name="WaistBandButtThin" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="LoinclothHipsForward" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothHipsForward</Data>
+            <Data name="WaistBandHipsForward" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="LoinclothHipRotateForward" target="Loincloth" local="true">Slave Skirt FG.osd\LoinclothHipRotateForward</Data>
+            <Data name="WaistBandHipRotateForward" target="WaistBand" local="true">Slave Skirt FG.osd\WaistBandHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

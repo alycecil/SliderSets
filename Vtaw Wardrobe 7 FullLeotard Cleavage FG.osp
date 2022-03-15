@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 FullLeotard Cleavage FG">
+        <DataFolder>Vtaw Wardrobe 7 FullLeotard Cleavage FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 FullLeotard Cleavage FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\FullLeotard</OutputPath>
+        <OutputFile GenWeights="false">FullLeotardCleavage</OutputFile>
+        <Shape target="FullLeotardCleavage">FullLeotardCleavage</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FullLeotardCleavageBelly Pregnant" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FullLeotardCleavageBelly Big" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FullLeotardCleavageBelly Size" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FullLeotardCleavageBelly Tuck" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FullLeotardCleavageBoobs Yuge" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FullLeotardCleavageBoobs Big" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FullLeotardCleavageBoobs Cleavage" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FullLeotardCleavageBoobs Flat" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FullLeotardCleavageBoobs Gravity" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FullLeotardCleavageBoobs Height" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FullLeotardCleavageBoobs Mellons" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FullLeotardCleavageBoobs Perky" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FullLeotardCleavageBoobs Push Up" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FullLeotardCleavageBoobs Small" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FullLeotardCleavageBoobs Together" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FullLeotardCleavageBoobs Top Slope" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FullLeotardCleavageBoobs Width" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FullLeotardCleavageBoobs Tiny" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FullLeotardCleavageNipples Distance" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FullLeotardCleavageNipples Down" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FullLeotardCleavageNipples Perkiness" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FullLeotardCleavageNipples Puffy" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FullLeotardCleavageNipples Up" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FullLeotardCleavageChest Depth" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FullLeotardCleavageChest Width" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FullLeotardCleavageWaist Chubby" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FullLeotardCleavageWaist Size" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FullLeotardCleavageWaist Height" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FullLeotardCleavageWaist Line" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FullLeotardCleavageBack Size" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FullLeotardCleavageBack Arch" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FullLeotardCleavageHips Bone" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FullLeotardCleavageHips Size" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FullLeotardCleavageHips Upper Width" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FullLeotardCleavageBum Size" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FullLeotardCleavageBum Crack" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FullLeotardCleavageBum Shape 1" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FullLeotardCleavageBum Shape 2" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FullLeotardCleavageBum Small" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FullLeotardCleavageBum Chubby" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FullLeotardCleavageBum Round" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FullLeotardCleavageBum Apple" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FullLeotardCleavageLegs Chubby" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FullLeotardCleavageLegs Shape" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FullLeotardCleavageLegs Thin" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FullLeotardCleavageThighs Slim" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FullLeotardCleavageThighs Size" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageThighs Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FullLeotardCleavageArms Chubby" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FullLeotardCleavageShoulder Smooth" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FullLeotardCleavageShoulder Tweak" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FullLeotardCleavageArms Size" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FullLeotardCleavageArmpit Ajustment" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FullLeotardCleavageForearms Size" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FullLeotardCleavageTorso Size" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FullLeotardCleavageSturnum Depth" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FullLeotardCleavageSturnum Height" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FullLeotardCleavageGroin Position" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FullLeotardCleavageGroin Back" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FullLeotardCleavageAbDefinition" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FullLeotardCleavageBody Toning" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FullLeotardCleavageTigerSanBB" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FullLeotardCleavageXunAbs" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FullLeotardCleavageFFB Fitness 2" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FullLeotardCleavageAthletic" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FullLeotardCleavageSeveNBase Bombshell" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FullLeotardCleavageShoulder Width" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FullLeotardCleavageBodyFat" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FullLeotardCleavageLegThin" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FullLeotardCleavageHipsNarrow" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FullLeotardCleavageButtGravity" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FullLeotardCleavageButtThin" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FullLeotardCleavageHipsForward" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FullLeotardCleavageHipRotateForward" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FullLeotardCleavageBreastArmpitin" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FullLeotardCleavageBreastArmpitWide" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FullLeotardCleavageBreastCurve" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FullLeotardCleavageBreastHeight2" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FullLeotardCleavageBreastConcave" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageBreastConcave</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="FullLeotardCleavageNipples Length" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="FullLeotardCleavageNipples Areola" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="FullLeotardCleavageNipples Gone" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="FullLeotardCleavageNipples Shape" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="FullLeotardCleavageNipples Size" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="FullLeotardCleavageNipples Tip" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageNipples Tip</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="FullLeotardCleavageLabia Minora Flat" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="FullLeotardCleavageLabia Minora Longer" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="FullLeotardCleavageClitoras Size" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageClitoras Size</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="FullLeotardCleavageLabia Majora Long" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="FullLeotardCleavageLabia Majora Wide" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="FullLeotardCleavageLabia Majora Inner" target="FullLeotardCleavage" local="true">Vtaw Wardrobe 7 FullLeotard Cleavage FG.osd\FullLeotardCleavageLabia Majora Inner</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

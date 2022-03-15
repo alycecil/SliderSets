@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 2B Shoes FG">
+        <DataFolder>Vtaw Wardrobe 7 2B Shoes FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 2B Shoes FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\2B</OutputPath>
+        <OutputFile GenWeights="false">2BShoes</OutputFile>
+        <Shape target="FGHH" DataFolder="Vtaw Wardrobe 7 2B Outfit FG">FGHH</Shape>
+        <Shape target="Leg Belt">Leg Belt</Shape>
+        <Shape target="Metal_Boots_2.001">Metal_Boots_2.001</Shape>
+        <Shape target="Shoes">Shoes</Shape>
+        <Shape target="Stocking">Stocking</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FGHHBelly Pregnant" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FGHHBelly Big" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FGHHBelly Size" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FGHHBelly Tuck" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FGHHBoobs Yuge" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBoobs Yuge</Data>
+            <Data name="Metal_Boots_2.001Boobs Yuge" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Boobs Yuge</Data>
+            <Data name="ShoesBoobs Yuge" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBoobs Yuge</Data>
+            <Data name="Leg BeltBoobs Yuge" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBoobs Yuge</Data>
+            <Data name="StockingBoobs Yuge" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FGHHBoobs Big" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBoobs Big</Data>
+            <Data name="Metal_Boots_2.001Boobs Big" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Boobs Big</Data>
+            <Data name="ShoesBoobs Big" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBoobs Big</Data>
+            <Data name="Leg BeltBoobs Big" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBoobs Big</Data>
+            <Data name="StockingBoobs Big" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FGHHBoobs Cleavage" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FGHHBoobs Flat" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FGHHBoobs Gravity" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBoobs Gravity</Data>
+            <Data name="Metal_Boots_2.001Boobs Gravity" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Boobs Gravity</Data>
+            <Data name="ShoesBoobs Gravity" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBoobs Gravity</Data>
+            <Data name="Leg BeltBoobs Gravity" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBoobs Gravity</Data>
+            <Data name="StockingBoobs Gravity" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FGHHBoobs Height" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FGHHBoobs Mellons" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBoobs Mellons</Data>
+            <Data name="Metal_Boots_2.001Boobs Mellons" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Boobs Mellons</Data>
+            <Data name="ShoesBoobs Mellons" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBoobs Mellons</Data>
+            <Data name="Leg BeltBoobs Mellons" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBoobs Mellons</Data>
+            <Data name="StockingBoobs Mellons" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FGHHBoobs Perky" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBoobs Perky</Data>
+            <Data name="Metal_Boots_2.001Boobs Perky" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Boobs Perky</Data>
+            <Data name="ShoesBoobs Perky" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBoobs Perky</Data>
+            <Data name="Leg BeltBoobs Perky" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBoobs Perky</Data>
+            <Data name="StockingBoobs Perky" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FGHHBoobs Push Up" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBoobs Push Up</Data>
+            <Data name="Metal_Boots_2.001Boobs Push Up" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Boobs Push Up</Data>
+            <Data name="ShoesBoobs Push Up" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBoobs Push Up</Data>
+            <Data name="Leg BeltBoobs Push Up" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBoobs Push Up</Data>
+            <Data name="StockingBoobs Push Up" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FGHHBoobs Small" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FGHHBoobs Together" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FGHHBoobs Top Slope" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBoobs Top Slope</Data>
+            <Data name="Metal_Boots_2.001Boobs Top Slope" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Boobs Top Slope</Data>
+            <Data name="ShoesBoobs Top Slope" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBoobs Top Slope</Data>
+            <Data name="Leg BeltBoobs Top Slope" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBoobs Top Slope</Data>
+            <Data name="StockingBoobs Top Slope" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FGHHBoobs Width" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FGHHBoobs Tiny" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBoobs Tiny</Data>
+            <Data name="Metal_Boots_2.001Boobs Tiny" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Boobs Tiny</Data>
+            <Data name="ShoesBoobs Tiny" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBoobs Tiny</Data>
+            <Data name="Leg BeltBoobs Tiny" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBoobs Tiny</Data>
+            <Data name="StockingBoobs Tiny" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FGHHNipples Distance" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FGHHNipples Down" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FGHHNipples Perkiness" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FGHHNipples Puffy" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FGHHNipples Up" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FGHHChest Depth" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FGHHChest Width" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FGHHWaist Chubby" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FGHHWaist Size" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FGHHWaist Height" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FGHHWaist Line" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FGHHBack Size" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FGHHBack Arch" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FGHHHips Bone" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FGHHHips Size" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHHips Size</Data>
+            <Data name="Leg BeltHips Size" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltHips Size</Data>
+            <Data name="StockingHips Size" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FGHHHips Upper Width" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FGHHBum Size" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBum Size</Data>
+            <Data name="Metal_Boots_2.001Bum Size" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Bum Size</Data>
+            <Data name="ShoesBum Size" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBum Size</Data>
+            <Data name="Leg BeltBum Size" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBum Size</Data>
+            <Data name="StockingBum Size" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FGHHBum Crack" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FGHHBum Shape 1" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBum Shape 1</Data>
+            <Data name="Leg BeltBum Shape 1" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBum Shape 1</Data>
+            <Data name="StockingBum Shape 1" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FGHHBum Shape 2" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBum Shape 2</Data>
+            <Data name="Leg BeltBum Shape 2" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBum Shape 2</Data>
+            <Data name="StockingBum Shape 2" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FGHHBum Small" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBum Small</Data>
+            <Data name="Metal_Boots_2.001Bum Small" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Bum Small</Data>
+            <Data name="ShoesBum Small" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBum Small</Data>
+            <Data name="Leg BeltBum Small" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBum Small</Data>
+            <Data name="StockingBum Small" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FGHHBum Chubby" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBum Chubby</Data>
+            <Data name="Leg BeltBum Chubby" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBum Chubby</Data>
+            <Data name="StockingBum Chubby" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FGHHBum Round" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBum Round</Data>
+            <Data name="Leg BeltBum Round" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FGHHBum Apple" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBum Apple</Data>
+            <Data name="ShoesBum Apple" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FGHHCalf Size" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHCalf Size</Data>
+            <Data name="ShoesCalf Size" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FGHHCalf Small" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHCalf Small</Data>
+            <Data name="Metal_Boots_2.001Calf Small" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Calf Small</Data>
+            <Data name="ShoesCalf Small" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesCalf Small</Data>
+            <Data name="StockingCalf Small" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FGHHLegs Chubby" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHLegs Chubby</Data>
+            <Data name="Metal_Boots_2.001Legs Chubby" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Legs Chubby</Data>
+            <Data name="ShoesLegs Chubby" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesLegs Chubby</Data>
+            <Data name="Leg BeltLegs Chubby" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltLegs Chubby</Data>
+            <Data name="StockingLegs Chubby" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FGHHLegs Shape" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHLegs Shape</Data>
+            <Data name="Metal_Boots_2.001Legs Shape" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Legs Shape</Data>
+            <Data name="ShoesLegs Shape" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesLegs Shape</Data>
+            <Data name="Leg BeltLegs Shape" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltLegs Shape</Data>
+            <Data name="StockingLegs Shape" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FGHHLegs Thin" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHLegs Thin</Data>
+            <Data name="Metal_Boots_2.001Legs Thin" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Legs Thin</Data>
+            <Data name="ShoesLegs Thin" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesLegs Thin</Data>
+            <Data name="Leg BeltLegs Thin" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltLegs Thin</Data>
+            <Data name="StockingLegs Thin" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FGHHThighs Slim" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHThighs Slim</Data>
+            <Data name="Metal_Boots_2.001Thighs Slim" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Thighs Slim</Data>
+            <Data name="ShoesThighs Slim" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesThighs Slim</Data>
+            <Data name="Leg BeltThighs Slim" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltThighs Slim</Data>
+            <Data name="StockingThighs Slim" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FGHHThighs Size" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHThighs Size</Data>
+            <Data name="Metal_Boots_2.001Thighs Size" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Thighs Size</Data>
+            <Data name="ShoesThighs Size" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesThighs Size</Data>
+            <Data name="Leg BeltThighs Size" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltThighs Size</Data>
+            <Data name="StockingThighs Size" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FGHHAnkle Size" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHAnkle Size</Data>
+            <Data name="ShoesAnkle Size" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FGHHArms Chubby" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FGHHShoulder Smooth" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FGHHShoulder Tweak" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FGHHArms Size" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FGHHArmpit Ajustment" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FGHHForearms Size" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FGHHTorso Size" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FGHHSturnum Depth" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHSturnum Depth</Data>
+            <Data name="Metal_Boots_2.001Sturnum Depth" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Sturnum Depth</Data>
+            <Data name="ShoesSturnum Depth" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesSturnum Depth</Data>
+            <Data name="Leg BeltSturnum Depth" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltSturnum Depth</Data>
+            <Data name="StockingSturnum Depth" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FGHHSturnum Height" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHSturnum Height</Data>
+            <Data name="Metal_Boots_2.001Sturnum Height" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Sturnum Height</Data>
+            <Data name="ShoesSturnum Height" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesSturnum Height</Data>
+            <Data name="Leg BeltSturnum Height" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltSturnum Height</Data>
+            <Data name="StockingSturnum Height" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FGHHGroin Position" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHGroin Position</Data>
+            <Data name="Metal_Boots_2.001Groin Position" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Groin Position</Data>
+            <Data name="ShoesGroin Position" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesGroin Position</Data>
+            <Data name="Leg BeltGroin Position" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltGroin Position</Data>
+            <Data name="StockingGroin Position" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FGHHGroin Back" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHGroin Back</Data>
+            <Data name="Metal_Boots_2.001Groin Back" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Groin Back</Data>
+            <Data name="ShoesGroin Back" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesGroin Back</Data>
+            <Data name="Leg BeltGroin Back" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltGroin Back</Data>
+            <Data name="StockingGroin Back" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FGHHAbDefinition" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHAbDefinition</Data>
+            <Data name="ShoesAbDefinition" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FGHHBody Toning" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBody Toning</Data>
+            <Data name="Metal_Boots_2.001Body Toning" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Body Toning</Data>
+            <Data name="ShoesBody Toning" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBody Toning</Data>
+            <Data name="Leg BeltBody Toning" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBody Toning</Data>
+            <Data name="StockingBody Toning" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FGHHTigerSanBB" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHTigerSanBB</Data>
+            <Data name="Metal_Boots_2.001TigerSanBB" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001TigerSanBB</Data>
+            <Data name="ShoesTigerSanBB" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesTigerSanBB</Data>
+            <Data name="Leg BeltTigerSanBB" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltTigerSanBB</Data>
+            <Data name="StockingTigerSanBB" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FGHHXunAbs" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FGHHFFB Fitness 2" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FGHHAthletic" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHAthletic</Data>
+            <Data name="Metal_Boots_2.001Athletic" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Athletic</Data>
+            <Data name="ShoesAthletic" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesAthletic</Data>
+            <Data name="Leg BeltAthletic" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltAthletic</Data>
+            <Data name="StockingAthletic" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FGHHSeveNBase Bombshell" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHSeveNBase Bombshell</Data>
+            <Data name="Metal_Boots_2.001SeveNBase Bombshell" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001SeveNBase Bombshell</Data>
+            <Data name="ShoesSeveNBase Bombshell" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesSeveNBase Bombshell</Data>
+            <Data name="Leg BeltSeveNBase Bombshell" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltSeveNBase Bombshell</Data>
+            <Data name="StockingSeveNBase Bombshell" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FGHHKnee Height" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHKnee Height</Data>
+            <Data name="Metal_Boots_2.001Knee Height" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001Knee Height</Data>
+            <Data name="ShoesKnee Height" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesKnee Height</Data>
+            <Data name="Leg BeltKnee Height" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltKnee Height</Data>
+            <Data name="StockingKnee Height" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FGHHShoulder Width" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FGHHHighHeels" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHHighHeels</Data>
+            <Data name="ShoesHighHeels" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FGHHBodyFat" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBodyFat</Data>
+            <Data name="Metal_Boots_2.001BodyFat" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001BodyFat</Data>
+            <Data name="ShoesBodyFat" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBodyFat</Data>
+            <Data name="Leg BeltBodyFat" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltBodyFat</Data>
+            <Data name="StockingBodyFat" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FGHHLegThin" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHLegThin</Data>
+            <Data name="Metal_Boots_2.001LegThin" target="Metal_Boots_2.001" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Metal_Boots_2.001LegThin</Data>
+            <Data name="ShoesLegThin" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesLegThin</Data>
+            <Data name="Leg BeltLegThin" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltLegThin</Data>
+            <Data name="StockingLegThin" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FGHHHipsNarrow" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHHipsNarrow</Data>
+            <Data name="ShoesHipsNarrow" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesHipsNarrow</Data>
+            <Data name="Leg BeltHipsNarrow" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltHipsNarrow</Data>
+            <Data name="StockingHipsNarrow" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FGHHButtGravity" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHButtGravity</Data>
+            <Data name="ShoesButtGravity" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesButtGravity</Data>
+            <Data name="Leg BeltButtGravity" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltButtGravity</Data>
+            <Data name="StockingButtGravity" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FGHHButtThin" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHButtThin</Data>
+            <Data name="ShoesButtThin" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesButtThin</Data>
+            <Data name="Leg BeltButtThin" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltButtThin</Data>
+            <Data name="StockingButtThin" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FGHHHipsForward" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHHipsForward</Data>
+            <Data name="ShoesHipsForward" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesHipsForward</Data>
+            <Data name="Leg BeltHipsForward" target="Leg Belt" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\Leg BeltHipsForward</Data>
+            <Data name="StockingHipsForward" target="Stocking" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\StockingHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FGHHHipRotateForward" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHHipRotateForward</Data>
+            <Data name="ShoesHipRotateForward" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FGHHBreastArmpitin" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBreastArmpitin</Data>
+            <Data name="ShoesBreastArmpitin" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FGHHBreastArmpitWide" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBreastArmpitWide</Data>
+            <Data name="ShoesBreastArmpitWide" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FGHHBreastCurve" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBreastCurve</Data>
+            <Data name="ShoesBreastCurve" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FGHHBreastHeight2" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBreastHeight2</Data>
+            <Data name="ShoesBreastHeight2" target="Shoes" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\ShoesBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FGHHBreastConcave" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHBreastConcave</Data>
+        </Slider>
+        <Slider name="Zap-Legs" invert="false" default="100" hidden="true" zap="true">
+            <Data name="FGHHZap-Legs" target="FGHH" local="true">Vtaw Wardrobe 7 2B Shoes FG.osd\FGHHZap-Legs</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

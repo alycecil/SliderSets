@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Raider vest FG">
+        <DataFolder>Vtaw Raider vest FG</DataFolder>
+        <SourceFile>Vtaw Raider vest FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe4\vest</OutputPath>
+        <OutputFile GenWeights="false">vest</OutputFile>
+        <Shape target="vest">vest</Shape>
+        <Shape target="vest2">vest2</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="vestBelly Pregnant" target="vest" local="true">Vtaw Raider vest FG.osd\vestBelly Pregnant</Data>
+            <Data name="vest2Belly Pregnant" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="vestBelly Big" target="vest" local="true">Vtaw Raider vest FG.osd\vestBelly Big</Data>
+            <Data name="vest2Belly Big" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="vestBelly Size" target="vest" local="true">Vtaw Raider vest FG.osd\vestBelly Size</Data>
+            <Data name="vest2Belly Size" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Belly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="vestBelly Tuck" target="vest" local="true">Vtaw Raider vest FG.osd\vestBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="vestBoobs Yuge" target="vest" local="true">Vtaw Raider vest FG.osd\vestBoobs Yuge</Data>
+            <Data name="vest2Boobs Yuge" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="vestBoobs Big" target="vest" local="true">Vtaw Raider vest FG.osd\vestBoobs Big</Data>
+            <Data name="vest2Boobs Big" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="vestBoobs Cleavage" target="vest" local="true">Vtaw Raider vest FG.osd\vestBoobs Cleavage</Data>
+            <Data name="vest2Boobs Cleavage" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Boobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="vestBoobs Flat" target="vest" local="true">Vtaw Raider vest FG.osd\vestBoobs Flat</Data>
+            <Data name="vest2Boobs Flat" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Boobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="vestBoobs Gravity" target="vest" local="true">Vtaw Raider vest FG.osd\vestBoobs Gravity</Data>
+            <Data name="vest2Boobs Gravity" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="vestBoobs Height" target="vest" local="true">Vtaw Raider vest FG.osd\vestBoobs Height</Data>
+            <Data name="vest2Boobs Height" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Boobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="vestBoobs Mellons" target="vest" local="true">Vtaw Raider vest FG.osd\vestBoobs Mellons</Data>
+            <Data name="vest2Boobs Mellons" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="vestBoobs Perky" target="vest" local="true">Vtaw Raider vest FG.osd\vestBoobs Perky</Data>
+            <Data name="vest2Boobs Perky" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="vestBoobs Push Up" target="vest" local="true">Vtaw Raider vest FG.osd\vestBoobs Push Up</Data>
+            <Data name="vest2Boobs Push Up" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="vestBoobs Small" target="vest" local="true">Vtaw Raider vest FG.osd\vestBoobs Small</Data>
+            <Data name="vest2Boobs Small" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Boobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="vestBoobs Together" target="vest" local="true">Vtaw Raider vest FG.osd\vestBoobs Together</Data>
+            <Data name="vest2Boobs Together" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Boobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="vestBoobs Top Slope" target="vest" local="true">Vtaw Raider vest FG.osd\vestBoobs Top Slope</Data>
+            <Data name="vest2Boobs Top Slope" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="vestBoobs Width" target="vest" local="true">Vtaw Raider vest FG.osd\vestBoobs Width</Data>
+            <Data name="vest2Boobs Width" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Boobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="vestBoobs Tiny" target="vest" local="true">Vtaw Raider vest FG.osd\vestBoobs Tiny</Data>
+            <Data name="vest2Boobs Tiny" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="vestNipples Distance" target="vest" local="true">Vtaw Raider vest FG.osd\vestNipples Distance</Data>
+            <Data name="vest2Nipples Distance" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Nipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="vestNipples Down" target="vest" local="true">Vtaw Raider vest FG.osd\vestNipples Down</Data>
+            <Data name="vest2Nipples Down" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Nipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="vestNipples Perkiness" target="vest" local="true">Vtaw Raider vest FG.osd\vestNipples Perkiness</Data>
+            <Data name="vest2Nipples Perkiness" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Nipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="vestNipples Puffy" target="vest" local="true">Vtaw Raider vest FG.osd\vestNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="vestNipples Up" target="vest" local="true">Vtaw Raider vest FG.osd\vestNipples Up</Data>
+            <Data name="vest2Nipples Up" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Nipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="vestChest Depth" target="vest" local="true">Vtaw Raider vest FG.osd\vestChest Depth</Data>
+            <Data name="vest2Chest Depth" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Chest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="vestChest Width" target="vest" local="true">Vtaw Raider vest FG.osd\vestChest Width</Data>
+            <Data name="vest2Chest Width" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="vestWaist Chubby" target="vest" local="true">Vtaw Raider vest FG.osd\vestWaist Chubby</Data>
+            <Data name="vest2Waist Chubby" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="vestWaist Size" target="vest" local="true">Vtaw Raider vest FG.osd\vestWaist Size</Data>
+            <Data name="vest2Waist Size" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="vestWaist Height" target="vest" local="true">Vtaw Raider vest FG.osd\vestWaist Height</Data>
+            <Data name="vest2Waist Height" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="vestWaist Line" target="vest" local="true">Vtaw Raider vest FG.osd\vestWaist Line</Data>
+            <Data name="vest2Waist Line" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="vestBack Size" target="vest" local="true">Vtaw Raider vest FG.osd\vestBack Size</Data>
+            <Data name="vest2Back Size" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="vestBack Arch" target="vest" local="true">Vtaw Raider vest FG.osd\vestBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="vestHips Bone" target="vest" local="true">Vtaw Raider vest FG.osd\vestHips Bone</Data>
+            <Data name="vest2Hips Bone" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Hips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="vestHips Size" target="vest" local="true">Vtaw Raider vest FG.osd\vestHips Size</Data>
+            <Data name="vest2Hips Size" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Hips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="vestHips Upper Width" target="vest" local="true">Vtaw Raider vest FG.osd\vestHips Upper Width</Data>
+            <Data name="vest2Hips Upper Width" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="vestBum Size" target="vest" local="true">Vtaw Raider vest FG.osd\vestBum Size</Data>
+            <Data name="vest2Bum Size" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="vestBum Shape 1" target="vest" local="true">Vtaw Raider vest FG.osd\vestBum Shape 1</Data>
+            <Data name="vest2Bum Shape 1" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="vestBum Shape 2" target="vest" local="true">Vtaw Raider vest FG.osd\vestBum Shape 2</Data>
+            <Data name="vest2Bum Shape 2" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="vestBum Small" target="vest" local="true">Vtaw Raider vest FG.osd\vestBum Small</Data>
+            <Data name="vest2Bum Small" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="vestBum Chubby" target="vest" local="true">Vtaw Raider vest FG.osd\vestBum Chubby</Data>
+            <Data name="vest2Bum Chubby" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="vestBum Round" target="vest" local="true">Vtaw Raider vest FG.osd\vestBum Round</Data>
+            <Data name="vest2Bum Round" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="vestBum Apple" target="vest" local="true">Vtaw Raider vest FG.osd\vestBum Apple</Data>
+            <Data name="vest2Bum Apple" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Bum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="vestLegs Chubby" target="vest" local="true">Vtaw Raider vest FG.osd\vestLegs Chubby</Data>
+            <Data name="vest2Legs Chubby" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Legs Chubby</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="vestThighs Slim" target="vest" local="true">Vtaw Raider vest FG.osd\vestThighs Slim</Data>
+            <Data name="vest2Thighs Slim" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Thighs Slim</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="vestArms Chubby" target="vest" local="true">Vtaw Raider vest FG.osd\vestArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="vestShoulder Smooth" target="vest" local="true">Vtaw Raider vest FG.osd\vestShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="vestShoulder Tweak" target="vest" local="true">Vtaw Raider vest FG.osd\vestShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="vestArms Size" target="vest" local="true">Vtaw Raider vest FG.osd\vestArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="vestArmpit Ajustment" target="vest" local="true">Vtaw Raider vest FG.osd\vestArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="vestTorso Size" target="vest" local="true">Vtaw Raider vest FG.osd\vestTorso Size</Data>
+            <Data name="vest2Torso Size" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="vestSturnum Depth" target="vest" local="true">Vtaw Raider vest FG.osd\vestSturnum Depth</Data>
+            <Data name="vest2Sturnum Depth" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="vestSturnum Height" target="vest" local="true">Vtaw Raider vest FG.osd\vestSturnum Height</Data>
+            <Data name="vest2Sturnum Height" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="vestGroin Position" target="vest" local="true">Vtaw Raider vest FG.osd\vestGroin Position</Data>
+            <Data name="vest2Groin Position" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="vestGroin Back" target="vest" local="true">Vtaw Raider vest FG.osd\vestGroin Back</Data>
+            <Data name="vest2Groin Back" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="vestAbDefinition" target="vest" local="true">Vtaw Raider vest FG.osd\vestAbDefinition</Data>
+            <Data name="vest2AbDefinition" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="vestBody Toning" target="vest" local="true">Vtaw Raider vest FG.osd\vestBody Toning</Data>
+            <Data name="vest2Body Toning" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="vestTigerSanBB" target="vest" local="true">Vtaw Raider vest FG.osd\vestTigerSanBB</Data>
+            <Data name="vest2TigerSanBB" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="vestXunAbs" target="vest" local="true">Vtaw Raider vest FG.osd\vestXunAbs</Data>
+            <Data name="vest2XunAbs" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="vestFFB Fitness 2" target="vest" local="true">Vtaw Raider vest FG.osd\vestFFB Fitness 2</Data>
+            <Data name="vest2FFB Fitness 2" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="vestAthletic" target="vest" local="true">Vtaw Raider vest FG.osd\vestAthletic</Data>
+            <Data name="vest2Athletic" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="vestSeveNBase Bombshell" target="vest" local="true">Vtaw Raider vest FG.osd\vestSeveNBase Bombshell</Data>
+            <Data name="vest2SeveNBase Bombshell" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="vestShoulder Width" target="vest" local="true">Vtaw Raider vest FG.osd\vestShoulder Width</Data>
+            <Data name="vest2Shoulder Width" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2Shoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="vestBodyFat" target="vest" local="true">Vtaw Raider vest FG.osd\vestBodyFat</Data>
+            <Data name="vest2BodyFat" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="vestLegThin" target="vest" local="true">Vtaw Raider vest FG.osd\vestLegThin</Data>
+            <Data name="vest2LegThin" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="vestHipsNarrow" target="vest" local="true">Vtaw Raider vest FG.osd\vestHipsNarrow</Data>
+            <Data name="vest2HipsNarrow" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="vestButtThin" target="vest" local="true">Vtaw Raider vest FG.osd\vestButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="vestHipsForward" target="vest" local="true">Vtaw Raider vest FG.osd\vestHipsForward</Data>
+            <Data name="vest2HipsForward" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="vestHipRotateForward" target="vest" local="true">Vtaw Raider vest FG.osd\vestHipRotateForward</Data>
+            <Data name="vest2HipRotateForward" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="vestBreastArmpitin" target="vest" local="true">Vtaw Raider vest FG.osd\vestBreastArmpitin</Data>
+            <Data name="vest2BreastArmpitin" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="vestBreastArmpitWide" target="vest" local="true">Vtaw Raider vest FG.osd\vestBreastArmpitWide</Data>
+            <Data name="vest2BreastArmpitWide" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="vestBreastCurve" target="vest" local="true">Vtaw Raider vest FG.osd\vestBreastCurve</Data>
+            <Data name="vest2BreastCurve" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="vestBreastHeight2" target="vest" local="true">Vtaw Raider vest FG.osd\vestBreastHeight2</Data>
+            <Data name="vest2BreastHeight2" target="vest2" local="true">Vtaw Raider vest FG.osd\vest2BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="vestBreastConcave" target="vest" local="true">Vtaw Raider vest FG.osd\vestBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

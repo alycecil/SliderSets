@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Shirt FG">
+        <DataFolder>Vtaw Wardrobe 6 Shirt FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Shirt FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Shirt</OutputPath>
+        <OutputFile GenWeights="false">Shirt</OutputFile>
+        <Shape target="Shirt">Shirt</Shape>
+        <Shape target="Shirt2">Shirt2</Shape>
+        <Shape target="zip">zip</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="ShirtBelly Pregnant" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="ShirtBelly Big" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBelly Big</Data>
+            <Data name="Shirt2Belly Big" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="ShirtBelly Size" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="ShirtBelly Tuck" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="ShirtBoobs Yuge" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBoobs Yuge</Data>
+            <Data name="Shirt2Boobs Yuge" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Boobs Yuge</Data>
+            <Data name="zipBoobs Yuge" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="ShirtBoobs Big" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBoobs Big</Data>
+            <Data name="Shirt2Boobs Big" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Boobs Big</Data>
+            <Data name="zipBoobs Big" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="ShirtBoobs Cleavage" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBoobs Cleavage</Data>
+            <Data name="Shirt2Boobs Cleavage" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Boobs Cleavage</Data>
+            <Data name="zipBoobs Cleavage" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="ShirtBoobs Flat" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBoobs Flat</Data>
+            <Data name="Shirt2Boobs Flat" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Boobs Flat</Data>
+            <Data name="zipBoobs Flat" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="ShirtBoobs Gravity" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBoobs Gravity</Data>
+            <Data name="Shirt2Boobs Gravity" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Boobs Gravity</Data>
+            <Data name="zipBoobs Gravity" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="ShirtBoobs Height" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBoobs Height</Data>
+            <Data name="Shirt2Boobs Height" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Boobs Height</Data>
+            <Data name="zipBoobs Height" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="ShirtBoobs Mellons" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBoobs Mellons</Data>
+            <Data name="Shirt2Boobs Mellons" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Boobs Mellons</Data>
+            <Data name="zipBoobs Mellons" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="ShirtBoobs Perky" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBoobs Perky</Data>
+            <Data name="Shirt2Boobs Perky" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Boobs Perky</Data>
+            <Data name="zipBoobs Perky" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="ShirtBoobs Push Up" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBoobs Push Up</Data>
+            <Data name="Shirt2Boobs Push Up" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Boobs Push Up</Data>
+            <Data name="zipBoobs Push Up" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="ShirtBoobs Small" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBoobs Small</Data>
+            <Data name="Shirt2Boobs Small" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Boobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="ShirtBoobs Together" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBoobs Together</Data>
+            <Data name="Shirt2Boobs Together" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Boobs Together</Data>
+            <Data name="zipBoobs Together" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="ShirtBoobs Top Slope" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBoobs Top Slope</Data>
+            <Data name="Shirt2Boobs Top Slope" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="ShirtBoobs Width" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBoobs Width</Data>
+            <Data name="Shirt2Boobs Width" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Boobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="ShirtBoobs Tiny" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBoobs Tiny</Data>
+            <Data name="Shirt2Boobs Tiny" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Boobs Tiny</Data>
+            <Data name="zipBoobs Tiny" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="ShirtNipples Distance" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtNipples Distance</Data>
+            <Data name="Shirt2Nipples Distance" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Nipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="ShirtNipples Down" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtNipples Down</Data>
+            <Data name="Shirt2Nipples Down" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Nipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="ShirtNipples Perkiness" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtNipples Perkiness</Data>
+            <Data name="Shirt2Nipples Perkiness" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Nipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="ShirtNipples Puffy" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="ShirtNipples Up" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtNipples Up</Data>
+            <Data name="Shirt2Nipples Up" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Nipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="ShirtChest Depth" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtChest Depth</Data>
+            <Data name="Shirt2Chest Depth" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Chest Depth</Data>
+            <Data name="zipChest Depth" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="ShirtChest Width" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="ShirtWaist Chubby" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="ShirtWaist Size" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="ShirtWaist Height" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="ShirtWaist Line" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="ShirtBack Size" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="ShirtBack Arch" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="ShirtHips Bone" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="ShirtHips Size" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="ShirtHips Upper Width" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="ShirtBum Size" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="ShirtBum Crack" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="ShirtBum Shape 1" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="ShirtBum Shape 2" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="ShirtBum Small" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="ShirtBum Chubby" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="ShirtBum Round" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="ShirtBum Apple" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="ShirtLegs Chubby" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtLegs Chubby</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="ShirtThighs Slim" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="ShirtThighs Size" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtThighs Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="ShirtArms Chubby" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtArms Chubby</Data>
+            <Data name="Shirt2Arms Chubby" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Arms Chubby</Data>
+            <Data name="zipArms Chubby" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="ShirtShoulder Smooth" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtShoulder Smooth</Data>
+            <Data name="Shirt2Shoulder Smooth" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Shoulder Smooth</Data>
+            <Data name="zipShoulder Smooth" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="ShirtShoulder Tweak" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtShoulder Tweak</Data>
+            <Data name="Shirt2Shoulder Tweak" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Shoulder Tweak</Data>
+            <Data name="zipShoulder Tweak" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="ShirtArms Size" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtArms Size</Data>
+            <Data name="Shirt2Arms Size" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Arms Size</Data>
+            <Data name="zipArms Size" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="ShirtArmpit Ajustment" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtArmpit Ajustment</Data>
+            <Data name="Shirt2Armpit Ajustment" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Armpit Ajustment</Data>
+            <Data name="zipArmpit Ajustment" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="ShirtForearms Size" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtForearms Size</Data>
+            <Data name="Shirt2Forearms Size" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Forearms Size</Data>
+            <Data name="zipForearms Size" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="ShirtTorso Size" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtTorso Size</Data>
+            <Data name="Shirt2Torso Size" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Torso Size</Data>
+            <Data name="zipTorso Size" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="ShirtSturnum Depth" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtSturnum Depth</Data>
+            <Data name="Shirt2Sturnum Depth" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="ShirtSturnum Height" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtSturnum Height</Data>
+            <Data name="Shirt2Sturnum Height" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Sturnum Height</Data>
+            <Data name="zipSturnum Height" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="ShirtGroin Position" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtGroin Position</Data>
+            <Data name="Shirt2Groin Position" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="ShirtGroin Back" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtGroin Back</Data>
+            <Data name="Shirt2Groin Back" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="ShirtAbDefinition" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="ShirtBody Toning" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBody Toning</Data>
+            <Data name="Shirt2Body Toning" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Body Toning</Data>
+            <Data name="zipBody Toning" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="ShirtTigerSanBB" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtTigerSanBB</Data>
+            <Data name="Shirt2TigerSanBB" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2TigerSanBB</Data>
+            <Data name="zipTigerSanBB" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="ShirtXunAbs" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="ShirtFFB Fitness 2" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="ShirtAthletic" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtAthletic</Data>
+            <Data name="Shirt2Athletic" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Athletic</Data>
+            <Data name="zipAthletic" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="ShirtSeveNBase Bombshell" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtSeveNBase Bombshell</Data>
+            <Data name="Shirt2SeveNBase Bombshell" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2SeveNBase Bombshell</Data>
+            <Data name="zipSeveNBase Bombshell" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="ShirtShoulder Width" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtShoulder Width</Data>
+            <Data name="Shirt2Shoulder Width" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2Shoulder Width</Data>
+            <Data name="zipShoulder Width" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="ShirtBodyFat" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBodyFat</Data>
+            <Data name="Shirt2BodyFat" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2BodyFat</Data>
+            <Data name="zipBodyFat" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="ShirtLegThin" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="ShirtHipsNarrow" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="ShirtButtThin" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="ShirtHipsForward" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="ShirtHipRotateForward" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="ShirtBreastArmpitin" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBreastArmpitin</Data>
+            <Data name="Shirt2BreastArmpitin" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2BreastArmpitin</Data>
+            <Data name="zipBreastArmpitin" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="ShirtBreastArmpitWide" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBreastArmpitWide</Data>
+            <Data name="Shirt2BreastArmpitWide" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2BreastArmpitWide</Data>
+            <Data name="zipBreastArmpitWide" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="ShirtBreastCurve" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBreastCurve</Data>
+            <Data name="Shirt2BreastCurve" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2BreastCurve</Data>
+            <Data name="zipBreastCurve" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="ShirtBreastHeight2" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBreastHeight2</Data>
+            <Data name="Shirt2BreastHeight2" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2BreastHeight2</Data>
+            <Data name="zipBreastHeight2" target="zip" local="true">Vtaw Wardrobe 6 Shirt FG.osd\zipBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="ShirtBreastConcave" target="Shirt" local="true">Vtaw Wardrobe 6 Shirt FG.osd\ShirtBreastConcave</Data>
+            <Data name="Shirt2BreastConcave" target="Shirt2" local="true">Vtaw Wardrobe 6 Shirt FG.osd\Shirt2BreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

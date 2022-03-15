@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Piercing Navel 2 FG">
+        <DataFolder>Vtaw Wardrobe 6 Piercing Navel 2 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Piercing Navel 2 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Accessories</OutputPath>
+        <OutputFile GenWeights="false">NavelPiercing2</OutputFile>
+        <Shape target="pierce">pierce</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="pierceBelly Pregnant" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="pierceBelly Big" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="pierceBelly Size" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="pierceBoobs Yuge" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="pierceBoobs Big" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="pierceBoobs Gravity" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="pierceBoobs Mellons" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="pierceBoobs Perky" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="pierceBoobs Push Up" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="pierceBoobs Top Slope" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="pierceBoobs Tiny" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="pierceWaist Chubby" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="pierceWaist Size" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="pierceWaist Height" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceWaist Height</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="pierceBum Small" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBum Small</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="pierceBum Apple" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBum Apple</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="pierceTorso Size" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="pierceSturnum Depth" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="pierceSturnum Height" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="pierceGroin Position" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="pierceGroin Back" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="pierceAbDefinition" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="pierceBody Toning" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="pierceTigerSanBB" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="pierceXunAbs" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="pierceFFB Fitness 2" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="pierceAthletic" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="pierceSeveNBase Bombshell" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="pierceBodyFat" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceBodyFat</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="pierceHipsForward" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="pierceHipRotateForward" target="pierce" local="true">Vtaw Wardrobe 6 Piercing Navel 2 FG.osd\pierceHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Stocking High Heels FG">
+        <DataFolder>Vtaw Wardrobe 5 Stocking High Heels FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Stocking High Heels FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Pumps</OutputPath>
+        <OutputFile GenWeights="false">HighHeelStocking</OutputFile>
+        <Shape target="TRIMTOP">TRIMTOP</Shape>
+        <Shape target="stoking">stoking</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="TRIMTOPBoobs Yuge" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBoobs Yuge</Data>
+            <Data name="stokingBoobs Yuge" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="TRIMTOPBoobs Big" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBoobs Big</Data>
+            <Data name="stokingBoobs Big" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="TRIMTOPBoobs Gravity" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBoobs Gravity</Data>
+            <Data name="stokingBoobs Gravity" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="TRIMTOPBoobs Mellons" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBoobs Mellons</Data>
+            <Data name="stokingBoobs Mellons" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="TRIMTOPBoobs Perky" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBoobs Perky</Data>
+            <Data name="stokingBoobs Perky" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="TRIMTOPBoobs Push Up" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBoobs Push Up</Data>
+            <Data name="stokingBoobs Push Up" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="TRIMTOPBoobs Top Slope" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBoobs Top Slope</Data>
+            <Data name="stokingBoobs Top Slope" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="TRIMTOPBoobs Tiny" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBoobs Tiny</Data>
+            <Data name="stokingBoobs Tiny" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="TRIMTOPHips Size" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPHips Size</Data>
+            <Data name="stokingHips Size" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingHips Size</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="TRIMTOPBum Size" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBum Size</Data>
+            <Data name="stokingBum Size" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBum Size</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="TRIMTOPBum Shape 1" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBum Shape 1</Data>
+            <Data name="stokingBum Shape 1" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="TRIMTOPBum Shape 2" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBum Shape 2</Data>
+            <Data name="stokingBum Shape 2" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="TRIMTOPBum Small" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBum Small</Data>
+            <Data name="stokingBum Small" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="TRIMTOPBum Chubby" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBum Chubby</Data>
+            <Data name="stokingBum Chubby" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="TRIMTOPBum Round" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="TRIMTOPBum Apple" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBum Apple</Data>
+            <Data name="stokingBum Apple" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="stokingCalf Size" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="stokingCalf Small" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="TRIMTOPLegs Chubby" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPLegs Chubby</Data>
+            <Data name="stokingLegs Chubby" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="TRIMTOPLegs Shape" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPLegs Shape</Data>
+            <Data name="stokingLegs Shape" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="TRIMTOPLegs Thin" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPLegs Thin</Data>
+            <Data name="stokingLegs Thin" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="TRIMTOPThighs Slim" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPThighs Slim</Data>
+            <Data name="stokingThighs Slim" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="TRIMTOPThighs Size" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPThighs Size</Data>
+            <Data name="stokingThighs Size" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="stokingAnkle Size" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingAnkle Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="TRIMTOPSturnum Depth" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPSturnum Depth</Data>
+            <Data name="stokingSturnum Depth" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="TRIMTOPSturnum Height" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPSturnum Height</Data>
+            <Data name="stokingSturnum Height" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="TRIMTOPGroin Position" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPGroin Position</Data>
+            <Data name="stokingGroin Position" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="TRIMTOPGroin Back" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPGroin Back</Data>
+            <Data name="stokingGroin Back" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="stokingAbDefinition" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="TRIMTOPBody Toning" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBody Toning</Data>
+            <Data name="stokingBody Toning" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="TRIMTOPTigerSanBB" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPTigerSanBB</Data>
+            <Data name="stokingTigerSanBB" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="TRIMTOPAthletic" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPAthletic</Data>
+            <Data name="stokingAthletic" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="TRIMTOPSeveNBase Bombshell" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPSeveNBase Bombshell</Data>
+            <Data name="stokingSeveNBase Bombshell" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="TRIMTOPKnee Height" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPKnee Height</Data>
+            <Data name="stokingKnee Height" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingKnee Height</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="stokingHighHeels" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="TRIMTOPBodyFat" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPBodyFat</Data>
+            <Data name="stokingBodyFat" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="TRIMTOPLegThin" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPLegThin</Data>
+            <Data name="stokingLegThin" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="TRIMTOPHipsNarrow" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPHipsNarrow</Data>
+            <Data name="stokingHipsNarrow" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="TRIMTOPButtGravity" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPButtGravity</Data>
+            <Data name="stokingButtGravity" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="TRIMTOPButtThin" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPButtThin</Data>
+            <Data name="stokingButtThin" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="TRIMTOPHipsForward" target="TRIMTOP" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\TRIMTOPHipsForward</Data>
+            <Data name="stokingHipsForward" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="stokingHipRotateForward" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="stokingBreastArmpitin" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="stokingBreastArmpitWide" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="stokingBreastCurve" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="stokingBreastHeight2" target="stoking" local="true">Vtaw Wardrobe 5 Stocking High Heels FG.osd\stokingBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Adventurer Top FG">
+        <DataFolder>Vtaw Wardrobe 5 Adventurer Top FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Adventurer Top FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Adventurer</OutputPath>
+        <OutputFile GenWeights="false">ADTop</OutputFile>
+        <Shape target="top">top</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="topBelly Pregnant" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="topBelly Big" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="topBelly Size" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="topBoobs Yuge" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="topBoobs Big" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="topBoobs Cleavage" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="topBoobs Flat" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="topBoobs Gravity" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="topBoobs Height" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="topBoobs Mellons" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="topBoobs Perky" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="topBoobs Push Up" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="topBoobs Small" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="topBoobs Together" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="topBoobs Top Slope" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="topBoobs Width" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="topBoobs Tiny" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="topNipples Distance" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="topNipples Down" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="topNipples Perkiness" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="topNipples Puffy" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="topNipples Up" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="topChest Depth" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="topChest Width" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="topWaist Chubby" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="topWaist Size" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="topWaist Height" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="topWaist Line" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="topBack Size" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="topBack Arch" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="topHips Bone" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="topHips Size" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="topHips Upper Width" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="topBum Size" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBum Size</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="topBum Shape 1" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="topBum Shape 2" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="topBum Small" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="topBum Chubby" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="topBum Round" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="topBum Apple" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="topLegs Chubby" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topLegs Chubby</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="topThighs Slim" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topThighs Slim</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="topArms Chubby" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="topShoulder Smooth" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="topShoulder Tweak" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="topArms Size" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="topArmpit Ajustment" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="topForearms Size" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="topTorso Size" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="topSturnum Depth" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="topSturnum Height" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="topGroin Position" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="topGroin Back" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="topAbDefinition" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="topBody Toning" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="topTigerSanBB" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="topXunAbs" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="topFFB Fitness 2" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="topAthletic" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="topSeveNBase Bombshell" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="topShoulder Width" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="topBodyFat" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="topLegThin" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="topHipsNarrow" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="topButtThin" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="topHipsForward" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="topHipRotateForward" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="topBreastArmpitin" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="topBreastArmpitWide" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="topBreastCurve" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="topBreastHeight2" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="topBreastConcave" target="top" local="true">Vtaw Wardrobe 5 Adventurer Top FG.osd\topBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

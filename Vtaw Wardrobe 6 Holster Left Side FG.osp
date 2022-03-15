@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Holster Left Side FG">
+        <DataFolder>Vtaw Wardrobe 6 Holster Left Side FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Holster Left Side FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Belt</OutputPath>
+        <OutputFile GenWeights="false">HolsterLeftSide</OutputFile>
+        <Shape target="Holster Left">Holster Left</Shape>
+        <Shape target="Metal Holster Left">Metal Holster Left</Shape>
+        <Shape target="Pistol Left">Pistol Left</Shape>
+        <Shape target="Strap Pistol Left">Strap Pistol Left</Shape>
+        <Shape target="Straps Metal Left">Straps Metal Left</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="Strap Pistol LeftBelly Pregnant" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="Strap Pistol LeftBelly Big" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="Strap Pistol LeftBelly Size" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Holster LeftBoobs Yuge" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftBoobs Yuge</Data>
+            <Data name="Strap Pistol LeftBoobs Yuge" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBoobs Yuge</Data>
+            <Data name="Straps Metal LeftBoobs Yuge" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBoobs Yuge</Data>
+            <Data name="Pistol LeftBoobs Yuge" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Holster LeftBoobs Big" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftBoobs Big</Data>
+            <Data name="Strap Pistol LeftBoobs Big" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBoobs Big</Data>
+            <Data name="Straps Metal LeftBoobs Big" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBoobs Big</Data>
+            <Data name="Pistol LeftBoobs Big" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Holster LeftBoobs Gravity" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftBoobs Gravity</Data>
+            <Data name="Strap Pistol LeftBoobs Gravity" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBoobs Gravity</Data>
+            <Data name="Straps Metal LeftBoobs Gravity" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBoobs Gravity</Data>
+            <Data name="Pistol LeftBoobs Gravity" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Holster LeftBoobs Mellons" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftBoobs Mellons</Data>
+            <Data name="Strap Pistol LeftBoobs Mellons" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBoobs Mellons</Data>
+            <Data name="Straps Metal LeftBoobs Mellons" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBoobs Mellons</Data>
+            <Data name="Pistol LeftBoobs Mellons" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Holster LeftBoobs Perky" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftBoobs Perky</Data>
+            <Data name="Strap Pistol LeftBoobs Perky" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBoobs Perky</Data>
+            <Data name="Straps Metal LeftBoobs Perky" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBoobs Perky</Data>
+            <Data name="Pistol LeftBoobs Perky" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Holster LeftBoobs Push Up" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftBoobs Push Up</Data>
+            <Data name="Strap Pistol LeftBoobs Push Up" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBoobs Push Up</Data>
+            <Data name="Straps Metal LeftBoobs Push Up" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBoobs Push Up</Data>
+            <Data name="Pistol LeftBoobs Push Up" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="Holster LeftBoobs Top Slope" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftBoobs Top Slope</Data>
+            <Data name="Strap Pistol LeftBoobs Top Slope" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBoobs Top Slope</Data>
+            <Data name="Straps Metal LeftBoobs Top Slope" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBoobs Top Slope</Data>
+            <Data name="Pistol LeftBoobs Top Slope" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Holster LeftBoobs Tiny" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftBoobs Tiny</Data>
+            <Data name="Strap Pistol LeftBoobs Tiny" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBoobs Tiny</Data>
+            <Data name="Straps Metal LeftBoobs Tiny" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBoobs Tiny</Data>
+            <Data name="Pistol LeftBoobs Tiny" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="Strap Pistol LeftChest Width" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="Strap Pistol LeftWaist Chubby" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftWaist Chubby</Data>
+            <Data name="Straps Metal LeftWaist Chubby" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="Strap Pistol LeftWaist Size" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="Strap Pistol LeftWaist Height" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="Strap Pistol LeftWaist Line" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="Strap Pistol LeftBack Size" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBack Size</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="Strap Pistol LeftHips Bone" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftHips Bone</Data>
+            <Data name="Straps Metal LeftHips Bone" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="Holster LeftHips Size" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftHips Size</Data>
+            <Data name="Strap Pistol LeftHips Size" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftHips Size</Data>
+            <Data name="Straps Metal LeftHips Size" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftHips Size</Data>
+            <Data name="Metal Holster LeftHips Size" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftHips Size</Data>
+            <Data name="Pistol LeftHips Size" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="Strap Pistol LeftHips Upper Width" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="Holster LeftBum Size" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftBum Size</Data>
+            <Data name="Strap Pistol LeftBum Size" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBum Size</Data>
+            <Data name="Straps Metal LeftBum Size" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBum Size</Data>
+            <Data name="Metal Holster LeftBum Size" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftBum Size</Data>
+            <Data name="Pistol LeftBum Size" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftBum Size</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="Strap Pistol LeftBum Shape 1" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBum Shape 1</Data>
+            <Data name="Straps Metal LeftBum Shape 1" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="Holster LeftBum Shape 2" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftBum Shape 2</Data>
+            <Data name="Strap Pistol LeftBum Shape 2" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBum Shape 2</Data>
+            <Data name="Straps Metal LeftBum Shape 2" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBum Shape 2</Data>
+            <Data name="Metal Holster LeftBum Shape 2" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftBum Shape 2</Data>
+            <Data name="Pistol LeftBum Shape 2" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="Holster LeftBum Small" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftBum Small</Data>
+            <Data name="Strap Pistol LeftBum Small" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBum Small</Data>
+            <Data name="Straps Metal LeftBum Small" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBum Small</Data>
+            <Data name="Metal Holster LeftBum Small" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftBum Small</Data>
+            <Data name="Pistol LeftBum Small" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="Holster LeftBum Chubby" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftBum Chubby</Data>
+            <Data name="Strap Pistol LeftBum Chubby" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBum Chubby</Data>
+            <Data name="Straps Metal LeftBum Chubby" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBum Chubby</Data>
+            <Data name="Metal Holster LeftBum Chubby" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftBum Chubby</Data>
+            <Data name="Pistol LeftBum Chubby" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="Strap Pistol LeftBum Round" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="Strap Pistol LeftBum Apple" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBum Apple</Data>
+            <Data name="Straps Metal LeftBum Apple" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="Holster LeftCalf Small" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftCalf Small</Data>
+            <Data name="Strap Pistol LeftCalf Small" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftCalf Small</Data>
+            <Data name="Pistol LeftCalf Small" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="Holster LeftLegs Chubby" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftLegs Chubby</Data>
+            <Data name="Strap Pistol LeftLegs Chubby" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftLegs Chubby</Data>
+            <Data name="Straps Metal LeftLegs Chubby" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftLegs Chubby</Data>
+            <Data name="Metal Holster LeftLegs Chubby" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftLegs Chubby</Data>
+            <Data name="Pistol LeftLegs Chubby" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="Holster LeftLegs Shape" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftLegs Shape</Data>
+            <Data name="Strap Pistol LeftLegs Shape" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftLegs Shape</Data>
+            <Data name="Straps Metal LeftLegs Shape" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftLegs Shape</Data>
+            <Data name="Metal Holster LeftLegs Shape" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftLegs Shape</Data>
+            <Data name="Pistol LeftLegs Shape" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="Holster LeftLegs Thin" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftLegs Thin</Data>
+            <Data name="Strap Pistol LeftLegs Thin" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftLegs Thin</Data>
+            <Data name="Straps Metal LeftLegs Thin" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftLegs Thin</Data>
+            <Data name="Metal Holster LeftLegs Thin" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftLegs Thin</Data>
+            <Data name="Pistol LeftLegs Thin" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="Holster LeftThighs Slim" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftThighs Slim</Data>
+            <Data name="Strap Pistol LeftThighs Slim" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftThighs Slim</Data>
+            <Data name="Straps Metal LeftThighs Slim" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftThighs Slim</Data>
+            <Data name="Metal Holster LeftThighs Slim" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftThighs Slim</Data>
+            <Data name="Pistol LeftThighs Slim" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="Holster LeftThighs Size" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftThighs Size</Data>
+            <Data name="Strap Pistol LeftThighs Size" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftThighs Size</Data>
+            <Data name="Straps Metal LeftThighs Size" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftThighs Size</Data>
+            <Data name="Metal Holster LeftThighs Size" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftThighs Size</Data>
+            <Data name="Pistol LeftThighs Size" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Strap Pistol LeftTorso Size" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftTorso Size</Data>
+            <Data name="Straps Metal LeftTorso Size" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Holster LeftSturnum Depth" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftSturnum Depth</Data>
+            <Data name="Strap Pistol LeftSturnum Depth" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftSturnum Depth</Data>
+            <Data name="Straps Metal LeftSturnum Depth" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftSturnum Depth</Data>
+            <Data name="Pistol LeftSturnum Depth" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Holster LeftSturnum Height" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftSturnum Height</Data>
+            <Data name="Strap Pistol LeftSturnum Height" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftSturnum Height</Data>
+            <Data name="Straps Metal LeftSturnum Height" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftSturnum Height</Data>
+            <Data name="Pistol LeftSturnum Height" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Holster LeftGroin Position" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftGroin Position</Data>
+            <Data name="Strap Pistol LeftGroin Position" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftGroin Position</Data>
+            <Data name="Straps Metal LeftGroin Position" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftGroin Position</Data>
+            <Data name="Pistol LeftGroin Position" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Holster LeftGroin Back" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftGroin Back</Data>
+            <Data name="Strap Pistol LeftGroin Back" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftGroin Back</Data>
+            <Data name="Straps Metal LeftGroin Back" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftGroin Back</Data>
+            <Data name="Pistol LeftGroin Back" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="Strap Pistol LeftAbDefinition" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Holster LeftBody Toning" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftBody Toning</Data>
+            <Data name="Strap Pistol LeftBody Toning" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBody Toning</Data>
+            <Data name="Straps Metal LeftBody Toning" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBody Toning</Data>
+            <Data name="Metal Holster LeftBody Toning" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftBody Toning</Data>
+            <Data name="Pistol LeftBody Toning" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Holster LeftTigerSanBB" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftTigerSanBB</Data>
+            <Data name="Strap Pistol LeftTigerSanBB" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftTigerSanBB</Data>
+            <Data name="Straps Metal LeftTigerSanBB" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftTigerSanBB</Data>
+            <Data name="Metal Holster LeftTigerSanBB" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftTigerSanBB</Data>
+            <Data name="Pistol LeftTigerSanBB" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="Strap Pistol LeftXunAbs" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="Strap Pistol LeftFFB Fitness 2" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Holster LeftAthletic" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftAthletic</Data>
+            <Data name="Strap Pistol LeftAthletic" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftAthletic</Data>
+            <Data name="Straps Metal LeftAthletic" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftAthletic</Data>
+            <Data name="Metal Holster LeftAthletic" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftAthletic</Data>
+            <Data name="Pistol LeftAthletic" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Holster LeftSeveNBase Bombshell" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftSeveNBase Bombshell</Data>
+            <Data name="Strap Pistol LeftSeveNBase Bombshell" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftSeveNBase Bombshell</Data>
+            <Data name="Straps Metal LeftSeveNBase Bombshell" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftSeveNBase Bombshell</Data>
+            <Data name="Metal Holster LeftSeveNBase Bombshell" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftSeveNBase Bombshell</Data>
+            <Data name="Pistol LeftSeveNBase Bombshell" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="Holster LeftKnee Height" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftKnee Height</Data>
+            <Data name="Strap Pistol LeftKnee Height" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftKnee Height</Data>
+            <Data name="Straps Metal LeftKnee Height" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftKnee Height</Data>
+            <Data name="Metal Holster LeftKnee Height" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftKnee Height</Data>
+            <Data name="Pistol LeftKnee Height" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Strap Pistol LeftShoulder Width" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Holster LeftBodyFat" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftBodyFat</Data>
+            <Data name="Strap Pistol LeftBodyFat" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftBodyFat</Data>
+            <Data name="Straps Metal LeftBodyFat" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftBodyFat</Data>
+            <Data name="Metal Holster LeftBodyFat" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftBodyFat</Data>
+            <Data name="Pistol LeftBodyFat" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="Holster LeftLegThin" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftLegThin</Data>
+            <Data name="Strap Pistol LeftLegThin" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftLegThin</Data>
+            <Data name="Straps Metal LeftLegThin" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftLegThin</Data>
+            <Data name="Metal Holster LeftLegThin" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftLegThin</Data>
+            <Data name="Pistol LeftLegThin" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="Holster LeftHipsNarrow" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftHipsNarrow</Data>
+            <Data name="Strap Pistol LeftHipsNarrow" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftHipsNarrow</Data>
+            <Data name="Straps Metal LeftHipsNarrow" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftHipsNarrow</Data>
+            <Data name="Metal Holster LeftHipsNarrow" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftHipsNarrow</Data>
+            <Data name="Pistol LeftHipsNarrow" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="Strap Pistol LeftButtGravity" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftButtGravity</Data>
+            <Data name="Straps Metal LeftButtGravity" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftButtGravity</Data>
+            <Data name="Pistol LeftButtGravity" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="Holster LeftButtThin" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftButtThin</Data>
+            <Data name="Strap Pistol LeftButtThin" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftButtThin</Data>
+            <Data name="Straps Metal LeftButtThin" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftButtThin</Data>
+            <Data name="Metal Holster LeftButtThin" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftButtThin</Data>
+            <Data name="Pistol LeftButtThin" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="Holster LeftHipsForward" target="Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Holster LeftHipsForward</Data>
+            <Data name="Strap Pistol LeftHipsForward" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftHipsForward</Data>
+            <Data name="Straps Metal LeftHipsForward" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftHipsForward</Data>
+            <Data name="Metal Holster LeftHipsForward" target="Metal Holster Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Metal Holster LeftHipsForward</Data>
+            <Data name="Pistol LeftHipsForward" target="Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Pistol LeftHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="Strap Pistol LeftHipRotateForward" target="Strap Pistol Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Strap Pistol LeftHipRotateForward</Data>
+            <Data name="Straps Metal LeftHipRotateForward" target="Straps Metal Left" local="true">Vtaw Wardrobe 6 Holster Left Side FG.osd\Straps Metal LeftHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

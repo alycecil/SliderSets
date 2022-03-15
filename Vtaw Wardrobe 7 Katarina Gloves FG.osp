@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Katarina Gloves FG">
+        <DataFolder>Vtaw Wardrobe 7 Katarina Gloves FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Katarina Gloves FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\Katarina</OutputPath>
+        <OutputFile GenWeights="false">KatarinaGloves</OutputFile>
+        <Shape target="Arm">Arm</Shape>
+        <Shape target="Arm_Belt">Arm_Belt</Shape>
+        <Shape target="Arm_Belt_2">Arm_Belt_2</Shape>
+        <Shape target="BaseFemaleHands3rd:0">BaseFemaleHands3rd:0</Shape>
+        <Shape target="Belt 2 Gauntlet R">Belt 2 Gauntlet R</Shape>
+        <Shape target="Belt_Gauntlet_L">Belt_Gauntlet_L</Shape>
+        <Shape target="Belt_Gauntlet_R">Belt_Gauntlet_R</Shape>
+        <Shape target="Gauntlet_L">Gauntlet_L</Shape>
+        <Shape target="Gauntlet_R">Gauntlet_R</Shape>
+        <Shape target="Gloves_L">Gloves_L</Shape>
+        <Shape target="Gloves_R">Gloves_R</Shape>
+        <Shape target="Metal Belt Gauntlet R">Metal Belt Gauntlet R</Shape>
+        <Shape target="Metal_Arm_Belt_">Metal_Arm_Belt_</Shape>
+        <Shape target="Metal_Arm_Belt_2">Metal_Arm_Belt_2</Shape>
+        <Shape target="Metal_Gauntlet_L">Metal_Gauntlet_L</Shape>
+        <Shape target="Metal_Gauntlet_R">Metal_Gauntlet_R</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="ArmBoobs Yuge" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmBoobs Yuge</Data>
+            <Data name="Arm_BeltBoobs Yuge" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltBoobs Yuge</Data>
+            <Data name="Arm_Belt_2Boobs Yuge" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Boobs Yuge</Data>
+            <Data name="Belt_Gauntlet_LBoobs Yuge" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LBoobs Yuge</Data>
+            <Data name="Belt_Gauntlet_RBoobs Yuge" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RBoobs Yuge</Data>
+            <Data name="Gauntlet_LBoobs Yuge" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LBoobs Yuge</Data>
+            <Data name="Gauntlet_RBoobs Yuge" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RBoobs Yuge</Data>
+            <Data name="Metal_Arm_Belt_2Boobs Yuge" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Boobs Yuge</Data>
+            <Data name="Metal_Gauntlet_LBoobs Yuge" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LBoobs Yuge</Data>
+            <Data name="Metal_Gauntlet_RBoobs Yuge" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RBoobs Yuge</Data>
+            <Data name="Belt 2 Gauntlet RBoobs Yuge" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="ArmBoobs Big" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmBoobs Big</Data>
+            <Data name="Arm_BeltBoobs Big" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltBoobs Big</Data>
+            <Data name="Arm_Belt_2Boobs Big" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Boobs Big</Data>
+            <Data name="Belt_Gauntlet_LBoobs Big" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LBoobs Big</Data>
+            <Data name="Belt_Gauntlet_RBoobs Big" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RBoobs Big</Data>
+            <Data name="Gauntlet_LBoobs Big" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LBoobs Big</Data>
+            <Data name="Gauntlet_RBoobs Big" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RBoobs Big</Data>
+            <Data name="Metal_Arm_Belt_2Boobs Big" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Boobs Big</Data>
+            <Data name="Metal_Gauntlet_LBoobs Big" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LBoobs Big</Data>
+            <Data name="Metal_Gauntlet_RBoobs Big" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RBoobs Big</Data>
+            <Data name="Belt 2 Gauntlet RBoobs Big" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="ArmBoobs Gravity" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmBoobs Gravity</Data>
+            <Data name="Arm_BeltBoobs Gravity" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltBoobs Gravity</Data>
+            <Data name="Arm_Belt_2Boobs Gravity" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Boobs Gravity</Data>
+            <Data name="Belt_Gauntlet_LBoobs Gravity" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LBoobs Gravity</Data>
+            <Data name="Belt_Gauntlet_RBoobs Gravity" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RBoobs Gravity</Data>
+            <Data name="Gauntlet_LBoobs Gravity" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LBoobs Gravity</Data>
+            <Data name="Gauntlet_RBoobs Gravity" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RBoobs Gravity</Data>
+            <Data name="Metal_Arm_Belt_2Boobs Gravity" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Boobs Gravity</Data>
+            <Data name="Metal_Gauntlet_LBoobs Gravity" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LBoobs Gravity</Data>
+            <Data name="Metal_Gauntlet_RBoobs Gravity" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RBoobs Gravity</Data>
+            <Data name="Belt 2 Gauntlet RBoobs Gravity" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="ArmBoobs Mellons" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmBoobs Mellons</Data>
+            <Data name="Arm_BeltBoobs Mellons" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltBoobs Mellons</Data>
+            <Data name="Arm_Belt_2Boobs Mellons" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Boobs Mellons</Data>
+            <Data name="Belt_Gauntlet_LBoobs Mellons" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LBoobs Mellons</Data>
+            <Data name="Belt_Gauntlet_RBoobs Mellons" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RBoobs Mellons</Data>
+            <Data name="Gauntlet_LBoobs Mellons" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LBoobs Mellons</Data>
+            <Data name="Gauntlet_RBoobs Mellons" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RBoobs Mellons</Data>
+            <Data name="Metal_Arm_Belt_2Boobs Mellons" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Boobs Mellons</Data>
+            <Data name="Metal_Gauntlet_LBoobs Mellons" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LBoobs Mellons</Data>
+            <Data name="Metal_Gauntlet_RBoobs Mellons" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RBoobs Mellons</Data>
+            <Data name="Belt 2 Gauntlet RBoobs Mellons" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="ArmBoobs Perky" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmBoobs Perky</Data>
+            <Data name="Arm_BeltBoobs Perky" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltBoobs Perky</Data>
+            <Data name="Arm_Belt_2Boobs Perky" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Boobs Perky</Data>
+            <Data name="Belt_Gauntlet_LBoobs Perky" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LBoobs Perky</Data>
+            <Data name="Belt_Gauntlet_RBoobs Perky" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RBoobs Perky</Data>
+            <Data name="Gauntlet_LBoobs Perky" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LBoobs Perky</Data>
+            <Data name="Gauntlet_RBoobs Perky" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RBoobs Perky</Data>
+            <Data name="Metal_Arm_Belt_2Boobs Perky" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Boobs Perky</Data>
+            <Data name="Metal_Gauntlet_LBoobs Perky" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LBoobs Perky</Data>
+            <Data name="Metal_Gauntlet_RBoobs Perky" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RBoobs Perky</Data>
+            <Data name="Belt 2 Gauntlet RBoobs Perky" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="ArmBoobs Push Up" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmBoobs Push Up</Data>
+            <Data name="Arm_BeltBoobs Push Up" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltBoobs Push Up</Data>
+            <Data name="Arm_Belt_2Boobs Push Up" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Boobs Push Up</Data>
+            <Data name="Belt_Gauntlet_LBoobs Push Up" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LBoobs Push Up</Data>
+            <Data name="Belt_Gauntlet_RBoobs Push Up" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RBoobs Push Up</Data>
+            <Data name="Gauntlet_LBoobs Push Up" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LBoobs Push Up</Data>
+            <Data name="Gauntlet_RBoobs Push Up" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RBoobs Push Up</Data>
+            <Data name="Metal_Arm_Belt_2Boobs Push Up" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Boobs Push Up</Data>
+            <Data name="Metal_Gauntlet_LBoobs Push Up" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LBoobs Push Up</Data>
+            <Data name="Metal_Gauntlet_RBoobs Push Up" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RBoobs Push Up</Data>
+            <Data name="Belt 2 Gauntlet RBoobs Push Up" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="ArmBoobs Top Slope" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmBoobs Top Slope</Data>
+            <Data name="Arm_BeltBoobs Top Slope" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltBoobs Top Slope</Data>
+            <Data name="Arm_Belt_2Boobs Top Slope" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Boobs Top Slope</Data>
+            <Data name="Belt_Gauntlet_LBoobs Top Slope" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LBoobs Top Slope</Data>
+            <Data name="Belt_Gauntlet_RBoobs Top Slope" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RBoobs Top Slope</Data>
+            <Data name="Gauntlet_LBoobs Top Slope" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LBoobs Top Slope</Data>
+            <Data name="Gauntlet_RBoobs Top Slope" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RBoobs Top Slope</Data>
+            <Data name="Metal_Gauntlet_LBoobs Top Slope" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LBoobs Top Slope</Data>
+            <Data name="Metal_Gauntlet_RBoobs Top Slope" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RBoobs Top Slope</Data>
+            <Data name="Belt 2 Gauntlet RBoobs Top Slope" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="ArmBoobs Tiny" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmBoobs Tiny</Data>
+            <Data name="Arm_BeltBoobs Tiny" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltBoobs Tiny</Data>
+            <Data name="Arm_Belt_2Boobs Tiny" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Boobs Tiny</Data>
+            <Data name="Belt_Gauntlet_LBoobs Tiny" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LBoobs Tiny</Data>
+            <Data name="Belt_Gauntlet_RBoobs Tiny" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RBoobs Tiny</Data>
+            <Data name="Gauntlet_LBoobs Tiny" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LBoobs Tiny</Data>
+            <Data name="Gauntlet_RBoobs Tiny" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RBoobs Tiny</Data>
+            <Data name="Metal_Arm_Belt_2Boobs Tiny" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Boobs Tiny</Data>
+            <Data name="Metal_Gauntlet_LBoobs Tiny" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LBoobs Tiny</Data>
+            <Data name="Metal_Gauntlet_RBoobs Tiny" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RBoobs Tiny</Data>
+            <Data name="Belt 2 Gauntlet RBoobs Tiny" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="Belt_Gauntlet_LWaist Size" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LWaist Size</Data>
+            <Data name="Gauntlet_LWaist Size" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LWaist Size</Data>
+            <Data name="Metal_Gauntlet_LWaist Size" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LWaist Size</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="ArmBack Size" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmBack Size</Data>
+            <Data name="Arm_BeltBack Size" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltBack Size</Data>
+            <Data name="Arm_Belt_2Back Size" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Back Size</Data>
+            <Data name="Gauntlet_LBack Size" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LBack Size</Data>
+            <Data name="Metal_Arm_Belt_2Back Size" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Back Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="ArmArms Chubby" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmArms Chubby</Data>
+            <Data name="Arm_BeltArms Chubby" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltArms Chubby</Data>
+            <Data name="Arm_Belt_2Arms Chubby" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Arms Chubby</Data>
+            <Data name="Belt_Gauntlet_LArms Chubby" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LArms Chubby</Data>
+            <Data name="Belt_Gauntlet_RArms Chubby" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RArms Chubby</Data>
+            <Data name="Gauntlet_LArms Chubby" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LArms Chubby</Data>
+            <Data name="Gauntlet_RArms Chubby" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RArms Chubby</Data>
+            <Data name="Metal_Arm_Belt_Arms Chubby" target="Metal_Arm_Belt_" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_Arms Chubby</Data>
+            <Data name="Metal_Arm_Belt_2Arms Chubby" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Arms Chubby</Data>
+            <Data name="Metal_Gauntlet_LArms Chubby" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LArms Chubby</Data>
+            <Data name="Metal_Gauntlet_RArms Chubby" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RArms Chubby</Data>
+            <Data name="Belt 2 Gauntlet RArms Chubby" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RArms Chubby</Data>
+            <Data name="Metal Belt Gauntlet RArms Chubby" target="Metal Belt Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal Belt Gauntlet RArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="ArmShoulder Smooth" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="ArmArms Size" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmArms Size</Data>
+            <Data name="Arm_BeltArms Size" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltArms Size</Data>
+            <Data name="Arm_Belt_2Arms Size" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Arms Size</Data>
+            <Data name="Belt_Gauntlet_LArms Size" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LArms Size</Data>
+            <Data name="Belt_Gauntlet_RArms Size" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RArms Size</Data>
+            <Data name="Gauntlet_LArms Size" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LArms Size</Data>
+            <Data name="Gauntlet_RArms Size" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RArms Size</Data>
+            <Data name="Metal_Arm_Belt_Arms Size" target="Metal_Arm_Belt_" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_Arms Size</Data>
+            <Data name="Metal_Arm_Belt_2Arms Size" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Arms Size</Data>
+            <Data name="Metal_Gauntlet_LArms Size" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LArms Size</Data>
+            <Data name="Metal_Gauntlet_RArms Size" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RArms Size</Data>
+            <Data name="Belt 2 Gauntlet RArms Size" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RArms Size</Data>
+            <Data name="Metal Belt Gauntlet RArms Size" target="Metal Belt Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal Belt Gauntlet RArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="ArmArmpit Ajustment" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmArmpit Ajustment</Data>
+            <Data name="Arm_BeltArmpit Ajustment" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltArmpit Ajustment</Data>
+            <Data name="Metal_Arm_Belt_Armpit Ajustment" target="Metal_Arm_Belt_" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="ArmForearms Size" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmForearms Size</Data>
+            <Data name="Arm_BeltForearms Size" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltForearms Size</Data>
+            <Data name="Arm_Belt_2Forearms Size" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Forearms Size</Data>
+            <Data name="Belt_Gauntlet_LForearms Size" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LForearms Size</Data>
+            <Data name="Belt_Gauntlet_RForearms Size" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RForearms Size</Data>
+            <Data name="Gauntlet_LForearms Size" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LForearms Size</Data>
+            <Data name="Gauntlet_RForearms Size" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RForearms Size</Data>
+            <Data name="Metal_Arm_Belt_Forearms Size" target="Metal_Arm_Belt_" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_Forearms Size</Data>
+            <Data name="Metal_Arm_Belt_2Forearms Size" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Forearms Size</Data>
+            <Data name="Metal_Gauntlet_LForearms Size" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LForearms Size</Data>
+            <Data name="Metal_Gauntlet_RForearms Size" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RForearms Size</Data>
+            <Data name="Belt 2 Gauntlet RForearms Size" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RForearms Size</Data>
+            <Data name="Metal Belt Gauntlet RForearms Size" target="Metal Belt Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal Belt Gauntlet RForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="ArmTorso Size" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmTorso Size</Data>
+            <Data name="Arm_BeltTorso Size" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltTorso Size</Data>
+            <Data name="Arm_Belt_2Torso Size" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Torso Size</Data>
+            <Data name="Belt_Gauntlet_LTorso Size" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LTorso Size</Data>
+            <Data name="Belt_Gauntlet_RTorso Size" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RTorso Size</Data>
+            <Data name="Gauntlet_LTorso Size" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LTorso Size</Data>
+            <Data name="Gauntlet_RTorso Size" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RTorso Size</Data>
+            <Data name="Metal_Arm_Belt_Torso Size" target="Metal_Arm_Belt_" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_Torso Size</Data>
+            <Data name="Metal_Arm_Belt_2Torso Size" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Torso Size</Data>
+            <Data name="Metal_Gauntlet_LTorso Size" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LTorso Size</Data>
+            <Data name="Metal_Gauntlet_RTorso Size" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RTorso Size</Data>
+            <Data name="Belt 2 Gauntlet RTorso Size" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RTorso Size</Data>
+            <Data name="Metal Belt Gauntlet RTorso Size" target="Metal Belt Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal Belt Gauntlet RTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="ArmSturnum Depth" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmSturnum Depth</Data>
+            <Data name="Arm_BeltSturnum Depth" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltSturnum Depth</Data>
+            <Data name="Arm_Belt_2Sturnum Depth" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Sturnum Depth</Data>
+            <Data name="Belt_Gauntlet_LSturnum Depth" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LSturnum Depth</Data>
+            <Data name="Belt_Gauntlet_RSturnum Depth" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RSturnum Depth</Data>
+            <Data name="Gauntlet_LSturnum Depth" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LSturnum Depth</Data>
+            <Data name="Gauntlet_RSturnum Depth" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RSturnum Depth</Data>
+            <Data name="Metal_Arm_Belt_2Sturnum Depth" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Sturnum Depth</Data>
+            <Data name="Metal_Gauntlet_LSturnum Depth" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LSturnum Depth</Data>
+            <Data name="Metal_Gauntlet_RSturnum Depth" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RSturnum Depth</Data>
+            <Data name="Belt 2 Gauntlet RSturnum Depth" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="ArmSturnum Height" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmSturnum Height</Data>
+            <Data name="Arm_BeltSturnum Height" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltSturnum Height</Data>
+            <Data name="Arm_Belt_2Sturnum Height" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Sturnum Height</Data>
+            <Data name="Belt_Gauntlet_LSturnum Height" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LSturnum Height</Data>
+            <Data name="Belt_Gauntlet_RSturnum Height" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RSturnum Height</Data>
+            <Data name="Gauntlet_LSturnum Height" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LSturnum Height</Data>
+            <Data name="Gauntlet_RSturnum Height" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RSturnum Height</Data>
+            <Data name="Metal_Arm_Belt_2Sturnum Height" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Sturnum Height</Data>
+            <Data name="Metal_Gauntlet_LSturnum Height" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LSturnum Height</Data>
+            <Data name="Metal_Gauntlet_RSturnum Height" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RSturnum Height</Data>
+            <Data name="Belt 2 Gauntlet RSturnum Height" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="ArmGroin Position" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmGroin Position</Data>
+            <Data name="Arm_BeltGroin Position" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltGroin Position</Data>
+            <Data name="Arm_Belt_2Groin Position" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Groin Position</Data>
+            <Data name="Belt_Gauntlet_LGroin Position" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LGroin Position</Data>
+            <Data name="Belt_Gauntlet_RGroin Position" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RGroin Position</Data>
+            <Data name="Gauntlet_LGroin Position" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LGroin Position</Data>
+            <Data name="Gauntlet_RGroin Position" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RGroin Position</Data>
+            <Data name="Metal_Arm_Belt_2Groin Position" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Groin Position</Data>
+            <Data name="Metal_Gauntlet_LGroin Position" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LGroin Position</Data>
+            <Data name="Metal_Gauntlet_RGroin Position" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RGroin Position</Data>
+            <Data name="Belt 2 Gauntlet RGroin Position" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="ArmGroin Back" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmGroin Back</Data>
+            <Data name="Arm_BeltGroin Back" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltGroin Back</Data>
+            <Data name="Arm_Belt_2Groin Back" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Groin Back</Data>
+            <Data name="Belt_Gauntlet_LGroin Back" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LGroin Back</Data>
+            <Data name="Belt_Gauntlet_RGroin Back" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RGroin Back</Data>
+            <Data name="Gauntlet_LGroin Back" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LGroin Back</Data>
+            <Data name="Gauntlet_RGroin Back" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RGroin Back</Data>
+            <Data name="Metal_Gauntlet_LGroin Back" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LGroin Back</Data>
+            <Data name="Metal_Gauntlet_RGroin Back" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RGroin Back</Data>
+            <Data name="Belt 2 Gauntlet RGroin Back" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="ArmBody Toning" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmBody Toning</Data>
+            <Data name="Arm_BeltBody Toning" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltBody Toning</Data>
+            <Data name="Arm_Belt_2Body Toning" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Body Toning</Data>
+            <Data name="Belt_Gauntlet_LBody Toning" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LBody Toning</Data>
+            <Data name="Belt_Gauntlet_RBody Toning" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RBody Toning</Data>
+            <Data name="Gauntlet_LBody Toning" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LBody Toning</Data>
+            <Data name="Gauntlet_RBody Toning" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RBody Toning</Data>
+            <Data name="Metal_Arm_Belt_Body Toning" target="Metal_Arm_Belt_" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_Body Toning</Data>
+            <Data name="Metal_Arm_Belt_2Body Toning" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Body Toning</Data>
+            <Data name="Metal_Gauntlet_LBody Toning" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LBody Toning</Data>
+            <Data name="Metal_Gauntlet_RBody Toning" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RBody Toning</Data>
+            <Data name="Belt 2 Gauntlet RBody Toning" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RBody Toning</Data>
+            <Data name="Metal Belt Gauntlet RBody Toning" target="Metal Belt Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal Belt Gauntlet RBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="ArmTigerSanBB" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmTigerSanBB</Data>
+            <Data name="Arm_BeltTigerSanBB" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltTigerSanBB</Data>
+            <Data name="Arm_Belt_2TigerSanBB" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2TigerSanBB</Data>
+            <Data name="Belt_Gauntlet_LTigerSanBB" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LTigerSanBB</Data>
+            <Data name="Belt_Gauntlet_RTigerSanBB" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RTigerSanBB</Data>
+            <Data name="Gauntlet_LTigerSanBB" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LTigerSanBB</Data>
+            <Data name="Gauntlet_RTigerSanBB" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RTigerSanBB</Data>
+            <Data name="Metal_Arm_Belt_TigerSanBB" target="Metal_Arm_Belt_" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_TigerSanBB</Data>
+            <Data name="Metal_Arm_Belt_2TigerSanBB" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2TigerSanBB</Data>
+            <Data name="Metal_Gauntlet_LTigerSanBB" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LTigerSanBB</Data>
+            <Data name="Metal_Gauntlet_RTigerSanBB" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RTigerSanBB</Data>
+            <Data name="Belt 2 Gauntlet RTigerSanBB" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RTigerSanBB</Data>
+            <Data name="Metal Belt Gauntlet RTigerSanBB" target="Metal Belt Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal Belt Gauntlet RTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="ArmAthletic" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmAthletic</Data>
+            <Data name="Arm_BeltAthletic" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltAthletic</Data>
+            <Data name="Arm_Belt_2Athletic" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Athletic</Data>
+            <Data name="Belt_Gauntlet_LAthletic" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LAthletic</Data>
+            <Data name="Belt_Gauntlet_RAthletic" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RAthletic</Data>
+            <Data name="Gauntlet_LAthletic" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LAthletic</Data>
+            <Data name="Gauntlet_RAthletic" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RAthletic</Data>
+            <Data name="Metal_Arm_Belt_Athletic" target="Metal_Arm_Belt_" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_Athletic</Data>
+            <Data name="Metal_Arm_Belt_2Athletic" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Athletic</Data>
+            <Data name="Metal_Gauntlet_LAthletic" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LAthletic</Data>
+            <Data name="Metal_Gauntlet_RAthletic" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RAthletic</Data>
+            <Data name="Belt 2 Gauntlet RAthletic" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RAthletic</Data>
+            <Data name="Metal Belt Gauntlet RAthletic" target="Metal Belt Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal Belt Gauntlet RAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="ArmSeveNBase Bombshell" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmSeveNBase Bombshell</Data>
+            <Data name="Arm_BeltSeveNBase Bombshell" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltSeveNBase Bombshell</Data>
+            <Data name="Arm_Belt_2SeveNBase Bombshell" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2SeveNBase Bombshell</Data>
+            <Data name="Belt_Gauntlet_LSeveNBase Bombshell" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LSeveNBase Bombshell</Data>
+            <Data name="Belt_Gauntlet_RSeveNBase Bombshell" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RSeveNBase Bombshell</Data>
+            <Data name="Gauntlet_LSeveNBase Bombshell" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LSeveNBase Bombshell</Data>
+            <Data name="Gauntlet_RSeveNBase Bombshell" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RSeveNBase Bombshell</Data>
+            <Data name="Metal_Arm_Belt_SeveNBase Bombshell" target="Metal_Arm_Belt_" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_SeveNBase Bombshell</Data>
+            <Data name="Metal_Arm_Belt_2SeveNBase Bombshell" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2SeveNBase Bombshell</Data>
+            <Data name="Metal_Gauntlet_LSeveNBase Bombshell" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LSeveNBase Bombshell</Data>
+            <Data name="Metal_Gauntlet_RSeveNBase Bombshell" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RSeveNBase Bombshell</Data>
+            <Data name="Belt 2 Gauntlet RSeveNBase Bombshell" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RSeveNBase Bombshell</Data>
+            <Data name="Metal Belt Gauntlet RSeveNBase Bombshell" target="Metal Belt Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal Belt Gauntlet RSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="ArmShoulder Width" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmShoulder Width</Data>
+            <Data name="Arm_BeltShoulder Width" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltShoulder Width</Data>
+            <Data name="Arm_Belt_2Shoulder Width" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2Shoulder Width</Data>
+            <Data name="Belt_Gauntlet_LShoulder Width" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LShoulder Width</Data>
+            <Data name="Belt_Gauntlet_RShoulder Width" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RShoulder Width</Data>
+            <Data name="Gauntlet_LShoulder Width" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LShoulder Width</Data>
+            <Data name="Gauntlet_RShoulder Width" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RShoulder Width</Data>
+            <Data name="Metal_Arm_Belt_Shoulder Width" target="Metal_Arm_Belt_" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_Shoulder Width</Data>
+            <Data name="Metal_Arm_Belt_2Shoulder Width" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2Shoulder Width</Data>
+            <Data name="Metal_Gauntlet_LShoulder Width" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LShoulder Width</Data>
+            <Data name="Metal_Gauntlet_RShoulder Width" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RShoulder Width</Data>
+            <Data name="Belt 2 Gauntlet RShoulder Width" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RShoulder Width</Data>
+            <Data name="Metal Belt Gauntlet RShoulder Width" target="Metal Belt Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal Belt Gauntlet RShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="ArmBodyFat" target="Arm" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\ArmBodyFat</Data>
+            <Data name="Arm_BeltBodyFat" target="Arm_Belt" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_BeltBodyFat</Data>
+            <Data name="Arm_Belt_2BodyFat" target="Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Arm_Belt_2BodyFat</Data>
+            <Data name="Belt_Gauntlet_LBodyFat" target="Belt_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_LBodyFat</Data>
+            <Data name="Belt_Gauntlet_RBodyFat" target="Belt_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt_Gauntlet_RBodyFat</Data>
+            <Data name="Gauntlet_LBodyFat" target="Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_LBodyFat</Data>
+            <Data name="Gauntlet_RBodyFat" target="Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Gauntlet_RBodyFat</Data>
+            <Data name="Metal_Arm_Belt_BodyFat" target="Metal_Arm_Belt_" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_BodyFat</Data>
+            <Data name="Metal_Arm_Belt_2BodyFat" target="Metal_Arm_Belt_2" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Arm_Belt_2BodyFat</Data>
+            <Data name="Metal_Gauntlet_LBodyFat" target="Metal_Gauntlet_L" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_LBodyFat</Data>
+            <Data name="Metal_Gauntlet_RBodyFat" target="Metal_Gauntlet_R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal_Gauntlet_RBodyFat</Data>
+            <Data name="Belt 2 Gauntlet RBodyFat" target="Belt 2 Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Belt 2 Gauntlet RBodyFat</Data>
+            <Data name="Metal Belt Gauntlet RBodyFat" target="Metal Belt Gauntlet R" local="true">Vtaw Wardrobe 7 Katarina Gloves FG.osd\Metal Belt Gauntlet RBodyFat</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

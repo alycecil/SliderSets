@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Slave Chain Collar BT3">
+        <DataFolder>Slave Chain Collar BT3</DataFolder>
+        <SourceFile>Slave Chain Collar BT3.nif</SourceFile>
+        <OutputPath>meshes\kharneth\chaincollar\male</OutputPath>
+        <OutputFile GenWeights="false">collar</OutputFile>
+        <Shape target="Collar">Collar</Shape>
+        <Slider name="BTShoulders" invert="false" default="100">
+            <Data name="CollarBTShoulders" target="Collar" local="true">Slave Chain Collar BT3.osd\CollarBTShoulders</Data>
+        </Slider>
+        <Slider name="BTPectorals" invert="false" default="100">
+            <Data name="CollarBTPectorals" target="Collar" local="true">Slave Chain Collar BT3.osd\CollarBTPectorals</Data>
+        </Slider>
+        <Slider name="BTTraps" invert="false" default="100">
+            <Data name="CollarBTTraps" target="Collar" local="true">Slave Chain Collar BT3.osd\CollarBTTraps</Data>
+        </Slider>
+        <Slider name="BTBack" invert="false" default="100">
+            <Data name="CollarBTBack" target="Collar" local="true">Slave Chain Collar BT3.osd\CollarBTBack</Data>
+        </Slider>
+        <Slider name="BTStomachFat" invert="false" default="100">
+            <Data name="CollarBTStomachFat" target="Collar" local="true">Slave Chain Collar BT3.osd\CollarBTStomachFat</Data>
+        </Slider>
+        <Slider name="BTChestSmoothing" invert="false" default="100">
+            <Data name="CollarBTChestSmoothing" target="Collar" local="true">Slave Chain Collar BT3.osd\CollarBTChestSmoothing</Data>
+        </Slider>
+        <Slider name="BTAbDefinition" invert="false" default="100">
+            <Data name="CollarBTAbDefinition" target="Collar" local="true">Slave Chain Collar BT3.osd\CollarBTAbDefinition</Data>
+        </Slider>
+        <Slider name="BTARYAYDA" invert="false" default="0">
+            <Data name="CollarBTARYAYDA" target="Collar" local="true">Slave Chain Collar BT3.osd\CollarBTARYAYDA</Data>
+        </Slider>
+        <Slider name="BTAryaydaMoreMuscular" invert="false" default="0">
+            <Data name="CollarBTAryaydaMoreMuscular" target="Collar" local="true">Slave Chain Collar BT3.osd\CollarBTAryaydaMoreMuscular</Data>
+        </Slider>
+        <Slider name="TigerSanBBMale" invert="false" default="0">
+            <Data name="CollarTigerSanBBMale" target="Collar" local="true">Slave Chain Collar BT3.osd\CollarTigerSanBBMale</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

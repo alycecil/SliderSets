@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Panties FG">
+        <DataFolder>Vtaw Wardrobe 5 Panties FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Panties FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Panties</OutputPath>
+        <OutputFile GenWeights="false">Panties2</OutputFile>
+        <Shape target="Panties">Panties</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="PantiesBelly Pregnant" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="PantiesBelly Big" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="PantiesBelly Size" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="PantiesBelly Tuck" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="PantiesBoobs Yuge" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="PantiesBoobs Big" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="PantiesBoobs Gravity" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="PantiesBoobs Mellons" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="PantiesBoobs Perky" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="PantiesBoobs Push Up" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="PantiesBoobs Top Slope" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="PantiesBoobs Tiny" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="PantiesChest Width" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="PantiesWaist Chubby" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="PantiesWaist Size" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="PantiesWaist Height" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="PantiesWaist Line" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="PantiesBack Size" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="PantiesBack Arch" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="PantiesHips Bone" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="PantiesHips Size" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="PantiesHips Upper Width" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="PantiesBum Size" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="PantiesBum Crack" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="PantiesBum Shape 1" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="PantiesBum Shape 2" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="PantiesBum Small" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="PantiesBum Chubby" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="PantiesBum Round" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="PantiesBum Apple" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="PantiesLegs Chubby" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="PantiesLegs Shape" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="PantiesLegs Thin" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="PantiesThighs Slim" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="PantiesThighs Size" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="PantiesTorso Size" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="PantiesSturnum Depth" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="PantiesSturnum Height" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="PantiesGroin Position" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="PantiesGroin Back" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="PantiesAbDefinition" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="PantiesBody Toning" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="PantiesTigerSanBB" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="PantiesXunAbs" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="PantiesFFB Fitness 2" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="PantiesAthletic" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="PantiesSeveNBase Bombshell" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="PantiesBodyFat" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="PantiesLegThin" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="PantiesHipsNarrow" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="PantiesButtGravity" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="PantiesButtThin" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="PantiesHipsForward" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="PantiesHipRotateForward" target="Panties" local="true">Vtaw Wardrobe 5 Panties FG.osd\PantiesHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

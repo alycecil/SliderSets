@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 KneeGuard FG">
+        <DataFolder>Vtaw Wardrobe 6 KneeGuard FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 KneeGuard FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\KneeGuard</OutputPath>
+        <OutputFile GenWeights="false">KneeGuard</OutputFile>
+        <Shape target="Knee">Knee</Shape>
+        <Shape target="Metal Knee">Metal Knee</Shape>
+        <Shape target="Metal Knee Plate">Metal Knee Plate</Shape>
+        <Shape target="Metal Knee2">Metal Knee2</Shape>
+        <Shape target="Straps Knee">Straps Knee</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Straps KneeBoobs Yuge" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeBoobs Yuge</Data>
+            <Data name="KneeBoobs Yuge" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeBoobs Yuge</Data>
+            <Data name="Metal Knee PlateBoobs Yuge" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Straps KneeBoobs Big" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeBoobs Big</Data>
+            <Data name="KneeBoobs Big" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeBoobs Big</Data>
+            <Data name="Metal Knee PlateBoobs Big" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Straps KneeBoobs Gravity" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeBoobs Gravity</Data>
+            <Data name="KneeBoobs Gravity" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeBoobs Gravity</Data>
+            <Data name="Metal Knee PlateBoobs Gravity" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Straps KneeBoobs Mellons" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeBoobs Mellons</Data>
+            <Data name="KneeBoobs Mellons" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeBoobs Mellons</Data>
+            <Data name="Metal Knee PlateBoobs Mellons" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Straps KneeBoobs Perky" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeBoobs Perky</Data>
+            <Data name="KneeBoobs Perky" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeBoobs Perky</Data>
+            <Data name="Metal Knee PlateBoobs Perky" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Straps KneeBoobs Push Up" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeBoobs Push Up</Data>
+            <Data name="KneeBoobs Push Up" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeBoobs Push Up</Data>
+            <Data name="Metal Knee PlateBoobs Push Up" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="Straps KneeBoobs Top Slope" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeBoobs Top Slope</Data>
+            <Data name="KneeBoobs Top Slope" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeBoobs Top Slope</Data>
+            <Data name="Metal Knee PlateBoobs Top Slope" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Straps KneeBoobs Tiny" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeBoobs Tiny</Data>
+            <Data name="KneeBoobs Tiny" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeBoobs Tiny</Data>
+            <Data name="Metal Knee PlateBoobs Tiny" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="Straps KneeBum Small" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeBum Small</Data>
+            <Data name="KneeBum Small" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeBum Small</Data>
+            <Data name="Metal KneeBum Small" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeBum Small</Data>
+            <Data name="Metal Knee2Bum Small" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2Bum Small</Data>
+            <Data name="Metal Knee PlateBum Small" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateBum Small</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="Straps KneeCalf Size" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeCalf Size</Data>
+            <Data name="KneeCalf Size" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeCalf Size</Data>
+            <Data name="Metal KneeCalf Size" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeCalf Size</Data>
+            <Data name="Metal Knee2Calf Size" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2Calf Size</Data>
+            <Data name="Metal Knee PlateCalf Size" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="Straps KneeCalf Small" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeCalf Small</Data>
+            <Data name="KneeCalf Small" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeCalf Small</Data>
+            <Data name="Metal KneeCalf Small" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeCalf Small</Data>
+            <Data name="Metal Knee2Calf Small" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2Calf Small</Data>
+            <Data name="Metal Knee PlateCalf Small" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="Straps KneeLegs Chubby" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeLegs Chubby</Data>
+            <Data name="KneeLegs Chubby" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeLegs Chubby</Data>
+            <Data name="Metal KneeLegs Chubby" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeLegs Chubby</Data>
+            <Data name="Metal Knee2Legs Chubby" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2Legs Chubby</Data>
+            <Data name="Metal Knee PlateLegs Chubby" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="Straps KneeLegs Shape" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeLegs Shape</Data>
+            <Data name="KneeLegs Shape" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeLegs Shape</Data>
+            <Data name="Metal KneeLegs Shape" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeLegs Shape</Data>
+            <Data name="Metal Knee2Legs Shape" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2Legs Shape</Data>
+            <Data name="Metal Knee PlateLegs Shape" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="Straps KneeLegs Thin" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeLegs Thin</Data>
+            <Data name="KneeLegs Thin" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeLegs Thin</Data>
+            <Data name="Metal KneeLegs Thin" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeLegs Thin</Data>
+            <Data name="Metal Knee2Legs Thin" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2Legs Thin</Data>
+            <Data name="Metal Knee PlateLegs Thin" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="Straps KneeThighs Slim" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeThighs Slim</Data>
+            <Data name="KneeThighs Slim" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeThighs Slim</Data>
+            <Data name="Metal KneeThighs Slim" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeThighs Slim</Data>
+            <Data name="Metal Knee2Thighs Slim" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2Thighs Slim</Data>
+            <Data name="Metal Knee PlateThighs Slim" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="Straps KneeThighs Size" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeThighs Size</Data>
+            <Data name="KneeThighs Size" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeThighs Size</Data>
+            <Data name="Metal KneeThighs Size" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeThighs Size</Data>
+            <Data name="Metal Knee2Thighs Size" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2Thighs Size</Data>
+            <Data name="Metal Knee PlateThighs Size" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="Straps KneeAnkle Size" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeAnkle Size</Data>
+            <Data name="KneeAnkle Size" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeAnkle Size</Data>
+            <Data name="Metal KneeAnkle Size" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeAnkle Size</Data>
+            <Data name="Metal Knee2Ankle Size" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2Ankle Size</Data>
+            <Data name="Metal Knee PlateAnkle Size" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateAnkle Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Straps KneeSturnum Depth" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeSturnum Depth</Data>
+            <Data name="KneeSturnum Depth" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeSturnum Depth</Data>
+            <Data name="Metal Knee PlateSturnum Depth" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Straps KneeSturnum Height" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeSturnum Height</Data>
+            <Data name="KneeSturnum Height" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeSturnum Height</Data>
+            <Data name="Metal Knee PlateSturnum Height" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Straps KneeGroin Position" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeGroin Position</Data>
+            <Data name="KneeGroin Position" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeGroin Position</Data>
+            <Data name="Metal Knee PlateGroin Position" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Straps KneeGroin Back" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeGroin Back</Data>
+            <Data name="KneeGroin Back" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeGroin Back</Data>
+            <Data name="Metal Knee PlateGroin Back" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Straps KneeBody Toning" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeBody Toning</Data>
+            <Data name="KneeBody Toning" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeBody Toning</Data>
+            <Data name="Metal KneeBody Toning" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeBody Toning</Data>
+            <Data name="Metal Knee2Body Toning" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2Body Toning</Data>
+            <Data name="Metal Knee PlateBody Toning" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Straps KneeTigerSanBB" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeTigerSanBB</Data>
+            <Data name="KneeTigerSanBB" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeTigerSanBB</Data>
+            <Data name="Metal KneeTigerSanBB" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeTigerSanBB</Data>
+            <Data name="Metal Knee2TigerSanBB" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2TigerSanBB</Data>
+            <Data name="Metal Knee PlateTigerSanBB" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Straps KneeAthletic" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeAthletic</Data>
+            <Data name="KneeAthletic" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeAthletic</Data>
+            <Data name="Metal KneeAthletic" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeAthletic</Data>
+            <Data name="Metal Knee2Athletic" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2Athletic</Data>
+            <Data name="Metal Knee PlateAthletic" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Straps KneeSeveNBase Bombshell" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeSeveNBase Bombshell</Data>
+            <Data name="KneeSeveNBase Bombshell" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeSeveNBase Bombshell</Data>
+            <Data name="Metal KneeSeveNBase Bombshell" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeSeveNBase Bombshell</Data>
+            <Data name="Metal Knee2SeveNBase Bombshell" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2SeveNBase Bombshell</Data>
+            <Data name="Metal Knee PlateSeveNBase Bombshell" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="Straps KneeKnee Height" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeKnee Height</Data>
+            <Data name="KneeKnee Height" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeKnee Height</Data>
+            <Data name="Metal KneeKnee Height" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeKnee Height</Data>
+            <Data name="Metal Knee2Knee Height" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2Knee Height</Data>
+            <Data name="Metal Knee PlateKnee Height" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateKnee Height</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Straps KneeBodyFat" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeBodyFat</Data>
+            <Data name="KneeBodyFat" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeBodyFat</Data>
+            <Data name="Metal KneeBodyFat" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeBodyFat</Data>
+            <Data name="Metal Knee2BodyFat" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2BodyFat</Data>
+            <Data name="Metal Knee PlateBodyFat" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="Straps KneeLegThin" target="Straps Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Straps KneeLegThin</Data>
+            <Data name="KneeLegThin" target="Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\KneeLegThin</Data>
+            <Data name="Metal KneeLegThin" target="Metal Knee" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal KneeLegThin</Data>
+            <Data name="Metal Knee2LegThin" target="Metal Knee2" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee2LegThin</Data>
+            <Data name="Metal Knee PlateLegThin" target="Metal Knee Plate" local="true">Vtaw Wardrobe 6 KneeGuard FG.osd\Metal Knee PlateLegThin</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

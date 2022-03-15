@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw utility Onepiece Trim FG">
+        <DataFolder>Vtaw utility Onepiece Trim FG</DataFolder>
+        <SourceFile>Vtaw utility Onepiece Trim FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\utility1</OutputPath>
+        <OutputFile GenWeights="false">OnepieceTrim</OutputFile>
+        <Shape target="trim">trim</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="trimBelly Pregnant" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="trimBelly Big" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="trimBelly Size" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="trimBelly Tuck" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="trimBoobs Yuge" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="trimBoobs Big" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="trimBoobs Cleavage" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="trimBoobs Flat" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="trimBoobs Gravity" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="trimBoobs Height" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="trimBoobs Mellons" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="trimBoobs Perky" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="trimBoobs Push Up" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="trimBoobs Small" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="trimBoobs Together" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="trimBoobs Top Slope" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="trimBoobs Width" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="trimBoobs Tiny" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="trimNipples Distance" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="trimNipples Down" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="trimNipples Perkiness" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="trimNipples Puffy" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="trimNipples Up" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="trimChest Depth" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="trimChest Width" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="trimWaist Chubby" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="trimWaist Size" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="trimWaist Height" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="trimWaist Line" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="trimBack Size" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="trimBack Arch" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="trimHips Bone" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="trimHips Size" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="trimHips Upper Width" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="trimBum Size" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="trimBum Crack" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="trimBum Shape 1" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="trimBum Shape 2" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="trimBum Small" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="trimBum Chubby" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="trimBum Round" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="trimBum Apple" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="trimLegs Chubby" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="trimLegs Shape" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="trimLegs Thin" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="trimThighs Slim" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="trimThighs Size" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimThighs Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="trimArms Chubby" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimArms Chubby</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="trimArms Size" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="trimArmpit Ajustment" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="trimTorso Size" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="trimSturnum Depth" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="trimSturnum Height" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="trimGroin Position" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="trimGroin Back" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="trimAbDefinition" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="trimBody Toning" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="trimTigerSanBB" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="trimXunAbs" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="trimFFB Fitness 2" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="trimAthletic" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="trimSeveNBase Bombshell" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="trimShoulder Width" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="trimBodyFat" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="trimLegThin" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="trimHipsNarrow" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="trimButtThin" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="trimHipsForward" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="trimHipRotateForward" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="trimBreastArmpitin" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="trimBreastArmpitWide" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="trimBreastCurve" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="trimBreastHeight2" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="trimBreastConcave" target="trim" local="true">Vtaw utility Onepiece Trim FG.osd\trimBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

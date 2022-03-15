@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Maxy Dress V4">
+        <DataFolder>VtawMaxyDress</DataFolder>
+        <SourceFile>MaxyDressV4.nif</SourceFile>
+        <OutputPath>meshes\vtaw\MaxyDress</OutputPath>
+        <OutputFile GenWeights="false">MaxyDressV4</OutputFile>
+        <Shape target="V4">V4</Shape>
+        <Shape target="zip">zip</Shape>
+        <Slider name="Breasts" invert="false" default="0">
+            <Data name="V4Breasts" target="V4" local="true">MaxyDressV4.osd\V4Breasts</Data>
+        </Slider>
+        <Slider name="BreastsCleavage" invert="false" default="0">
+            <Data name="V4BreastsCleavage" target="V4" local="true">MaxyDressV4.osd\V4BreastsCleavage</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" default="0">
+            <Data name="V4BreastsGone" target="V4" local="true">MaxyDressV4.osd\V4BreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" default="0">
+            <Data name="V4BreastsNewSH" target="V4" local="true">MaxyDressV4.osd\V4BreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="V4BreastsSmall" target="V4" local="true">MaxyDressV4.osd\V4BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="V4BreastsSmall2" target="V4" local="true">MaxyDressV4.osd\V4BreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" default="0">
+            <Data name="V4BreastsTogether" target="V4" local="true">MaxyDressV4.osd\V4BreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" default="0">
+            <Data name="V4BreastTopSlope" target="V4" local="true">MaxyDressV4.osd\V4BreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="V4BreastWidth" target="V4" local="true">MaxyDressV4.osd\V4BreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="V4Butt" target="V4" local="true">MaxyDressV4.osd\V4Butt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="V4ButtCrack" target="V4" local="true">MaxyDressV4.osd\V4ButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="zipButtNew" target="zip" local="true">MaxyDressV4.osd\zipButtNew</Data>
+            <Data name="V4ButtNew" target="V4" local="true">MaxyDressV4.osd\V4ButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="V4ButtShape2" target="V4" local="true">MaxyDressV4.osd\V4ButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="V4ButtSmall" target="V4" local="true">MaxyDressV4.osd\V4ButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" default="0">
+            <Data name="V4CalfSize" target="V4" local="true">MaxyDressV4.osd\V4CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" default="0">
+            <Data name="V4CalfSmooth" target="V4" local="true">MaxyDressV4.osd\V4CalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="zipChestDepth" target="zip" local="true">MaxyDressV4.osd\zipChestDepth</Data>
+            <Data name="V4ChestDepth" target="V4" local="true">MaxyDressV4.osd\V4ChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="zipChestWidth" target="zip" local="true">MaxyDressV4.osd\zipChestWidth</Data>
+            <Data name="V4ChestWidth" target="V4" local="true">MaxyDressV4.osd\V4ChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="zipChubbyArms" target="zip" local="true">MaxyDressV4.osd\zipChubbyArms</Data>
+            <Data name="V4ChubbyArms" target="V4" local="true">MaxyDressV4.osd\V4ChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="zipChubbyButt" target="zip" local="true">MaxyDressV4.osd\zipChubbyButt</Data>
+            <Data name="V4ChubbyButt" target="V4" local="true">MaxyDressV4.osd\V4ChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="V4ChubbyLegs" target="V4" local="true">MaxyDressV4.osd\V4ChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="zipChubbyWaist" target="zip" local="true">MaxyDressV4.osd\zipChubbyWaist</Data>
+            <Data name="V4ChubbyWaist" target="V4" local="true">MaxyDressV4.osd\V4ChubbyWaist</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="V4DoubleMelon" target="V4" local="true">MaxyDressV4.osd\V4DoubleMelon</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="zipHipBack" target="zip" local="true">MaxyDressV4.osd\zipHipBack</Data>
+            <Data name="V4HipBack" target="V4" local="true">MaxyDressV4.osd\V4HipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="V4HipBone" target="V4" local="true">MaxyDressV4.osd\V4HipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="V4Hips" target="V4" local="true">MaxyDressV4.osd\V4Hips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="V4HipUpperWidth" target="V4" local="true">MaxyDressV4.osd\V4HipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" default="0">
+            <Data name="V4KneeHeight" target="V4" local="true">MaxyDressV4.osd\V4KneeHeight</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="V4LegShape" target="V4" local="true">MaxyDressV4.osd\V4LegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="V4LegsThin" target="V4" local="true">MaxyDressV4.osd\V4LegsThin</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" default="0">
+            <Data name="V4NippleDistance" target="V4" local="true">MaxyDressV4.osd\V4NippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="V4NippleDown" target="V4" local="true">MaxyDressV4.osd\V4NippleDown</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" default="0">
+            <Data name="V4NipplePerkiness" target="V4" local="true">MaxyDressV4.osd\V4NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="V4NippleUp" target="V4" local="true">MaxyDressV4.osd\V4NippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="V4PregnancyBelly" target="V4" local="true">MaxyDressV4.osd\V4PregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="V4PushUp" target="V4" local="true">MaxyDressV4.osd\V4PushUp</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="V4RoundAss" target="V4" local="true">MaxyDressV4.osd\V4RoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="zipShoulderSmooth" target="zip" local="true">MaxyDressV4.osd\zipShoulderSmooth</Data>
+            <Data name="V4ShoulderSmooth" target="V4" local="true">MaxyDressV4.osd\V4ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="V4ShoulderTweak" target="V4" local="true">MaxyDressV4.osd\V4ShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="zipShoulderWidth" target="zip" local="true">MaxyDressV4.osd\zipShoulderWidth</Data>
+            <Data name="V4ShoulderWidth" target="V4" local="true">MaxyDressV4.osd\V4ShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="V4SlimThighs" target="V4" local="true">MaxyDressV4.osd\V4SlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="V4Thighs" target="V4" local="true">MaxyDressV4.osd\V4Thighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="V4TummyTuck" target="V4" local="true">MaxyDressV4.osd\V4TummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="zipVanillaFo4" target="zip" local="true">MaxyDressV4.osd\zipVanillaFo4</Data>
+            <Data name="V4VanillaFo4" target="V4" local="true">MaxyDressV4.osd\V4VanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="zipWaist" target="zip" local="true">MaxyDressV4.osd\zipWaist</Data>
+            <Data name="V4Waist" target="V4" local="true">MaxyDressV4.osd\V4Waist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="zipWaistHeight" target="zip" local="true">MaxyDressV4.osd\zipWaistHeight</Data>
+            <Data name="V4WaistHeight" target="V4" local="true">MaxyDressV4.osd\V4WaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="V4WideWaistLine" target="V4" local="true">MaxyDressV4.osd\V4WideWaistLine</Data>
+        </Slider>
+        <Slider name="Ankles" invert="false" default="0">
+            <Data name="V4Ankles" target="V4" local="true">MaxyDressV4.osd\V4Ankles</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="V4AppleCheeks" target="V4" local="true">MaxyDressV4.osd\V4AppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="zipArms" target="zip" local="true">MaxyDressV4.osd\zipArms</Data>
+            <Data name="V4Arms" target="V4" local="true">MaxyDressV4.osd\V4Arms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="zipBack" target="zip" local="true">MaxyDressV4.osd\zipBack</Data>
+            <Data name="V4Back" target="V4" local="true">MaxyDressV4.osd\V4Back</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="zipBackArch" target="zip" local="true">MaxyDressV4.osd\zipBackArch</Data>
+            <Data name="V4BackArch" target="V4" local="true">MaxyDressV4.osd\V4BackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="V4Belly" target="V4" local="true">MaxyDressV4.osd\V4Belly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="V4BigBelly" target="V4" local="true">MaxyDressV4.osd\V4BigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="V4BigButt" target="V4" local="true">MaxyDressV4.osd\V4BigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="zipBigTorso" target="zip" local="true">MaxyDressV4.osd\zipBigTorso</Data>
+            <Data name="V4BigTorso" target="V4" local="true">MaxyDressV4.osd\V4BigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="V4BreastCenter" target="V4" local="true">MaxyDressV4.osd\V4BreastCenter</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="V4BreastFantasy" target="V4" local="true">MaxyDressV4.osd\V4BreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="V4BreastFlatness2" target="V4" local="true">MaxyDressV4.osd\V4BreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="V4BreastGravity2" target="V4" local="true">MaxyDressV4.osd\V4BreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="V4BreastHeight" target="V4" local="true">MaxyDressV4.osd\V4BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="V4BreastPerkiness" target="V4" local="true">MaxyDressV4.osd\V4BreastPerkiness</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="V4ArmpitHeight" target="V4" local="true">MaxyDressV4.osd\V4ArmpitHeight</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="zip7B Upper" target="zip" local="true">MaxyDressV4.osd\zip7B Upper</Data>
+            <Data name="V47B Upper" target="V4" local="true">MaxyDressV4.osd\V47B Upper</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="V47B Lower" target="V4" local="true">MaxyDressV4.osd\V47B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="V4MuscularChest" target="V4" local="true">MaxyDressV4.osd\V4MuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="zipMuscularArms" target="zip" local="true">MaxyDressV4.osd\zipMuscularArms</Data>
+            <Data name="V4MuscularArms" target="V4" local="true">MaxyDressV4.osd\V4MuscularArms</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="V4MuscularButt" target="V4" local="true">MaxyDressV4.osd\V4MuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="V4MuscularLegs" target="V4" local="true">MaxyDressV4.osd\V4MuscularLegs</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

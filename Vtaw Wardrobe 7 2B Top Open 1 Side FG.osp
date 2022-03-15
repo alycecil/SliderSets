@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 2B Top Open 1 Side FG">
+        <DataFolder>Vtaw Wardrobe 7 2B Top Open 1 Side FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 2B Top Open 1 Side FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\2B</OutputPath>
+        <OutputFile GenWeights="false">2BTopOpen1Side</OutputFile>
+        <Shape target="Top3">Top3</Shape>
+        <Shape target="TopTR3">TopTR3</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="Top3Belly Pregnant" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="Top3Belly Big" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Belly Big</Data>
+            <Data name="TopTR3Belly Big" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="Top3Belly Size" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Belly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Top3Boobs Yuge" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Boobs Yuge</Data>
+            <Data name="TopTR3Boobs Yuge" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Top3Boobs Big" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Boobs Big</Data>
+            <Data name="TopTR3Boobs Big" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="Top3Boobs Cleavage" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Boobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="Top3Boobs Flat" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Boobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Top3Boobs Gravity" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Boobs Gravity</Data>
+            <Data name="TopTR3Boobs Gravity" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="Top3Boobs Height" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Boobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Top3Boobs Mellons" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Boobs Mellons</Data>
+            <Data name="TopTR3Boobs Mellons" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Top3Boobs Perky" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Boobs Perky</Data>
+            <Data name="TopTR3Boobs Perky" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Top3Boobs Push Up" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Boobs Push Up</Data>
+            <Data name="TopTR3Boobs Push Up" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="Top3Boobs Small" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Boobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="Top3Boobs Together" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Boobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="Top3Boobs Top Slope" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Boobs Top Slope</Data>
+            <Data name="TopTR3Boobs Top Slope" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="Top3Boobs Width" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Boobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Top3Boobs Tiny" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Boobs Tiny</Data>
+            <Data name="TopTR3Boobs Tiny" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="Top3Nipples Length" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Nipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="Top3Nipples Areola" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Nipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="Top3Nipples Distance" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Nipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="Top3Nipples Down" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Nipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="Top3Nipples Gone" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Nipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="Top3Nipples Shape" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Nipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="Top3Nipples Size" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Nipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="Top3Nipples Perkiness" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Nipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="Top3Nipples Puffy" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Nipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="Top3Nipples Up" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Nipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="Top3Nipples Tip" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Nipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="Top3Chest Depth" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Chest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="Top3Chest Width" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Chest Width</Data>
+            <Data name="TopTR3Chest Width" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="Top3Waist Chubby" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Waist Chubby</Data>
+            <Data name="TopTR3Waist Chubby" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="Top3Waist Size" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Waist Size</Data>
+            <Data name="TopTR3Waist Size" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="Top3Waist Height" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="Top3Waist Line" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="Top3Back Size" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Back Size</Data>
+            <Data name="TopTR3Back Size" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="Top3Back Arch" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Back Arch</Data>
+            <Data name="TopTR3Back Arch" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="Top3Hips Upper Width" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="Top3Bum Size" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="Top3Bum Shape 2" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="Top3Bum Chubby" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="Top3Bum Apple" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Bum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="Top3Legs Chubby" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Legs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="Top3Arms Chubby" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Arms Chubby</Data>
+            <Data name="TopTR3Arms Chubby" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="Top3Shoulder Smooth" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Shoulder Smooth</Data>
+            <Data name="TopTR3Shoulder Smooth" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="Top3Shoulder Tweak" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Shoulder Tweak</Data>
+            <Data name="TopTR3Shoulder Tweak" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Shoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="Top3Arms Size" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Arms Size</Data>
+            <Data name="TopTR3Arms Size" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="Top3Armpit Ajustment" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Armpit Ajustment</Data>
+            <Data name="TopTR3Armpit Ajustment" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Top3Torso Size" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Torso Size</Data>
+            <Data name="TopTR3Torso Size" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Top3Sturnum Depth" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Sturnum Depth</Data>
+            <Data name="TopTR3Sturnum Depth" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Top3Sturnum Height" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Sturnum Height</Data>
+            <Data name="TopTR3Sturnum Height" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Top3Groin Position" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Groin Position</Data>
+            <Data name="TopTR3Groin Position" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Top3Groin Back" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Groin Back</Data>
+            <Data name="TopTR3Groin Back" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="Top3AbDefinition" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Top3Body Toning" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Body Toning</Data>
+            <Data name="TopTR3Body Toning" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Top3TigerSanBB" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3TigerSanBB</Data>
+            <Data name="TopTR3TigerSanBB" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="Top3XunAbs" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="Top3FFB Fitness 2" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3FFB Fitness 2</Data>
+            <Data name="TopTR3FFB Fitness 2" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Top3Athletic" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Athletic</Data>
+            <Data name="TopTR3Athletic" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Top3SeveNBase Bombshell" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3SeveNBase Bombshell</Data>
+            <Data name="TopTR3SeveNBase Bombshell" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Top3Shoulder Width" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3Shoulder Width</Data>
+            <Data name="TopTR3Shoulder Width" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3Shoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Top3BodyFat" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3BodyFat</Data>
+            <Data name="TopTR3BodyFat" target="TopTR3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\TopTR3BodyFat</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="Top3ButtThin" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3ButtThin</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="Top3HipRotateForward" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="Top3BreastArmpitin" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="Top3BreastArmpitWide" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="Top3BreastCurve" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="Top3BreastHeight2" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="Top3BreastConcave" target="Top3" local="true">Vtaw Wardrobe 7 2B Top Open 1 Side FG.osd\Top3BreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

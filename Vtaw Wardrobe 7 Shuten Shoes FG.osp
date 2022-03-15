@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Shuten Shoes FG">
+        <DataFolder>Vtaw Wardrobe 7 Shuten Shoes FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Shuten Shoes FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\Shuten</OutputPath>
+        <OutputFile GenWeights="false">Shoes</OutputFile>
+        <Shape target="FusionGirl" DataFolder="FusionGirl">FusionGirl</Shape>
+        <Shape target="Shoes">Shoes</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FusionGirlBelly Pregnant" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FusionGirlBelly Big" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FusionGirlBelly Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FusionGirlBelly Tuck" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FusionGirlBoobs Yuge" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Yuge</Data>
+            <Data name="ShoesBoobs Yuge" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FusionGirlBoobs Big" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Big</Data>
+            <Data name="ShoesBoobs Big" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FusionGirlBoobs Cleavage" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FusionGirlBoobs Flat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FusionGirlBoobs Gravity" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Gravity</Data>
+            <Data name="ShoesBoobs Gravity" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FusionGirlBoobs Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FusionGirlBoobs Mellons" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Mellons</Data>
+            <Data name="ShoesBoobs Mellons" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FusionGirlBoobs Perky" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Perky</Data>
+            <Data name="ShoesBoobs Perky" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FusionGirlBoobs Push Up" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Push Up</Data>
+            <Data name="ShoesBoobs Push Up" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FusionGirlBoobs Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FusionGirlBoobs Together" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FusionGirlBoobs Top Slope" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Top Slope</Data>
+            <Data name="ShoesBoobs Top Slope" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FusionGirlBoobs Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FusionGirlBoobs Tiny" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Tiny</Data>
+            <Data name="ShoesBoobs Tiny" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="FusionGirlNipples Length" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="FusionGirlNipples Areola" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FusionGirlNipples Distance" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FusionGirlNipples Down" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="FusionGirlNipples Gone" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Gone</Data>
+            <Data name="ShoesNipples Gone" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="FusionGirlNipples Shape" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="FusionGirlNipples Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FusionGirlNipples Perkiness" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FusionGirlNipples Puffy" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FusionGirlNipples Up" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="FusionGirlNipples Tip" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FusionGirlChest Depth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FusionGirlChest Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FusionGirlWaist Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FusionGirlWaist Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FusionGirlWaist Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FusionGirlWaist Line" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FusionGirlBack Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FusionGirlBack Arch" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FusionGirlHips Bone" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FusionGirlHips Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FusionGirlHips Upper Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FusionGirlBum Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FusionGirlBum Crack" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 1" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FusionGirlBum Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FusionGirlBum Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FusionGirlBum Round" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FusionGirlBum Apple" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FusionGirlCalf Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FusionGirlCalf Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FusionGirlLegs Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FusionGirlLegs Shape" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FusionGirlLegs Thin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FusionGirlThighs Slim" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FusionGirlThighs Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FusionGirlAnkle Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAnkle Size</Data>
+            <Data name="ShoesAnkle Size" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FusionGirlArms Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FusionGirlShoulder Smooth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FusionGirlShoulder Tweak" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FusionGirlArms Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FusionGirlArmpit Ajustment" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FusionGirlForearms Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FusionGirlTorso Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FusionGirlSturnum Depth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSturnum Depth</Data>
+            <Data name="ShoesSturnum Depth" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FusionGirlSturnum Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSturnum Height</Data>
+            <Data name="ShoesSturnum Height" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FusionGirlGroin Position" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlGroin Position</Data>
+            <Data name="ShoesGroin Position" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FusionGirlGroin Back" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlGroin Back</Data>
+            <Data name="ShoesGroin Back" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Flat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Longer" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="FusionGirlClitoras Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="FusionGirlClitoras Long" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Long" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Wide" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Inner" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Inner</Data>
+            <Data name="ShoesLabia Majora Inner" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FusionGirlAbDefinition" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAbDefinition</Data>
+            <Data name="ShoesAbDefinition" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FusionGirlBody Toning" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBody Toning</Data>
+            <Data name="ShoesBody Toning" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FusionGirlTigerSanBB" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlTigerSanBB</Data>
+            <Data name="ShoesTigerSanBB" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FusionGirlXunAbs" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FusionGirlFFB Fitness 2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FusionGirlAthletic" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAthletic</Data>
+            <Data name="ShoesAthletic" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FusionGirlSeveNBase Bombshell" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSeveNBase Bombshell</Data>
+            <Data name="ShoesSeveNBase Bombshell" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FusionGirlKnee Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FusionGirlShoulder Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FusionGirlHighHeels" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHighHeels</Data>
+            <Data name="ShoesHighHeels" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FusionGirlBodyFat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBodyFat</Data>
+            <Data name="ShoesBodyFat" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FusionGirlLegThin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegThin</Data>
+            <Data name="ShoesLegThin" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FusionGirlHipsNarrow" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipsNarrow</Data>
+            <Data name="ShoesHipsNarrow" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FusionGirlButtGravity" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlButtGravity</Data>
+            <Data name="ShoesButtGravity" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FusionGirlButtThin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlButtThin</Data>
+            <Data name="ShoesButtThin" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FusionGirlHipsForward" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipsForward</Data>
+            <Data name="ShoesHipsForward" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FusionGirlHipRotateForward" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipRotateForward</Data>
+            <Data name="ShoesHipRotateForward" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastArmpitin</Data>
+            <Data name="ShoesBreastArmpitin" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitWide" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastArmpitWide</Data>
+            <Data name="ShoesBreastArmpitWide" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FusionGirlBreastCurve" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastCurve</Data>
+            <Data name="ShoesBreastCurve" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FusionGirlBreastHeight2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastHeight2</Data>
+            <Data name="ShoesBreastHeight2" target="Shoes" local="true">Vtaw Wardrobe 7 Shuten Shoes FG.osd\ShoesBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FusionGirlBreastConcave" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

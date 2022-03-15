@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BodyTalk3-FH-ChildrenofAtom">
+        <DataFolder>BodyTalk3-FarHarbor</DataFolder>
+        <SourceFile>BodyTalk3-FH-ChildrenofAtom.nif</SourceFile>
+        <OutputPath>meshes\DLC03\Clothes\ChildrenofAtom</OutputPath>
+        <OutputFile GenWeights="false">Moutfit</OutputFile>
+        <Shape target="MOutift:0">MOutift:0</Shape>
+        <Shape target="Shoulder_Wrap:0">Shoulder_Wrap:0</Shape>
+        <Slider name="BTBiceps" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTBiceps" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTBiceps</Data>
+        </Slider>
+        <Slider name="BTShoulders" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTShoulders" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTShoulders</Data>
+            <Data name="MOutift:0BTShoulders" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTShoulders</Data>
+        </Slider>
+        <Slider name="BTWaist-In" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTWaist-In" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTWaist-In</Data>
+        </Slider>
+        <Slider name="BTPectorals" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTPectorals" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTPectorals</Data>
+            <Data name="MOutift:0BTPectorals" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTPectorals</Data>
+        </Slider>
+        <Slider name="BTRibcage" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTRibcage" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTRibcage</Data>
+            <Data name="MOutift:0BTRibcage" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTRibcage</Data>
+        </Slider>
+        <Slider name="BTTraps" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTTraps" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTTraps</Data>
+            <Data name="MOutift:0BTTraps" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTTraps</Data>
+        </Slider>
+        <Slider name="BTHips-In" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTHips-In" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTHips-In</Data>
+            <Data name="MOutift:0BTHips-In" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTHips-In</Data>
+        </Slider>
+        <Slider name="BTStomach" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTStomach" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTStomach</Data>
+        </Slider>
+        <Slider name="BTChest" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTChest" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTChest</Data>
+            <Data name="MOutift:0BTChest" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTChest</Data>
+        </Slider>
+        <Slider name="BTBack" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTBack" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTBack</Data>
+            <Data name="MOutift:0BTBack" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTBack</Data>
+        </Slider>
+        <Slider name="BTWaist-Smoothing" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTWaist-Smoothing" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTWaist-Smoothing</Data>
+        </Slider>
+        <Slider name="BTNippleSize" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTNippleSize" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTNippleSize</Data>
+            <Data name="MOutift:0BTNippleSize" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTNippleSize</Data>
+        </Slider>
+        <Slider name="BTStomachSmooth" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTStomachSmooth" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTStomachSmooth</Data>
+        </Slider>
+        <Slider name="BTStomachFat" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTStomachFat" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTStomachFat</Data>
+            <Data name="MOutift:0BTStomachFat" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTStomachFat</Data>
+        </Slider>
+        <Slider name="BTChestSmoothing" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTChestSmoothing" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTChestSmoothing</Data>
+            <Data name="MOutift:0BTChestSmoothing" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTChestSmoothing</Data>
+        </Slider>
+        <Slider name="BTBackArch" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTBackArch" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTBackArch</Data>
+        </Slider>
+        <Slider name="BTAbDefinition" invert="false" default="100">
+            <Data name="Shoulder_Wrap:0BTAbDefinition" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTAbDefinition</Data>
+            <Data name="MOutift:0BTAbDefinition" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTAbDefinition</Data>
+        </Slider>
+        <Slider name="BTForearms" invert="false" default="0">
+            <Data name="Shoulder_Wrap:0BTForearms" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTForearms</Data>
+        </Slider>
+        <Slider name="BTARYAYDA" invert="false" default="0">
+            <Data name="Shoulder_Wrap:0BTARYAYDA" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTARYAYDA</Data>
+            <Data name="MOutift:0BTARYAYDA" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTARYAYDA</Data>
+        </Slider>
+        <Slider name="BTAryaydaMoreMuscular" invert="false" default="0">
+            <Data name="Shoulder_Wrap:0BTAryaydaMoreMuscular" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTAryaydaMoreMuscular</Data>
+            <Data name="MOutift:0BTAryaydaMoreMuscular" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTAryaydaMoreMuscular</Data>
+        </Slider>
+        <Slider name="BTAMShoulderTweaks" invert="false" default="0">
+            <Data name="Shoulder_Wrap:0BTAMShoulderTweaks" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTAMShoulderTweaks</Data>
+        </Slider>
+        <Slider name="BTAMPecAdjust" invert="false" default="0">
+            <Data name="Shoulder_Wrap:0BTAMPecAdjust" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTAMPecAdjust</Data>
+            <Data name="MOutift:0BTAMPecAdjust" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTAMPecAdjust</Data>
+        </Slider>
+        <Slider name="BTElbowAdjust" invert="false" default="0">
+            <Data name="Shoulder_Wrap:0BTElbowAdjust" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTElbowAdjust</Data>
+        </Slider>
+        <Slider name="AryaydaMuscleSlider" invert="false" default="0">
+            <Data name="Shoulder_Wrap:0AryaydaMuscleSlider" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0AryaydaMuscleSlider</Data>
+            <Data name="MOutift:0AryaydaMuscleSlider" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0AryaydaMuscleSlider</Data>
+        </Slider>
+        <Slider name="TigerSanBBMale" invert="false" default="0">
+            <Data name="Shoulder_Wrap:0TigerSanBBMale" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0TigerSanBBMale</Data>
+            <Data name="MOutift:0TigerSanBBMale" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0TigerSanBBMale</Data>
+        </Slider>
+        <Slider name="BTThinArm" invert="false" default="0">
+            <Data name="Shoulder_Wrap:0BTThinArm" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTThinArm</Data>
+            <Data name="MOutift:0BTThinArm" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTThinArm</Data>
+        </Slider>
+        <Slider name="BTChubbyArm" invert="false" default="0">
+            <Data name="Shoulder_Wrap:0BTChubbyArm" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BTChubbyArm</Data>
+            <Data name="MOutift:0BTChubbyArm" target="MOutift:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\MOutift:0BTChubbyArm</Data>
+        </Slider>
+        <Slider name="ThinThigh" invert="false" default="0">
+            <Data name="Shoulder_Wrap:0ThinThigh" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0ThinThigh</Data>
+        </Slider>
+        <Slider name="BT2AdonisBelt" invert="false" default="0">
+            <Data name="Shoulder_Wrap:0BT2AdonisBelt" target="Shoulder_Wrap:0" local="true">BodyTalk3-FH-ChildrenofAtom.osd\Shoulder_Wrap:0BT2AdonisBelt</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

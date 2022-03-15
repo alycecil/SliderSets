@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Top2 FG">
+        <DataFolder>Vtaw Wardrobe 6 Top2 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Top2 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Top2</OutputPath>
+        <OutputFile GenWeights="false">Top2</OutputFile>
+        <Shape target="Metal">Metal</Shape>
+        <Shape target="TR">TR</Shape>
+        <Shape target="main">main</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="TRBelly Pregnant" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="mainBelly Big" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBelly Big</Data>
+            <Data name="TRBelly Big" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBelly Big</Data>
+            <Data name="MetalBelly Big" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="TRBelly Size" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="mainBoobs Yuge" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBoobs Yuge</Data>
+            <Data name="TRBoobs Yuge" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBoobs Yuge</Data>
+            <Data name="MetalBoobs Yuge" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="mainBoobs Big" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBoobs Big</Data>
+            <Data name="TRBoobs Big" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBoobs Big</Data>
+            <Data name="MetalBoobs Big" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="mainBoobs Cleavage" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBoobs Cleavage</Data>
+            <Data name="TRBoobs Cleavage" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBoobs Cleavage</Data>
+            <Data name="MetalBoobs Cleavage" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="mainBoobs Flat" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBoobs Flat</Data>
+            <Data name="TRBoobs Flat" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBoobs Flat</Data>
+            <Data name="MetalBoobs Flat" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="mainBoobs Gravity" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBoobs Gravity</Data>
+            <Data name="TRBoobs Gravity" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBoobs Gravity</Data>
+            <Data name="MetalBoobs Gravity" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="mainBoobs Height" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBoobs Height</Data>
+            <Data name="TRBoobs Height" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBoobs Height</Data>
+            <Data name="MetalBoobs Height" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="mainBoobs Mellons" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBoobs Mellons</Data>
+            <Data name="TRBoobs Mellons" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBoobs Mellons</Data>
+            <Data name="MetalBoobs Mellons" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="mainBoobs Perky" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBoobs Perky</Data>
+            <Data name="TRBoobs Perky" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBoobs Perky</Data>
+            <Data name="MetalBoobs Perky" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="mainBoobs Push Up" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBoobs Push Up</Data>
+            <Data name="TRBoobs Push Up" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBoobs Push Up</Data>
+            <Data name="MetalBoobs Push Up" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="mainBoobs Small" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBoobs Small</Data>
+            <Data name="TRBoobs Small" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBoobs Small</Data>
+            <Data name="MetalBoobs Small" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="mainBoobs Together" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBoobs Together</Data>
+            <Data name="TRBoobs Together" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBoobs Together</Data>
+            <Data name="MetalBoobs Together" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="mainBoobs Top Slope" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBoobs Top Slope</Data>
+            <Data name="TRBoobs Top Slope" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBoobs Top Slope</Data>
+            <Data name="MetalBoobs Top Slope" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="mainBoobs Width" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBoobs Width</Data>
+            <Data name="TRBoobs Width" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBoobs Width</Data>
+            <Data name="MetalBoobs Width" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="mainBoobs Tiny" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBoobs Tiny</Data>
+            <Data name="TRBoobs Tiny" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBoobs Tiny</Data>
+            <Data name="MetalBoobs Tiny" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="mainNipples Distance" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainNipples Distance</Data>
+            <Data name="TRNipples Distance" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRNipples Distance</Data>
+            <Data name="MetalNipples Distance" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="mainNipples Down" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainNipples Down</Data>
+            <Data name="TRNipples Down" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRNipples Down</Data>
+            <Data name="MetalNipples Down" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="mainNipples Perkiness" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainNipples Perkiness</Data>
+            <Data name="TRNipples Perkiness" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRNipples Perkiness</Data>
+            <Data name="MetalNipples Perkiness" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="mainNipples Puffy" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="mainNipples Up" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainNipples Up</Data>
+            <Data name="TRNipples Up" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRNipples Up</Data>
+            <Data name="MetalNipples Up" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="mainChest Depth" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainChest Depth</Data>
+            <Data name="TRChest Depth" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRChest Depth</Data>
+            <Data name="MetalChest Depth" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="mainChest Width" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainChest Width</Data>
+            <Data name="TRChest Width" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRChest Width</Data>
+            <Data name="MetalChest Width" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="mainWaist Chubby" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainWaist Chubby</Data>
+            <Data name="TRWaist Chubby" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRWaist Chubby</Data>
+            <Data name="MetalWaist Chubby" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="mainWaist Size" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainWaist Size</Data>
+            <Data name="TRWaist Size" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRWaist Size</Data>
+            <Data name="MetalWaist Size" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="mainWaist Height" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainWaist Height</Data>
+            <Data name="TRWaist Height" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRWaist Height</Data>
+            <Data name="MetalWaist Height" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="TRWaist Line" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="mainBack Size" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBack Size</Data>
+            <Data name="TRBack Size" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBack Size</Data>
+            <Data name="MetalBack Size" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="mainBack Arch" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBack Arch</Data>
+            <Data name="TRBack Arch" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBack Arch</Data>
+            <Data name="MetalBack Arch" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="TRHips Upper Width" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="mainBum Apple" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBum Apple</Data>
+            <Data name="TRBum Apple" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBum Apple</Data>
+            <Data name="MetalBum Apple" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="mainLegs Chubby" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainLegs Chubby</Data>
+            <Data name="TRLegs Chubby" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRLegs Chubby</Data>
+            <Data name="MetalLegs Chubby" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalLegs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="mainArms Chubby" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainArms Chubby</Data>
+            <Data name="MetalArms Chubby" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="mainShoulder Smooth" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainShoulder Smooth</Data>
+            <Data name="MetalShoulder Smooth" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="mainShoulder Tweak" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainShoulder Tweak</Data>
+            <Data name="MetalShoulder Tweak" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="mainArms Size" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainArms Size</Data>
+            <Data name="TRArms Size" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRArms Size</Data>
+            <Data name="MetalArms Size" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="mainArmpit Ajustment" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainArmpit Ajustment</Data>
+            <Data name="MetalArmpit Ajustment" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="mainTorso Size" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainTorso Size</Data>
+            <Data name="TRTorso Size" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRTorso Size</Data>
+            <Data name="MetalTorso Size" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="mainSturnum Depth" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainSturnum Depth</Data>
+            <Data name="TRSturnum Depth" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRSturnum Depth</Data>
+            <Data name="MetalSturnum Depth" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="mainSturnum Height" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainSturnum Height</Data>
+            <Data name="TRSturnum Height" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRSturnum Height</Data>
+            <Data name="MetalSturnum Height" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="mainGroin Position" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainGroin Position</Data>
+            <Data name="TRGroin Position" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRGroin Position</Data>
+            <Data name="MetalGroin Position" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="mainGroin Back" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainGroin Back</Data>
+            <Data name="TRGroin Back" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRGroin Back</Data>
+            <Data name="MetalGroin Back" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="TRAbDefinition" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="mainBody Toning" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBody Toning</Data>
+            <Data name="TRBody Toning" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBody Toning</Data>
+            <Data name="MetalBody Toning" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="mainTigerSanBB" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainTigerSanBB</Data>
+            <Data name="TRTigerSanBB" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRTigerSanBB</Data>
+            <Data name="MetalTigerSanBB" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="mainXunAbs" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainXunAbs</Data>
+            <Data name="TRXunAbs" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="mainFFB Fitness 2" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainFFB Fitness 2</Data>
+            <Data name="TRFFB Fitness 2" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRFFB Fitness 2</Data>
+            <Data name="MetalFFB Fitness 2" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="mainAthletic" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainAthletic</Data>
+            <Data name="TRAthletic" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRAthletic</Data>
+            <Data name="MetalAthletic" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="mainSeveNBase Bombshell" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainSeveNBase Bombshell</Data>
+            <Data name="TRSeveNBase Bombshell" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRSeveNBase Bombshell</Data>
+            <Data name="MetalSeveNBase Bombshell" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="mainShoulder Width" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainShoulder Width</Data>
+            <Data name="TRShoulder Width" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRShoulder Width</Data>
+            <Data name="MetalShoulder Width" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="mainBodyFat" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBodyFat</Data>
+            <Data name="TRBodyFat" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBodyFat</Data>
+            <Data name="MetalBodyFat" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBodyFat</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="mainButtThin" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainButtThin</Data>
+            <Data name="TRButtThin" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRButtThin</Data>
+            <Data name="MetalButtThin" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalButtThin</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="TRHipRotateForward" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="mainBreastArmpitin" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBreastArmpitin</Data>
+            <Data name="TRBreastArmpitin" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBreastArmpitin</Data>
+            <Data name="MetalBreastArmpitin" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="mainBreastArmpitWide" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBreastArmpitWide</Data>
+            <Data name="TRBreastArmpitWide" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBreastArmpitWide</Data>
+            <Data name="MetalBreastArmpitWide" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="mainBreastCurve" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBreastCurve</Data>
+            <Data name="TRBreastCurve" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBreastCurve</Data>
+            <Data name="MetalBreastCurve" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="mainBreastHeight2" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBreastHeight2</Data>
+            <Data name="TRBreastHeight2" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBreastHeight2</Data>
+            <Data name="MetalBreastHeight2" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="mainBreastConcave" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainBreastConcave</Data>
+            <Data name="TRBreastConcave" target="TR" local="true">Vtaw Wardrobe 6 Top2 FG.osd\TRBreastConcave</Data>
+            <Data name="MetalBreastConcave" target="Metal" local="true">Vtaw Wardrobe 6 Top2 FG.osd\MetalBreastConcave</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="mainNipples Length" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="mainNipples Areola" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="mainNipples Gone" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="mainNipples Shape" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="mainNipples Size" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="mainNipples Tip" target="main" local="true">Vtaw Wardrobe 6 Top2 FG.osd\mainNipples Tip</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

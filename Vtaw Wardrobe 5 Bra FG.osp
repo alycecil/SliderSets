@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Bra FG">
+        <DataFolder>Vtaw Wardrobe 5 Bra FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Bra FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Lingerie</OutputPath>
+        <OutputFile GenWeights="false">Bra</OutputFile>
+        <Shape target="bra">bra</Shape>
+        <Shape target="metal">metal</Shape>
+        <Shape target="trim">trim</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="braBelly Pregnant" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBelly Pregnant</Data>
+            <Data name="trimBelly Pregnant" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="braBelly Big" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBelly Big</Data>
+            <Data name="trimBelly Big" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="braBelly Size" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBelly Size</Data>
+            <Data name="trimBelly Size" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="metalBoobs Yuge" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBoobs Yuge</Data>
+            <Data name="braBoobs Yuge" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBoobs Yuge</Data>
+            <Data name="trimBoobs Yuge" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="metalBoobs Big" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBoobs Big</Data>
+            <Data name="braBoobs Big" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBoobs Big</Data>
+            <Data name="trimBoobs Big" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="metalBoobs Cleavage" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBoobs Cleavage</Data>
+            <Data name="braBoobs Cleavage" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBoobs Cleavage</Data>
+            <Data name="trimBoobs Cleavage" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="metalBoobs Flat" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBoobs Flat</Data>
+            <Data name="braBoobs Flat" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBoobs Flat</Data>
+            <Data name="trimBoobs Flat" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="metalBoobs Gravity" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBoobs Gravity</Data>
+            <Data name="braBoobs Gravity" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBoobs Gravity</Data>
+            <Data name="trimBoobs Gravity" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="metalBoobs Height" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBoobs Height</Data>
+            <Data name="braBoobs Height" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBoobs Height</Data>
+            <Data name="trimBoobs Height" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="metalBoobs Mellons" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBoobs Mellons</Data>
+            <Data name="braBoobs Mellons" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBoobs Mellons</Data>
+            <Data name="trimBoobs Mellons" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="metalBoobs Perky" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBoobs Perky</Data>
+            <Data name="braBoobs Perky" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBoobs Perky</Data>
+            <Data name="trimBoobs Perky" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="metalBoobs Push Up" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBoobs Push Up</Data>
+            <Data name="braBoobs Push Up" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBoobs Push Up</Data>
+            <Data name="trimBoobs Push Up" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="metalBoobs Small" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBoobs Small</Data>
+            <Data name="braBoobs Small" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBoobs Small</Data>
+            <Data name="trimBoobs Small" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="metalBoobs Together" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBoobs Together</Data>
+            <Data name="braBoobs Together" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBoobs Together</Data>
+            <Data name="trimBoobs Together" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="metalBoobs Top Slope" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBoobs Top Slope</Data>
+            <Data name="braBoobs Top Slope" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBoobs Top Slope</Data>
+            <Data name="trimBoobs Top Slope" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="metalBoobs Width" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBoobs Width</Data>
+            <Data name="braBoobs Width" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBoobs Width</Data>
+            <Data name="trimBoobs Width" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="metalBoobs Tiny" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBoobs Tiny</Data>
+            <Data name="braBoobs Tiny" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBoobs Tiny</Data>
+            <Data name="trimBoobs Tiny" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="metalNipples Distance" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalNipples Distance</Data>
+            <Data name="braNipples Distance" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braNipples Distance</Data>
+            <Data name="trimNipples Distance" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="metalNipples Down" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalNipples Down</Data>
+            <Data name="braNipples Down" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braNipples Down</Data>
+            <Data name="trimNipples Down" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="metalNipples Perkiness" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalNipples Perkiness</Data>
+            <Data name="braNipples Perkiness" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braNipples Perkiness</Data>
+            <Data name="trimNipples Perkiness" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="braNipples Puffy" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braNipples Puffy</Data>
+            <Data name="trimNipples Puffy" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="metalNipples Up" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalNipples Up</Data>
+            <Data name="braNipples Up" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braNipples Up</Data>
+            <Data name="trimNipples Up" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="metalChest Depth" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalChest Depth</Data>
+            <Data name="braChest Depth" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braChest Depth</Data>
+            <Data name="trimChest Depth" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="metalChest Width" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalChest Width</Data>
+            <Data name="braChest Width" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braChest Width</Data>
+            <Data name="trimChest Width" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="metalWaist Chubby" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalWaist Chubby</Data>
+            <Data name="braWaist Chubby" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braWaist Chubby</Data>
+            <Data name="trimWaist Chubby" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="braWaist Size" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="metalWaist Height" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalWaist Height</Data>
+            <Data name="braWaist Height" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braWaist Height</Data>
+            <Data name="trimWaist Height" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="braWaist Line" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="metalBack Size" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBack Size</Data>
+            <Data name="braBack Size" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="braBack Arch" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="braHips Upper Width" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="metalBum Apple" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBum Apple</Data>
+            <Data name="braBum Apple" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="braLegs Chubby" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braLegs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="metalArms Chubby" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalArms Chubby</Data>
+            <Data name="braArms Chubby" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braArms Chubby</Data>
+            <Data name="trimArms Chubby" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="braShoulder Smooth" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="metalShoulder Tweak" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalShoulder Tweak</Data>
+            <Data name="braShoulder Tweak" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braShoulder Tweak</Data>
+            <Data name="trimShoulder Tweak" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="metalArms Size" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalArms Size</Data>
+            <Data name="braArms Size" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braArms Size</Data>
+            <Data name="trimArms Size" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="metalArmpit Ajustment" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalArmpit Ajustment</Data>
+            <Data name="braArmpit Ajustment" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braArmpit Ajustment</Data>
+            <Data name="trimArmpit Ajustment" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="metalTorso Size" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalTorso Size</Data>
+            <Data name="braTorso Size" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braTorso Size</Data>
+            <Data name="trimTorso Size" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="braSturnum Depth" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braSturnum Depth</Data>
+            <Data name="trimSturnum Depth" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="metalSturnum Height" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalSturnum Height</Data>
+            <Data name="braSturnum Height" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braSturnum Height</Data>
+            <Data name="trimSturnum Height" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="braGroin Position" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="braGroin Back" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="braAbDefinition" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braAbDefinition</Data>
+            <Data name="trimAbDefinition" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="metalBody Toning" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBody Toning</Data>
+            <Data name="braBody Toning" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBody Toning</Data>
+            <Data name="trimBody Toning" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="metalTigerSanBB" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalTigerSanBB</Data>
+            <Data name="braTigerSanBB" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braTigerSanBB</Data>
+            <Data name="trimTigerSanBB" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="braXunAbs" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braXunAbs</Data>
+            <Data name="trimXunAbs" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="metalFFB Fitness 2" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalFFB Fitness 2</Data>
+            <Data name="braFFB Fitness 2" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braFFB Fitness 2</Data>
+            <Data name="trimFFB Fitness 2" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="metalAthletic" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalAthletic</Data>
+            <Data name="braAthletic" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braAthletic</Data>
+            <Data name="trimAthletic" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="metalSeveNBase Bombshell" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalSeveNBase Bombshell</Data>
+            <Data name="braSeveNBase Bombshell" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braSeveNBase Bombshell</Data>
+            <Data name="trimSeveNBase Bombshell" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="metalShoulder Width" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalShoulder Width</Data>
+            <Data name="braShoulder Width" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braShoulder Width</Data>
+            <Data name="trimShoulder Width" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="metalBodyFat" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBodyFat</Data>
+            <Data name="braBodyFat" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBodyFat</Data>
+            <Data name="trimBodyFat" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBodyFat</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="braButtThin" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braButtThin</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="braHipRotateForward" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="metalBreastArmpitin" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBreastArmpitin</Data>
+            <Data name="braBreastArmpitin" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBreastArmpitin</Data>
+            <Data name="trimBreastArmpitin" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="metalBreastArmpitWide" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBreastArmpitWide</Data>
+            <Data name="braBreastArmpitWide" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBreastArmpitWide</Data>
+            <Data name="trimBreastArmpitWide" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="metalBreastCurve" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBreastCurve</Data>
+            <Data name="braBreastCurve" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBreastCurve</Data>
+            <Data name="trimBreastCurve" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="metalBreastHeight2" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBreastHeight2</Data>
+            <Data name="braBreastHeight2" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBreastHeight2</Data>
+            <Data name="trimBreastHeight2" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="metalBreastConcave" target="metal" local="true">Vtaw Wardrobe 5 Bra FG.osd\metalBreastConcave</Data>
+            <Data name="braBreastConcave" target="bra" local="true">Vtaw Wardrobe 5 Bra FG.osd\braBreastConcave</Data>
+            <Data name="trimBreastConcave" target="trim" local="true">Vtaw Wardrobe 5 Bra FG.osd\trimBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

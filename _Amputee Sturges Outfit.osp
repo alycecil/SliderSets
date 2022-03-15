@@ -1,0 +1,620 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="_Amputee Sturges Outfit">
+        <DataFolder>Amputee</DataFolder>
+        <SourceFile>_Amputee Sturges Outfit.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\Amputee</OutputPath>
+        <OutputFile GenWeights="false">SturgesOutfit</OutputFile>
+        <Shape target="Body">Body</Shape>
+        <Shape target="Charred_Arm_Armwrap" DataFolder="FusionGirl">Charred_Arm_Armwrap</Shape>
+        <Shape target="Charred_BarbedWire_2">Charred_BarbedWire_2</Shape>
+        <Shape target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0">Model002_24_-part1-armbandage.part1-armbandage_0_0_0</Shape>
+        <Shape target="SturgesFBelt_0">SturgesFBelt_0</Shape>
+        <Shape target="SturgesFBelt_1">SturgesFBelt_1</Shape>
+        <Shape target="SturgesFTorso_0">SturgesFTorso_0</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="SturgesFBelt_0Belly Pregnant" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Belly Pregnant</Data>
+            <Data name="SturgesFTorso_0Belly Pregnant" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Belly Pregnant</Data>
+            <Data name="SturgesFBelt_1Belly Pregnant" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Belly Pregnant</Data>
+            <Data name="BodyBelly Pregnant" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="SturgesFBelt_0Belly Big" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Belly Big</Data>
+            <Data name="SturgesFTorso_0Belly Big" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Belly Big</Data>
+            <Data name="SturgesFBelt_1Belly Big" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Belly Big</Data>
+            <Data name="BodyBelly Big" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="SturgesFBelt_0Belly Size" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Belly Size</Data>
+            <Data name="SturgesFTorso_0Belly Size" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Belly Size</Data>
+            <Data name="SturgesFBelt_1Belly Size" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Belly Size</Data>
+            <Data name="BodyBelly Size" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="SturgesFBelt_0Belly Tuck" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Belly Tuck</Data>
+            <Data name="SturgesFTorso_0Belly Tuck" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Belly Tuck</Data>
+            <Data name="SturgesFBelt_1Belly Tuck" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Belly Tuck</Data>
+            <Data name="BodyBelly Tuck" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="SturgesFBelt_0Boobs Yuge" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Boobs Yuge</Data>
+            <Data name="SturgesFTorso_0Boobs Yuge" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Boobs Yuge</Data>
+            <Data name="SturgesFBelt_1Boobs Yuge" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Boobs Yuge</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Yuge" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapBoobs Yuge</Data>
+            <Data name="Charred_BarbedWire_2Boobs Yuge" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Boobs Yuge</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Yuge" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Yuge</Data>
+            <Data name="BodyBoobs Yuge" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="SturgesFBelt_0Boobs Big" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Boobs Big</Data>
+            <Data name="SturgesFTorso_0Boobs Big" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Boobs Big</Data>
+            <Data name="SturgesFBelt_1Boobs Big" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Boobs Big</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Big" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapBoobs Big</Data>
+            <Data name="Charred_BarbedWire_2Boobs Big" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Boobs Big</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Big" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Big</Data>
+            <Data name="BodyBoobs Big" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="SturgesFBelt_0Boobs Cleavage" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Boobs Cleavage</Data>
+            <Data name="SturgesFTorso_0Boobs Cleavage" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Boobs Cleavage</Data>
+            <Data name="BodyBoobs Cleavage" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="SturgesFBelt_0Boobs Flat" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Boobs Flat</Data>
+            <Data name="SturgesFTorso_0Boobs Flat" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Boobs Flat</Data>
+            <Data name="BodyBoobs Flat" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="SturgesFBelt_0Boobs Gravity" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Boobs Gravity</Data>
+            <Data name="SturgesFTorso_0Boobs Gravity" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Boobs Gravity</Data>
+            <Data name="SturgesFBelt_1Boobs Gravity" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Boobs Gravity</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Gravity" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapBoobs Gravity</Data>
+            <Data name="Charred_BarbedWire_2Boobs Gravity" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Boobs Gravity</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Gravity" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Gravity</Data>
+            <Data name="BodyBoobs Gravity" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="SturgesFBelt_0Boobs Height" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Boobs Height</Data>
+            <Data name="SturgesFTorso_0Boobs Height" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Boobs Height</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Height" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Height</Data>
+            <Data name="BodyBoobs Height" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="SturgesFBelt_0Boobs Mellons" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Boobs Mellons</Data>
+            <Data name="SturgesFTorso_0Boobs Mellons" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Boobs Mellons</Data>
+            <Data name="SturgesFBelt_1Boobs Mellons" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Boobs Mellons</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Mellons" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapBoobs Mellons</Data>
+            <Data name="Charred_BarbedWire_2Boobs Mellons" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Boobs Mellons</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Mellons" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Mellons</Data>
+            <Data name="BodyBoobs Mellons" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="SturgesFBelt_0Boobs Perky" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Boobs Perky</Data>
+            <Data name="SturgesFTorso_0Boobs Perky" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Boobs Perky</Data>
+            <Data name="SturgesFBelt_1Boobs Perky" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Boobs Perky</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Perky" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapBoobs Perky</Data>
+            <Data name="Charred_BarbedWire_2Boobs Perky" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Boobs Perky</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Perky" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Perky</Data>
+            <Data name="BodyBoobs Perky" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="SturgesFBelt_0Boobs Push Up" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Boobs Push Up</Data>
+            <Data name="SturgesFTorso_0Boobs Push Up" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Boobs Push Up</Data>
+            <Data name="SturgesFBelt_1Boobs Push Up" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Boobs Push Up</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Push Up" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapBoobs Push Up</Data>
+            <Data name="Charred_BarbedWire_2Boobs Push Up" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Boobs Push Up</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Push Up" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Push Up</Data>
+            <Data name="BodyBoobs Push Up" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="SturgesFBelt_0Boobs Small" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Boobs Small</Data>
+            <Data name="SturgesFTorso_0Boobs Small" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Boobs Small</Data>
+            <Data name="BodyBoobs Small" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="SturgesFBelt_0Boobs Together" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Boobs Together</Data>
+            <Data name="SturgesFTorso_0Boobs Together" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Boobs Together</Data>
+            <Data name="BodyBoobs Together" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="SturgesFBelt_0Boobs Top Slope" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Boobs Top Slope</Data>
+            <Data name="SturgesFTorso_0Boobs Top Slope" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Boobs Top Slope</Data>
+            <Data name="SturgesFBelt_1Boobs Top Slope" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Boobs Top Slope</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Top Slope" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapBoobs Top Slope</Data>
+            <Data name="Charred_BarbedWire_2Boobs Top Slope" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Boobs Top Slope</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Top Slope" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Top Slope</Data>
+            <Data name="BodyBoobs Top Slope" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="SturgesFBelt_0Boobs Width" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Boobs Width</Data>
+            <Data name="SturgesFTorso_0Boobs Width" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Boobs Width</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Width</Data>
+            <Data name="BodyBoobs Width" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="SturgesFBelt_0Boobs Tiny" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Boobs Tiny</Data>
+            <Data name="SturgesFTorso_0Boobs Tiny" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Boobs Tiny</Data>
+            <Data name="SturgesFBelt_1Boobs Tiny" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Boobs Tiny</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Tiny" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapBoobs Tiny</Data>
+            <Data name="Charred_BarbedWire_2Boobs Tiny" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Boobs Tiny</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Tiny" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Tiny</Data>
+            <Data name="BodyBoobs Tiny" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="SturgesFBelt_0Nipples Length" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Nipples Length</Data>
+            <Data name="SturgesFTorso_0Nipples Length" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Nipples Length</Data>
+            <Data name="BodyNipples Length" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="SturgesFBelt_0Nipples Areola" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Nipples Areola</Data>
+            <Data name="SturgesFTorso_0Nipples Areola" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Nipples Areola</Data>
+            <Data name="BodyNipples Areola" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="SturgesFBelt_0Nipples Distance" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Nipples Distance</Data>
+            <Data name="SturgesFTorso_0Nipples Distance" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Nipples Distance</Data>
+            <Data name="BodyNipples Distance" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="SturgesFBelt_0Nipples Down" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Nipples Down</Data>
+            <Data name="SturgesFTorso_0Nipples Down" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Nipples Down</Data>
+            <Data name="BodyNipples Down" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="SturgesFBelt_0Nipples Gone" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Nipples Gone</Data>
+            <Data name="SturgesFTorso_0Nipples Gone" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Nipples Gone</Data>
+            <Data name="BodyNipples Gone" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="SturgesFBelt_0Nipples Shape" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Nipples Shape</Data>
+            <Data name="SturgesFTorso_0Nipples Shape" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Nipples Shape</Data>
+            <Data name="BodyNipples Shape" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="SturgesFBelt_0Nipples Size" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Nipples Size</Data>
+            <Data name="SturgesFTorso_0Nipples Size" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Nipples Size</Data>
+            <Data name="BodyNipples Size" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="SturgesFBelt_0Nipples Perkiness" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Nipples Perkiness</Data>
+            <Data name="SturgesFTorso_0Nipples Perkiness" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Nipples Perkiness</Data>
+            <Data name="BodyNipples Perkiness" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="SturgesFBelt_0Nipples Puffy" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Nipples Puffy</Data>
+            <Data name="SturgesFTorso_0Nipples Puffy" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Nipples Puffy</Data>
+            <Data name="BodyNipples Puffy" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="SturgesFBelt_0Nipples Up" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Nipples Up</Data>
+            <Data name="SturgesFTorso_0Nipples Up" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Nipples Up</Data>
+            <Data name="BodyNipples Up" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyNipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="SturgesFBelt_0Nipples Tip" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Nipples Tip</Data>
+            <Data name="SturgesFTorso_0Nipples Tip" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Nipples Tip</Data>
+            <Data name="BodyNipples Tip" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyNipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="SturgesFBelt_0Chest Depth" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Chest Depth</Data>
+            <Data name="SturgesFTorso_0Chest Depth" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Chest Depth</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Depth" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Depth</Data>
+            <Data name="BodyChest Depth" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="SturgesFBelt_0Chest Width" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Chest Width</Data>
+            <Data name="SturgesFTorso_0Chest Width" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Chest Width</Data>
+            <Data name="SturgesFBelt_1Chest Width" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Chest Width</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Width</Data>
+            <Data name="BodyChest Width" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="SturgesFBelt_0Waist Chubby" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Waist Chubby</Data>
+            <Data name="SturgesFTorso_0Waist Chubby" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Waist Chubby</Data>
+            <Data name="SturgesFBelt_1Waist Chubby" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Waist Chubby</Data>
+            <Data name="BodyWaist Chubby" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="SturgesFBelt_0Waist Size" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Waist Size</Data>
+            <Data name="SturgesFTorso_0Waist Size" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Waist Size</Data>
+            <Data name="SturgesFBelt_1Waist Size" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Waist Size</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Waist Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Waist Size</Data>
+            <Data name="BodyWaist Size" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="SturgesFBelt_0Waist Height" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Waist Height</Data>
+            <Data name="SturgesFTorso_0Waist Height" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Waist Height</Data>
+            <Data name="SturgesFBelt_1Waist Height" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Waist Height</Data>
+            <Data name="BodyWaist Height" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="SturgesFBelt_0Waist Line" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Waist Line</Data>
+            <Data name="SturgesFTorso_0Waist Line" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Waist Line</Data>
+            <Data name="BodyWaist Line" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="SturgesFBelt_0Back Size" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Back Size</Data>
+            <Data name="SturgesFTorso_0Back Size" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Back Size</Data>
+            <Data name="SturgesFBelt_1Back Size" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Back Size</Data>
+            <Data name="BodyBack Size" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="SturgesFBelt_0Back Arch" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Back Arch</Data>
+            <Data name="SturgesFTorso_0Back Arch" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Back Arch</Data>
+            <Data name="SturgesFBelt_1Back Arch" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Back Arch</Data>
+            <Data name="BodyBack Arch" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="SturgesFBelt_0Hips Bone" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Hips Bone</Data>
+            <Data name="SturgesFTorso_0Hips Bone" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Hips Bone</Data>
+            <Data name="SturgesFBelt_1Hips Bone" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Hips Bone</Data>
+            <Data name="BodyHips Bone" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="SturgesFBelt_0Hips Size" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Hips Size</Data>
+            <Data name="SturgesFTorso_0Hips Size" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Hips Size</Data>
+            <Data name="SturgesFBelt_1Hips Size" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Hips Size</Data>
+            <Data name="BodyHips Size" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="SturgesFBelt_0Hips Upper Width" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Hips Upper Width</Data>
+            <Data name="SturgesFTorso_0Hips Upper Width" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Hips Upper Width</Data>
+            <Data name="SturgesFBelt_1Hips Upper Width" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Hips Upper Width</Data>
+            <Data name="BodyHips Upper Width" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="SturgesFBelt_0Bum Size" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Bum Size</Data>
+            <Data name="SturgesFTorso_0Bum Size" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Bum Size</Data>
+            <Data name="SturgesFBelt_1Bum Size" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Bum Size</Data>
+            <Data name="BodyBum Size" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="SturgesFBelt_0Bum Crack" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Bum Crack</Data>
+            <Data name="SturgesFTorso_0Bum Crack" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Bum Crack</Data>
+            <Data name="SturgesFBelt_1Bum Crack" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Bum Crack</Data>
+            <Data name="BodyBum Crack" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="SturgesFBelt_0Bum Shape 1" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Bum Shape 1</Data>
+            <Data name="SturgesFTorso_0Bum Shape 1" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Bum Shape 1</Data>
+            <Data name="SturgesFBelt_1Bum Shape 1" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Bum Shape 1</Data>
+            <Data name="BodyBum Shape 1" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="SturgesFBelt_0Bum Shape 2" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Bum Shape 2</Data>
+            <Data name="SturgesFTorso_0Bum Shape 2" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Bum Shape 2</Data>
+            <Data name="SturgesFBelt_1Bum Shape 2" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Bum Shape 2</Data>
+            <Data name="BodyBum Shape 2" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="SturgesFBelt_0Bum Small" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Bum Small</Data>
+            <Data name="SturgesFTorso_0Bum Small" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Bum Small</Data>
+            <Data name="SturgesFBelt_1Bum Small" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Bum Small</Data>
+            <Data name="BodyBum Small" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="SturgesFBelt_0Bum Chubby" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Bum Chubby</Data>
+            <Data name="SturgesFTorso_0Bum Chubby" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Bum Chubby</Data>
+            <Data name="SturgesFBelt_1Bum Chubby" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Bum Chubby</Data>
+            <Data name="BodyBum Chubby" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="SturgesFBelt_0Bum Round" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Bum Round</Data>
+            <Data name="SturgesFTorso_0Bum Round" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Bum Round</Data>
+            <Data name="SturgesFBelt_1Bum Round" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Bum Round</Data>
+            <Data name="BodyBum Round" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="SturgesFBelt_0Bum Apple" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Bum Apple</Data>
+            <Data name="SturgesFTorso_0Bum Apple" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Bum Apple</Data>
+            <Data name="SturgesFBelt_1Bum Apple" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Bum Apple</Data>
+            <Data name="BodyBum Apple" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="SturgesFTorso_0Calf Size" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Calf Size</Data>
+            <Data name="BodyCalf Size" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="SturgesFTorso_0Calf Small" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Calf Small</Data>
+            <Data name="BodyCalf Small" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="SturgesFBelt_0Legs Chubby" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Legs Chubby</Data>
+            <Data name="SturgesFTorso_0Legs Chubby" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Legs Chubby</Data>
+            <Data name="SturgesFBelt_1Legs Chubby" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Legs Chubby</Data>
+            <Data name="BodyLegs Chubby" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="SturgesFBelt_0Legs Shape" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Legs Shape</Data>
+            <Data name="SturgesFTorso_0Legs Shape" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Legs Shape</Data>
+            <Data name="SturgesFBelt_1Legs Shape" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Legs Shape</Data>
+            <Data name="BodyLegs Shape" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="SturgesFBelt_0Legs Thin" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Legs Thin</Data>
+            <Data name="SturgesFTorso_0Legs Thin" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Legs Thin</Data>
+            <Data name="SturgesFBelt_1Legs Thin" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Legs Thin</Data>
+            <Data name="BodyLegs Thin" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="SturgesFBelt_0Thighs Slim" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Thighs Slim</Data>
+            <Data name="SturgesFTorso_0Thighs Slim" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Thighs Slim</Data>
+            <Data name="SturgesFBelt_1Thighs Slim" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Thighs Slim</Data>
+            <Data name="BodyThighs Slim" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="SturgesFBelt_0Thighs Size" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Thighs Size</Data>
+            <Data name="SturgesFTorso_0Thighs Size" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Thighs Size</Data>
+            <Data name="SturgesFBelt_1Thighs Size" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Thighs Size</Data>
+            <Data name="BodyThighs Size" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="SturgesFTorso_0Ankle Size" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Ankle Size</Data>
+            <Data name="BodyAnkle Size" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="SturgesFBelt_0Arms Chubby" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Arms Chubby</Data>
+            <Data name="SturgesFTorso_0Arms Chubby" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Arms Chubby</Data>
+            <Data name="Charred_Arm_ArmwrapArms Chubby" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapArms Chubby</Data>
+            <Data name="Charred_BarbedWire_2Arms Chubby" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Arms Chubby</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Chubby" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Chubby</Data>
+            <Data name="BodyArms Chubby" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="SturgesFBelt_0Shoulder Smooth" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Shoulder Smooth</Data>
+            <Data name="SturgesFTorso_0Shoulder Smooth" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Shoulder Smooth</Data>
+            <Data name="Charred_Arm_ArmwrapShoulder Smooth" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapShoulder Smooth</Data>
+            <Data name="Charred_BarbedWire_2Shoulder Smooth" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Shoulder Smooth</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Smooth" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Smooth</Data>
+            <Data name="BodyShoulder Smooth" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="SturgesFBelt_0Shoulder Tweak" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Shoulder Tweak</Data>
+            <Data name="SturgesFTorso_0Shoulder Tweak" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Shoulder Tweak</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Tweak" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Tweak</Data>
+            <Data name="BodyShoulder Tweak" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="SturgesFBelt_0Arms Size" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Arms Size</Data>
+            <Data name="SturgesFTorso_0Arms Size" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Arms Size</Data>
+            <Data name="Charred_Arm_ArmwrapArms Size" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapArms Size</Data>
+            <Data name="Charred_BarbedWire_2Arms Size" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Arms Size</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Size</Data>
+            <Data name="BodyArms Size" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="SturgesFBelt_0Armpit Ajustment" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Armpit Ajustment</Data>
+            <Data name="SturgesFTorso_0Armpit Ajustment" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Armpit Ajustment</Data>
+            <Data name="Charred_Arm_ArmwrapArmpit Ajustment" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapArmpit Ajustment</Data>
+            <Data name="Charred_BarbedWire_2Armpit Ajustment" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Armpit Ajustment</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Armpit Ajustment" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Armpit Ajustment</Data>
+            <Data name="BodyArmpit Ajustment" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="SturgesFTorso_0Forearms Size" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Forearms Size</Data>
+            <Data name="Charred_Arm_ArmwrapForearms Size" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapForearms Size</Data>
+            <Data name="Charred_BarbedWire_2Forearms Size" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Forearms Size</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Forearms Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Forearms Size</Data>
+            <Data name="BodyForearms Size" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="SturgesFBelt_0Torso Size" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Torso Size</Data>
+            <Data name="SturgesFTorso_0Torso Size" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Torso Size</Data>
+            <Data name="SturgesFBelt_1Torso Size" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Torso Size</Data>
+            <Data name="Charred_Arm_ArmwrapTorso Size" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapTorso Size</Data>
+            <Data name="Charred_BarbedWire_2Torso Size" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Torso Size</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Torso Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Torso Size</Data>
+            <Data name="BodyTorso Size" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="SturgesFBelt_0Sturnum Depth" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Sturnum Depth</Data>
+            <Data name="SturgesFTorso_0Sturnum Depth" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Sturnum Depth</Data>
+            <Data name="SturgesFBelt_1Sturnum Depth" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Sturnum Depth</Data>
+            <Data name="Charred_Arm_ArmwrapSturnum Depth" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapSturnum Depth</Data>
+            <Data name="Charred_BarbedWire_2Sturnum Depth" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Sturnum Depth</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Depth" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Depth</Data>
+            <Data name="BodySturnum Depth" target="Body" local="true">_Amputee Sturges Outfit.osd\BodySturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="SturgesFBelt_0Sturnum Height" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Sturnum Height</Data>
+            <Data name="SturgesFTorso_0Sturnum Height" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Sturnum Height</Data>
+            <Data name="SturgesFBelt_1Sturnum Height" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Sturnum Height</Data>
+            <Data name="Charred_Arm_ArmwrapSturnum Height" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapSturnum Height</Data>
+            <Data name="Charred_BarbedWire_2Sturnum Height" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Sturnum Height</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Height" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Height</Data>
+            <Data name="BodySturnum Height" target="Body" local="true">_Amputee Sturges Outfit.osd\BodySturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="SturgesFBelt_0Groin Position" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Groin Position</Data>
+            <Data name="SturgesFTorso_0Groin Position" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Groin Position</Data>
+            <Data name="SturgesFBelt_1Groin Position" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Groin Position</Data>
+            <Data name="Charred_Arm_ArmwrapGroin Position" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapGroin Position</Data>
+            <Data name="Charred_BarbedWire_2Groin Position" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Groin Position</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Position" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Position</Data>
+            <Data name="BodyGroin Position" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="SturgesFBelt_0Groin Back" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Groin Back</Data>
+            <Data name="SturgesFTorso_0Groin Back" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Groin Back</Data>
+            <Data name="SturgesFBelt_1Groin Back" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Groin Back</Data>
+            <Data name="Charred_Arm_ArmwrapGroin Back" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapGroin Back</Data>
+            <Data name="Charred_BarbedWire_2Groin Back" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Groin Back</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Back" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Back</Data>
+            <Data name="BodyGroin Back" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="SturgesFTorso_0Labia Minora Flat" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Labia Minora Flat</Data>
+            <Data name="BodyLabia Minora Flat" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="SturgesFTorso_0Labia Minora Longer" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Labia Minora Longer</Data>
+            <Data name="BodyLabia Minora Longer" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="SturgesFTorso_0Clitoras Size" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Clitoras Size</Data>
+            <Data name="BodyClitoras Size" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="BodyClitoras Long" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="SturgesFTorso_0Labia Majora Long" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Labia Majora Long</Data>
+            <Data name="BodyLabia Majora Long" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="SturgesFTorso_0Labia Majora Wide" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Labia Majora Wide</Data>
+            <Data name="BodyLabia Majora Wide" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="BodyLabia Majora Inner" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="SturgesFBelt_0AbDefinition" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0AbDefinition</Data>
+            <Data name="SturgesFTorso_0AbDefinition" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0AbDefinition</Data>
+            <Data name="SturgesFBelt_1AbDefinition" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1AbDefinition</Data>
+            <Data name="BodyAbDefinition" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="SturgesFBelt_0Body Toning" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Body Toning</Data>
+            <Data name="SturgesFTorso_0Body Toning" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Body Toning</Data>
+            <Data name="SturgesFBelt_1Body Toning" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Body Toning</Data>
+            <Data name="Charred_Arm_ArmwrapBody Toning" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapBody Toning</Data>
+            <Data name="Charred_BarbedWire_2Body Toning" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Body Toning</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Body Toning" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Body Toning</Data>
+            <Data name="BodyBody Toning" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="SturgesFBelt_0TigerSanBB" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0TigerSanBB</Data>
+            <Data name="SturgesFTorso_0TigerSanBB" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0TigerSanBB</Data>
+            <Data name="SturgesFBelt_1TigerSanBB" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1TigerSanBB</Data>
+            <Data name="Charred_Arm_ArmwrapTigerSanBB" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapTigerSanBB</Data>
+            <Data name="Charred_BarbedWire_2TigerSanBB" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2TigerSanBB</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0TigerSanBB" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0TigerSanBB</Data>
+            <Data name="BodyTigerSanBB" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="SturgesFBelt_0XunAbs" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0XunAbs</Data>
+            <Data name="SturgesFTorso_0XunAbs" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0XunAbs</Data>
+            <Data name="BodyXunAbs" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="SturgesFBelt_0FFB Fitness 2" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0FFB Fitness 2</Data>
+            <Data name="SturgesFTorso_0FFB Fitness 2" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0FFB Fitness 2</Data>
+            <Data name="SturgesFBelt_1FFB Fitness 2" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1FFB Fitness 2</Data>
+            <Data name="BodyFFB Fitness 2" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="SturgesFBelt_0Athletic" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Athletic</Data>
+            <Data name="SturgesFTorso_0Athletic" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Athletic</Data>
+            <Data name="SturgesFBelt_1Athletic" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Athletic</Data>
+            <Data name="Charred_Arm_ArmwrapAthletic" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapAthletic</Data>
+            <Data name="Charred_BarbedWire_2Athletic" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Athletic</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Athletic" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Athletic</Data>
+            <Data name="BodyAthletic" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="SturgesFBelt_0SeveNBase Bombshell" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0SeveNBase Bombshell</Data>
+            <Data name="SturgesFTorso_0SeveNBase Bombshell" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0SeveNBase Bombshell</Data>
+            <Data name="SturgesFBelt_1SeveNBase Bombshell" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1SeveNBase Bombshell</Data>
+            <Data name="Charred_Arm_ArmwrapSeveNBase Bombshell" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapSeveNBase Bombshell</Data>
+            <Data name="Charred_BarbedWire_2SeveNBase Bombshell" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2SeveNBase Bombshell</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0SeveNBase Bombshell" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0SeveNBase Bombshell</Data>
+            <Data name="BodySeveNBase Bombshell" target="Body" local="true">_Amputee Sturges Outfit.osd\BodySeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="SturgesFTorso_0Knee Height" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Knee Height</Data>
+            <Data name="SturgesFBelt_1Knee Height" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Knee Height</Data>
+            <Data name="BodyKnee Height" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="SturgesFBelt_0Shoulder Width" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0Shoulder Width</Data>
+            <Data name="SturgesFTorso_0Shoulder Width" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0Shoulder Width</Data>
+            <Data name="SturgesFBelt_1Shoulder Width" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1Shoulder Width</Data>
+            <Data name="Charred_Arm_ArmwrapShoulder Width" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapShoulder Width</Data>
+            <Data name="Charred_BarbedWire_2Shoulder Width" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2Shoulder Width</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Width</Data>
+            <Data name="BodyShoulder Width" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="SturgesFTorso_0HighHeels" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0HighHeels</Data>
+            <Data name="BodyHighHeels" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="SturgesFBelt_0BodyFat" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0BodyFat</Data>
+            <Data name="SturgesFTorso_0BodyFat" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0BodyFat</Data>
+            <Data name="SturgesFBelt_1BodyFat" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1BodyFat</Data>
+            <Data name="Charred_Arm_ArmwrapBodyFat" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapBodyFat</Data>
+            <Data name="Charred_BarbedWire_2BodyFat" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2BodyFat</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BodyFat" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BodyFat</Data>
+            <Data name="BodyBodyFat" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="SturgesFBelt_0LegThin" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0LegThin</Data>
+            <Data name="SturgesFTorso_0LegThin" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0LegThin</Data>
+            <Data name="SturgesFBelt_1LegThin" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1LegThin</Data>
+            <Data name="BodyLegThin" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="SturgesFBelt_0HipsNarrow" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0HipsNarrow</Data>
+            <Data name="SturgesFTorso_0HipsNarrow" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0HipsNarrow</Data>
+            <Data name="SturgesFBelt_1HipsNarrow" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1HipsNarrow</Data>
+            <Data name="BodyHipsNarrow" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="SturgesFBelt_0ButtGravity" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0ButtGravity</Data>
+            <Data name="SturgesFTorso_0ButtGravity" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0ButtGravity</Data>
+            <Data name="SturgesFBelt_1ButtGravity" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1ButtGravity</Data>
+            <Data name="BodyButtGravity" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="SturgesFBelt_0ButtThin" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0ButtThin</Data>
+            <Data name="SturgesFTorso_0ButtThin" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0ButtThin</Data>
+            <Data name="SturgesFBelt_1ButtThin" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1ButtThin</Data>
+            <Data name="BodyButtThin" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="SturgesFBelt_0HipsForward" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0HipsForward</Data>
+            <Data name="SturgesFTorso_0HipsForward" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0HipsForward</Data>
+            <Data name="SturgesFBelt_1HipsForward" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1HipsForward</Data>
+            <Data name="BodyHipsForward" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="SturgesFBelt_0HipRotateForward" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0HipRotateForward</Data>
+            <Data name="SturgesFTorso_0HipRotateForward" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0HipRotateForward</Data>
+            <Data name="SturgesFBelt_1HipRotateForward" target="SturgesFBelt_1" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_1HipRotateForward</Data>
+            <Data name="BodyHipRotateForward" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="SturgesFBelt_0BreastArmpitin" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0BreastArmpitin</Data>
+            <Data name="SturgesFTorso_0BreastArmpitin" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0BreastArmpitin</Data>
+            <Data name="Charred_Arm_ArmwrapBreastArmpitin" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapBreastArmpitin</Data>
+            <Data name="Charred_BarbedWire_2BreastArmpitin" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2BreastArmpitin</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitin" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitin</Data>
+            <Data name="BodyBreastArmpitin" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="SturgesFBelt_0BreastArmpitWide" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0BreastArmpitWide</Data>
+            <Data name="SturgesFTorso_0BreastArmpitWide" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0BreastArmpitWide</Data>
+            <Data name="Charred_Arm_ArmwrapBreastArmpitWide" target="Charred_Arm_Armwrap" local="true">_Amputee Sturges Outfit.osd\Charred_Arm_ArmwrapBreastArmpitWide</Data>
+            <Data name="Charred_BarbedWire_2BreastArmpitWide" target="Charred_BarbedWire_2" local="true">_Amputee Sturges Outfit.osd\Charred_BarbedWire_2BreastArmpitWide</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitWide" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitWide</Data>
+            <Data name="BodyBreastArmpitWide" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="SturgesFBelt_0BreastCurve" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0BreastCurve</Data>
+            <Data name="SturgesFTorso_0BreastCurve" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0BreastCurve</Data>
+            <Data name="BodyBreastCurve" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="SturgesFBelt_0BreastHeight2" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0BreastHeight2</Data>
+            <Data name="SturgesFTorso_0BreastHeight2" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0BreastHeight2</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastHeight2" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Sturges Outfit.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastHeight2</Data>
+            <Data name="BodyBreastHeight2" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="SturgesFBelt_0BreastConcave" target="SturgesFBelt_0" local="true">_Amputee Sturges Outfit.osd\SturgesFBelt_0BreastConcave</Data>
+            <Data name="SturgesFTorso_0BreastConcave" target="SturgesFTorso_0" local="true">_Amputee Sturges Outfit.osd\SturgesFTorso_0BreastConcave</Data>
+            <Data name="BodyBreastConcave" target="Body" local="true">_Amputee Sturges Outfit.osd\BodyBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Skirt2 FG">
+        <DataFolder>Vtaw Wardrobe 6 Skirt2 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Skirt2 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Skirt2</OutputPath>
+        <OutputFile GenWeights="false">Skirt2</OutputFile>
+        <Shape target="skirt2">skirt2</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="skirt2Belly Pregnant" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="skirt2Belly Big" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="skirt2Belly Size" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Belly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="skirt2Belly Tuck" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Belly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="skirt2Boobs Yuge" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="skirt2Boobs Big" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="skirt2Boobs Gravity" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="skirt2Boobs Mellons" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="skirt2Boobs Perky" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="skirt2Boobs Push Up" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="skirt2Boobs Top Slope" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="skirt2Boobs Tiny" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="skirt2Chest Width" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="skirt2Waist Chubby" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="skirt2Waist Size" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="skirt2Waist Height" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="skirt2Waist Line" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="skirt2Back Size" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="skirt2Back Arch" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="skirt2Hips Bone" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Hips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="skirt2Hips Size" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Hips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="skirt2Hips Upper Width" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="skirt2Bum Size" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="skirt2Bum Crack" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="skirt2Bum Shape 1" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="skirt2Bum Shape 2" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="skirt2Bum Small" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="skirt2Bum Chubby" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="skirt2Bum Round" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="skirt2Bum Apple" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Bum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="skirt2Legs Chubby" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="skirt2Legs Shape" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="skirt2Legs Thin" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="skirt2Thighs Slim" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="skirt2Thighs Size" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Thighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="skirt2Torso Size" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="skirt2Sturnum Depth" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="skirt2Sturnum Height" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="skirt2Groin Position" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="skirt2Groin Back" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="skirt2AbDefinition" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="skirt2Body Toning" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="skirt2TigerSanBB" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="skirt2XunAbs" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="skirt2FFB Fitness 2" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="skirt2Athletic" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="skirt2SeveNBase Bombshell" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="skirt2Shoulder Width" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2Shoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="skirt2BodyFat" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="skirt2LegThin" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="skirt2HipsNarrow" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="skirt2ButtGravity" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="skirt2ButtThin" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="skirt2HipsForward" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="skirt2HipRotateForward" target="skirt2" local="true">Vtaw Wardrobe 6 Skirt2 FG.osd\skirt2HipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

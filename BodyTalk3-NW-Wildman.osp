@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BodyTalk3-NW-Wildman">
+        <DataFolder>BodyTalk3-NukaWorld</DataFolder>
+        <SourceFile>BodyTalk3-NW-Wildman.nif</SourceFile>
+        <OutputPath>meshes\DLC04\Clothes\Wildman</OutputPath>
+        <OutputFile GenWeights="false">WildManOutfit_M</OutputFile>
+        <Shape target="Body_fitted:0" DataFolder="BodyTalk3">Body_fitted:0</Shape>
+        <Shape target="WildManOutfit_M:0">WildManOutfit_M:0</Shape>
+        <Slider name="BTBiceps" invert="false" default="100">
+            <Data name="Body_fitted:0BTBiceps" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTBiceps</Data>
+            <Data name="WildManOutfit_M:0BTBiceps" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTBiceps</Data>
+        </Slider>
+        <Slider name="BTShoulders" invert="false" default="100">
+            <Data name="Body_fitted:0BTShoulders" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTShoulders</Data>
+            <Data name="WildManOutfit_M:0BTShoulders" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTShoulders</Data>
+        </Slider>
+        <Slider name="BTWaist-In" invert="false" default="100">
+            <Data name="Body_fitted:0BTWaist-In" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTWaist-In</Data>
+            <Data name="WildManOutfit_M:0BTWaist-In" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTWaist-In</Data>
+        </Slider>
+        <Slider name="BTPectorals" invert="false" default="100">
+            <Data name="Body_fitted:0BTPectorals" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTPectorals</Data>
+        </Slider>
+        <Slider name="BTRibcage" invert="false" default="100">
+            <Data name="Body_fitted:0BTRibcage" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTRibcage</Data>
+            <Data name="WildManOutfit_M:0BTRibcage" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTRibcage</Data>
+        </Slider>
+        <Slider name="BTTraps" invert="false" default="100">
+            <Data name="Body_fitted:0BTTraps" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTTraps</Data>
+            <Data name="WildManOutfit_M:0BTTraps" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTTraps</Data>
+        </Slider>
+        <Slider name="BTHips-In" invert="false" default="100">
+            <Data name="Body_fitted:0BTHips-In" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTHips-In</Data>
+            <Data name="WildManOutfit_M:0BTHips-In" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTHips-In</Data>
+        </Slider>
+        <Slider name="BTStomach" invert="false" default="100">
+            <Data name="Body_fitted:0BTStomach" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTStomach</Data>
+            <Data name="WildManOutfit_M:0BTStomach" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTStomach</Data>
+        </Slider>
+        <Slider name="BTChest" invert="false" default="100">
+            <Data name="Body_fitted:0BTChest" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTChest</Data>
+        </Slider>
+        <Slider name="BTButt" invert="false" default="100">
+            <Data name="Body_fitted:0BTButt" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTButt</Data>
+            <Data name="WildManOutfit_M:0BTButt" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTButt</Data>
+        </Slider>
+        <Slider name="BTThigh" invert="false" default="100">
+            <Data name="Body_fitted:0BTThigh" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTThigh</Data>
+            <Data name="WildManOutfit_M:0BTThigh" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTThigh</Data>
+        </Slider>
+        <Slider name="BTCalves" invert="false" default="100">
+            <Data name="Body_fitted:0BTCalves" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTCalves</Data>
+            <Data name="WildManOutfit_M:0BTCalves" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTCalves</Data>
+        </Slider>
+        <Slider name="BTBack" invert="false" default="100">
+            <Data name="Body_fitted:0BTBack" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTBack</Data>
+            <Data name="WildManOutfit_M:0BTBack" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTBack</Data>
+        </Slider>
+        <Slider name="BTWaist-Smoothing" invert="false" default="100">
+            <Data name="Body_fitted:0BTWaist-Smoothing" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTWaist-Smoothing</Data>
+            <Data name="WildManOutfit_M:0BTWaist-Smoothing" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTWaist-Smoothing</Data>
+        </Slider>
+        <Slider name="BTNippleSize" invert="false" default="100">
+            <Data name="Body_fitted:0BTNippleSize" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTNippleSize</Data>
+        </Slider>
+        <Slider name="BTButtWidth" invert="false" default="100">
+            <Data name="Body_fitted:0BTButtWidth" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTButtWidth</Data>
+            <Data name="WildManOutfit_M:0BTButtWidth" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTButtWidth</Data>
+        </Slider>
+        <Slider name="BTFootSize" invert="false" default="100">
+            <Data name="WildManOutfit_M:0BTFootSize" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTFootSize</Data>
+        </Slider>
+        <Slider name="BTStomachSmooth" invert="false" default="100">
+            <Data name="Body_fitted:0BTStomachSmooth" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTStomachSmooth</Data>
+            <Data name="WildManOutfit_M:0BTStomachSmooth" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTStomachSmooth</Data>
+        </Slider>
+        <Slider name="BTStomachFat" invert="false" default="100">
+            <Data name="Body_fitted:0BTStomachFat" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTStomachFat</Data>
+            <Data name="WildManOutfit_M:0BTStomachFat" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTStomachFat</Data>
+        </Slider>
+        <Slider name="BTChestSmoothing" invert="false" default="100">
+            <Data name="Body_fitted:0BTChestSmoothing" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTChestSmoothing</Data>
+        </Slider>
+        <Slider name="BTToeSmaller" invert="false" default="100">
+            <Data name="WildManOutfit_M:0BTToeSmaller" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTToeSmaller</Data>
+        </Slider>
+        <Slider name="BTBackArch" invert="false" default="100">
+            <Data name="Body_fitted:0BTBackArch" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTBackArch</Data>
+            <Data name="WildManOutfit_M:0BTBackArch" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTBackArch</Data>
+        </Slider>
+        <Slider name="BTAbDefinition" invert="false" default="100">
+            <Data name="Body_fitted:0BTAbDefinition" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTAbDefinition</Data>
+            <Data name="WildManOutfit_M:0BTAbDefinition" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTAbDefinition</Data>
+        </Slider>
+        <Slider name="BTForearms" invert="false" default="0">
+            <Data name="Body_fitted:0BTForearms" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTForearms</Data>
+            <Data name="WildManOutfit_M:0BTForearms" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTForearms</Data>
+        </Slider>
+        <Slider name="BTARYAYDA" invert="false" default="0">
+            <Data name="Body_fitted:0BTARYAYDA" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTARYAYDA</Data>
+            <Data name="WildManOutfit_M:0BTARYAYDA" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTARYAYDA</Data>
+        </Slider>
+        <Slider name="BTAryaydaMoreMuscular" invert="false" default="0">
+            <Data name="Body_fitted:0BTAryaydaMoreMuscular" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTAryaydaMoreMuscular</Data>
+            <Data name="WildManOutfit_M:0BTAryaydaMoreMuscular" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTAryaydaMoreMuscular</Data>
+        </Slider>
+        <Slider name="BTAMShoulderTweaks" invert="false" default="0">
+            <Data name="Body_fitted:0BTAMShoulderTweaks" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTAMShoulderTweaks</Data>
+            <Data name="WildManOutfit_M:0BTAMShoulderTweaks" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTAMShoulderTweaks</Data>
+        </Slider>
+        <Slider name="BTAMPecAdjust" invert="false" default="0">
+            <Data name="Body_fitted:0BTAMPecAdjust" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTAMPecAdjust</Data>
+        </Slider>
+        <Slider name="BTAMWaistAdust" invert="false" default="0">
+            <Data name="Body_fitted:0BTAMWaistAdust" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTAMWaistAdust</Data>
+            <Data name="WildManOutfit_M:0BTAMWaistAdust" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTAMWaistAdust</Data>
+        </Slider>
+        <Slider name="BTAMBackAdjust" invert="false" default="0">
+            <Data name="Body_fitted:0BTAMBackAdjust" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTAMBackAdjust</Data>
+            <Data name="WildManOutfit_M:0BTAMBackAdjust" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTAMBackAdjust</Data>
+        </Slider>
+        <Slider name="BTElbowAdjust" invert="false" default="0">
+            <Data name="Body_fitted:0BTElbowAdjust" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTElbowAdjust</Data>
+            <Data name="WildManOutfit_M:0BTElbowAdjust" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTElbowAdjust</Data>
+        </Slider>
+        <Slider name="BTKneeAdust" invert="false" default="0">
+            <Data name="Body_fitted:0BTKneeAdust" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTKneeAdust</Data>
+            <Data name="WildManOutfit_M:0BTKneeAdust" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTKneeAdust</Data>
+        </Slider>
+        <Slider name="BTGrayson" invert="false" default="0">
+            <Data name="Body_fitted:0BTGrayson" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTGrayson</Data>
+            <Data name="WildManOutfit_M:0BTGrayson" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTGrayson</Data>
+        </Slider>
+        <Slider name="BTFlyGrayson" invert="false" default="0">
+            <Data name="Body_fitted:0BTFlyGrayson" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTFlyGrayson</Data>
+            <Data name="WildManOutfit_M:0BTFlyGrayson" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTFlyGrayson</Data>
+        </Slider>
+        <Slider name="AryaydaMuscleSlider" invert="false" default="0">
+            <Data name="Body_fitted:0AryaydaMuscleSlider" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0AryaydaMuscleSlider</Data>
+            <Data name="WildManOutfit_M:0AryaydaMuscleSlider" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0AryaydaMuscleSlider</Data>
+        </Slider>
+        <Slider name="TigerSanBBMale" invert="false" default="0">
+            <Data name="Body_fitted:0TigerSanBBMale" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0TigerSanBBMale</Data>
+            <Data name="WildManOutfit_M:0TigerSanBBMale" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0TigerSanBBMale</Data>
+        </Slider>
+        <Slider name="BTTHinCalf" invert="false" default="0">
+            <Data name="Body_fitted:0BTTHinCalf" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTTHinCalf</Data>
+            <Data name="WildManOutfit_M:0BTTHinCalf" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTTHinCalf</Data>
+        </Slider>
+        <Slider name="BTThinArm" invert="false" default="0">
+            <Data name="Body_fitted:0BTThinArm" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTThinArm</Data>
+            <Data name="WildManOutfit_M:0BTThinArm" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTThinArm</Data>
+        </Slider>
+        <Slider name="BTShinSize" invert="false" default="0">
+            <Data name="Body_fitted:0BTShinSize" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTShinSize</Data>
+            <Data name="WildManOutfit_M:0BTShinSize" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTShinSize</Data>
+        </Slider>
+        <Slider name="BTChubbyArm" invert="false" default="0">
+            <Data name="Body_fitted:0BTChubbyArm" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTChubbyArm</Data>
+            <Data name="WildManOutfit_M:0BTChubbyArm" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTChubbyArm</Data>
+        </Slider>
+        <Slider name="BTChubbyLeg" invert="false" default="0">
+            <Data name="Body_fitted:0BTChubbyLeg" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BTChubbyLeg</Data>
+            <Data name="WildManOutfit_M:0BTChubbyLeg" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BTChubbyLeg</Data>
+        </Slider>
+        <Slider name="ThinThigh" invert="false" default="0">
+            <Data name="Body_fitted:0ThinThigh" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0ThinThigh</Data>
+            <Data name="WildManOutfit_M:0ThinThigh" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0ThinThigh</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="Body_fitted:0Hips" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0Hips</Data>
+            <Data name="WildManOutfit_M:0Hips" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0Hips</Data>
+        </Slider>
+        <Slider name="BT2AdonisBelt" invert="false" default="0">
+            <Data name="Body_fitted:0BT2AdonisBelt" target="Body_fitted:0" local="true">BodyTalk3-NW-Wildman.osd\Body_fitted:0BT2AdonisBelt</Data>
+            <Data name="WildManOutfit_M:0BT2AdonisBelt" target="WildManOutfit_M:0" local="true">BodyTalk3-NW-Wildman.osd\WildManOutfit_M:0BT2AdonisBelt</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

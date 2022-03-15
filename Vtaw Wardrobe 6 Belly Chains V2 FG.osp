@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Belly Chains V2 FG">
+        <DataFolder>Vtaw Wardrobe 6 Belly Chains V2 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Belly Chains V2 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Accessories</OutputPath>
+        <OutputFile GenWeights="false">BellyChainsV2</OutputFile>
+        <Shape target="chain">chain</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="chainBelly Pregnant" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="chainBelly Big" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="chainBelly Size" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="chainBelly Tuck" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="chainBoobs Yuge" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="chainBoobs Big" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="chainBoobs Gravity" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="chainBoobs Mellons" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="chainBoobs Perky" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="chainBoobs Push Up" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="chainBoobs Top Slope" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="chainBoobs Tiny" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="chainChest Width" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="chainWaist Chubby" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="chainWaist Size" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="chainWaist Height" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="chainWaist Line" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="chainBack Size" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="chainBack Arch" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="chainHips Bone" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="chainHips Size" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="chainHips Upper Width" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="chainBum Size" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="chainBum Crack" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="chainBum Shape 1" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="chainBum Shape 2" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="chainBum Small" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="chainBum Chubby" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="chainBum Round" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="chainBum Apple" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="chainLegs Chubby" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="chainLegs Shape" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainLegs Shape</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="chainThighs Slim" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="chainThighs Size" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="chainTorso Size" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="chainSturnum Depth" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="chainSturnum Height" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="chainGroin Position" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="chainGroin Back" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="chainAbDefinition" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="chainBody Toning" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="chainTigerSanBB" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="chainXunAbs" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="chainFFB Fitness 2" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="chainAthletic" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="chainSeveNBase Bombshell" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="chainShoulder Width" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="chainBodyFat" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="chainLegThin" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="chainHipsNarrow" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="chainButtThin" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="chainHipsForward" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="chainHipRotateForward" target="chain" local="true">Vtaw Wardrobe 6 Belly Chains V2 FG.osd\chainHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

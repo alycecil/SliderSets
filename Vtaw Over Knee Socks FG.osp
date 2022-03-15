@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Over Knee Socks FG">
+        <DataFolder>Vtaw Over Knee Socks FG</DataFolder>
+        <SourceFile>Vtaw Over Knee Socks FG.nif</SourceFile>
+        <OutputPath>meshes\wtaw\wardrobe\shorts</OutputPath>
+        <OutputFile GenWeights="false">OverKneeSocks</OutputFile>
+        <Shape target="OverKneeSocks">OverKneeSocks</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="OverKneeSocksBoobs Yuge" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="OverKneeSocksBoobs Big" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="OverKneeSocksBoobs Gravity" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="OverKneeSocksBoobs Mellons" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="OverKneeSocksBoobs Perky" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="OverKneeSocksBoobs Push Up" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="OverKneeSocksBoobs Top Slope" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="OverKneeSocksBoobs Tiny" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="OverKneeSocksBum Size" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBum Size</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="OverKneeSocksBum Shape 1" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="OverKneeSocksBum Small" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="OverKneeSocksBum Chubby" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBum Chubby</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="OverKneeSocksCalf Size" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="OverKneeSocksCalf Small" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="OverKneeSocksLegs Chubby" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="OverKneeSocksLegs Shape" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="OverKneeSocksLegs Thin" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="OverKneeSocksThighs Slim" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="OverKneeSocksThighs Size" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="OverKneeSocksAnkle Size" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksAnkle Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="OverKneeSocksSturnum Depth" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="OverKneeSocksSturnum Height" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="OverKneeSocksGroin Position" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="OverKneeSocksGroin Back" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="OverKneeSocksAbDefinition" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="OverKneeSocksBody Toning" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="OverKneeSocksTigerSanBB" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="OverKneeSocksAthletic" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="OverKneeSocksSeveNBase Bombshell" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="OverKneeSocksKnee Height" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksKnee Height</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="OverKneeSocksHighHeels" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="OverKneeSocksBodyFat" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="OverKneeSocksLegThin" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="OverKneeSocksHipsNarrow" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="OverKneeSocksButtGravity" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="OverKneeSocksButtThin" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="OverKneeSocksHipsForward" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="OverKneeSocksHipRotateForward" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="OverKneeSocksBreastArmpitin" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="OverKneeSocksBreastArmpitWide" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="OverKneeSocksBreastCurve" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="OverKneeSocksBreastHeight2" target="OverKneeSocks" local="true">Vtaw Over Knee Socks FG.osd\OverKneeSocksBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 2B Dress Top FG">
+        <DataFolder>Vtaw Wardrobe 7 2B Dress Top FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 2B Dress Top FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\2BDress</OutputPath>
+        <OutputFile GenWeights="false">2BDressTop</OutputFile>
+        <Shape target="LacesTop">LacesTop</Shape>
+        <Shape target="Top">Top</Shape>
+        <Shape target="TopBackMetal">TopBackMetal</Shape>
+        <Shape target="TopLaces2">TopLaces2</Shape>
+        <Shape target="TopMetal">TopMetal</Shape>
+        <Shape target="TopMetal2">TopMetal2</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="TopBackMetalBelly Pregnant" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalBelly Pregnant</Data>
+            <Data name="TopBelly Pregnant" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="TopLaces2Belly Big" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Belly Big</Data>
+            <Data name="TopBelly Big" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBelly Big</Data>
+            <Data name="TopMetalBelly Big" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBelly Big</Data>
+            <Data name="LacesTopBelly Big" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="TopBackMetalBelly Size" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalBelly Size</Data>
+            <Data name="TopBelly Size" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="TopLaces2Boobs Yuge" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Boobs Yuge</Data>
+            <Data name="TopBoobs Yuge" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBoobs Yuge</Data>
+            <Data name="TopMetalBoobs Yuge" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBoobs Yuge</Data>
+            <Data name="LacesTopBoobs Yuge" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="TopLaces2Boobs Big" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Boobs Big</Data>
+            <Data name="TopBoobs Big" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBoobs Big</Data>
+            <Data name="TopMetalBoobs Big" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBoobs Big</Data>
+            <Data name="LacesTopBoobs Big" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="TopLaces2Boobs Cleavage" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Boobs Cleavage</Data>
+            <Data name="TopBoobs Cleavage" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBoobs Cleavage</Data>
+            <Data name="TopMetalBoobs Cleavage" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBoobs Cleavage</Data>
+            <Data name="LacesTopBoobs Cleavage" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="TopLaces2Boobs Flat" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Boobs Flat</Data>
+            <Data name="TopBoobs Flat" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBoobs Flat</Data>
+            <Data name="TopMetalBoobs Flat" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBoobs Flat</Data>
+            <Data name="LacesTopBoobs Flat" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="TopLaces2Boobs Gravity" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Boobs Gravity</Data>
+            <Data name="TopBoobs Gravity" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBoobs Gravity</Data>
+            <Data name="TopMetalBoobs Gravity" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBoobs Gravity</Data>
+            <Data name="LacesTopBoobs Gravity" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="TopLaces2Boobs Height" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Boobs Height</Data>
+            <Data name="TopBoobs Height" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBoobs Height</Data>
+            <Data name="TopMetalBoobs Height" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBoobs Height</Data>
+            <Data name="LacesTopBoobs Height" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="TopLaces2Boobs Mellons" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Boobs Mellons</Data>
+            <Data name="TopBoobs Mellons" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBoobs Mellons</Data>
+            <Data name="TopMetalBoobs Mellons" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBoobs Mellons</Data>
+            <Data name="LacesTopBoobs Mellons" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="TopLaces2Boobs Perky" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Boobs Perky</Data>
+            <Data name="TopBoobs Perky" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBoobs Perky</Data>
+            <Data name="TopMetalBoobs Perky" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBoobs Perky</Data>
+            <Data name="LacesTopBoobs Perky" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="TopLaces2Boobs Push Up" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Boobs Push Up</Data>
+            <Data name="TopBoobs Push Up" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBoobs Push Up</Data>
+            <Data name="TopMetalBoobs Push Up" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBoobs Push Up</Data>
+            <Data name="LacesTopBoobs Push Up" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="TopLaces2Boobs Small" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Boobs Small</Data>
+            <Data name="TopBoobs Small" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBoobs Small</Data>
+            <Data name="TopMetalBoobs Small" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBoobs Small</Data>
+            <Data name="LacesTopBoobs Small" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="TopLaces2Boobs Together" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Boobs Together</Data>
+            <Data name="TopBoobs Together" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBoobs Together</Data>
+            <Data name="TopMetalBoobs Together" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBoobs Together</Data>
+            <Data name="LacesTopBoobs Together" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="TopLaces2Boobs Top Slope" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Boobs Top Slope</Data>
+            <Data name="TopBoobs Top Slope" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBoobs Top Slope</Data>
+            <Data name="TopMetalBoobs Top Slope" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBoobs Top Slope</Data>
+            <Data name="LacesTopBoobs Top Slope" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="TopLaces2Boobs Width" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Boobs Width</Data>
+            <Data name="TopBoobs Width" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBoobs Width</Data>
+            <Data name="TopMetalBoobs Width" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBoobs Width</Data>
+            <Data name="LacesTopBoobs Width" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="TopLaces2Boobs Tiny" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Boobs Tiny</Data>
+            <Data name="TopBoobs Tiny" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBoobs Tiny</Data>
+            <Data name="TopMetalBoobs Tiny" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBoobs Tiny</Data>
+            <Data name="LacesTopBoobs Tiny" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="TopNipples Length" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="TopNipples Areola" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="TopLaces2Nipples Distance" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Nipples Distance</Data>
+            <Data name="TopNipples Distance" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopNipples Distance</Data>
+            <Data name="TopMetalNipples Distance" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalNipples Distance</Data>
+            <Data name="LacesTopNipples Distance" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="TopLaces2Nipples Down" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Nipples Down</Data>
+            <Data name="TopNipples Down" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="TopNipples Gone" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="TopNipples Shape" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="TopNipples Size" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="TopLaces2Nipples Perkiness" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Nipples Perkiness</Data>
+            <Data name="TopNipples Perkiness" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="TopNipples Puffy" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="TopLaces2Nipples Up" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Nipples Up</Data>
+            <Data name="TopNipples Up" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopNipples Up</Data>
+            <Data name="TopMetalNipples Up" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalNipples Up</Data>
+            <Data name="LacesTopNipples Up" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopNipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="TopNipples Tip" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopNipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="TopLaces2Chest Depth" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Chest Depth</Data>
+            <Data name="TopChest Depth" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopChest Depth</Data>
+            <Data name="TopMetalChest Depth" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalChest Depth</Data>
+            <Data name="LacesTopChest Depth" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="TopChest Width" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="TopBackMetalWaist Chubby" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalWaist Chubby</Data>
+            <Data name="TopWaist Chubby" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="TopBackMetalWaist Size" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalWaist Size</Data>
+            <Data name="TopWaist Size" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="TopBackMetalWaist Height" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalWaist Height</Data>
+            <Data name="TopWaist Height" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="TopWaist Line" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="TopBackMetalBack Size" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalBack Size</Data>
+            <Data name="TopBack Size" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="TopBackMetalBack Arch" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalBack Arch</Data>
+            <Data name="TopBack Arch" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="TopHips Upper Width" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="TopBackMetalBum Shape 2" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalBum Shape 2</Data>
+            <Data name="TopBum Shape 2" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="TopBackMetalBum Chubby" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalBum Chubby</Data>
+            <Data name="TopBum Chubby" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="TopBackMetalBum Apple" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalBum Apple</Data>
+            <Data name="TopBum Apple" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="TopLegs Chubby" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLegs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="TopLaces2Arms Chubby" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Arms Chubby</Data>
+            <Data name="TopArms Chubby" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopArms Chubby</Data>
+            <Data name="TopMetalArms Chubby" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalArms Chubby</Data>
+            <Data name="LacesTopArms Chubby" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="TopShoulder Smooth" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopShoulder Smooth</Data>
+            <Data name="TopMetalShoulder Smooth" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalShoulder Smooth</Data>
+            <Data name="LacesTopShoulder Smooth" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="TopLaces2Shoulder Tweak" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Shoulder Tweak</Data>
+            <Data name="TopShoulder Tweak" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopShoulder Tweak</Data>
+            <Data name="TopMetalShoulder Tweak" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalShoulder Tweak</Data>
+            <Data name="LacesTopShoulder Tweak" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="TopBackMetalArms Size" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalArms Size</Data>
+            <Data name="TopArms Size" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopArms Size</Data>
+            <Data name="TopMetalArms Size" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalArms Size</Data>
+            <Data name="LacesTopArms Size" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="TopArmpit Ajustment" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopArmpit Ajustment</Data>
+            <Data name="TopMetalArmpit Ajustment" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalArmpit Ajustment</Data>
+            <Data name="LacesTopArmpit Ajustment" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="TopBackMetalTorso Size" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalTorso Size</Data>
+            <Data name="TopLaces2Torso Size" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Torso Size</Data>
+            <Data name="TopTorso Size" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopTorso Size</Data>
+            <Data name="TopMetalTorso Size" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalTorso Size</Data>
+            <Data name="LacesTopTorso Size" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="TopLaces2Sturnum Depth" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Sturnum Depth</Data>
+            <Data name="TopSturnum Depth" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopSturnum Depth</Data>
+            <Data name="TopMetalSturnum Depth" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalSturnum Depth</Data>
+            <Data name="LacesTopSturnum Depth" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="TopLaces2Sturnum Height" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Sturnum Height</Data>
+            <Data name="TopSturnum Height" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopSturnum Height</Data>
+            <Data name="TopMetalSturnum Height" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalSturnum Height</Data>
+            <Data name="LacesTopSturnum Height" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="TopGroin Position" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopGroin Position</Data>
+            <Data name="TopMetalGroin Position" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalGroin Position</Data>
+            <Data name="LacesTopGroin Position" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="TopGroin Back" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopGroin Back</Data>
+            <Data name="TopMetalGroin Back" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalGroin Back</Data>
+            <Data name="LacesTopGroin Back" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="TopAbDefinition" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="TopBackMetalBody Toning" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalBody Toning</Data>
+            <Data name="TopLaces2Body Toning" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Body Toning</Data>
+            <Data name="TopBody Toning" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBody Toning</Data>
+            <Data name="TopMetalBody Toning" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBody Toning</Data>
+            <Data name="LacesTopBody Toning" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="TopBackMetalTigerSanBB" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalTigerSanBB</Data>
+            <Data name="TopLaces2TigerSanBB" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2TigerSanBB</Data>
+            <Data name="TopTigerSanBB" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopTigerSanBB</Data>
+            <Data name="TopMetal2TigerSanBB" target="TopMetal2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetal2TigerSanBB</Data>
+            <Data name="TopMetalTigerSanBB" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalTigerSanBB</Data>
+            <Data name="LacesTopTigerSanBB" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="TopXunAbs" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="TopBackMetalFFB Fitness 2" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalFFB Fitness 2</Data>
+            <Data name="TopFFB Fitness 2" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="TopBackMetalAthletic" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalAthletic</Data>
+            <Data name="TopLaces2Athletic" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2Athletic</Data>
+            <Data name="TopAthletic" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopAthletic</Data>
+            <Data name="TopMetalAthletic" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalAthletic</Data>
+            <Data name="LacesTopAthletic" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="TopBackMetalSeveNBase Bombshell" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalSeveNBase Bombshell</Data>
+            <Data name="TopLaces2SeveNBase Bombshell" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2SeveNBase Bombshell</Data>
+            <Data name="TopSeveNBase Bombshell" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopSeveNBase Bombshell</Data>
+            <Data name="TopMetal2SeveNBase Bombshell" target="TopMetal2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetal2SeveNBase Bombshell</Data>
+            <Data name="TopMetalSeveNBase Bombshell" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalSeveNBase Bombshell</Data>
+            <Data name="LacesTopSeveNBase Bombshell" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="TopShoulder Width" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="TopBackMetalBodyFat" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalBodyFat</Data>
+            <Data name="TopLaces2BodyFat" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2BodyFat</Data>
+            <Data name="TopBodyFat" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBodyFat</Data>
+            <Data name="TopMetalBodyFat" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBodyFat</Data>
+            <Data name="LacesTopBodyFat" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBodyFat</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="TopBackMetalButtThin" target="TopBackMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBackMetalButtThin</Data>
+            <Data name="TopButtThin" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopButtThin</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="TopHipRotateForward" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="TopLaces2BreastArmpitin" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2BreastArmpitin</Data>
+            <Data name="TopBreastArmpitin" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="TopLaces2BreastArmpitWide" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2BreastArmpitWide</Data>
+            <Data name="TopBreastArmpitWide" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="TopLaces2BreastCurve" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2BreastCurve</Data>
+            <Data name="TopBreastCurve" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBreastCurve</Data>
+            <Data name="TopMetalBreastCurve" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBreastCurve</Data>
+            <Data name="LacesTopBreastCurve" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="TopLaces2BreastHeight2" target="TopLaces2" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopLaces2BreastHeight2</Data>
+            <Data name="TopBreastHeight2" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBreastHeight2</Data>
+            <Data name="TopMetalBreastHeight2" target="TopMetal" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopMetalBreastHeight2</Data>
+            <Data name="LacesTopBreastHeight2" target="LacesTop" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\LacesTopBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="TopBreastConcave" target="Top" local="true">Vtaw Wardrobe 7 2B Dress Top FG.osd\TopBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

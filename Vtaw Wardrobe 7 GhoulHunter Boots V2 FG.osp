@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 GhoulHunter Boots V2 FG">
+        <DataFolder>Vtaw Wardrobe 7 GhoulHunter Boots V2 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\GhoulHunter</OutputPath>
+        <OutputFile GenWeights="false">GhoulHunterBootsV2</OutputFile>
+        <Shape target="Boots">Boots</Shape>
+        <Shape target="FusionNudeHH" DataFolder="VtawWardrobe7">FusionNudeHH</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Pregnant" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Big" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Tuck" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Yuge" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBoobs Yuge</Data>
+            <Data name="BootsBoobs Yuge" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Big" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBoobs Big</Data>
+            <Data name="BootsBoobs Big" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Cleavage" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Flat" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Gravity" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBoobs Gravity</Data>
+            <Data name="BootsBoobs Gravity" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Mellons" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBoobs Mellons</Data>
+            <Data name="BootsBoobs Mellons" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Perky" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBoobs Perky</Data>
+            <Data name="BootsBoobs Perky" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Push Up" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBoobs Push Up</Data>
+            <Data name="BootsBoobs Push Up" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Small" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Together" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Top Slope" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBoobs Top Slope</Data>
+            <Data name="BootsBoobs Top Slope" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Tiny" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBoobs Tiny</Data>
+            <Data name="BootsBoobs Tiny" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Length" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Areola" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Distance" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Down" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Gone" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHNipples Gone</Data>
+            <Data name="BootsNipples Gone" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Shape" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Perkiness" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Puffy" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Up" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHNipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Tip" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHNipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FusionNudeHHChest Depth" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FusionNudeHHChest Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Line" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FusionNudeHHBack Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FusionNudeHHBack Arch" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FusionNudeHHHips Bone" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FusionNudeHHHips Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHHips Size</Data>
+            <Data name="BootsHips Size" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FusionNudeHHHips Upper Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FusionNudeHHBum Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBum Size</Data>
+            <Data name="BootsBum Size" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FusionNudeHHBum Crack" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FusionNudeHHBum Shape 1" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBum Shape 1</Data>
+            <Data name="BootsBum Shape 1" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FusionNudeHHBum Shape 2" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBum Shape 2</Data>
+            <Data name="BootsBum Shape 2" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FusionNudeHHBum Small" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBum Small</Data>
+            <Data name="BootsBum Small" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHBum Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBum Chubby</Data>
+            <Data name="BootsBum Chubby" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FusionNudeHHBum Round" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FusionNudeHHBum Apple" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBum Apple</Data>
+            <Data name="BootsBum Apple" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FusionNudeHHCalf Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHCalf Size</Data>
+            <Data name="BootsCalf Size" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FusionNudeHHCalf Small" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHCalf Small</Data>
+            <Data name="BootsCalf Small" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHLegs Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHLegs Chubby</Data>
+            <Data name="BootsLegs Chubby" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FusionNudeHHLegs Shape" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHLegs Shape</Data>
+            <Data name="BootsLegs Shape" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FusionNudeHHLegs Thin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHLegs Thin</Data>
+            <Data name="BootsLegs Thin" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FusionNudeHHThighs Slim" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHThighs Slim</Data>
+            <Data name="BootsThighs Slim" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FusionNudeHHThighs Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHThighs Size</Data>
+            <Data name="BootsThighs Size" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FusionNudeHHAnkle Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHAnkle Size</Data>
+            <Data name="BootsAnkle Size" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHArms Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FusionNudeHHShoulder Smooth" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FusionNudeHHShoulder Tweak" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FusionNudeHHArms Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FusionNudeHHArmpit Ajustment" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FusionNudeHHForearms Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FusionNudeHHTorso Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FusionNudeHHSturnum Depth" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHSturnum Depth</Data>
+            <Data name="BootsSturnum Depth" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FusionNudeHHSturnum Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHSturnum Height</Data>
+            <Data name="BootsSturnum Height" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FusionNudeHHGroin Position" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHGroin Position</Data>
+            <Data name="BootsGroin Position" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FusionNudeHHGroin Back" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHGroin Back</Data>
+            <Data name="BootsGroin Back" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Minora Flat" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Minora Longer" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="FusionNudeHHClitoras Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="FusionNudeHHClitoras Long" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Majora Long" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Majora Wide" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Majora Inner" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHLabia Majora Inner</Data>
+            <Data name="BootsLabia Majora Inner" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FusionNudeHHAbDefinition" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHAbDefinition</Data>
+            <Data name="BootsAbDefinition" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FusionNudeHHBody Toning" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBody Toning</Data>
+            <Data name="BootsBody Toning" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FusionNudeHHTigerSanBB" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHTigerSanBB</Data>
+            <Data name="BootsTigerSanBB" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FusionNudeHHXunAbs" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FusionNudeHHFFB Fitness 2" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FusionNudeHHAthletic" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHAthletic</Data>
+            <Data name="BootsAthletic" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FusionNudeHHSeveNBase Bombshell" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHSeveNBase Bombshell</Data>
+            <Data name="BootsSeveNBase Bombshell" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FusionNudeHHKnee Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHKnee Height</Data>
+            <Data name="BootsKnee Height" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FusionNudeHHShoulder Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FusionNudeHHHighHeels" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHHighHeels</Data>
+            <Data name="BootsHighHeels" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FusionNudeHHBodyFat" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBodyFat</Data>
+            <Data name="BootsBodyFat" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FusionNudeHHLegThin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHLegThin</Data>
+            <Data name="BootsLegThin" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FusionNudeHHHipsNarrow" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHHipsNarrow</Data>
+            <Data name="BootsHipsNarrow" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FusionNudeHHButtGravity" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHButtGravity</Data>
+            <Data name="BootsButtGravity" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FusionNudeHHButtThin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHButtThin</Data>
+            <Data name="BootsButtThin" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FusionNudeHHHipsForward" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHHipsForward</Data>
+            <Data name="BootsHipsForward" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FusionNudeHHHipRotateForward" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHHipRotateForward</Data>
+            <Data name="BootsHipRotateForward" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FusionNudeHHBreastArmpitin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBreastArmpitin</Data>
+            <Data name="BootsBreastArmpitin" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FusionNudeHHBreastArmpitWide" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBreastArmpitWide</Data>
+            <Data name="BootsBreastArmpitWide" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FusionNudeHHBreastCurve" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBreastCurve</Data>
+            <Data name="BootsBreastCurve" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FusionNudeHHBreastHeight2" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBreastHeight2</Data>
+            <Data name="BootsBreastHeight2" target="Boots" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\BootsBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FusionNudeHHBreastConcave" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHBreastConcave</Data>
+        </Slider>
+        <Slider name="Zap-Legs" invert="false" default="100" hidden="true" zap="true">
+            <Data name="FusionNudeHHZap-Legs" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 GhoulHunter Boots V2 FG.osd\FusionNudeHHZap-Legs</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw utility ammo FG">
+        <DataFolder>Vtaw utility ammo FG</DataFolder>
+        <SourceFile>Vtaw utility ammo FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\utility1</OutputPath>
+        <OutputFile GenWeights="false">ammo</OutputFile>
+        <Shape target="ammo">ammo</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="ammoBelly Pregnant" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="ammoBelly Big" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="ammoBelly Size" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="ammoBoobs Yuge" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="ammoBoobs Big" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="ammoBoobs Cleavage" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="ammoBoobs Flat" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="ammoBoobs Gravity" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="ammoBoobs Height" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="ammoBoobs Mellons" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="ammoBoobs Perky" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="ammoBoobs Push Up" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="ammoBoobs Small" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="ammoBoobs Together" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="ammoBoobs Top Slope" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="ammoBoobs Width" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="ammoBoobs Tiny" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="ammoNipples Distance" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="ammoNipples Down" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="ammoNipples Perkiness" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="ammoNipples Puffy" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="ammoNipples Up" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="ammoChest Depth" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="ammoChest Width" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="ammoWaist Chubby" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="ammoWaist Size" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="ammoWaist Height" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoWaist Height</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="ammoBack Size" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="ammoBack Arch" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="ammoHips Upper Width" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="ammoBum Apple" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="ammoLegs Chubby" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoLegs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="ammoArms Chubby" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="ammoShoulder Smooth" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="ammoArms Size" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="ammoArmpit Ajustment" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="ammoForearms Size" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="ammoTorso Size" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="ammoSturnum Depth" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="ammoSturnum Height" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="ammoGroin Position" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="ammoGroin Back" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="ammoBody Toning" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="ammoTigerSanBB" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoTigerSanBB</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="ammoFFB Fitness 2" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="ammoAthletic" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="ammoSeveNBase Bombshell" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="ammoShoulder Width" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="ammoBodyFat" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBodyFat</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="ammoButtThin" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoButtThin</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="ammoHipRotateForward" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="ammoBreastArmpitin" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="ammoBreastArmpitWide" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="ammoBreastCurve" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="ammoBreastHeight2" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="ammoBreastConcave" target="ammo" local="true">Vtaw utility ammo FG.osd\ammoBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

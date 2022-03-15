@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Tomb Raider Backpack FG">
+        <DataFolder>Vtaw Wardrobe 6 Tomb Raider Backpack FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Tomb Raider Backpack FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Tomb\Backpack</OutputPath>
+        <OutputFile GenWeights="false">TRBackpack</OutputFile>
+        <Shape target="backpack">backpack</Shape>
+        <Shape target="straps">straps</Shape>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="strapsBelly Big" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBelly Big</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="backpackBoobs Yuge" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackBoobs Yuge</Data>
+            <Data name="strapsBoobs Yuge" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="backpackBoobs Big" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackBoobs Big</Data>
+            <Data name="strapsBoobs Big" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="strapsBoobs Cleavage" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="strapsBoobs Flat" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="backpackBoobs Gravity" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackBoobs Gravity</Data>
+            <Data name="strapsBoobs Gravity" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="strapsBoobs Height" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="backpackBoobs Mellons" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackBoobs Mellons</Data>
+            <Data name="strapsBoobs Mellons" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="backpackBoobs Perky" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackBoobs Perky</Data>
+            <Data name="strapsBoobs Perky" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="backpackBoobs Push Up" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackBoobs Push Up</Data>
+            <Data name="strapsBoobs Push Up" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="strapsBoobs Small" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="strapsBoobs Together" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="backpackBoobs Top Slope" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackBoobs Top Slope</Data>
+            <Data name="strapsBoobs Top Slope" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="strapsBoobs Width" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="backpackBoobs Tiny" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackBoobs Tiny</Data>
+            <Data name="strapsBoobs Tiny" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="strapsNipples Distance" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="strapsNipples Down" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="strapsNipples Perkiness" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="strapsNipples Up" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="strapsChest Depth" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="backpackChest Width" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackChest Width</Data>
+            <Data name="strapsChest Width" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="backpackWaist Chubby" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackWaist Chubby</Data>
+            <Data name="strapsWaist Chubby" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="backpackWaist Size" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackWaist Size</Data>
+            <Data name="strapsWaist Size" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="backpackWaist Height" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackWaist Height</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="backpackBack Size" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackBack Size</Data>
+            <Data name="strapsBack Size" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="backpackBack Arch" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackBack Arch</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="backpackBum Chubby" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="backpackBum Apple" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="backpackLegs Chubby" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackLegs Chubby</Data>
+            <Data name="strapsLegs Chubby" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="backpackArms Chubby" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackArms Chubby</Data>
+            <Data name="strapsArms Chubby" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="backpackShoulder Smooth" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackShoulder Smooth</Data>
+            <Data name="strapsShoulder Smooth" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="backpackShoulder Tweak" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackShoulder Tweak</Data>
+            <Data name="strapsShoulder Tweak" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="backpackArms Size" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackArms Size</Data>
+            <Data name="strapsArms Size" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="backpackArmpit Ajustment" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackArmpit Ajustment</Data>
+            <Data name="strapsArmpit Ajustment" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="backpackTorso Size" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackTorso Size</Data>
+            <Data name="strapsTorso Size" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="backpackSturnum Depth" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackSturnum Depth</Data>
+            <Data name="strapsSturnum Depth" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="backpackSturnum Height" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackSturnum Height</Data>
+            <Data name="strapsSturnum Height" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="backpackGroin Position" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackGroin Position</Data>
+            <Data name="strapsGroin Position" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="backpackGroin Back" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackGroin Back</Data>
+            <Data name="strapsGroin Back" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="backpackBody Toning" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackBody Toning</Data>
+            <Data name="strapsBody Toning" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="backpackTigerSanBB" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackTigerSanBB</Data>
+            <Data name="strapsTigerSanBB" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsTigerSanBB</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="backpackFFB Fitness 2" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackFFB Fitness 2</Data>
+            <Data name="strapsFFB Fitness 2" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="backpackAthletic" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackAthletic</Data>
+            <Data name="strapsAthletic" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="backpackSeveNBase Bombshell" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackSeveNBase Bombshell</Data>
+            <Data name="strapsSeveNBase Bombshell" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="backpackShoulder Width" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackShoulder Width</Data>
+            <Data name="strapsShoulder Width" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="backpackBodyFat" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackBodyFat</Data>
+            <Data name="strapsBodyFat" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBodyFat</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="backpackButtThin" target="backpack" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\backpackButtThin</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="strapsBreastArmpitin" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="strapsBreastArmpitWide" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="strapsBreastCurve" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="strapsBreastHeight2" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="strapsBreastConcave" target="straps" local="true">Vtaw Wardrobe 6 Tomb Raider Backpack FG.osd\strapsBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

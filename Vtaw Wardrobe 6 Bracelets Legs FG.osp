@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Bracelets Legs FG">
+        <DataFolder>Vtaw Wardrobe 6 Bracelets Legs FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Bracelets Legs FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Accessories</OutputPath>
+        <OutputFile GenWeights="false">BraceletsLegs</OutputFile>
+        <Shape target="BraceletsLegs">BraceletsLegs</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="BraceletsLegsBoobs Yuge" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="BraceletsLegsBoobs Big" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="BraceletsLegsBoobs Gravity" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="BraceletsLegsBoobs Mellons" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="BraceletsLegsBoobs Perky" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="BraceletsLegsBoobs Push Up" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="BraceletsLegsBoobs Top Slope" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="BraceletsLegsBoobs Tiny" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="BraceletsLegsCalf Small" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="BraceletsLegsLegs Chubby" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="BraceletsLegsLegs Thin" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsLegs Thin</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="BraceletsLegsAnkle Size" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsAnkle Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="BraceletsLegsSturnum Depth" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="BraceletsLegsSturnum Height" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="BraceletsLegsGroin Position" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="BraceletsLegsGroin Back" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="BraceletsLegsAbDefinition" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="BraceletsLegsBody Toning" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="BraceletsLegsTigerSanBB" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="BraceletsLegsAthletic" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="BraceletsLegsSeveNBase Bombshell" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="BraceletsLegsKnee Height" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsKnee Height</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="BraceletsLegsHighHeels" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="BraceletsLegsBodyFat" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="BraceletsLegsLegThin" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="BraceletsLegsHipsNarrow" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="BraceletsLegsButtGravity" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="BraceletsLegsButtThin" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="BraceletsLegsHipsForward" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="BraceletsLegsHipRotateForward" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="BraceletsLegsBreastArmpitin" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="BraceletsLegsBreastArmpitWide" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="BraceletsLegsBreastCurve" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="BraceletsLegsBreastHeight2" target="BraceletsLegs" local="true">Vtaw Wardrobe 6 Bracelets Legs FG.osd\BraceletsLegsBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

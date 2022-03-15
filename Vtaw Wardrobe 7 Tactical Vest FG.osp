@@ -1,0 +1,917 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Tactical Vest FG">
+        <DataFolder>Vtaw Wardrobe 7 Tactical Vest FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Tactical Vest FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\TacticalVest</OutputPath>
+        <OutputFile GenWeights="false">TacticalVest</OutputFile>
+        <Shape target="Bags">Bags</Shape>
+        <Shape target="Metal Bags">Metal Bags</Shape>
+        <Shape target="Metal Straps Bottom">Metal Straps Bottom</Shape>
+        <Shape target="Metal Straps Mid">Metal Straps Mid</Shape>
+        <Shape target="Metal Straps Side">Metal Straps Side</Shape>
+        <Shape target="Metal Straps Top">Metal Straps Top</Shape>
+        <Shape target="Metal Vest Back">Metal Vest Back</Shape>
+        <Shape target="Metal Vest Bottom">Metal Vest Bottom</Shape>
+        <Shape target="Metal Vest Mid">Metal Vest Mid</Shape>
+        <Shape target="Metal Vest Shoulders">Metal Vest Shoulders</Shape>
+        <Shape target="Side Straps">Side Straps</Shape>
+        <Shape target="Side Straps Bottom">Side Straps Bottom</Shape>
+        <Shape target="Straps Mid">Straps Mid</Shape>
+        <Shape target="Straps Top">Straps Top</Shape>
+        <Shape target="Vest Bottom">Vest Bottom</Shape>
+        <Shape target="Vest Main">Vest Main</Shape>
+        <Shape target="Vest Mid">Vest Mid</Shape>
+        <Shape target="Vest Shoulders">Vest Shoulders</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="BagsBelly Pregnant" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBelly Pregnant</Data>
+            <Data name="Metal BagsBelly Pregnant" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBelly Pregnant</Data>
+            <Data name="Vest BottomBelly Pregnant" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBelly Pregnant</Data>
+            <Data name="Straps MidBelly Pregnant" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBelly Pregnant</Data>
+            <Data name="Vest MainBelly Pregnant" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBelly Pregnant</Data>
+            <Data name="Side StrapsBelly Pregnant" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBelly Pregnant</Data>
+            <Data name="Vest MidBelly Pregnant" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBelly Pregnant</Data>
+            <Data name="Side Straps BottomBelly Pregnant" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBelly Pregnant</Data>
+            <Data name="Metal Straps BottomBelly Pregnant" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBelly Pregnant</Data>
+            <Data name="Metal Vest MidBelly Pregnant" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBelly Pregnant</Data>
+            <Data name="Metal Vest BackBelly Pregnant" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBelly Pregnant</Data>
+            <Data name="Metal Vest BottomBelly Pregnant" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="BagsBelly Big" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBelly Big</Data>
+            <Data name="Metal BagsBelly Big" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBelly Big</Data>
+            <Data name="Vest BottomBelly Big" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBelly Big</Data>
+            <Data name="Straps MidBelly Big" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBelly Big</Data>
+            <Data name="Vest MainBelly Big" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBelly Big</Data>
+            <Data name="Side StrapsBelly Big" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBelly Big</Data>
+            <Data name="Vest MidBelly Big" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBelly Big</Data>
+            <Data name="Straps TopBelly Big" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBelly Big</Data>
+            <Data name="Side Straps BottomBelly Big" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBelly Big</Data>
+            <Data name="Metal Straps BottomBelly Big" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBelly Big</Data>
+            <Data name="Metal Straps TopBelly Big" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBelly Big</Data>
+            <Data name="Metal Vest MidBelly Big" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBelly Big</Data>
+            <Data name="Metal Vest BackBelly Big" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBelly Big</Data>
+            <Data name="Metal Vest BottomBelly Big" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="BagsBelly Size" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBelly Size</Data>
+            <Data name="Metal BagsBelly Size" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBelly Size</Data>
+            <Data name="Vest BottomBelly Size" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBelly Size</Data>
+            <Data name="Straps MidBelly Size" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBelly Size</Data>
+            <Data name="Vest MainBelly Size" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBelly Size</Data>
+            <Data name="Side StrapsBelly Size" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBelly Size</Data>
+            <Data name="Vest MidBelly Size" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBelly Size</Data>
+            <Data name="Side Straps BottomBelly Size" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBelly Size</Data>
+            <Data name="Metal Straps BottomBelly Size" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBelly Size</Data>
+            <Data name="Metal Vest MidBelly Size" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBelly Size</Data>
+            <Data name="Metal Vest BackBelly Size" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBelly Size</Data>
+            <Data name="Metal Vest BottomBelly Size" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="BagsBoobs Yuge" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBoobs Yuge</Data>
+            <Data name="Metal BagsBoobs Yuge" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBoobs Yuge</Data>
+            <Data name="Vest BottomBoobs Yuge" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBoobs Yuge</Data>
+            <Data name="Straps MidBoobs Yuge" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBoobs Yuge</Data>
+            <Data name="Vest MainBoobs Yuge" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBoobs Yuge</Data>
+            <Data name="Side StrapsBoobs Yuge" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBoobs Yuge</Data>
+            <Data name="Vest MidBoobs Yuge" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBoobs Yuge</Data>
+            <Data name="Straps TopBoobs Yuge" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBoobs Yuge</Data>
+            <Data name="Vest ShouldersBoobs Yuge" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersBoobs Yuge</Data>
+            <Data name="Side Straps BottomBoobs Yuge" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBoobs Yuge</Data>
+            <Data name="Metal Vest ShouldersBoobs Yuge" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersBoobs Yuge</Data>
+            <Data name="Metal Straps MidBoobs Yuge" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBoobs Yuge</Data>
+            <Data name="Metal Straps SideBoobs Yuge" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBoobs Yuge</Data>
+            <Data name="Metal Straps BottomBoobs Yuge" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBoobs Yuge</Data>
+            <Data name="Metal Straps TopBoobs Yuge" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBoobs Yuge</Data>
+            <Data name="Metal Vest MidBoobs Yuge" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBoobs Yuge</Data>
+            <Data name="Metal Vest BackBoobs Yuge" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBoobs Yuge</Data>
+            <Data name="Metal Vest BottomBoobs Yuge" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="BagsBoobs Big" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBoobs Big</Data>
+            <Data name="Metal BagsBoobs Big" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBoobs Big</Data>
+            <Data name="Vest BottomBoobs Big" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBoobs Big</Data>
+            <Data name="Straps MidBoobs Big" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBoobs Big</Data>
+            <Data name="Vest MainBoobs Big" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBoobs Big</Data>
+            <Data name="Side StrapsBoobs Big" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBoobs Big</Data>
+            <Data name="Vest MidBoobs Big" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBoobs Big</Data>
+            <Data name="Straps TopBoobs Big" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBoobs Big</Data>
+            <Data name="Vest ShouldersBoobs Big" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersBoobs Big</Data>
+            <Data name="Side Straps BottomBoobs Big" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBoobs Big</Data>
+            <Data name="Metal Vest ShouldersBoobs Big" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersBoobs Big</Data>
+            <Data name="Metal Straps MidBoobs Big" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBoobs Big</Data>
+            <Data name="Metal Straps SideBoobs Big" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBoobs Big</Data>
+            <Data name="Metal Straps BottomBoobs Big" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBoobs Big</Data>
+            <Data name="Metal Straps TopBoobs Big" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBoobs Big</Data>
+            <Data name="Metal Vest MidBoobs Big" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBoobs Big</Data>
+            <Data name="Metal Vest BackBoobs Big" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBoobs Big</Data>
+            <Data name="Metal Vest BottomBoobs Big" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="BagsBoobs Cleavage" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBoobs Cleavage</Data>
+            <Data name="Metal BagsBoobs Cleavage" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBoobs Cleavage</Data>
+            <Data name="Vest BottomBoobs Cleavage" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBoobs Cleavage</Data>
+            <Data name="Straps MidBoobs Cleavage" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBoobs Cleavage</Data>
+            <Data name="Vest MainBoobs Cleavage" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBoobs Cleavage</Data>
+            <Data name="Side StrapsBoobs Cleavage" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBoobs Cleavage</Data>
+            <Data name="Vest MidBoobs Cleavage" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBoobs Cleavage</Data>
+            <Data name="Straps TopBoobs Cleavage" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBoobs Cleavage</Data>
+            <Data name="Metal Straps MidBoobs Cleavage" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBoobs Cleavage</Data>
+            <Data name="Metal Straps SideBoobs Cleavage" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBoobs Cleavage</Data>
+            <Data name="Metal Straps TopBoobs Cleavage" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBoobs Cleavage</Data>
+            <Data name="Metal Vest MidBoobs Cleavage" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBoobs Cleavage</Data>
+            <Data name="Metal Vest BottomBoobs Cleavage" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="BagsBoobs Flat" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBoobs Flat</Data>
+            <Data name="Vest BottomBoobs Flat" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBoobs Flat</Data>
+            <Data name="Straps MidBoobs Flat" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBoobs Flat</Data>
+            <Data name="Vest MainBoobs Flat" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBoobs Flat</Data>
+            <Data name="Side StrapsBoobs Flat" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBoobs Flat</Data>
+            <Data name="Vest MidBoobs Flat" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBoobs Flat</Data>
+            <Data name="Straps TopBoobs Flat" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBoobs Flat</Data>
+            <Data name="Metal Straps MidBoobs Flat" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBoobs Flat</Data>
+            <Data name="Metal Straps SideBoobs Flat" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBoobs Flat</Data>
+            <Data name="Metal Straps TopBoobs Flat" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBoobs Flat</Data>
+            <Data name="Metal Vest MidBoobs Flat" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBoobs Flat</Data>
+            <Data name="Metal Vest BottomBoobs Flat" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="BagsBoobs Gravity" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBoobs Gravity</Data>
+            <Data name="Metal BagsBoobs Gravity" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBoobs Gravity</Data>
+            <Data name="Vest BottomBoobs Gravity" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBoobs Gravity</Data>
+            <Data name="Straps MidBoobs Gravity" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBoobs Gravity</Data>
+            <Data name="Vest MainBoobs Gravity" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBoobs Gravity</Data>
+            <Data name="Side StrapsBoobs Gravity" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBoobs Gravity</Data>
+            <Data name="Vest MidBoobs Gravity" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBoobs Gravity</Data>
+            <Data name="Straps TopBoobs Gravity" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBoobs Gravity</Data>
+            <Data name="Vest ShouldersBoobs Gravity" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersBoobs Gravity</Data>
+            <Data name="Side Straps BottomBoobs Gravity" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBoobs Gravity</Data>
+            <Data name="Metal Vest ShouldersBoobs Gravity" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersBoobs Gravity</Data>
+            <Data name="Metal Straps MidBoobs Gravity" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBoobs Gravity</Data>
+            <Data name="Metal Straps SideBoobs Gravity" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBoobs Gravity</Data>
+            <Data name="Metal Straps BottomBoobs Gravity" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBoobs Gravity</Data>
+            <Data name="Metal Straps TopBoobs Gravity" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBoobs Gravity</Data>
+            <Data name="Metal Vest MidBoobs Gravity" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBoobs Gravity</Data>
+            <Data name="Metal Vest BackBoobs Gravity" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBoobs Gravity</Data>
+            <Data name="Metal Vest BottomBoobs Gravity" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="BagsBoobs Height" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBoobs Height</Data>
+            <Data name="Metal BagsBoobs Height" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBoobs Height</Data>
+            <Data name="Vest BottomBoobs Height" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBoobs Height</Data>
+            <Data name="Straps MidBoobs Height" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBoobs Height</Data>
+            <Data name="Vest MainBoobs Height" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBoobs Height</Data>
+            <Data name="Side StrapsBoobs Height" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBoobs Height</Data>
+            <Data name="Vest MidBoobs Height" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBoobs Height</Data>
+            <Data name="Straps TopBoobs Height" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBoobs Height</Data>
+            <Data name="Metal Straps MidBoobs Height" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBoobs Height</Data>
+            <Data name="Metal Straps SideBoobs Height" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBoobs Height</Data>
+            <Data name="Metal Straps TopBoobs Height" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBoobs Height</Data>
+            <Data name="Metal Vest MidBoobs Height" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBoobs Height</Data>
+            <Data name="Metal Vest BottomBoobs Height" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="BagsBoobs Mellons" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBoobs Mellons</Data>
+            <Data name="Metal BagsBoobs Mellons" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBoobs Mellons</Data>
+            <Data name="Vest BottomBoobs Mellons" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBoobs Mellons</Data>
+            <Data name="Straps MidBoobs Mellons" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBoobs Mellons</Data>
+            <Data name="Vest MainBoobs Mellons" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBoobs Mellons</Data>
+            <Data name="Side StrapsBoobs Mellons" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBoobs Mellons</Data>
+            <Data name="Vest MidBoobs Mellons" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBoobs Mellons</Data>
+            <Data name="Straps TopBoobs Mellons" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBoobs Mellons</Data>
+            <Data name="Vest ShouldersBoobs Mellons" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersBoobs Mellons</Data>
+            <Data name="Side Straps BottomBoobs Mellons" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBoobs Mellons</Data>
+            <Data name="Metal Vest ShouldersBoobs Mellons" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersBoobs Mellons</Data>
+            <Data name="Metal Straps MidBoobs Mellons" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBoobs Mellons</Data>
+            <Data name="Metal Straps SideBoobs Mellons" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBoobs Mellons</Data>
+            <Data name="Metal Straps BottomBoobs Mellons" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBoobs Mellons</Data>
+            <Data name="Metal Straps TopBoobs Mellons" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBoobs Mellons</Data>
+            <Data name="Metal Vest MidBoobs Mellons" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBoobs Mellons</Data>
+            <Data name="Metal Vest BackBoobs Mellons" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBoobs Mellons</Data>
+            <Data name="Metal Vest BottomBoobs Mellons" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="BagsBoobs Perky" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBoobs Perky</Data>
+            <Data name="Metal BagsBoobs Perky" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBoobs Perky</Data>
+            <Data name="Vest BottomBoobs Perky" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBoobs Perky</Data>
+            <Data name="Straps MidBoobs Perky" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBoobs Perky</Data>
+            <Data name="Vest MainBoobs Perky" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBoobs Perky</Data>
+            <Data name="Side StrapsBoobs Perky" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBoobs Perky</Data>
+            <Data name="Vest MidBoobs Perky" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBoobs Perky</Data>
+            <Data name="Straps TopBoobs Perky" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBoobs Perky</Data>
+            <Data name="Vest ShouldersBoobs Perky" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersBoobs Perky</Data>
+            <Data name="Side Straps BottomBoobs Perky" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBoobs Perky</Data>
+            <Data name="Metal Vest ShouldersBoobs Perky" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersBoobs Perky</Data>
+            <Data name="Metal Straps MidBoobs Perky" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBoobs Perky</Data>
+            <Data name="Metal Straps SideBoobs Perky" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBoobs Perky</Data>
+            <Data name="Metal Straps BottomBoobs Perky" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBoobs Perky</Data>
+            <Data name="Metal Straps TopBoobs Perky" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBoobs Perky</Data>
+            <Data name="Metal Vest MidBoobs Perky" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBoobs Perky</Data>
+            <Data name="Metal Vest BackBoobs Perky" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBoobs Perky</Data>
+            <Data name="Metal Vest BottomBoobs Perky" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="BagsBoobs Push Up" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBoobs Push Up</Data>
+            <Data name="Metal BagsBoobs Push Up" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBoobs Push Up</Data>
+            <Data name="Vest BottomBoobs Push Up" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBoobs Push Up</Data>
+            <Data name="Straps MidBoobs Push Up" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBoobs Push Up</Data>
+            <Data name="Vest MainBoobs Push Up" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBoobs Push Up</Data>
+            <Data name="Side StrapsBoobs Push Up" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBoobs Push Up</Data>
+            <Data name="Vest MidBoobs Push Up" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBoobs Push Up</Data>
+            <Data name="Straps TopBoobs Push Up" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBoobs Push Up</Data>
+            <Data name="Vest ShouldersBoobs Push Up" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersBoobs Push Up</Data>
+            <Data name="Side Straps BottomBoobs Push Up" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBoobs Push Up</Data>
+            <Data name="Metal Vest ShouldersBoobs Push Up" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersBoobs Push Up</Data>
+            <Data name="Metal Straps MidBoobs Push Up" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBoobs Push Up</Data>
+            <Data name="Metal Straps SideBoobs Push Up" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBoobs Push Up</Data>
+            <Data name="Metal Straps BottomBoobs Push Up" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBoobs Push Up</Data>
+            <Data name="Metal Straps TopBoobs Push Up" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBoobs Push Up</Data>
+            <Data name="Metal Vest MidBoobs Push Up" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBoobs Push Up</Data>
+            <Data name="Metal Vest BackBoobs Push Up" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBoobs Push Up</Data>
+            <Data name="Metal Vest BottomBoobs Push Up" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="BagsBoobs Small" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBoobs Small</Data>
+            <Data name="Vest BottomBoobs Small" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBoobs Small</Data>
+            <Data name="Straps MidBoobs Small" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBoobs Small</Data>
+            <Data name="Vest MainBoobs Small" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBoobs Small</Data>
+            <Data name="Side StrapsBoobs Small" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBoobs Small</Data>
+            <Data name="Vest MidBoobs Small" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBoobs Small</Data>
+            <Data name="Straps TopBoobs Small" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBoobs Small</Data>
+            <Data name="Metal Straps MidBoobs Small" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBoobs Small</Data>
+            <Data name="Metal Straps SideBoobs Small" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBoobs Small</Data>
+            <Data name="Metal Straps TopBoobs Small" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBoobs Small</Data>
+            <Data name="Metal Vest MidBoobs Small" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBoobs Small</Data>
+            <Data name="Metal Vest BottomBoobs Small" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="BagsBoobs Together" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBoobs Together</Data>
+            <Data name="Metal BagsBoobs Together" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBoobs Together</Data>
+            <Data name="Vest BottomBoobs Together" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBoobs Together</Data>
+            <Data name="Straps MidBoobs Together" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBoobs Together</Data>
+            <Data name="Vest MainBoobs Together" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBoobs Together</Data>
+            <Data name="Side StrapsBoobs Together" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBoobs Together</Data>
+            <Data name="Vest MidBoobs Together" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBoobs Together</Data>
+            <Data name="Straps TopBoobs Together" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBoobs Together</Data>
+            <Data name="Side Straps BottomBoobs Together" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBoobs Together</Data>
+            <Data name="Metal Straps MidBoobs Together" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBoobs Together</Data>
+            <Data name="Metal Straps SideBoobs Together" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBoobs Together</Data>
+            <Data name="Metal Straps TopBoobs Together" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBoobs Together</Data>
+            <Data name="Metal Vest MidBoobs Together" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBoobs Together</Data>
+            <Data name="Metal Vest BackBoobs Together" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBoobs Together</Data>
+            <Data name="Metal Vest BottomBoobs Together" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="BagsBoobs Top Slope" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBoobs Top Slope</Data>
+            <Data name="Metal BagsBoobs Top Slope" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBoobs Top Slope</Data>
+            <Data name="Vest BottomBoobs Top Slope" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBoobs Top Slope</Data>
+            <Data name="Straps MidBoobs Top Slope" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBoobs Top Slope</Data>
+            <Data name="Vest MainBoobs Top Slope" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBoobs Top Slope</Data>
+            <Data name="Side StrapsBoobs Top Slope" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBoobs Top Slope</Data>
+            <Data name="Vest MidBoobs Top Slope" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBoobs Top Slope</Data>
+            <Data name="Straps TopBoobs Top Slope" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBoobs Top Slope</Data>
+            <Data name="Vest ShouldersBoobs Top Slope" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersBoobs Top Slope</Data>
+            <Data name="Side Straps BottomBoobs Top Slope" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBoobs Top Slope</Data>
+            <Data name="Metal Vest ShouldersBoobs Top Slope" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersBoobs Top Slope</Data>
+            <Data name="Metal Straps MidBoobs Top Slope" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBoobs Top Slope</Data>
+            <Data name="Metal Straps SideBoobs Top Slope" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBoobs Top Slope</Data>
+            <Data name="Metal Straps BottomBoobs Top Slope" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBoobs Top Slope</Data>
+            <Data name="Metal Straps TopBoobs Top Slope" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBoobs Top Slope</Data>
+            <Data name="Metal Vest MidBoobs Top Slope" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBoobs Top Slope</Data>
+            <Data name="Metal Vest BackBoobs Top Slope" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBoobs Top Slope</Data>
+            <Data name="Metal Vest BottomBoobs Top Slope" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="BagsBoobs Width" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBoobs Width</Data>
+            <Data name="Vest BottomBoobs Width" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBoobs Width</Data>
+            <Data name="Straps MidBoobs Width" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBoobs Width</Data>
+            <Data name="Vest MainBoobs Width" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBoobs Width</Data>
+            <Data name="Side StrapsBoobs Width" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBoobs Width</Data>
+            <Data name="Vest MidBoobs Width" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBoobs Width</Data>
+            <Data name="Straps TopBoobs Width" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBoobs Width</Data>
+            <Data name="Metal Straps MidBoobs Width" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBoobs Width</Data>
+            <Data name="Metal Straps SideBoobs Width" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBoobs Width</Data>
+            <Data name="Metal Straps TopBoobs Width" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBoobs Width</Data>
+            <Data name="Metal Vest MidBoobs Width" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBoobs Width</Data>
+            <Data name="Metal Vest BottomBoobs Width" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="BagsBoobs Tiny" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBoobs Tiny</Data>
+            <Data name="Metal BagsBoobs Tiny" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBoobs Tiny</Data>
+            <Data name="Vest BottomBoobs Tiny" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBoobs Tiny</Data>
+            <Data name="Straps MidBoobs Tiny" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBoobs Tiny</Data>
+            <Data name="Vest MainBoobs Tiny" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBoobs Tiny</Data>
+            <Data name="Side StrapsBoobs Tiny" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBoobs Tiny</Data>
+            <Data name="Vest MidBoobs Tiny" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBoobs Tiny</Data>
+            <Data name="Straps TopBoobs Tiny" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBoobs Tiny</Data>
+            <Data name="Vest ShouldersBoobs Tiny" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersBoobs Tiny</Data>
+            <Data name="Side Straps BottomBoobs Tiny" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBoobs Tiny</Data>
+            <Data name="Metal Vest ShouldersBoobs Tiny" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersBoobs Tiny</Data>
+            <Data name="Metal Straps MidBoobs Tiny" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBoobs Tiny</Data>
+            <Data name="Metal Straps SideBoobs Tiny" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBoobs Tiny</Data>
+            <Data name="Metal Straps BottomBoobs Tiny" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBoobs Tiny</Data>
+            <Data name="Metal Straps TopBoobs Tiny" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBoobs Tiny</Data>
+            <Data name="Metal Vest MidBoobs Tiny" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBoobs Tiny</Data>
+            <Data name="Metal Vest BackBoobs Tiny" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBoobs Tiny</Data>
+            <Data name="Metal Vest BottomBoobs Tiny" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="BagsNipples Distance" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsNipples Distance</Data>
+            <Data name="Vest BottomNipples Distance" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomNipples Distance</Data>
+            <Data name="Straps MidNipples Distance" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidNipples Distance</Data>
+            <Data name="Vest MainNipples Distance" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainNipples Distance</Data>
+            <Data name="Side StrapsNipples Distance" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsNipples Distance</Data>
+            <Data name="Vest MidNipples Distance" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidNipples Distance</Data>
+            <Data name="Straps TopNipples Distance" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopNipples Distance</Data>
+            <Data name="Side Straps BottomNipples Distance" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomNipples Distance</Data>
+            <Data name="Metal Straps MidNipples Distance" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidNipples Distance</Data>
+            <Data name="Metal Straps SideNipples Distance" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideNipples Distance</Data>
+            <Data name="Metal Straps TopNipples Distance" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopNipples Distance</Data>
+            <Data name="Metal Vest MidNipples Distance" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidNipples Distance</Data>
+            <Data name="Metal Vest BackNipples Distance" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackNipples Distance</Data>
+            <Data name="Metal Vest BottomNipples Distance" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="BagsNipples Down" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsNipples Down</Data>
+            <Data name="Vest BottomNipples Down" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomNipples Down</Data>
+            <Data name="Straps MidNipples Down" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidNipples Down</Data>
+            <Data name="Side StrapsNipples Down" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsNipples Down</Data>
+            <Data name="Vest MidNipples Down" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidNipples Down</Data>
+            <Data name="Metal Straps MidNipples Down" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidNipples Down</Data>
+            <Data name="Metal Straps SideNipples Down" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideNipples Down</Data>
+            <Data name="Metal Vest MidNipples Down" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidNipples Down</Data>
+            <Data name="Metal Vest BottomNipples Down" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="BagsNipples Perkiness" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsNipples Perkiness</Data>
+            <Data name="Vest BottomNipples Perkiness" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomNipples Perkiness</Data>
+            <Data name="Straps MidNipples Perkiness" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidNipples Perkiness</Data>
+            <Data name="Side StrapsNipples Perkiness" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsNipples Perkiness</Data>
+            <Data name="Vest MidNipples Perkiness" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidNipples Perkiness</Data>
+            <Data name="Straps TopNipples Perkiness" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopNipples Perkiness</Data>
+            <Data name="Metal Straps MidNipples Perkiness" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidNipples Perkiness</Data>
+            <Data name="Metal Straps SideNipples Perkiness" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideNipples Perkiness</Data>
+            <Data name="Metal Vest MidNipples Perkiness" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="Straps MidNipples Puffy" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidNipples Puffy</Data>
+            <Data name="Vest MidNipples Puffy" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidNipples Puffy</Data>
+            <Data name="Metal Straps MidNipples Puffy" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="BagsNipples Up" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsNipples Up</Data>
+            <Data name="Vest BottomNipples Up" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomNipples Up</Data>
+            <Data name="Straps MidNipples Up" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidNipples Up</Data>
+            <Data name="Vest MainNipples Up" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainNipples Up</Data>
+            <Data name="Side StrapsNipples Up" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsNipples Up</Data>
+            <Data name="Vest MidNipples Up" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidNipples Up</Data>
+            <Data name="Straps TopNipples Up" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopNipples Up</Data>
+            <Data name="Metal Straps MidNipples Up" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidNipples Up</Data>
+            <Data name="Metal Straps SideNipples Up" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideNipples Up</Data>
+            <Data name="Metal Vest MidNipples Up" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="BagsChest Depth" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsChest Depth</Data>
+            <Data name="Metal BagsChest Depth" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsChest Depth</Data>
+            <Data name="Vest BottomChest Depth" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomChest Depth</Data>
+            <Data name="Straps MidChest Depth" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidChest Depth</Data>
+            <Data name="Vest MainChest Depth" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainChest Depth</Data>
+            <Data name="Side StrapsChest Depth" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsChest Depth</Data>
+            <Data name="Vest MidChest Depth" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidChest Depth</Data>
+            <Data name="Straps TopChest Depth" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopChest Depth</Data>
+            <Data name="Side Straps BottomChest Depth" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomChest Depth</Data>
+            <Data name="Metal Straps MidChest Depth" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidChest Depth</Data>
+            <Data name="Metal Straps SideChest Depth" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideChest Depth</Data>
+            <Data name="Metal Straps BottomChest Depth" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomChest Depth</Data>
+            <Data name="Metal Straps TopChest Depth" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopChest Depth</Data>
+            <Data name="Metal Vest MidChest Depth" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidChest Depth</Data>
+            <Data name="Metal Vest BottomChest Depth" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="BagsChest Width" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsChest Width</Data>
+            <Data name="Metal BagsChest Width" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsChest Width</Data>
+            <Data name="Vest BottomChest Width" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomChest Width</Data>
+            <Data name="Straps MidChest Width" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidChest Width</Data>
+            <Data name="Vest MainChest Width" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainChest Width</Data>
+            <Data name="Side StrapsChest Width" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsChest Width</Data>
+            <Data name="Vest MidChest Width" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidChest Width</Data>
+            <Data name="Side Straps BottomChest Width" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomChest Width</Data>
+            <Data name="Metal Straps SideChest Width" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideChest Width</Data>
+            <Data name="Metal Straps BottomChest Width" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="BagsWaist Chubby" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsWaist Chubby</Data>
+            <Data name="Metal BagsWaist Chubby" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsWaist Chubby</Data>
+            <Data name="Vest BottomWaist Chubby" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomWaist Chubby</Data>
+            <Data name="Straps MidWaist Chubby" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidWaist Chubby</Data>
+            <Data name="Vest MainWaist Chubby" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainWaist Chubby</Data>
+            <Data name="Side StrapsWaist Chubby" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsWaist Chubby</Data>
+            <Data name="Vest MidWaist Chubby" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidWaist Chubby</Data>
+            <Data name="Side Straps BottomWaist Chubby" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomWaist Chubby</Data>
+            <Data name="Metal Straps BottomWaist Chubby" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomWaist Chubby</Data>
+            <Data name="Metal Vest MidWaist Chubby" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidWaist Chubby</Data>
+            <Data name="Metal Vest BackWaist Chubby" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackWaist Chubby</Data>
+            <Data name="Metal Vest BottomWaist Chubby" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="BagsWaist Size" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsWaist Size</Data>
+            <Data name="Metal BagsWaist Size" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsWaist Size</Data>
+            <Data name="Vest BottomWaist Size" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomWaist Size</Data>
+            <Data name="Straps MidWaist Size" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidWaist Size</Data>
+            <Data name="Vest MainWaist Size" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainWaist Size</Data>
+            <Data name="Side StrapsWaist Size" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsWaist Size</Data>
+            <Data name="Vest MidWaist Size" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidWaist Size</Data>
+            <Data name="Side Straps BottomWaist Size" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomWaist Size</Data>
+            <Data name="Metal Straps SideWaist Size" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideWaist Size</Data>
+            <Data name="Metal Straps BottomWaist Size" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomWaist Size</Data>
+            <Data name="Metal Vest BackWaist Size" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackWaist Size</Data>
+            <Data name="Metal Vest BottomWaist Size" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="BagsWaist Height" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsWaist Height</Data>
+            <Data name="Metal BagsWaist Height" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsWaist Height</Data>
+            <Data name="Vest BottomWaist Height" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomWaist Height</Data>
+            <Data name="Straps MidWaist Height" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidWaist Height</Data>
+            <Data name="Vest MainWaist Height" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainWaist Height</Data>
+            <Data name="Side StrapsWaist Height" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsWaist Height</Data>
+            <Data name="Vest MidWaist Height" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidWaist Height</Data>
+            <Data name="Side Straps BottomWaist Height" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomWaist Height</Data>
+            <Data name="Metal Straps BottomWaist Height" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomWaist Height</Data>
+            <Data name="Metal Vest MidWaist Height" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidWaist Height</Data>
+            <Data name="Metal Vest BackWaist Height" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackWaist Height</Data>
+            <Data name="Metal Vest BottomWaist Height" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="BagsWaist Line" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsWaist Line</Data>
+            <Data name="Metal BagsWaist Line" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsWaist Line</Data>
+            <Data name="Vest BottomWaist Line" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomWaist Line</Data>
+            <Data name="Vest MainWaist Line" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainWaist Line</Data>
+            <Data name="Side StrapsWaist Line" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsWaist Line</Data>
+            <Data name="Side Straps BottomWaist Line" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomWaist Line</Data>
+            <Data name="Metal Straps BottomWaist Line" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="BagsBack Size" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBack Size</Data>
+            <Data name="Vest BottomBack Size" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBack Size</Data>
+            <Data name="Vest MainBack Size" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBack Size</Data>
+            <Data name="Side StrapsBack Size" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBack Size</Data>
+            <Data name="Vest ShouldersBack Size" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersBack Size</Data>
+            <Data name="Side Straps BottomBack Size" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBack Size</Data>
+            <Data name="Metal Straps BottomBack Size" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBack Size</Data>
+            <Data name="Metal Vest BackBack Size" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="Vest MainBack Arch" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBack Arch</Data>
+            <Data name="Side StrapsBack Arch" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBack Arch</Data>
+            <Data name="Side Straps BottomBack Arch" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBack Arch</Data>
+            <Data name="Metal Straps BottomBack Arch" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBack Arch</Data>
+            <Data name="Metal Vest BackBack Arch" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="BagsHips Bone" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsHips Bone</Data>
+            <Data name="Metal BagsHips Bone" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsHips Bone</Data>
+            <Data name="Vest BottomHips Bone" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomHips Bone</Data>
+            <Data name="Side Straps BottomHips Bone" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="BagsHips Size" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsHips Size</Data>
+            <Data name="Vest BottomHips Size" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="BagsHips Upper Width" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsHips Upper Width</Data>
+            <Data name="Metal BagsHips Upper Width" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsHips Upper Width</Data>
+            <Data name="Vest BottomHips Upper Width" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomHips Upper Width</Data>
+            <Data name="Vest MainHips Upper Width" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainHips Upper Width</Data>
+            <Data name="Side StrapsHips Upper Width" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsHips Upper Width</Data>
+            <Data name="Side Straps BottomHips Upper Width" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomHips Upper Width</Data>
+            <Data name="Metal Straps BottomHips Upper Width" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="BagsBum Size" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBum Size</Data>
+            <Data name="Vest BottomBum Size" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBum Size</Data>
+            <Data name="Vest MainBum Size" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBum Size</Data>
+            <Data name="Side Straps BottomBum Size" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBum Size</Data>
+            <Data name="Metal Straps BottomBum Size" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBum Size</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="BagsBum Shape 1" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBum Shape 1</Data>
+            <Data name="Vest BottomBum Shape 1" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="BagsBum Shape 2" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBum Shape 2</Data>
+            <Data name="Metal BagsBum Shape 2" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBum Shape 2</Data>
+            <Data name="Vest BottomBum Shape 2" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBum Shape 2</Data>
+            <Data name="Vest MainBum Shape 2" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBum Shape 2</Data>
+            <Data name="Side StrapsBum Shape 2" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBum Shape 2</Data>
+            <Data name="Vest MidBum Shape 2" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBum Shape 2</Data>
+            <Data name="Side Straps BottomBum Shape 2" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBum Shape 2</Data>
+            <Data name="Metal Straps BottomBum Shape 2" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBum Shape 2</Data>
+            <Data name="Metal Vest BackBum Shape 2" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="BagsBum Small" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBum Small</Data>
+            <Data name="Vest BottomBum Small" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBum Small</Data>
+            <Data name="Side Straps BottomBum Small" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBum Small</Data>
+            <Data name="Metal Straps BottomBum Small" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="BagsBum Chubby" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBum Chubby</Data>
+            <Data name="Metal BagsBum Chubby" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBum Chubby</Data>
+            <Data name="Vest BottomBum Chubby" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBum Chubby</Data>
+            <Data name="Vest MainBum Chubby" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBum Chubby</Data>
+            <Data name="Side StrapsBum Chubby" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBum Chubby</Data>
+            <Data name="Side Straps BottomBum Chubby" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBum Chubby</Data>
+            <Data name="Metal Straps BottomBum Chubby" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBum Chubby</Data>
+            <Data name="Metal Vest BackBum Chubby" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="BagsBum Apple" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBum Apple</Data>
+            <Data name="Metal BagsBum Apple" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBum Apple</Data>
+            <Data name="Vest BottomBum Apple" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBum Apple</Data>
+            <Data name="Vest MainBum Apple" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBum Apple</Data>
+            <Data name="Side Straps BottomBum Apple" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBum Apple</Data>
+            <Data name="Metal Vest BackBum Apple" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="BagsLegs Chubby" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsLegs Chubby</Data>
+            <Data name="Vest BottomLegs Chubby" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomLegs Chubby</Data>
+            <Data name="Vest MainLegs Chubby" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainLegs Chubby</Data>
+            <Data name="Side Straps BottomLegs Chubby" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomLegs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="Straps MidArms Chubby" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidArms Chubby</Data>
+            <Data name="Vest MainArms Chubby" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainArms Chubby</Data>
+            <Data name="Side StrapsArms Chubby" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsArms Chubby</Data>
+            <Data name="Straps TopArms Chubby" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopArms Chubby</Data>
+            <Data name="Vest ShouldersArms Chubby" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersArms Chubby</Data>
+            <Data name="Metal Vest ShouldersArms Chubby" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersArms Chubby</Data>
+            <Data name="Metal Straps SideArms Chubby" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideArms Chubby</Data>
+            <Data name="Metal Straps TopArms Chubby" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="Vest MainShoulder Smooth" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainShoulder Smooth</Data>
+            <Data name="Side StrapsShoulder Smooth" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsShoulder Smooth</Data>
+            <Data name="Straps TopShoulder Smooth" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopShoulder Smooth</Data>
+            <Data name="Vest ShouldersShoulder Smooth" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersShoulder Smooth</Data>
+            <Data name="Metal Vest ShouldersShoulder Smooth" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersShoulder Smooth</Data>
+            <Data name="Metal Straps TopShoulder Smooth" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="Straps MidShoulder Tweak" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidShoulder Tweak</Data>
+            <Data name="Vest MainShoulder Tweak" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainShoulder Tweak</Data>
+            <Data name="Side StrapsShoulder Tweak" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsShoulder Tweak</Data>
+            <Data name="Straps TopShoulder Tweak" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopShoulder Tweak</Data>
+            <Data name="Vest ShouldersShoulder Tweak" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersShoulder Tweak</Data>
+            <Data name="Metal Vest ShouldersShoulder Tweak" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersShoulder Tweak</Data>
+            <Data name="Metal Straps TopShoulder Tweak" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="Straps MidArms Size" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidArms Size</Data>
+            <Data name="Vest MainArms Size" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainArms Size</Data>
+            <Data name="Side StrapsArms Size" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsArms Size</Data>
+            <Data name="Straps TopArms Size" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopArms Size</Data>
+            <Data name="Vest ShouldersArms Size" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersArms Size</Data>
+            <Data name="Metal Vest ShouldersArms Size" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersArms Size</Data>
+            <Data name="Metal Straps TopArms Size" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopArms Size</Data>
+            <Data name="Metal Vest BackArms Size" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="Straps MidArmpit Ajustment" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidArmpit Ajustment</Data>
+            <Data name="Vest MainArmpit Ajustment" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainArmpit Ajustment</Data>
+            <Data name="Side StrapsArmpit Ajustment" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsArmpit Ajustment</Data>
+            <Data name="Straps TopArmpit Ajustment" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopArmpit Ajustment</Data>
+            <Data name="Vest ShouldersArmpit Ajustment" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersArmpit Ajustment</Data>
+            <Data name="Metal Vest ShouldersArmpit Ajustment" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersArmpit Ajustment</Data>
+            <Data name="Metal Straps SideArmpit Ajustment" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideArmpit Ajustment</Data>
+            <Data name="Metal Straps TopArmpit Ajustment" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="BagsTorso Size" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsTorso Size</Data>
+            <Data name="Metal BagsTorso Size" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsTorso Size</Data>
+            <Data name="Vest BottomTorso Size" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomTorso Size</Data>
+            <Data name="Straps MidTorso Size" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidTorso Size</Data>
+            <Data name="Vest MainTorso Size" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainTorso Size</Data>
+            <Data name="Side StrapsTorso Size" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsTorso Size</Data>
+            <Data name="Vest MidTorso Size" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidTorso Size</Data>
+            <Data name="Straps TopTorso Size" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopTorso Size</Data>
+            <Data name="Vest ShouldersTorso Size" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersTorso Size</Data>
+            <Data name="Side Straps BottomTorso Size" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomTorso Size</Data>
+            <Data name="Metal Vest ShouldersTorso Size" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersTorso Size</Data>
+            <Data name="Metal Straps MidTorso Size" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidTorso Size</Data>
+            <Data name="Metal Straps SideTorso Size" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideTorso Size</Data>
+            <Data name="Metal Straps BottomTorso Size" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomTorso Size</Data>
+            <Data name="Metal Straps TopTorso Size" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopTorso Size</Data>
+            <Data name="Metal Vest MidTorso Size" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidTorso Size</Data>
+            <Data name="Metal Vest BackTorso Size" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackTorso Size</Data>
+            <Data name="Metal Vest BottomTorso Size" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="BagsSturnum Depth" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsSturnum Depth</Data>
+            <Data name="Metal BagsSturnum Depth" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsSturnum Depth</Data>
+            <Data name="Vest BottomSturnum Depth" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomSturnum Depth</Data>
+            <Data name="Straps MidSturnum Depth" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidSturnum Depth</Data>
+            <Data name="Vest MainSturnum Depth" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainSturnum Depth</Data>
+            <Data name="Side StrapsSturnum Depth" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsSturnum Depth</Data>
+            <Data name="Vest MidSturnum Depth" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidSturnum Depth</Data>
+            <Data name="Straps TopSturnum Depth" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopSturnum Depth</Data>
+            <Data name="Vest ShouldersSturnum Depth" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersSturnum Depth</Data>
+            <Data name="Side Straps BottomSturnum Depth" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomSturnum Depth</Data>
+            <Data name="Metal Vest ShouldersSturnum Depth" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersSturnum Depth</Data>
+            <Data name="Metal Straps MidSturnum Depth" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidSturnum Depth</Data>
+            <Data name="Metal Straps BottomSturnum Depth" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomSturnum Depth</Data>
+            <Data name="Metal Straps TopSturnum Depth" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopSturnum Depth</Data>
+            <Data name="Metal Vest MidSturnum Depth" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidSturnum Depth</Data>
+            <Data name="Metal Vest BackSturnum Depth" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackSturnum Depth</Data>
+            <Data name="Metal Vest BottomSturnum Depth" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="BagsSturnum Height" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsSturnum Height</Data>
+            <Data name="Metal BagsSturnum Height" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsSturnum Height</Data>
+            <Data name="Vest BottomSturnum Height" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomSturnum Height</Data>
+            <Data name="Straps MidSturnum Height" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidSturnum Height</Data>
+            <Data name="Vest MainSturnum Height" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainSturnum Height</Data>
+            <Data name="Side StrapsSturnum Height" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsSturnum Height</Data>
+            <Data name="Vest MidSturnum Height" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidSturnum Height</Data>
+            <Data name="Straps TopSturnum Height" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopSturnum Height</Data>
+            <Data name="Vest ShouldersSturnum Height" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersSturnum Height</Data>
+            <Data name="Side Straps BottomSturnum Height" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomSturnum Height</Data>
+            <Data name="Metal Vest ShouldersSturnum Height" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersSturnum Height</Data>
+            <Data name="Metal Straps MidSturnum Height" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidSturnum Height</Data>
+            <Data name="Metal Straps BottomSturnum Height" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomSturnum Height</Data>
+            <Data name="Metal Straps TopSturnum Height" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopSturnum Height</Data>
+            <Data name="Metal Vest MidSturnum Height" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidSturnum Height</Data>
+            <Data name="Metal Vest BackSturnum Height" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackSturnum Height</Data>
+            <Data name="Metal Vest BottomSturnum Height" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="BagsGroin Position" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsGroin Position</Data>
+            <Data name="Metal BagsGroin Position" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsGroin Position</Data>
+            <Data name="Vest BottomGroin Position" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomGroin Position</Data>
+            <Data name="Vest MainGroin Position" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainGroin Position</Data>
+            <Data name="Side StrapsGroin Position" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsGroin Position</Data>
+            <Data name="Straps TopGroin Position" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopGroin Position</Data>
+            <Data name="Vest ShouldersGroin Position" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersGroin Position</Data>
+            <Data name="Side Straps BottomGroin Position" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomGroin Position</Data>
+            <Data name="Metal Vest ShouldersGroin Position" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersGroin Position</Data>
+            <Data name="Metal Straps BottomGroin Position" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomGroin Position</Data>
+            <Data name="Metal Straps TopGroin Position" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopGroin Position</Data>
+            <Data name="Metal Vest BackGroin Position" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="BagsGroin Back" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsGroin Back</Data>
+            <Data name="Metal BagsGroin Back" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsGroin Back</Data>
+            <Data name="Vest BottomGroin Back" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomGroin Back</Data>
+            <Data name="Vest MainGroin Back" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainGroin Back</Data>
+            <Data name="Side StrapsGroin Back" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsGroin Back</Data>
+            <Data name="Straps TopGroin Back" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopGroin Back</Data>
+            <Data name="Vest ShouldersGroin Back" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersGroin Back</Data>
+            <Data name="Side Straps BottomGroin Back" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomGroin Back</Data>
+            <Data name="Metal Vest ShouldersGroin Back" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersGroin Back</Data>
+            <Data name="Metal Straps BottomGroin Back" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomGroin Back</Data>
+            <Data name="Metal Straps TopGroin Back" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopGroin Back</Data>
+            <Data name="Metal Vest BackGroin Back" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="BagsAbDefinition" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsAbDefinition</Data>
+            <Data name="Metal BagsAbDefinition" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsAbDefinition</Data>
+            <Data name="Vest BottomAbDefinition" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomAbDefinition</Data>
+            <Data name="Straps MidAbDefinition" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidAbDefinition</Data>
+            <Data name="Side StrapsAbDefinition" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsAbDefinition</Data>
+            <Data name="Vest MidAbDefinition" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidAbDefinition</Data>
+            <Data name="Side Straps BottomAbDefinition" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomAbDefinition</Data>
+            <Data name="Metal Vest MidAbDefinition" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidAbDefinition</Data>
+            <Data name="Metal Vest BottomAbDefinition" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="BagsBody Toning" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBody Toning</Data>
+            <Data name="Metal BagsBody Toning" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBody Toning</Data>
+            <Data name="Vest BottomBody Toning" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBody Toning</Data>
+            <Data name="Straps MidBody Toning" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBody Toning</Data>
+            <Data name="Vest MainBody Toning" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBody Toning</Data>
+            <Data name="Side StrapsBody Toning" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBody Toning</Data>
+            <Data name="Vest MidBody Toning" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBody Toning</Data>
+            <Data name="Straps TopBody Toning" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBody Toning</Data>
+            <Data name="Vest ShouldersBody Toning" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersBody Toning</Data>
+            <Data name="Side Straps BottomBody Toning" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBody Toning</Data>
+            <Data name="Metal Vest ShouldersBody Toning" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersBody Toning</Data>
+            <Data name="Metal Straps MidBody Toning" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBody Toning</Data>
+            <Data name="Metal Straps SideBody Toning" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBody Toning</Data>
+            <Data name="Metal Straps BottomBody Toning" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBody Toning</Data>
+            <Data name="Metal Straps TopBody Toning" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBody Toning</Data>
+            <Data name="Metal Vest MidBody Toning" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBody Toning</Data>
+            <Data name="Metal Vest BackBody Toning" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBody Toning</Data>
+            <Data name="Metal Vest BottomBody Toning" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="BagsTigerSanBB" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsTigerSanBB</Data>
+            <Data name="Metal BagsTigerSanBB" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsTigerSanBB</Data>
+            <Data name="Vest BottomTigerSanBB" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomTigerSanBB</Data>
+            <Data name="Straps MidTigerSanBB" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidTigerSanBB</Data>
+            <Data name="Vest MainTigerSanBB" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainTigerSanBB</Data>
+            <Data name="Side StrapsTigerSanBB" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsTigerSanBB</Data>
+            <Data name="Vest MidTigerSanBB" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidTigerSanBB</Data>
+            <Data name="Straps TopTigerSanBB" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopTigerSanBB</Data>
+            <Data name="Vest ShouldersTigerSanBB" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersTigerSanBB</Data>
+            <Data name="Side Straps BottomTigerSanBB" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomTigerSanBB</Data>
+            <Data name="Metal Vest ShouldersTigerSanBB" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersTigerSanBB</Data>
+            <Data name="Metal Straps MidTigerSanBB" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidTigerSanBB</Data>
+            <Data name="Metal Straps SideTigerSanBB" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideTigerSanBB</Data>
+            <Data name="Metal Straps BottomTigerSanBB" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomTigerSanBB</Data>
+            <Data name="Metal Straps TopTigerSanBB" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopTigerSanBB</Data>
+            <Data name="Metal Vest MidTigerSanBB" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidTigerSanBB</Data>
+            <Data name="Metal Vest BackTigerSanBB" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackTigerSanBB</Data>
+            <Data name="Metal Vest BottomTigerSanBB" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="BagsXunAbs" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsXunAbs</Data>
+            <Data name="Metal BagsXunAbs" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsXunAbs</Data>
+            <Data name="Vest BottomXunAbs" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomXunAbs</Data>
+            <Data name="Straps MidXunAbs" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidXunAbs</Data>
+            <Data name="Vest MidXunAbs" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidXunAbs</Data>
+            <Data name="Side Straps BottomXunAbs" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomXunAbs</Data>
+            <Data name="Metal Straps BottomXunAbs" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomXunAbs</Data>
+            <Data name="Metal Vest MidXunAbs" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidXunAbs</Data>
+            <Data name="Metal Vest BottomXunAbs" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="BagsFFB Fitness 2" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsFFB Fitness 2</Data>
+            <Data name="Metal BagsFFB Fitness 2" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsFFB Fitness 2</Data>
+            <Data name="Vest BottomFFB Fitness 2" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomFFB Fitness 2</Data>
+            <Data name="Straps MidFFB Fitness 2" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidFFB Fitness 2</Data>
+            <Data name="Vest MainFFB Fitness 2" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainFFB Fitness 2</Data>
+            <Data name="Side StrapsFFB Fitness 2" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsFFB Fitness 2</Data>
+            <Data name="Vest MidFFB Fitness 2" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidFFB Fitness 2</Data>
+            <Data name="Side Straps BottomFFB Fitness 2" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomFFB Fitness 2</Data>
+            <Data name="Metal Straps BottomFFB Fitness 2" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomFFB Fitness 2</Data>
+            <Data name="Metal Vest MidFFB Fitness 2" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidFFB Fitness 2</Data>
+            <Data name="Metal Vest BackFFB Fitness 2" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackFFB Fitness 2</Data>
+            <Data name="Metal Vest BottomFFB Fitness 2" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="BagsAthletic" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsAthletic</Data>
+            <Data name="Metal BagsAthletic" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsAthletic</Data>
+            <Data name="Vest BottomAthletic" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomAthletic</Data>
+            <Data name="Straps MidAthletic" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidAthletic</Data>
+            <Data name="Vest MainAthletic" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainAthletic</Data>
+            <Data name="Side StrapsAthletic" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsAthletic</Data>
+            <Data name="Vest MidAthletic" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidAthletic</Data>
+            <Data name="Straps TopAthletic" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopAthletic</Data>
+            <Data name="Vest ShouldersAthletic" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersAthletic</Data>
+            <Data name="Side Straps BottomAthletic" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomAthletic</Data>
+            <Data name="Metal Vest ShouldersAthletic" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersAthletic</Data>
+            <Data name="Metal Straps MidAthletic" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidAthletic</Data>
+            <Data name="Metal Straps SideAthletic" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideAthletic</Data>
+            <Data name="Metal Straps BottomAthletic" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomAthletic</Data>
+            <Data name="Metal Straps TopAthletic" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopAthletic</Data>
+            <Data name="Metal Vest MidAthletic" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidAthletic</Data>
+            <Data name="Metal Vest BackAthletic" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackAthletic</Data>
+            <Data name="Metal Vest BottomAthletic" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="BagsSeveNBase Bombshell" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsSeveNBase Bombshell</Data>
+            <Data name="Metal BagsSeveNBase Bombshell" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsSeveNBase Bombshell</Data>
+            <Data name="Vest BottomSeveNBase Bombshell" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomSeveNBase Bombshell</Data>
+            <Data name="Straps MidSeveNBase Bombshell" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidSeveNBase Bombshell</Data>
+            <Data name="Vest MainSeveNBase Bombshell" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainSeveNBase Bombshell</Data>
+            <Data name="Side StrapsSeveNBase Bombshell" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsSeveNBase Bombshell</Data>
+            <Data name="Vest MidSeveNBase Bombshell" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidSeveNBase Bombshell</Data>
+            <Data name="Straps TopSeveNBase Bombshell" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopSeveNBase Bombshell</Data>
+            <Data name="Vest ShouldersSeveNBase Bombshell" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersSeveNBase Bombshell</Data>
+            <Data name="Side Straps BottomSeveNBase Bombshell" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomSeveNBase Bombshell</Data>
+            <Data name="Metal Vest ShouldersSeveNBase Bombshell" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersSeveNBase Bombshell</Data>
+            <Data name="Metal Straps MidSeveNBase Bombshell" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidSeveNBase Bombshell</Data>
+            <Data name="Metal Straps SideSeveNBase Bombshell" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideSeveNBase Bombshell</Data>
+            <Data name="Metal Straps BottomSeveNBase Bombshell" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomSeveNBase Bombshell</Data>
+            <Data name="Metal Straps TopSeveNBase Bombshell" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopSeveNBase Bombshell</Data>
+            <Data name="Metal Vest MidSeveNBase Bombshell" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidSeveNBase Bombshell</Data>
+            <Data name="Metal Vest BackSeveNBase Bombshell" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackSeveNBase Bombshell</Data>
+            <Data name="Metal Vest BottomSeveNBase Bombshell" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="BagsShoulder Width" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsShoulder Width</Data>
+            <Data name="Metal BagsShoulder Width" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsShoulder Width</Data>
+            <Data name="Vest BottomShoulder Width" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomShoulder Width</Data>
+            <Data name="Straps MidShoulder Width" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidShoulder Width</Data>
+            <Data name="Vest MainShoulder Width" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainShoulder Width</Data>
+            <Data name="Side StrapsShoulder Width" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsShoulder Width</Data>
+            <Data name="Straps TopShoulder Width" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopShoulder Width</Data>
+            <Data name="Vest ShouldersShoulder Width" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersShoulder Width</Data>
+            <Data name="Side Straps BottomShoulder Width" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomShoulder Width</Data>
+            <Data name="Metal Vest ShouldersShoulder Width" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersShoulder Width</Data>
+            <Data name="Metal Straps SideShoulder Width" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideShoulder Width</Data>
+            <Data name="Metal Straps BottomShoulder Width" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="BagsBodyFat" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBodyFat</Data>
+            <Data name="Metal BagsBodyFat" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBodyFat</Data>
+            <Data name="Vest BottomBodyFat" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBodyFat</Data>
+            <Data name="Straps MidBodyFat" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBodyFat</Data>
+            <Data name="Vest MainBodyFat" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBodyFat</Data>
+            <Data name="Side StrapsBodyFat" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBodyFat</Data>
+            <Data name="Vest MidBodyFat" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBodyFat</Data>
+            <Data name="Straps TopBodyFat" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBodyFat</Data>
+            <Data name="Vest ShouldersBodyFat" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersBodyFat</Data>
+            <Data name="Side Straps BottomBodyFat" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBodyFat</Data>
+            <Data name="Metal Vest ShouldersBodyFat" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersBodyFat</Data>
+            <Data name="Metal Straps MidBodyFat" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBodyFat</Data>
+            <Data name="Metal Straps SideBodyFat" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBodyFat</Data>
+            <Data name="Metal Straps BottomBodyFat" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomBodyFat</Data>
+            <Data name="Metal Straps TopBodyFat" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBodyFat</Data>
+            <Data name="Metal Vest MidBodyFat" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBodyFat</Data>
+            <Data name="Metal Vest BackBodyFat" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackBodyFat</Data>
+            <Data name="Metal Vest BottomBodyFat" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBodyFat</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="BagsHipsNarrow" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsHipsNarrow</Data>
+            <Data name="Vest BottomHipsNarrow" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomHipsNarrow</Data>
+            <Data name="Side Straps BottomHipsNarrow" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomHipsNarrow</Data>
+            <Data name="Metal Straps BottomHipsNarrow" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="Vest MainButtThin" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainButtThin</Data>
+            <Data name="Metal Vest BackButtThin" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="BagsHipsForward" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsHipsForward</Data>
+            <Data name="Vest BottomHipsForward" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="BagsHipRotateForward" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsHipRotateForward</Data>
+            <Data name="Metal BagsHipRotateForward" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsHipRotateForward</Data>
+            <Data name="Vest BottomHipRotateForward" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomHipRotateForward</Data>
+            <Data name="Straps MidHipRotateForward" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidHipRotateForward</Data>
+            <Data name="Vest MainHipRotateForward" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainHipRotateForward</Data>
+            <Data name="Side StrapsHipRotateForward" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsHipRotateForward</Data>
+            <Data name="Vest MidHipRotateForward" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidHipRotateForward</Data>
+            <Data name="Side Straps BottomHipRotateForward" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomHipRotateForward</Data>
+            <Data name="Metal Straps BottomHipRotateForward" target="Metal Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps BottomHipRotateForward</Data>
+            <Data name="Metal Vest BackHipRotateForward" target="Metal Vest Back" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BackHipRotateForward</Data>
+            <Data name="Metal Vest BottomHipRotateForward" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="Straps MidBreastArmpitin" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBreastArmpitin</Data>
+            <Data name="Vest MainBreastArmpitin" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBreastArmpitin</Data>
+            <Data name="Side StrapsBreastArmpitin" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBreastArmpitin</Data>
+            <Data name="Vest MidBreastArmpitin" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBreastArmpitin</Data>
+            <Data name="Straps TopBreastArmpitin" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBreastArmpitin</Data>
+            <Data name="Vest ShouldersBreastArmpitin" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersBreastArmpitin</Data>
+            <Data name="Metal Vest ShouldersBreastArmpitin" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersBreastArmpitin</Data>
+            <Data name="Metal Straps MidBreastArmpitin" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBreastArmpitin</Data>
+            <Data name="Metal Straps SideBreastArmpitin" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="Straps MidBreastArmpitWide" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBreastArmpitWide</Data>
+            <Data name="Vest MainBreastArmpitWide" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBreastArmpitWide</Data>
+            <Data name="Side StrapsBreastArmpitWide" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBreastArmpitWide</Data>
+            <Data name="Vest MidBreastArmpitWide" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBreastArmpitWide</Data>
+            <Data name="Straps TopBreastArmpitWide" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBreastArmpitWide</Data>
+            <Data name="Vest ShouldersBreastArmpitWide" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersBreastArmpitWide</Data>
+            <Data name="Metal Vest ShouldersBreastArmpitWide" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersBreastArmpitWide</Data>
+            <Data name="Metal Straps MidBreastArmpitWide" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBreastArmpitWide</Data>
+            <Data name="Metal Straps SideBreastArmpitWide" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="BagsBreastCurve" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBreastCurve</Data>
+            <Data name="Vest BottomBreastCurve" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBreastCurve</Data>
+            <Data name="Straps MidBreastCurve" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBreastCurve</Data>
+            <Data name="Vest MainBreastCurve" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBreastCurve</Data>
+            <Data name="Side StrapsBreastCurve" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBreastCurve</Data>
+            <Data name="Vest MidBreastCurve" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBreastCurve</Data>
+            <Data name="Straps TopBreastCurve" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBreastCurve</Data>
+            <Data name="Metal Straps MidBreastCurve" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBreastCurve</Data>
+            <Data name="Metal Straps SideBreastCurve" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBreastCurve</Data>
+            <Data name="Metal Straps TopBreastCurve" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBreastCurve</Data>
+            <Data name="Metal Vest MidBreastCurve" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBreastCurve</Data>
+            <Data name="Metal Vest BottomBreastCurve" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="BagsBreastHeight2" target="Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\BagsBreastHeight2</Data>
+            <Data name="Metal BagsBreastHeight2" target="Metal Bags" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal BagsBreastHeight2</Data>
+            <Data name="Vest BottomBreastHeight2" target="Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest BottomBreastHeight2</Data>
+            <Data name="Straps MidBreastHeight2" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBreastHeight2</Data>
+            <Data name="Vest MainBreastHeight2" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBreastHeight2</Data>
+            <Data name="Side StrapsBreastHeight2" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBreastHeight2</Data>
+            <Data name="Vest MidBreastHeight2" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBreastHeight2</Data>
+            <Data name="Straps TopBreastHeight2" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBreastHeight2</Data>
+            <Data name="Vest ShouldersBreastHeight2" target="Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest ShouldersBreastHeight2</Data>
+            <Data name="Side Straps BottomBreastHeight2" target="Side Straps Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side Straps BottomBreastHeight2</Data>
+            <Data name="Metal Vest ShouldersBreastHeight2" target="Metal Vest Shoulders" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest ShouldersBreastHeight2</Data>
+            <Data name="Metal Straps MidBreastHeight2" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBreastHeight2</Data>
+            <Data name="Metal Straps SideBreastHeight2" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBreastHeight2</Data>
+            <Data name="Metal Straps TopBreastHeight2" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBreastHeight2</Data>
+            <Data name="Metal Vest MidBreastHeight2" target="Metal Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest MidBreastHeight2</Data>
+            <Data name="Metal Vest BottomBreastHeight2" target="Metal Vest Bottom" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Vest BottomBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="Straps MidBreastConcave" target="Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps MidBreastConcave</Data>
+            <Data name="Vest MainBreastConcave" target="Vest Main" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MainBreastConcave</Data>
+            <Data name="Side StrapsBreastConcave" target="Side Straps" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Side StrapsBreastConcave</Data>
+            <Data name="Vest MidBreastConcave" target="Vest Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Vest MidBreastConcave</Data>
+            <Data name="Straps TopBreastConcave" target="Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Straps TopBreastConcave</Data>
+            <Data name="Metal Straps MidBreastConcave" target="Metal Straps Mid" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps MidBreastConcave</Data>
+            <Data name="Metal Straps SideBreastConcave" target="Metal Straps Side" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps SideBreastConcave</Data>
+            <Data name="Metal Straps TopBreastConcave" target="Metal Straps Top" local="true">Vtaw Wardrobe 7 Tactical Vest FG.osd\Metal Straps TopBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

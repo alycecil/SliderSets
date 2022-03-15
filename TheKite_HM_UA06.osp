@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="TheKite_HM_UA06">
+        <DataFolder>TheKite_HM_UA06</DataFolder>
+        <SourceFile>TheKite_HM_UA06.nif</SourceFile>
+        <OutputPath>Meshes\cross\handmaiden</OutputPath>
+        <OutputFile GenWeights="false">TheKite_HM_UA06</OutputFile>
+        <Shape target="CBBE" DataFolder="CBBE Reduced">CBBE</Shape>
+        <Shape target="cross_kite_hm_legsUnderGarter">cross_kite_hm_legsUnderGarter</Shape>
+        <Shape target="cross_kite_hm_legs_hoseFULL">cross_kite_hm_legs_hoseFULL</Shape>
+        <Shape target="cross_kite_hm_ua_Garter_low_3dc">cross_kite_hm_ua_Garter_low_3dc</Shape>
+        <Shape target="cross_kite_hm_ua_heelstall_low_3dc">cross_kite_hm_ua_heelstall_low_3dc</Shape>
+        <Slider name="Breasts" invert="false" default="0">
+            <Data name="CBBEBreasts" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreasts</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBreasts" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBreasts</Data>
+        </Slider>
+        <Slider name="BreastsCleavage" invert="false" default="0">
+            <Data name="CBBEBreastsCleavage" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastsCleavage</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBreastsCleavage" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBreastsCleavage</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" default="0">
+            <Data name="CBBEBreastsGone" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastsGone</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBreastsGone" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" default="0">
+            <Data name="CBBEBreastsNewSH" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastsNewSH</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBreastsNewSH" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="CBBEBreastsSmall" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastsSmall</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBreastsSmall" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBreastsSmall</Data>
+            <Data name="cross_kite_hm_legsUnderGarterBreastsSmall" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="CBBEBreastsSmall2" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastsSmall2</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBreastsSmall2" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBreastsSmall2</Data>
+            <Data name="cross_kite_hm_legsUnderGarterBreastsSmall2" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterBreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" default="0">
+            <Data name="CBBEBreastsTogether" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastsTogether</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBreastsTogether" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" default="0">
+            <Data name="CBBEBreastTopSlope" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="CBBEBreastWidth" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastWidth</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBreastWidth" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="CBBEButt" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEButt</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcButt" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcButt</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLButt" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLButt</Data>
+            <Data name="cross_kite_hm_legsUnderGarterButt" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterButt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="CBBEButtCrack" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEButtCrack</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcButtCrack" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcButtCrack</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLButtCrack" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLButtCrack</Data>
+            <Data name="cross_kite_hm_legsUnderGarterButtCrack" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="CBBEButtNew" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEButtNew</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcButtNew" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcButtNew</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLButtNew" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLButtNew</Data>
+            <Data name="cross_kite_hm_legsUnderGarterButtNew" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="CBBEButtShape2" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEButtShape2</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcButtShape2" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcButtShape2</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLButtShape2" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLButtShape2</Data>
+            <Data name="cross_kite_hm_legsUnderGarterButtShape2" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="CBBEButtSmall" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEButtSmall</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcButtSmall" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcButtSmall</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLButtSmall" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLButtSmall</Data>
+            <Data name="cross_kite_hm_legsUnderGarterButtSmall" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" default="0">
+            <Data name="CBBECalfSize" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBECalfSize</Data>
+            <Data name="cross_kite_hm_ua_heelstall_low_3dcCalfSize" target="cross_kite_hm_ua_heelstall_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_heelstall_low_3dcCalfSize</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLCalfSize" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLCalfSize</Data>
+            <Data name="cross_kite_hm_legsUnderGarterCalfSize" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" default="0">
+            <Data name="CBBECalfSmooth" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBECalfSmooth</Data>
+            <Data name="cross_kite_hm_ua_heelstall_low_3dcCalfSmooth" target="cross_kite_hm_ua_heelstall_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_heelstall_low_3dcCalfSmooth</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLCalfSmooth" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLCalfSmooth</Data>
+            <Data name="cross_kite_hm_legsUnderGarterCalfSmooth" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="CBBEChestDepth" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEChestDepth</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcChestDepth" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcChestDepth</Data>
+            <Data name="cross_kite_hm_legsUnderGarterChestDepth" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="CBBEChestWidth" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEChestWidth</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcChestWidth" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcChestWidth</Data>
+            <Data name="cross_kite_hm_legsUnderGarterChestWidth" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="CBBEChubbyArms" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="CBBEChubbyButt" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEChubbyButt</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcChubbyButt" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcChubbyButt</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLChubbyButt" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLChubbyButt</Data>
+            <Data name="cross_kite_hm_legsUnderGarterChubbyButt" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="CBBEChubbyLegs" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEChubbyLegs</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcChubbyLegs" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcChubbyLegs</Data>
+            <Data name="cross_kite_hm_ua_heelstall_low_3dcChubbyLegs" target="cross_kite_hm_ua_heelstall_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_heelstall_low_3dcChubbyLegs</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLChubbyLegs" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLChubbyLegs</Data>
+            <Data name="cross_kite_hm_legsUnderGarterChubbyLegs" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="CBBEChubbyWaist" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEChubbyWaist</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcChubbyWaist" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcChubbyWaist</Data>
+            <Data name="cross_kite_hm_legsUnderGarterChubbyWaist" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" default="0">
+            <Data name="CBBECrotchBack" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBECrotchBack</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcCrotchBack" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcCrotchBack</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLCrotchBack" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLCrotchBack</Data>
+            <Data name="cross_kite_hm_legsUnderGarterCrotchBack" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterCrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="CBBEDoubleMelon" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEDoubleMelon</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcDoubleMelon" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcDoubleMelon</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" default="0">
+            <Data name="CBBEGroin" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEGroin</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcGroin" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcGroin</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLGroin" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLGroin</Data>
+            <Data name="cross_kite_hm_legsUnderGarterGroin" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterGroin</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="CBBEHipBack" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEHipBack</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcHipBack" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcHipBack</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLHipBack" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLHipBack</Data>
+            <Data name="cross_kite_hm_legsUnderGarterHipBack" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterHipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="CBBEHipBone" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEHipBone</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcHipBone" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcHipBone</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLHipBone" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLHipBone</Data>
+            <Data name="cross_kite_hm_legsUnderGarterHipBone" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterHipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="CBBEHips" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEHips</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcHips" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcHips</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLHips" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLHips</Data>
+            <Data name="cross_kite_hm_legsUnderGarterHips" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="CBBEHipUpperWidth" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEHipUpperWidth</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcHipUpperWidth" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcHipUpperWidth</Data>
+            <Data name="cross_kite_hm_legsUnderGarterHipUpperWidth" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterHipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" default="0">
+            <Data name="CBBEKneeHeight" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEKneeHeight</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcKneeHeight" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcKneeHeight</Data>
+            <Data name="cross_kite_hm_ua_heelstall_low_3dcKneeHeight" target="cross_kite_hm_ua_heelstall_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_heelstall_low_3dcKneeHeight</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLKneeHeight" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLKneeHeight</Data>
+            <Data name="cross_kite_hm_legsUnderGarterKneeHeight" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterKneeHeight</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="CBBELegShape" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBELegShape</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcLegShape" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcLegShape</Data>
+            <Data name="cross_kite_hm_ua_heelstall_low_3dcLegShape" target="cross_kite_hm_ua_heelstall_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_heelstall_low_3dcLegShape</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLLegShape" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLLegShape</Data>
+            <Data name="cross_kite_hm_legsUnderGarterLegShape" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterLegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="CBBELegsThin" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBELegsThin</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcLegsThin" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcLegsThin</Data>
+            <Data name="cross_kite_hm_ua_heelstall_low_3dcLegsThin" target="cross_kite_hm_ua_heelstall_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_heelstall_low_3dcLegsThin</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLLegsThin" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLLegsThin</Data>
+            <Data name="cross_kite_hm_legsUnderGarterLegsThin" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterLegsThin</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" default="0">
+            <Data name="CBBENipBGone" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBENipBGone</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" default="0">
+            <Data name="CBBENippleAreola" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBENippleAreola</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" default="0">
+            <Data name="CBBENippleDistance" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBENippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="CBBENippleDown" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBENippleDown</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcNippleDown" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcNippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" default="0">
+            <Data name="CBBENippleLength" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBENippleLength</Data>
+        </Slider>
+        <Slider name="NipplePerk2" invert="false" default="0">
+            <Data name="CBBENipplePerk2" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBENipplePerk2</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" default="0">
+            <Data name="CBBENipplePerkiness" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBENipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" default="0">
+            <Data name="CBBENippleSize" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBENippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" default="0">
+            <Data name="CBBENippleTip" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBENippleTip</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="CBBENippleUp" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBENippleUp</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcNippleUp" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcNippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="CBBEPregnancyBelly" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEPregnancyBelly</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcPregnancyBelly" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcPregnancyBelly</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLPregnancyBelly" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLPregnancyBelly</Data>
+            <Data name="cross_kite_hm_legsUnderGarterPregnancyBelly" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterPregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="CBBEPushUp" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEPushUp</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcPushUp" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcPushUp</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="CBBERoundAss" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBERoundAss</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcRoundAss" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcRoundAss</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLRoundAss" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLRoundAss</Data>
+            <Data name="cross_kite_hm_legsUnderGarterRoundAss" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterRoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="CBBEShoulderSmooth" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="CBBEShoulderTweak" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="CBBEShoulderWidth" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEShoulderWidth</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcShoulderWidth" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="CBBESlimThighs" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBESlimThighs</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcSlimThighs" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcSlimThighs</Data>
+            <Data name="cross_kite_hm_ua_heelstall_low_3dcSlimThighs" target="cross_kite_hm_ua_heelstall_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_heelstall_low_3dcSlimThighs</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLSlimThighs" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLSlimThighs</Data>
+            <Data name="cross_kite_hm_legsUnderGarterSlimThighs" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterSlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" default="0">
+            <Data name="CBBESternumDepth" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBESternumDepth</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcSternumDepth" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcSternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" default="0">
+            <Data name="CBBESternumHeight" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBESternumHeight</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcSternumHeight" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcSternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="CBBEThighs" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEThighs</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcThighs" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcThighs</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLThighs" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLThighs</Data>
+            <Data name="cross_kite_hm_legsUnderGarterThighs" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="CBBETummyTuck" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBETummyTuck</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcTummyTuck" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcTummyTuck</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLTummyTuck" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLTummyTuck</Data>
+            <Data name="cross_kite_hm_legsUnderGarterTummyTuck" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterTummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="CBBEVanillaFo4" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEVanillaFo4</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcVanillaFo4" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcVanillaFo4</Data>
+            <Data name="cross_kite_hm_ua_heelstall_low_3dcVanillaFo4" target="cross_kite_hm_ua_heelstall_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_heelstall_low_3dcVanillaFo4</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLVanillaFo4" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLVanillaFo4</Data>
+            <Data name="cross_kite_hm_legsUnderGarterVanillaFo4" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterVanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="CBBEWaist" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEWaist</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcWaist" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcWaist</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLWaist" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLWaist</Data>
+            <Data name="cross_kite_hm_legsUnderGarterWaist" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="CBBEWaistHeight" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEWaistHeight</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcWaistHeight" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcWaistHeight</Data>
+            <Data name="cross_kite_hm_legsUnderGarterWaistHeight" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="CBBEWideWaistLine" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEWideWaistLine</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcWideWaistLine" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcWideWaistLine</Data>
+            <Data name="cross_kite_hm_legsUnderGarterWideWaistLine" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterWideWaistLine</Data>
+        </Slider>
+        <Slider name="Ankles" invert="false" default="0">
+            <Data name="CBBEAnkles" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEAnkles</Data>
+            <Data name="cross_kite_hm_ua_heelstall_low_3dcAnkles" target="cross_kite_hm_ua_heelstall_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_heelstall_low_3dcAnkles</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLAnkles" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLAnkles</Data>
+            <Data name="cross_kite_hm_legsUnderGarterAnkles" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterAnkles</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="CBBEAppleCheeks" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEAppleCheeks</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcAppleCheeks" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcAppleCheeks</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLAppleCheeks" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLAppleCheeks</Data>
+            <Data name="cross_kite_hm_legsUnderGarterAppleCheeks" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterAppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="CBBEArms" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="CBBEBack" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBack</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBack" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBack</Data>
+            <Data name="cross_kite_hm_legsUnderGarterBack" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="CBBEBackArch" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBackArch</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBackArch" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBackArch</Data>
+            <Data name="cross_kite_hm_legsUnderGarterBackArch" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="CBBEBelly" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBelly</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBelly" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBelly</Data>
+            <Data name="cross_kite_hm_legsUnderGarterBelly" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="CBBEBigBelly" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBigBelly</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBigBelly" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBigBelly</Data>
+            <Data name="cross_kite_hm_legsUnderGarterBigBelly" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="CBBEBigButt" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBigButt</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBigButt" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBigButt</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLBigButt" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLBigButt</Data>
+            <Data name="cross_kite_hm_legsUnderGarterBigButt" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="CBBEBigTorso" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBigTorso</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBigTorso" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBigTorso</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLBigTorso" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLBigTorso</Data>
+            <Data name="cross_kite_hm_legsUnderGarterBigTorso" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterBigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="CBBEBreastCenter" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" default="0">
+            <Data name="CBBEBreastCenterBig" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="CBBEBreastFantasy" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastFantasy</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBreastFantasy" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="CBBEBreastFlatness2" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="CBBEBreastGravity2" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastGravity2</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBreastGravity2" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="CBBEBreastHeight" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastHeight</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBreastHeight" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="CBBEBreastPerkiness" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEBreastPerkiness</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcBreastPerkiness" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcBreastPerkiness</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="CBBEArmpitHeight" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEArmpitHeight</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" default="0">
+            <Data name="CBBEForearmSize" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEForearmSize</Data>
+        </Slider>
+        <Slider name="NippleShape" invert="false" default="0">
+            <Data name="CBBENippleShape" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBENippleShape</Data>
+        </Slider>
+        <Slider name="NippleTwistUp" invert="false" default="0">
+            <Data name="CBBENippleTwistUp" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBENippleTwistUp</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="CBBE7B Upper" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBE7B Upper</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dc7B Upper" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dc7B Upper</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="CBBE7B Lower" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBE7B Lower</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dc7B Lower" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dc7B Lower</Data>
+            <Data name="cross_kite_hm_ua_heelstall_low_3dc7B Lower" target="cross_kite_hm_ua_heelstall_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_heelstall_low_3dc7B Lower</Data>
+            <Data name="cross_kite_hm_legs_hoseFULL7B Lower" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULL7B Lower</Data>
+            <Data name="cross_kite_hm_legsUnderGarter7B Lower" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarter7B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="CBBEMuscularChest" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEMuscularChest</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcMuscularChest" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcMuscularChest</Data>
+            <Data name="cross_kite_hm_legsUnderGarterMuscularChest" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterMuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="CBBEMuscularArms" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEMuscularArms</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcMuscularArms" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcMuscularArms</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="CBBEMuscularButt" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEMuscularButt</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcMuscularButt" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcMuscularButt</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLMuscularButt" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLMuscularButt</Data>
+            <Data name="cross_kite_hm_legsUnderGarterMuscularButt" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterMuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="CBBEMuscularLegs" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEMuscularLegs</Data>
+            <Data name="cross_kite_hm_ua_Garter_low_3dcMuscularLegs" target="cross_kite_hm_ua_Garter_low_3dc" local="true">TheKite_HM_UA06.osd\cross_kite_hm_ua_Garter_low_3dcMuscularLegs</Data>
+            <Data name="cross_kite_hm_legs_hoseFULLMuscularLegs" target="cross_kite_hm_legs_hoseFULL" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legs_hoseFULLMuscularLegs</Data>
+            <Data name="cross_kite_hm_legsUnderGarterMuscularLegs" target="cross_kite_hm_legsUnderGarter" local="true">TheKite_HM_UA06.osd\cross_kite_hm_legsUnderGarterMuscularLegs</Data>
+        </Slider>
+        <Slider name="ShirtZap01" invert="false" default="0" zap="true">
+            <Data name="CBBEShirtZap01" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEShirtZap01</Data>
+        </Slider>
+        <Slider name="ForearmsZap01" invert="false" default="0" zap="true">
+            <Data name="CBBEForearmsZap01" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEForearmsZap01</Data>
+        </Slider>
+        <Slider name="UpperBodyZap01" invert="false" default="100" zap="true">
+            <Data name="CBBEUpperBodyZap01" target="CBBE" local="true">TheKite_HM_UA06.osd\CBBEUpperBodyZap01</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

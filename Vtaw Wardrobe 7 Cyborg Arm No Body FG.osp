@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Cyborg Arm No Body FG">
+        <DataFolder>Vtaw Wardrobe 7 Cyborg Arm No Body FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Cyborg Arm No Body FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\CyborgArm</OutputPath>
+        <OutputFile GenWeights="false">CyborgArmNoBody</OutputFile>
+        <Shape target="Arm">Arm</Shape>
+        <Shape target="Cable Arm">Cable Arm</Shape>
+        <Shape target="Glove">Glove</Shape>
+        <Shape target="Glove Cable">Glove Cable</Shape>
+        <Shape target="Hand" DataFolder="Vtaw Wardrobe 7 Cyborg Arm No Body FG">Hand</Shape>
+        <Shape target="Metal Arm">Metal Arm</Shape>
+        <Shape target="Metal Glove">Metal Glove</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="ArmBoobs Yuge" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBoobs Yuge</Data>
+            <Data name="Metal ArmBoobs Yuge" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBoobs Yuge</Data>
+            <Data name="Cable ArmBoobs Yuge" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="ArmBoobs Big" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBoobs Big</Data>
+            <Data name="Metal ArmBoobs Big" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBoobs Big</Data>
+            <Data name="Cable ArmBoobs Big" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="ArmBoobs Flat" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="ArmBoobs Gravity" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBoobs Gravity</Data>
+            <Data name="Metal ArmBoobs Gravity" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBoobs Gravity</Data>
+            <Data name="Cable ArmBoobs Gravity" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="ArmBoobs Height" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBoobs Height</Data>
+            <Data name="Metal ArmBoobs Height" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="ArmBoobs Mellons" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBoobs Mellons</Data>
+            <Data name="Metal ArmBoobs Mellons" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBoobs Mellons</Data>
+            <Data name="Cable ArmBoobs Mellons" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="ArmBoobs Perky" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBoobs Perky</Data>
+            <Data name="Metal ArmBoobs Perky" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBoobs Perky</Data>
+            <Data name="Cable ArmBoobs Perky" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="ArmBoobs Push Up" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBoobs Push Up</Data>
+            <Data name="Metal ArmBoobs Push Up" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBoobs Push Up</Data>
+            <Data name="Cable ArmBoobs Push Up" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="ArmBoobs Together" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="ArmBoobs Top Slope" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBoobs Top Slope</Data>
+            <Data name="Metal ArmBoobs Top Slope" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBoobs Top Slope</Data>
+            <Data name="Cable ArmBoobs Top Slope" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="ArmBoobs Width" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="ArmBoobs Tiny" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBoobs Tiny</Data>
+            <Data name="Metal ArmBoobs Tiny" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBoobs Tiny</Data>
+            <Data name="Cable ArmBoobs Tiny" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="ArmChest Depth" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmChest Depth</Data>
+            <Data name="Metal ArmChest Depth" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="ArmChest Width" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmChest Width</Data>
+            <Data name="Metal ArmChest Width" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmChest Width</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="ArmWaist Size" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmWaist Size</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="ArmBack Size" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBack Size</Data>
+            <Data name="Metal ArmBack Size" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBack Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="ArmArms Chubby" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmArms Chubby</Data>
+            <Data name="Metal ArmArms Chubby" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmArms Chubby</Data>
+            <Data name="Cable ArmArms Chubby" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="ArmShoulder Smooth" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmShoulder Smooth</Data>
+            <Data name="Metal ArmShoulder Smooth" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmShoulder Smooth</Data>
+            <Data name="Cable ArmShoulder Smooth" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="ArmShoulder Tweak" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmShoulder Tweak</Data>
+            <Data name="Metal ArmShoulder Tweak" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="ArmArms Size" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmArms Size</Data>
+            <Data name="Metal ArmArms Size" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmArms Size</Data>
+            <Data name="Cable ArmArms Size" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="ArmArmpit Ajustment" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmArmpit Ajustment</Data>
+            <Data name="Metal ArmArmpit Ajustment" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmArmpit Ajustment</Data>
+            <Data name="Cable ArmArmpit Ajustment" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="ArmForearms Size" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmForearms Size</Data>
+            <Data name="Metal ArmForearms Size" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmForearms Size</Data>
+            <Data name="Cable ArmForearms Size" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="ArmTorso Size" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmTorso Size</Data>
+            <Data name="Metal ArmTorso Size" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmTorso Size</Data>
+            <Data name="Cable ArmTorso Size" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="ArmSturnum Depth" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmSturnum Depth</Data>
+            <Data name="Metal ArmSturnum Depth" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmSturnum Depth</Data>
+            <Data name="Cable ArmSturnum Depth" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="ArmSturnum Height" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmSturnum Height</Data>
+            <Data name="Metal ArmSturnum Height" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmSturnum Height</Data>
+            <Data name="Cable ArmSturnum Height" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="ArmGroin Position" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmGroin Position</Data>
+            <Data name="Metal ArmGroin Position" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmGroin Position</Data>
+            <Data name="Cable ArmGroin Position" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="ArmGroin Back" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmGroin Back</Data>
+            <Data name="Metal ArmGroin Back" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmGroin Back</Data>
+            <Data name="Cable ArmGroin Back" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="ArmBody Toning" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBody Toning</Data>
+            <Data name="Metal ArmBody Toning" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBody Toning</Data>
+            <Data name="Cable ArmBody Toning" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="ArmTigerSanBB" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmTigerSanBB</Data>
+            <Data name="Metal ArmTigerSanBB" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmTigerSanBB</Data>
+            <Data name="Cable ArmTigerSanBB" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="ArmAthletic" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmAthletic</Data>
+            <Data name="Metal ArmAthletic" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmAthletic</Data>
+            <Data name="Cable ArmAthletic" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="ArmSeveNBase Bombshell" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmSeveNBase Bombshell</Data>
+            <Data name="Metal ArmSeveNBase Bombshell" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmSeveNBase Bombshell</Data>
+            <Data name="Cable ArmSeveNBase Bombshell" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="ArmShoulder Width" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmShoulder Width</Data>
+            <Data name="Metal ArmShoulder Width" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmShoulder Width</Data>
+            <Data name="Cable ArmShoulder Width" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="ArmBodyFat" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBodyFat</Data>
+            <Data name="Metal ArmBodyFat" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBodyFat</Data>
+            <Data name="Cable ArmBodyFat" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmBodyFat</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="ArmBreastArmpitin" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBreastArmpitin</Data>
+            <Data name="Metal ArmBreastArmpitin" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBreastArmpitin</Data>
+            <Data name="Cable ArmBreastArmpitin" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="ArmBreastArmpitWide" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBreastArmpitWide</Data>
+            <Data name="Metal ArmBreastArmpitWide" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBreastArmpitWide</Data>
+            <Data name="Cable ArmBreastArmpitWide" target="Cable Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Cable ArmBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="ArmBreastCurve" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="ArmBreastHeight2" target="Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\ArmBreastHeight2</Data>
+            <Data name="Metal ArmBreastHeight2" target="Metal Arm" local="true">Vtaw Wardrobe 7 Cyborg Arm No Body FG.osd\Metal ArmBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

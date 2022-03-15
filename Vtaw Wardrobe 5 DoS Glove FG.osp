@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 DoS Glove FG">
+        <DataFolder>Vtaw Wardrobe 5 DoS Glove FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 DoS Glove FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\DoS</OutputPath>
+        <OutputFile GenWeights="false">Glove</OutputFile>
+        <Shape target="arm">arm</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="armBoobs Yuge" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="armBoobs Big" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="armBoobs Gravity" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="armBoobs Mellons" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="armBoobs Perky" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="armBoobs Push Up" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="armBoobs Top Slope" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="armBoobs Tiny" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="armWaist Size" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armWaist Size</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="armBack Size" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armBack Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="armArms Chubby" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="armShoulder Smooth" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="armArms Size" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="armArmpit Ajustment" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="armForearms Size" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="armTorso Size" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="armSturnum Depth" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="armSturnum Height" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="armGroin Position" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="armGroin Back" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="armBody Toning" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="armTigerSanBB" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="armAthletic" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="armSeveNBase Bombshell" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="armShoulder Width" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="armBodyFat" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armBodyFat</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="armBreastArmpitin" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="armBreastArmpitWide" target="arm" local="true">Vtaw Wardrobe 5 DoS Glove FG.osd\armBreastArmpitWide</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

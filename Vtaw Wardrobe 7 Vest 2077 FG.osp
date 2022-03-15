@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Vest 2077 FG">
+        <DataFolder>Vtaw Wardrobe 7 Vest 2077 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Vest 2077 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\Vest2077</OutputPath>
+        <OutputFile GenWeights="false">Vest2077</OutputFile>
+        <Shape target="Vest">Vest</Shape>
+        <Shape target="metal">metal</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="VestBelly Pregnant" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBelly Pregnant</Data>
+            <Data name="metalBelly Pregnant" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="VestBelly Big" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBelly Big</Data>
+            <Data name="metalBelly Big" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="VestBelly Size" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBelly Size</Data>
+            <Data name="metalBelly Size" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="VestBelly Tuck" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBelly Tuck</Data>
+            <Data name="metalBelly Tuck" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="VestBoobs Yuge" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBoobs Yuge</Data>
+            <Data name="metalBoobs Yuge" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="VestBoobs Big" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBoobs Big</Data>
+            <Data name="metalBoobs Big" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="VestBoobs Cleavage" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBoobs Cleavage</Data>
+            <Data name="metalBoobs Cleavage" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="VestBoobs Flat" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBoobs Flat</Data>
+            <Data name="metalBoobs Flat" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="VestBoobs Gravity" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBoobs Gravity</Data>
+            <Data name="metalBoobs Gravity" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="VestBoobs Height" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBoobs Height</Data>
+            <Data name="metalBoobs Height" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="VestBoobs Mellons" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBoobs Mellons</Data>
+            <Data name="metalBoobs Mellons" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="VestBoobs Perky" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBoobs Perky</Data>
+            <Data name="metalBoobs Perky" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="VestBoobs Push Up" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBoobs Push Up</Data>
+            <Data name="metalBoobs Push Up" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="VestBoobs Small" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBoobs Small</Data>
+            <Data name="metalBoobs Small" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="VestBoobs Together" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBoobs Together</Data>
+            <Data name="metalBoobs Together" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="VestBoobs Top Slope" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBoobs Top Slope</Data>
+            <Data name="metalBoobs Top Slope" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="VestBoobs Width" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBoobs Width</Data>
+            <Data name="metalBoobs Width" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="VestBoobs Tiny" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBoobs Tiny</Data>
+            <Data name="metalBoobs Tiny" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="VestNipples Distance" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestNipples Distance</Data>
+            <Data name="metalNipples Distance" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="VestNipples Down" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestNipples Down</Data>
+            <Data name="metalNipples Down" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="VestNipples Perkiness" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestNipples Perkiness</Data>
+            <Data name="metalNipples Perkiness" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="VestNipples Puffy" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestNipples Puffy</Data>
+            <Data name="metalNipples Puffy" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="VestNipples Up" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestNipples Up</Data>
+            <Data name="metalNipples Up" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="VestChest Depth" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestChest Depth</Data>
+            <Data name="metalChest Depth" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="VestChest Width" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestChest Width</Data>
+            <Data name="metalChest Width" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="VestWaist Chubby" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestWaist Chubby</Data>
+            <Data name="metalWaist Chubby" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="VestWaist Size" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestWaist Size</Data>
+            <Data name="metalWaist Size" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="VestWaist Height" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestWaist Height</Data>
+            <Data name="metalWaist Height" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="VestWaist Line" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="VestBack Size" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBack Size</Data>
+            <Data name="metalBack Size" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="VestBack Arch" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="VestHips Bone" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestHips Bone</Data>
+            <Data name="metalHips Bone" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="VestHips Size" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestHips Size</Data>
+            <Data name="metalHips Size" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="VestHips Upper Width" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestHips Upper Width</Data>
+            <Data name="metalHips Upper Width" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="VestBum Size" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="VestBum Crack" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="VestBum Shape 1" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBum Shape 1</Data>
+            <Data name="metalBum Shape 1" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="VestBum Shape 2" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBum Shape 2</Data>
+            <Data name="metalBum Shape 2" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="VestBum Small" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBum Small</Data>
+            <Data name="metalBum Small" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="VestBum Chubby" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBum Chubby</Data>
+            <Data name="metalBum Chubby" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="VestBum Round" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="VestBum Apple" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBum Apple</Data>
+            <Data name="metalBum Apple" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="VestLegs Chubby" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestLegs Chubby</Data>
+            <Data name="metalLegs Chubby" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="VestLegs Shape" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="VestLegs Thin" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="VestThighs Slim" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestThighs Slim</Data>
+            <Data name="metalThighs Slim" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="VestThighs Size" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestThighs Size</Data>
+            <Data name="metalThighs Size" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalThighs Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="VestArms Chubby" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestArms Chubby</Data>
+            <Data name="metalArms Chubby" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="VestShoulder Smooth" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestShoulder Smooth</Data>
+            <Data name="metalShoulder Smooth" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="VestShoulder Tweak" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestShoulder Tweak</Data>
+            <Data name="metalShoulder Tweak" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="VestArms Size" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestArms Size</Data>
+            <Data name="metalArms Size" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="VestArmpit Ajustment" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestArmpit Ajustment</Data>
+            <Data name="metalArmpit Ajustment" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="VestTorso Size" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestTorso Size</Data>
+            <Data name="metalTorso Size" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="VestSturnum Depth" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestSturnum Depth</Data>
+            <Data name="metalSturnum Depth" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="VestSturnum Height" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestSturnum Height</Data>
+            <Data name="metalSturnum Height" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="VestGroin Position" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestGroin Position</Data>
+            <Data name="metalGroin Position" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="VestGroin Back" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestGroin Back</Data>
+            <Data name="metalGroin Back" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="VestAbDefinition" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestAbDefinition</Data>
+            <Data name="metalAbDefinition" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="VestBody Toning" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBody Toning</Data>
+            <Data name="metalBody Toning" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="VestTigerSanBB" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestTigerSanBB</Data>
+            <Data name="metalTigerSanBB" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="VestXunAbs" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestXunAbs</Data>
+            <Data name="metalXunAbs" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="VestFFB Fitness 2" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestFFB Fitness 2</Data>
+            <Data name="metalFFB Fitness 2" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="VestAthletic" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestAthletic</Data>
+            <Data name="metalAthletic" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="VestSeveNBase Bombshell" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestSeveNBase Bombshell</Data>
+            <Data name="metalSeveNBase Bombshell" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="VestShoulder Width" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestShoulder Width</Data>
+            <Data name="metalShoulder Width" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="VestBodyFat" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBodyFat</Data>
+            <Data name="metalBodyFat" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="VestLegThin" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestLegThin</Data>
+            <Data name="metalLegThin" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="VestHipsNarrow" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="VestButtGravity" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="VestButtThin" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="VestHipsForward" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestHipsForward</Data>
+            <Data name="metalHipsForward" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="VestHipRotateForward" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestHipRotateForward</Data>
+            <Data name="metalHipRotateForward" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="VestBreastArmpitin" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBreastArmpitin</Data>
+            <Data name="metalBreastArmpitin" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="VestBreastArmpitWide" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBreastArmpitWide</Data>
+            <Data name="metalBreastArmpitWide" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="VestBreastCurve" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBreastCurve</Data>
+            <Data name="metalBreastCurve" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="VestBreastHeight2" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBreastHeight2</Data>
+            <Data name="metalBreastHeight2" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="VestBreastConcave" target="Vest" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\VestBreastConcave</Data>
+            <Data name="metalBreastConcave" target="metal" local="true">Vtaw Wardrobe 7 Vest 2077 FG.osd\metalBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 2B Dress Gloves FG">
+        <DataFolder>Vtaw Wardrobe 7 2B Dress Gloves FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 2B Dress Gloves FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\2BDress</OutputPath>
+        <OutputFile GenWeights="false">2BDressGloves</OutputFile>
+        <Shape target="Glove">Glove</Shape>
+        <Shape target="Metal Buttons">Metal Buttons</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Metal ButtonsBoobs Yuge" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsBoobs Yuge</Data>
+            <Data name="GloveBoobs Yuge" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Metal ButtonsBoobs Big" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsBoobs Big</Data>
+            <Data name="GloveBoobs Big" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Metal ButtonsBoobs Gravity" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsBoobs Gravity</Data>
+            <Data name="GloveBoobs Gravity" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Metal ButtonsBoobs Mellons" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsBoobs Mellons</Data>
+            <Data name="GloveBoobs Mellons" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Metal ButtonsBoobs Perky" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsBoobs Perky</Data>
+            <Data name="GloveBoobs Perky" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Metal ButtonsBoobs Push Up" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsBoobs Push Up</Data>
+            <Data name="GloveBoobs Push Up" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="GloveBoobs Top Slope" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Metal ButtonsBoobs Tiny" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsBoobs Tiny</Data>
+            <Data name="GloveBoobs Tiny" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="Metal ButtonsWaist Size" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsWaist Size</Data>
+            <Data name="GloveWaist Size" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveWaist Size</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="GloveBack Size" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveBack Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="Metal ButtonsArms Chubby" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsArms Chubby</Data>
+            <Data name="GloveArms Chubby" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveArms Chubby</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="Metal ButtonsArms Size" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsArms Size</Data>
+            <Data name="GloveArms Size" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="GloveArmpit Ajustment" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="Metal ButtonsForearms Size" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsForearms Size</Data>
+            <Data name="GloveForearms Size" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Metal ButtonsTorso Size" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsTorso Size</Data>
+            <Data name="GloveTorso Size" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Metal ButtonsSturnum Depth" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsSturnum Depth</Data>
+            <Data name="GloveSturnum Depth" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Metal ButtonsSturnum Height" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsSturnum Height</Data>
+            <Data name="GloveSturnum Height" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Metal ButtonsGroin Position" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsGroin Position</Data>
+            <Data name="GloveGroin Position" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="GloveGroin Back" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Metal ButtonsBody Toning" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsBody Toning</Data>
+            <Data name="GloveBody Toning" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Metal ButtonsTigerSanBB" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsTigerSanBB</Data>
+            <Data name="GloveTigerSanBB" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Metal ButtonsAthletic" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsAthletic</Data>
+            <Data name="GloveAthletic" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Metal ButtonsSeveNBase Bombshell" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsSeveNBase Bombshell</Data>
+            <Data name="GloveSeveNBase Bombshell" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Metal ButtonsShoulder Width" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsShoulder Width</Data>
+            <Data name="GloveShoulder Width" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Metal ButtonsBodyFat" target="Metal Buttons" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\Metal ButtonsBodyFat</Data>
+            <Data name="GloveBodyFat" target="Glove" local="true">Vtaw Wardrobe 7 2B Dress Gloves FG.osd\GloveBodyFat</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

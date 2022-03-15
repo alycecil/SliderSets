@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Amputee Quad Body">
+        <DataFolder>AmputeeBody</DataFolder>
+        <SourceFile>Amputee Quad Body.nif</SourceFile>
+        <OutputPath>Meshes\Amputee Body</OutputPath>
+        <OutputFile GenWeights="false">Amputee Quad Body</OutputFile>
+        <Shape target="BaseFBody" DataFolder="Amputee">BaseFBody</Shape>
+        <Shape target="Cuffs_Circle">Cuffs_Circle</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="BaseFBodyBelly Pregnant" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="BaseFBodyBelly Big" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="BaseFBodyBelly Size" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="BaseFBodyBelly Tuck" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="BaseFBodyBoobs Yuge" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBoobs Yuge</Data>
+            <Data name="Cuffs_CircleBoobs Yuge" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="BaseFBodyBoobs Big" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBoobs Big</Data>
+            <Data name="Cuffs_CircleBoobs Big" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="BaseFBodyBoobs Cleavage" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="BaseFBodyBoobs Flat" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="BaseFBodyBoobs Gravity" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBoobs Gravity</Data>
+            <Data name="Cuffs_CircleBoobs Gravity" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="BaseFBodyBoobs Height" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="BaseFBodyBoobs Mellons" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBoobs Mellons</Data>
+            <Data name="Cuffs_CircleBoobs Mellons" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="BaseFBodyBoobs Perky" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBoobs Perky</Data>
+            <Data name="Cuffs_CircleBoobs Perky" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="BaseFBodyBoobs Push Up" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBoobs Push Up</Data>
+            <Data name="Cuffs_CircleBoobs Push Up" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="BaseFBodyBoobs Small" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="BaseFBodyBoobs Together" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="BaseFBodyBoobs Top Slope" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBoobs Top Slope</Data>
+            <Data name="Cuffs_CircleBoobs Top Slope" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="BaseFBodyBoobs Width" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="BaseFBodyBoobs Tiny" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBoobs Tiny</Data>
+            <Data name="Cuffs_CircleBoobs Tiny" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="BaseFBodyNipples Length" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="BaseFBodyNipples Areola" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="BaseFBodyNipples Distance" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="BaseFBodyNipples Down" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="BaseFBodyNipples Gone" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="BaseFBodyNipples Shape" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="BaseFBodyNipples Size" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="BaseFBodyNipples Perkiness" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="BaseFBodyNipples Puffy" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="BaseFBodyNipples Up" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyNipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="BaseFBodyNipples Tip" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyNipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="BaseFBodyChest Depth" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="BaseFBodyChest Width" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="BaseFBodyWaist Chubby" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="BaseFBodyWaist Size" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="BaseFBodyWaist Height" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="BaseFBodyWaist Line" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="BaseFBodyBack Size" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="BaseFBodyBack Arch" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="BaseFBodyHips Bone" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="BaseFBodyHips Size" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="BaseFBodyHips Upper Width" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="BaseFBodyBum Size" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBum Size</Data>
+            <Data name="Cuffs_CircleBum Size" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="BaseFBodyBum Crack" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="BaseFBodyBum Shape 1" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBum Shape 1</Data>
+            <Data name="Cuffs_CircleBum Shape 1" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="BaseFBodyBum Shape 2" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="BaseFBodyBum Small" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBum Small</Data>
+            <Data name="Cuffs_CircleBum Small" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="BaseFBodyBum Chubby" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBum Chubby</Data>
+            <Data name="Cuffs_CircleBum Chubby" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="BaseFBodyBum Round" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="BaseFBodyBum Apple" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="Cuffs_CircleCalf Size" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="Cuffs_CircleCalf Small" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="BaseFBodyLegs Chubby" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyLegs Chubby</Data>
+            <Data name="Cuffs_CircleLegs Chubby" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="BaseFBodyLegs Shape" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyLegs Shape</Data>
+            <Data name="Cuffs_CircleLegs Shape" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="BaseFBodyLegs Thin" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyLegs Thin</Data>
+            <Data name="Cuffs_CircleLegs Thin" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="BaseFBodyThighs Slim" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyThighs Slim</Data>
+            <Data name="Cuffs_CircleThighs Slim" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="BaseFBodyThighs Size" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyThighs Size</Data>
+            <Data name="Cuffs_CircleThighs Size" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="Cuffs_CircleAnkle Size" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="BaseFBodyArms Chubby" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyArms Chubby</Data>
+            <Data name="Cuffs_CircleArms Chubby" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="BaseFBodyShoulder Smooth" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyShoulder Smooth</Data>
+            <Data name="Cuffs_CircleShoulder Smooth" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="BaseFBodyShoulder Tweak" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="BaseFBodyArms Size" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyArms Size</Data>
+            <Data name="Cuffs_CircleArms Size" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="BaseFBodyArmpit Ajustment" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyArmpit Ajustment</Data>
+            <Data name="Cuffs_CircleArmpit Ajustment" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="BaseFBodyForearms Size" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyForearms Size</Data>
+            <Data name="Cuffs_CircleForearms Size" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="BaseFBodyTorso Size" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyTorso Size</Data>
+            <Data name="Cuffs_CircleTorso Size" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="BaseFBodySturnum Depth" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodySturnum Depth</Data>
+            <Data name="Cuffs_CircleSturnum Depth" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="BaseFBodySturnum Height" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodySturnum Height</Data>
+            <Data name="Cuffs_CircleSturnum Height" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="BaseFBodyGroin Position" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyGroin Position</Data>
+            <Data name="Cuffs_CircleGroin Position" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="BaseFBodyGroin Back" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyGroin Back</Data>
+            <Data name="Cuffs_CircleGroin Back" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="BaseFBodyLabia Minora Flat" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="BaseFBodyLabia Minora Longer" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="BaseFBodyClitoras Size" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="BaseFBodyClitoras Long" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="BaseFBodyLabia Majora Long" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="BaseFBodyLabia Majora Wide" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="BaseFBodyLabia Majora Inner" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="BaseFBodyAbDefinition" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="BaseFBodyBody Toning" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBody Toning</Data>
+            <Data name="Cuffs_CircleBody Toning" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="BaseFBodyTigerSanBB" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyTigerSanBB</Data>
+            <Data name="Cuffs_CircleTigerSanBB" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="BaseFBodyXunAbs" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="BaseFBodyFFB Fitness 2" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="BaseFBodyAthletic" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyAthletic</Data>
+            <Data name="Cuffs_CircleAthletic" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="BaseFBodySeveNBase Bombshell" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodySeveNBase Bombshell</Data>
+            <Data name="Cuffs_CircleSeveNBase Bombshell" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="BaseFBodyKnee Height" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyKnee Height</Data>
+            <Data name="Cuffs_CircleKnee Height" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="BaseFBodyShoulder Width" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyShoulder Width</Data>
+            <Data name="Cuffs_CircleShoulder Width" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="BaseFBodyBodyFat" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBodyFat</Data>
+            <Data name="Cuffs_CircleBodyFat" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="BaseFBodyLegThin" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyLegThin</Data>
+            <Data name="Cuffs_CircleLegThin" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="BaseFBodyHipsNarrow" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="BaseFBodyButtGravity" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="BaseFBodyButtThin" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyButtThin</Data>
+            <Data name="Cuffs_CircleButtThin" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="BaseFBodyHipsForward" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyHipsForward</Data>
+            <Data name="Cuffs_CircleHipsForward" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="BaseFBodyHipRotateForward" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="BaseFBodyBreastArmpitin" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBreastArmpitin</Data>
+            <Data name="Cuffs_CircleBreastArmpitin" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="BaseFBodyBreastArmpitWide" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBreastArmpitWide</Data>
+            <Data name="Cuffs_CircleBreastArmpitWide" target="Cuffs_Circle" local="true">Amputee Quad Body.osd\Cuffs_CircleBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="BaseFBodyBreastCurve" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="BaseFBodyBreastHeight2" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="BaseFBodyBreastConcave" target="BaseFBody" local="true">Amputee Quad Body.osd\BaseFBodyBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Maxy Dress Gloves">
+        <DataFolder>VtawMaxyDress</DataFolder>
+        <SourceFile>MaxyDressGloves.nif</SourceFile>
+        <OutputPath>meshes\vtaw\MaxyDress</OutputPath>
+        <OutputFile GenWeights="false">MaxyDressGloves</OutputFile>
+        <Shape target="Gloves">Gloves</Shape>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="GlovesBreastsSmall2" target="Gloves" local="true">MaxyDressGloves.osd\GlovesBreastsSmall2</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="GlovesChestDepth" target="Gloves" local="true">MaxyDressGloves.osd\GlovesChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="GlovesChestWidth" target="Gloves" local="true">MaxyDressGloves.osd\GlovesChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="GlovesChubbyArms" target="Gloves" local="true">MaxyDressGloves.osd\GlovesChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="GlovesChubbyWaist" target="Gloves" local="true">MaxyDressGloves.osd\GlovesChubbyWaist</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="GlovesShoulderSmooth" target="Gloves" local="true">MaxyDressGloves.osd\GlovesShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="GlovesShoulderWidth" target="Gloves" local="true">MaxyDressGloves.osd\GlovesShoulderWidth</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="GlovesVanillaFo4" target="Gloves" local="true">MaxyDressGloves.osd\GlovesVanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="GlovesWaist" target="Gloves" local="true">MaxyDressGloves.osd\GlovesWaist</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="GlovesArms" target="Gloves" local="true">MaxyDressGloves.osd\GlovesArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="GlovesBack" target="Gloves" local="true">MaxyDressGloves.osd\GlovesBack</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="GlovesBigTorso" target="Gloves" local="true">MaxyDressGloves.osd\GlovesBigTorso</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="GlovesBreastHeight" target="Gloves" local="true">MaxyDressGloves.osd\GlovesBreastHeight</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="GlovesArmpitHeight" target="Gloves" local="true">MaxyDressGloves.osd\GlovesArmpitHeight</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" default="0">
+            <Data name="GlovesForearmSize" target="Gloves" local="true">MaxyDressGloves.osd\GlovesForearmSize</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="Gloves7B Upper" target="Gloves" local="true">MaxyDressGloves.osd\Gloves7B Upper</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="GlovesMuscularArms" target="Gloves" local="true">MaxyDressGloves.osd\GlovesMuscularArms</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

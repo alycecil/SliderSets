@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Accessories Arms FG">
+        <DataFolder>Vtaw Wardrobe 5 Accessories Arms FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Accessories Arms FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Accessories</OutputPath>
+        <OutputFile GenWeights="false">Arms</OutputFile>
+        <Shape target="arms">arms</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="armsBoobs Yuge" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="armsBoobs Big" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="armsBoobs Gravity" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="armsBoobs Mellons" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="armsBoobs Perky" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="armsBoobs Push Up" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="armsBoobs Top Slope" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="armsBoobs Tiny" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="armsArms Chubby" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="armsShoulder Smooth" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="armsArms Size" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="armsArmpit Ajustment" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="armsForearms Size" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="armsTorso Size" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="armsSturnum Depth" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="armsSturnum Height" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="armsGroin Position" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="armsGroin Back" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="armsBody Toning" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="armsTigerSanBB" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="armsAthletic" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="armsSeveNBase Bombshell" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="armsShoulder Width" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="armsBodyFat" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsBodyFat</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="armsBreastArmpitin" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="armsBreastArmpitWide" target="arms" local="true">Vtaw Wardrobe 5 Accessories Arms FG.osd\armsBreastArmpitWide</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

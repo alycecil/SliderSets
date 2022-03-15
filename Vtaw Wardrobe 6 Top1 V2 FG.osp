@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Top1 V2 FG">
+        <DataFolder>Vtaw Wardrobe 6 Top1 V2 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Top1 V2 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Top1</OutputPath>
+        <OutputFile GenWeights="false">Top1V2</OutputFile>
+        <Shape target="laces">laces</Shape>
+        <Shape target="top1">top1</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="top1Belly Pregnant" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Belly Pregnant</Data>
+            <Data name="lacesBelly Pregnant" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="top1Belly Big" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="top1Belly Size" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Belly Size</Data>
+            <Data name="lacesBelly Size" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="top1Boobs Yuge" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Boobs Yuge</Data>
+            <Data name="lacesBoobs Yuge" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="top1Boobs Big" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Boobs Big</Data>
+            <Data name="lacesBoobs Big" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="top1Boobs Cleavage" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Boobs Cleavage</Data>
+            <Data name="lacesBoobs Cleavage" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="top1Boobs Flat" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Boobs Flat</Data>
+            <Data name="lacesBoobs Flat" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="top1Boobs Gravity" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Boobs Gravity</Data>
+            <Data name="lacesBoobs Gravity" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="top1Boobs Height" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Boobs Height</Data>
+            <Data name="lacesBoobs Height" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="top1Boobs Mellons" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Boobs Mellons</Data>
+            <Data name="lacesBoobs Mellons" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="top1Boobs Perky" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Boobs Perky</Data>
+            <Data name="lacesBoobs Perky" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="top1Boobs Push Up" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Boobs Push Up</Data>
+            <Data name="lacesBoobs Push Up" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="top1Boobs Small" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Boobs Small</Data>
+            <Data name="lacesBoobs Small" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="top1Boobs Together" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Boobs Together</Data>
+            <Data name="lacesBoobs Together" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="top1Boobs Top Slope" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Boobs Top Slope</Data>
+            <Data name="lacesBoobs Top Slope" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="top1Boobs Width" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Boobs Width</Data>
+            <Data name="lacesBoobs Width" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="top1Boobs Tiny" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Boobs Tiny</Data>
+            <Data name="lacesBoobs Tiny" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="top1Nipples Distance" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Nipples Distance</Data>
+            <Data name="lacesNipples Distance" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="top1Nipples Down" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Nipples Down</Data>
+            <Data name="lacesNipples Down" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="top1Nipples Perkiness" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Nipples Perkiness</Data>
+            <Data name="lacesNipples Perkiness" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="top1Nipples Puffy" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Nipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="top1Nipples Up" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Nipples Up</Data>
+            <Data name="lacesNipples Up" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="top1Chest Depth" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Chest Depth</Data>
+            <Data name="lacesChest Depth" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="top1Chest Width" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="top1Waist Chubby" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="top1Waist Size" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="top1Waist Height" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="top1Waist Line" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="top1Back Size" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="top1Back Arch" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="top1Hips Upper Width" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="top1Bum Shape 2" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="top1Bum Chubby" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="top1Bum Apple" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Bum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="top1Legs Chubby" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Legs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="top1Arms Chubby" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Arms Chubby</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="top1Arms Size" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Arms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="top1Torso Size" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Torso Size</Data>
+            <Data name="lacesTorso Size" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="top1Sturnum Depth" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Sturnum Depth</Data>
+            <Data name="lacesSturnum Depth" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="top1Sturnum Height" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Sturnum Height</Data>
+            <Data name="lacesSturnum Height" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="top1Groin Position" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="top1Groin Back" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="top1AbDefinition" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1AbDefinition</Data>
+            <Data name="lacesAbDefinition" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="top1Body Toning" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Body Toning</Data>
+            <Data name="lacesBody Toning" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="top1TigerSanBB" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1TigerSanBB</Data>
+            <Data name="lacesTigerSanBB" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="lacesXunAbs" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="top1FFB Fitness 2" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1FFB Fitness 2</Data>
+            <Data name="lacesFFB Fitness 2" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="top1Athletic" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Athletic</Data>
+            <Data name="lacesAthletic" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="top1SeveNBase Bombshell" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1SeveNBase Bombshell</Data>
+            <Data name="lacesSeveNBase Bombshell" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="top1Shoulder Width" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Shoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="top1BodyFat" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1BodyFat</Data>
+            <Data name="lacesBodyFat" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBodyFat</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="top1ButtThin" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1ButtThin</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="top1HipRotateForward" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="top1BreastArmpitin" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="top1BreastArmpitWide" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="top1BreastCurve" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1BreastCurve</Data>
+            <Data name="lacesBreastCurve" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="top1BreastHeight2" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1BreastHeight2</Data>
+            <Data name="lacesBreastHeight2" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="top1BreastConcave" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1BreastConcave</Data>
+            <Data name="lacesBreastConcave" target="laces" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\lacesBreastConcave</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="top1Nipples Length" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Nipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="top1Nipples Areola" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Nipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="top1Nipples Gone" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Nipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="top1Nipples Shape" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Nipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="top1Nipples Size" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Nipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="top1Nipples Tip" target="top1" local="true">Vtaw Wardrobe 6 Top1 V2 FG.osd\top1Nipples Tip</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

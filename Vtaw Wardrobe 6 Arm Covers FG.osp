@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Arm Covers FG">
+        <DataFolder>Vtaw Wardrobe 6 Arm Covers FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Arm Covers FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\ArmCovers</OutputPath>
+        <OutputFile GenWeights="false">ArmCovers</OutputFile>
+        <Shape target="Arms">Arms</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="ArmsBoobs Yuge" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="ArmsBoobs Big" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="ArmsBoobs Gravity" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="ArmsBoobs Mellons" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="ArmsBoobs Perky" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="ArmsBoobs Push Up" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="ArmsBoobs Top Slope" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="ArmsBoobs Tiny" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="ArmsWaist Size" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsWaist Size</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="ArmsBack Size" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsBack Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="ArmsArms Chubby" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="ArmsShoulder Smooth" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="ArmsShoulder Tweak" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="ArmsArms Size" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="ArmsArmpit Ajustment" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="ArmsForearms Size" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="ArmsTorso Size" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="ArmsSturnum Depth" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="ArmsSturnum Height" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="ArmsGroin Position" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="ArmsGroin Back" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="ArmsBody Toning" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="ArmsTigerSanBB" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="ArmsAthletic" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="ArmsSeveNBase Bombshell" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="ArmsShoulder Width" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="ArmsBodyFat" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsBodyFat</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="ArmsBreastArmpitin" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="ArmsBreastArmpitWide" target="Arms" local="true">Vtaw Wardrobe 6 Arm Covers FG.osd\ArmsBreastArmpitWide</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

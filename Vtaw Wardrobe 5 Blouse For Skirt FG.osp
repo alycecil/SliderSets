@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Blouse For Skirt FG">
+        <DataFolder>Vtaw Wardrobe 5 Blouse For Skirt FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Blouse For Skirt FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Blouse</OutputPath>
+        <OutputFile GenWeights="false">BlouseS</OutputFile>
+        <Shape target="blouse">blouse</Shape>
+        <Shape target="buttons">buttons</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="buttonsBelly Pregnant" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBelly Pregnant</Data>
+            <Data name="blouseBelly Pregnant" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="buttonsBelly Big" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBelly Big</Data>
+            <Data name="blouseBelly Big" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="buttonsBelly Size" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBelly Size</Data>
+            <Data name="blouseBelly Size" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="buttonsBelly Tuck" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBelly Tuck</Data>
+            <Data name="blouseBelly Tuck" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="buttonsBoobs Yuge" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBoobs Yuge</Data>
+            <Data name="blouseBoobs Yuge" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="buttonsBoobs Big" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBoobs Big</Data>
+            <Data name="blouseBoobs Big" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="buttonsBoobs Cleavage" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBoobs Cleavage</Data>
+            <Data name="blouseBoobs Cleavage" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="buttonsBoobs Flat" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBoobs Flat</Data>
+            <Data name="blouseBoobs Flat" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="buttonsBoobs Gravity" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBoobs Gravity</Data>
+            <Data name="blouseBoobs Gravity" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="buttonsBoobs Height" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBoobs Height</Data>
+            <Data name="blouseBoobs Height" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="buttonsBoobs Mellons" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBoobs Mellons</Data>
+            <Data name="blouseBoobs Mellons" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="buttonsBoobs Perky" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBoobs Perky</Data>
+            <Data name="blouseBoobs Perky" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="buttonsBoobs Push Up" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBoobs Push Up</Data>
+            <Data name="blouseBoobs Push Up" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="buttonsBoobs Small" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBoobs Small</Data>
+            <Data name="blouseBoobs Small" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="buttonsBoobs Together" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBoobs Together</Data>
+            <Data name="blouseBoobs Together" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="buttonsBoobs Top Slope" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBoobs Top Slope</Data>
+            <Data name="blouseBoobs Top Slope" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="buttonsBoobs Width" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBoobs Width</Data>
+            <Data name="blouseBoobs Width" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="buttonsBoobs Tiny" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBoobs Tiny</Data>
+            <Data name="blouseBoobs Tiny" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="buttonsNipples Distance" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsNipples Distance</Data>
+            <Data name="blouseNipples Distance" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="buttonsNipples Down" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsNipples Down</Data>
+            <Data name="blouseNipples Down" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="buttonsNipples Perkiness" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsNipples Perkiness</Data>
+            <Data name="blouseNipples Perkiness" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="blouseNipples Puffy" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="buttonsNipples Up" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsNipples Up</Data>
+            <Data name="blouseNipples Up" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="buttonsChest Depth" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsChest Depth</Data>
+            <Data name="blouseChest Depth" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="blouseChest Width" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="buttonsWaist Chubby" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsWaist Chubby</Data>
+            <Data name="blouseWaist Chubby" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="buttonsWaist Size" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsWaist Size</Data>
+            <Data name="blouseWaist Size" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="buttonsWaist Height" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsWaist Height</Data>
+            <Data name="blouseWaist Height" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="blouseWaist Line" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="blouseBack Size" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="blouseBack Arch" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="buttonsHips Bone" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsHips Bone</Data>
+            <Data name="blouseHips Bone" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="buttonsHips Size" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsHips Size</Data>
+            <Data name="blouseHips Size" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="blouseHips Upper Width" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="blouseBum Size" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="blouseBum Crack" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="blouseBum Shape 1" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="buttonsBum Shape 2" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBum Shape 2</Data>
+            <Data name="blouseBum Shape 2" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="buttonsBum Small" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBum Small</Data>
+            <Data name="blouseBum Small" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="blouseBum Chubby" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="blouseBum Round" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="buttonsBum Apple" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBum Apple</Data>
+            <Data name="blouseBum Apple" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="blouseLegs Chubby" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseLegs Chubby</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="buttonsThighs Slim" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsThighs Slim</Data>
+            <Data name="blouseThighs Slim" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="blouseThighs Size" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseThighs Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="buttonsArms Chubby" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsArms Chubby</Data>
+            <Data name="blouseArms Chubby" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="buttonsShoulder Smooth" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsShoulder Smooth</Data>
+            <Data name="blouseShoulder Smooth" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="buttonsShoulder Tweak" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsShoulder Tweak</Data>
+            <Data name="blouseShoulder Tweak" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="buttonsArms Size" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsArms Size</Data>
+            <Data name="blouseArms Size" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="buttonsArmpit Ajustment" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsArmpit Ajustment</Data>
+            <Data name="blouseArmpit Ajustment" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="buttonsForearms Size" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsForearms Size</Data>
+            <Data name="blouseForearms Size" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="buttonsTorso Size" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsTorso Size</Data>
+            <Data name="blouseTorso Size" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="buttonsSturnum Depth" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsSturnum Depth</Data>
+            <Data name="blouseSturnum Depth" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="buttonsSturnum Height" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsSturnum Height</Data>
+            <Data name="blouseSturnum Height" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="buttonsGroin Position" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsGroin Position</Data>
+            <Data name="blouseGroin Position" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="buttonsGroin Back" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsGroin Back</Data>
+            <Data name="blouseGroin Back" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="buttonsAbDefinition" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsAbDefinition</Data>
+            <Data name="blouseAbDefinition" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="buttonsBody Toning" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBody Toning</Data>
+            <Data name="blouseBody Toning" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="buttonsTigerSanBB" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsTigerSanBB</Data>
+            <Data name="blouseTigerSanBB" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="buttonsXunAbs" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsXunAbs</Data>
+            <Data name="blouseXunAbs" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="buttonsFFB Fitness 2" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsFFB Fitness 2</Data>
+            <Data name="blouseFFB Fitness 2" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="buttonsAthletic" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsAthletic</Data>
+            <Data name="blouseAthletic" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="buttonsSeveNBase Bombshell" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsSeveNBase Bombshell</Data>
+            <Data name="blouseSeveNBase Bombshell" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="buttonsShoulder Width" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsShoulder Width</Data>
+            <Data name="blouseShoulder Width" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="buttonsBodyFat" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBodyFat</Data>
+            <Data name="blouseBodyFat" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="blouseLegThin" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="blouseHipsNarrow" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="blouseButtThin" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="buttonsHipsForward" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsHipsForward</Data>
+            <Data name="blouseHipsForward" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="buttonsHipRotateForward" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsHipRotateForward</Data>
+            <Data name="blouseHipRotateForward" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="buttonsBreastArmpitin" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBreastArmpitin</Data>
+            <Data name="blouseBreastArmpitin" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="buttonsBreastArmpitWide" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBreastArmpitWide</Data>
+            <Data name="blouseBreastArmpitWide" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="buttonsBreastCurve" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBreastCurve</Data>
+            <Data name="blouseBreastCurve" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="buttonsBreastHeight2" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBreastHeight2</Data>
+            <Data name="blouseBreastHeight2" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="buttonsBreastConcave" target="buttons" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\buttonsBreastConcave</Data>
+            <Data name="blouseBreastConcave" target="blouse" local="true">Vtaw Wardrobe 5 Blouse For Skirt FG.osd\blouseBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

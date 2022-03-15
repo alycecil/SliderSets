@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 DoS Gauntlet FG">
+        <DataFolder>Vtaw Wardrobe 5 DoS Gauntlet FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 DoS Gauntlet FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\DoS</OutputPath>
+        <OutputFile GenWeights="false">gaunt</OutputFile>
+        <Shape target="gaunt">gaunt</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="gauntBoobs Yuge" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="gauntBoobs Big" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="gauntBoobs Gravity" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="gauntBoobs Mellons" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="gauntBoobs Perky" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="gauntBoobs Push Up" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="gauntBoobs Top Slope" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="gauntBoobs Tiny" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="gauntArms Chubby" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntArms Chubby</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="gauntArms Size" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntArms Size</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="gauntForearms Size" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="gauntTorso Size" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="gauntSturnum Depth" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="gauntSturnum Height" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="gauntGroin Position" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="gauntGroin Back" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="gauntBody Toning" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="gauntTigerSanBB" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="gauntAthletic" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="gauntSeveNBase Bombshell" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="gauntShoulder Width" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="gauntBodyFat" target="gaunt" local="true">Vtaw Wardrobe 5 DoS Gauntlet FG.osd\gauntBodyFat</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

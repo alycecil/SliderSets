@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 2B Skirt Physics FG">
+        <DataFolder>Vtaw Wardrobe 7 2B Skirt Physics FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 2B Skirt Physics FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\2B</OutputPath>
+        <OutputFile GenWeights="false">2BSkirtPhysics</OutputFile>
+        <Shape target="SkirtBelt">SkirtBelt</Shape>
+        <Shape target="skirt">skirt</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="SkirtBeltBelly Pregnant" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBelly Pregnant</Data>
+            <Data name="skirtBelly Pregnant" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="SkirtBeltBelly Big" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBelly Big</Data>
+            <Data name="skirtBelly Big" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="SkirtBeltBelly Size" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBelly Size</Data>
+            <Data name="skirtBelly Size" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="SkirtBeltBelly Tuck" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBelly Tuck</Data>
+            <Data name="skirtBelly Tuck" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Yuge" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBoobs Yuge</Data>
+            <Data name="skirtBoobs Yuge" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Big" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBoobs Big</Data>
+            <Data name="skirtBoobs Big" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="skirtBoobs Cleavage" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Gravity" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBoobs Gravity</Data>
+            <Data name="skirtBoobs Gravity" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="skirtBoobs Height" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Mellons" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBoobs Mellons</Data>
+            <Data name="skirtBoobs Mellons" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Perky" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBoobs Perky</Data>
+            <Data name="skirtBoobs Perky" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Push Up" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBoobs Push Up</Data>
+            <Data name="skirtBoobs Push Up" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="skirtBoobs Together" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Top Slope" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBoobs Top Slope</Data>
+            <Data name="skirtBoobs Top Slope" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="skirtBoobs Width" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Tiny" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBoobs Tiny</Data>
+            <Data name="skirtBoobs Tiny" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="skirtChest Depth" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="SkirtBeltChest Width" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltChest Width</Data>
+            <Data name="skirtChest Width" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="SkirtBeltWaist Chubby" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltWaist Chubby</Data>
+            <Data name="skirtWaist Chubby" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="SkirtBeltWaist Size" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltWaist Size</Data>
+            <Data name="skirtWaist Size" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="SkirtBeltWaist Height" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltWaist Height</Data>
+            <Data name="skirtWaist Height" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="SkirtBeltWaist Line" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltWaist Line</Data>
+            <Data name="skirtWaist Line" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="SkirtBeltBack Size" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBack Size</Data>
+            <Data name="skirtBack Size" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="skirtBack Arch" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="SkirtBeltHips Bone" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltHips Bone</Data>
+            <Data name="skirtHips Bone" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="SkirtBeltHips Size" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltHips Size</Data>
+            <Data name="skirtHips Size" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="SkirtBeltHips Upper Width" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltHips Upper Width</Data>
+            <Data name="skirtHips Upper Width" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="SkirtBeltBum Size" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBum Size</Data>
+            <Data name="skirtBum Size" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="skirtBum Crack" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="SkirtBeltBum Shape 1" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBum Shape 1</Data>
+            <Data name="skirtBum Shape 1" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="SkirtBeltBum Shape 2" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBum Shape 2</Data>
+            <Data name="skirtBum Shape 2" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="SkirtBeltBum Small" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBum Small</Data>
+            <Data name="skirtBum Small" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="SkirtBeltBum Chubby" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBum Chubby</Data>
+            <Data name="skirtBum Chubby" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="skirtBum Round" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="SkirtBeltBum Apple" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBum Apple</Data>
+            <Data name="skirtBum Apple" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="SkirtBeltLegs Chubby" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltLegs Chubby</Data>
+            <Data name="skirtLegs Chubby" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="SkirtBeltLegs Shape" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltLegs Shape</Data>
+            <Data name="skirtLegs Shape" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="SkirtBeltLegs Thin" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltLegs Thin</Data>
+            <Data name="skirtLegs Thin" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="SkirtBeltThighs Slim" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltThighs Slim</Data>
+            <Data name="skirtThighs Slim" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="SkirtBeltThighs Size" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltThighs Size</Data>
+            <Data name="skirtThighs Size" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="SkirtBeltTorso Size" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltTorso Size</Data>
+            <Data name="skirtTorso Size" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="SkirtBeltSturnum Depth" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltSturnum Depth</Data>
+            <Data name="skirtSturnum Depth" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="SkirtBeltSturnum Height" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltSturnum Height</Data>
+            <Data name="skirtSturnum Height" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="SkirtBeltGroin Position" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltGroin Position</Data>
+            <Data name="skirtGroin Position" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="SkirtBeltGroin Back" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltGroin Back</Data>
+            <Data name="skirtGroin Back" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="SkirtBeltAbDefinition" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltAbDefinition</Data>
+            <Data name="skirtAbDefinition" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="SkirtBeltBody Toning" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBody Toning</Data>
+            <Data name="skirtBody Toning" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="SkirtBeltTigerSanBB" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltTigerSanBB</Data>
+            <Data name="skirtTigerSanBB" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="SkirtBeltXunAbs" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltXunAbs</Data>
+            <Data name="skirtXunAbs" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="SkirtBeltFFB Fitness 2" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltFFB Fitness 2</Data>
+            <Data name="skirtFFB Fitness 2" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="SkirtBeltAthletic" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltAthletic</Data>
+            <Data name="skirtAthletic" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="SkirtBeltSeveNBase Bombshell" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltSeveNBase Bombshell</Data>
+            <Data name="skirtSeveNBase Bombshell" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="skirtKnee Height" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="skirtShoulder Width" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="SkirtBeltBodyFat" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltBodyFat</Data>
+            <Data name="skirtBodyFat" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="SkirtBeltLegThin" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltLegThin</Data>
+            <Data name="skirtLegThin" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="SkirtBeltHipsNarrow" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltHipsNarrow</Data>
+            <Data name="skirtHipsNarrow" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="skirtButtGravity" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="SkirtBeltButtThin" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltButtThin</Data>
+            <Data name="skirtButtThin" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="SkirtBeltHipsForward" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltHipsForward</Data>
+            <Data name="skirtHipsForward" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="SkirtBeltHipRotateForward" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\SkirtBeltHipRotateForward</Data>
+            <Data name="skirtHipRotateForward" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="skirtBreastHeight2" target="skirt" local="true">Vtaw Wardrobe 7 2B Skirt Physics FG.osd\skirtBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

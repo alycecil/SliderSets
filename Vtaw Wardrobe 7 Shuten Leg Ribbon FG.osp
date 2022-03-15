@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Shuten Leg Ribbon FG">
+        <DataFolder>Vtaw Wardrobe 7 Shuten Leg Ribbon FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Shuten Leg Ribbon FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\ShutenKimono</OutputPath>
+        <OutputFile GenWeights="false">ShutenKimonoLegRibbon</OutputFile>
+        <Shape target="Ribbon">Ribbon</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="RibbonBoobs Yuge" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="RibbonBoobs Big" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="RibbonBoobs Gravity" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="RibbonBoobs Mellons" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="RibbonBoobs Perky" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="RibbonBoobs Push Up" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="RibbonBoobs Top Slope" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="RibbonBoobs Tiny" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="RibbonBum Apple" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="RibbonCalf Small" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="RibbonLegs Chubby" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="RibbonLegs Thin" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonLegs Thin</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="RibbonAnkle Size" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonAnkle Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="RibbonSturnum Depth" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="RibbonSturnum Height" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="RibbonGroin Position" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="RibbonGroin Back" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="RibbonAbDefinition" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="RibbonBody Toning" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="RibbonTigerSanBB" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="RibbonAthletic" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="RibbonSeveNBase Bombshell" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="RibbonKnee Height" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonKnee Height</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="RibbonHighHeels" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="RibbonBodyFat" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="RibbonLegThin" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="RibbonHipsNarrow" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="RibbonButtGravity" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="RibbonButtThin" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="RibbonHipsForward" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="RibbonHipRotateForward" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="RibbonBreastArmpitin" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="RibbonBreastArmpitWide" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="RibbonBreastCurve" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="RibbonBreastHeight2" target="Ribbon" local="true">Vtaw Wardrobe 7 Shuten Leg Ribbon FG.osd\RibbonBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

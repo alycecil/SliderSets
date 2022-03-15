@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Short Jacket FG">
+        <DataFolder>Vtaw Wardrobe 7 Short Jacket FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Short Jacket FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\ShortJacket</OutputPath>
+        <OutputFile GenWeights="false">ShortJacket</OutputFile>
+        <Shape target="arms">arms</Shape>
+        <Shape target="jacket">jacket</Shape>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="jacketBelly Big" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBelly Big</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="jacketBoobs Yuge" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBoobs Yuge</Data>
+            <Data name="armsBoobs Yuge" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="jacketBoobs Big" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBoobs Big</Data>
+            <Data name="armsBoobs Big" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="jacketBoobs Cleavage" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="jacketBoobs Flat" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBoobs Flat</Data>
+            <Data name="armsBoobs Flat" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="jacketBoobs Gravity" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBoobs Gravity</Data>
+            <Data name="armsBoobs Gravity" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="jacketBoobs Height" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBoobs Height</Data>
+            <Data name="armsBoobs Height" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="jacketBoobs Mellons" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBoobs Mellons</Data>
+            <Data name="armsBoobs Mellons" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="jacketBoobs Perky" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBoobs Perky</Data>
+            <Data name="armsBoobs Perky" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="jacketBoobs Push Up" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBoobs Push Up</Data>
+            <Data name="armsBoobs Push Up" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="jacketBoobs Small" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBoobs Small</Data>
+            <Data name="armsBoobs Small" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="jacketBoobs Together" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBoobs Together</Data>
+            <Data name="armsBoobs Together" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="jacketBoobs Top Slope" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBoobs Top Slope</Data>
+            <Data name="armsBoobs Top Slope" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="jacketBoobs Width" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBoobs Width</Data>
+            <Data name="armsBoobs Width" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="jacketBoobs Tiny" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBoobs Tiny</Data>
+            <Data name="armsBoobs Tiny" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="jacketNipples Distance" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="jacketNipples Down" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="jacketNipples Perkiness" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="jacketNipples Up" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketNipples Up</Data>
+            <Data name="armsNipples Up" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="jacketChest Depth" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketChest Depth</Data>
+            <Data name="armsChest Depth" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="jacketChest Width" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketChest Width</Data>
+            <Data name="armsChest Width" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="jacketWaist Chubby" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="jacketWaist Size" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketWaist Size</Data>
+            <Data name="armsWaist Size" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="jacketWaist Height" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketWaist Height</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="jacketBack Size" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBack Size</Data>
+            <Data name="armsBack Size" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="jacketBack Arch" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBack Arch</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="jacketBum Apple" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="jacketLegs Chubby" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketLegs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="jacketArms Chubby" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketArms Chubby</Data>
+            <Data name="armsArms Chubby" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="jacketShoulder Smooth" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketShoulder Smooth</Data>
+            <Data name="armsShoulder Smooth" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="jacketShoulder Tweak" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketShoulder Tweak</Data>
+            <Data name="armsShoulder Tweak" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="jacketArms Size" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketArms Size</Data>
+            <Data name="armsArms Size" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="jacketArmpit Ajustment" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketArmpit Ajustment</Data>
+            <Data name="armsArmpit Ajustment" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="armsForearms Size" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="jacketTorso Size" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketTorso Size</Data>
+            <Data name="armsTorso Size" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="jacketSturnum Depth" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketSturnum Depth</Data>
+            <Data name="armsSturnum Depth" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="jacketSturnum Height" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketSturnum Height</Data>
+            <Data name="armsSturnum Height" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="jacketGroin Position" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketGroin Position</Data>
+            <Data name="armsGroin Position" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="jacketGroin Back" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketGroin Back</Data>
+            <Data name="armsGroin Back" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="jacketBody Toning" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBody Toning</Data>
+            <Data name="armsBody Toning" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="jacketTigerSanBB" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketTigerSanBB</Data>
+            <Data name="armsTigerSanBB" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsTigerSanBB</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="jacketFFB Fitness 2" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="jacketAthletic" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketAthletic</Data>
+            <Data name="armsAthletic" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="jacketSeveNBase Bombshell" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketSeveNBase Bombshell</Data>
+            <Data name="armsSeveNBase Bombshell" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="jacketShoulder Width" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketShoulder Width</Data>
+            <Data name="armsShoulder Width" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="jacketBodyFat" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBodyFat</Data>
+            <Data name="armsBodyFat" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBodyFat</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="jacketButtThin" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketButtThin</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="jacketBreastArmpitin" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBreastArmpitin</Data>
+            <Data name="armsBreastArmpitin" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="jacketBreastArmpitWide" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBreastArmpitWide</Data>
+            <Data name="armsBreastArmpitWide" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="jacketBreastCurve" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBreastCurve</Data>
+            <Data name="armsBreastCurve" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="jacketBreastHeight2" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBreastHeight2</Data>
+            <Data name="armsBreastHeight2" target="arms" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\armsBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="jacketBreastConcave" target="jacket" local="true">Vtaw Wardrobe 7 Short Jacket FG.osd\jacketBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

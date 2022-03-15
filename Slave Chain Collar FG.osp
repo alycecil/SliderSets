@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Slave Chain Collar FG">
+        <DataFolder>Slave Chain Collar FG</DataFolder>
+        <SourceFile>Slave Chain Collar FG.nif</SourceFile>
+        <OutputPath>meshes\kharneth\chaincollar</OutputPath>
+        <OutputFile GenWeights="false">collar</OutputFile>
+        <Shape target="Collar">Collar</Shape>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="CollarBelly Big" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBelly Big</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="CollarBoobs Yuge" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="CollarBoobs Big" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="CollarBoobs Cleavage" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="CollarBoobs Flat" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="CollarBoobs Gravity" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="CollarBoobs Height" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="CollarBoobs Mellons" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="CollarBoobs Perky" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="CollarBoobs Push Up" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="CollarBoobs Small" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="CollarBoobs Together" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="CollarBoobs Top Slope" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="CollarBoobs Width" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="CollarBoobs Tiny" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="CollarNipples Distance" target="Collar" local="true">Slave Chain Collar FG.osd\CollarNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="CollarNipples Up" target="Collar" local="true">Slave Chain Collar FG.osd\CollarNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="CollarChest Depth" target="Collar" local="true">Slave Chain Collar FG.osd\CollarChest Depth</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="CollarArms Chubby" target="Collar" local="true">Slave Chain Collar FG.osd\CollarArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="CollarShoulder Smooth" target="Collar" local="true">Slave Chain Collar FG.osd\CollarShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="CollarShoulder Tweak" target="Collar" local="true">Slave Chain Collar FG.osd\CollarShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="CollarArms Size" target="Collar" local="true">Slave Chain Collar FG.osd\CollarArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="CollarArmpit Ajustment" target="Collar" local="true">Slave Chain Collar FG.osd\CollarArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="CollarTorso Size" target="Collar" local="true">Slave Chain Collar FG.osd\CollarTorso Size</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="CollarGroin Position" target="Collar" local="true">Slave Chain Collar FG.osd\CollarGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="CollarGroin Back" target="Collar" local="true">Slave Chain Collar FG.osd\CollarGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="CollarBody Toning" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="CollarTigerSanBB" target="Collar" local="true">Slave Chain Collar FG.osd\CollarTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="CollarAthletic" target="Collar" local="true">Slave Chain Collar FG.osd\CollarAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="CollarSeveNBase Bombshell" target="Collar" local="true">Slave Chain Collar FG.osd\CollarSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="CollarShoulder Width" target="Collar" local="true">Slave Chain Collar FG.osd\CollarShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="CollarBodyFat" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBodyFat</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="CollarBreastArmpitin" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="CollarBreastArmpitWide" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="CollarBreastCurve" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="CollarBreastHeight2" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="CollarBreastConcave" target="Collar" local="true">Slave Chain Collar FG.osd\CollarBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

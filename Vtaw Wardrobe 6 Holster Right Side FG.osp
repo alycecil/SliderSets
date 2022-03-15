@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Holster Right Side FG">
+        <DataFolder>Vtaw Wardrobe 6 Holster Right Side FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Holster Right Side FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Belt</OutputPath>
+        <OutputFile GenWeights="false">HolsterRightSide</OutputFile>
+        <Shape target="Holster Right">Holster Right</Shape>
+        <Shape target="Metal Holster Right">Metal Holster Right</Shape>
+        <Shape target="Pistol Right">Pistol Right</Shape>
+        <Shape target="Straps Metal Right">Straps Metal Right</Shape>
+        <Shape target="Straps Pistol Right">Straps Pistol Right</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="Straps Pistol RightBelly Pregnant" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="Straps Pistol RightBelly Big" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="Straps Pistol RightBelly Size" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Holster RightBoobs Yuge" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightBoobs Yuge</Data>
+            <Data name="Straps Pistol RightBoobs Yuge" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBoobs Yuge</Data>
+            <Data name="Straps Metal RightBoobs Yuge" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBoobs Yuge</Data>
+            <Data name="Pistol RightBoobs Yuge" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Holster RightBoobs Big" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightBoobs Big</Data>
+            <Data name="Straps Pistol RightBoobs Big" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBoobs Big</Data>
+            <Data name="Straps Metal RightBoobs Big" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBoobs Big</Data>
+            <Data name="Pistol RightBoobs Big" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Holster RightBoobs Gravity" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightBoobs Gravity</Data>
+            <Data name="Straps Pistol RightBoobs Gravity" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBoobs Gravity</Data>
+            <Data name="Straps Metal RightBoobs Gravity" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBoobs Gravity</Data>
+            <Data name="Pistol RightBoobs Gravity" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Holster RightBoobs Mellons" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightBoobs Mellons</Data>
+            <Data name="Straps Pistol RightBoobs Mellons" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBoobs Mellons</Data>
+            <Data name="Straps Metal RightBoobs Mellons" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBoobs Mellons</Data>
+            <Data name="Pistol RightBoobs Mellons" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Holster RightBoobs Perky" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightBoobs Perky</Data>
+            <Data name="Straps Pistol RightBoobs Perky" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBoobs Perky</Data>
+            <Data name="Straps Metal RightBoobs Perky" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBoobs Perky</Data>
+            <Data name="Pistol RightBoobs Perky" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Holster RightBoobs Push Up" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightBoobs Push Up</Data>
+            <Data name="Straps Pistol RightBoobs Push Up" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBoobs Push Up</Data>
+            <Data name="Straps Metal RightBoobs Push Up" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBoobs Push Up</Data>
+            <Data name="Pistol RightBoobs Push Up" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="Holster RightBoobs Top Slope" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightBoobs Top Slope</Data>
+            <Data name="Straps Pistol RightBoobs Top Slope" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBoobs Top Slope</Data>
+            <Data name="Straps Metal RightBoobs Top Slope" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBoobs Top Slope</Data>
+            <Data name="Pistol RightBoobs Top Slope" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Holster RightBoobs Tiny" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightBoobs Tiny</Data>
+            <Data name="Straps Pistol RightBoobs Tiny" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBoobs Tiny</Data>
+            <Data name="Straps Metal RightBoobs Tiny" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBoobs Tiny</Data>
+            <Data name="Pistol RightBoobs Tiny" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="Straps Pistol RightChest Width" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="Straps Pistol RightWaist Chubby" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightWaist Chubby</Data>
+            <Data name="Straps Metal RightWaist Chubby" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="Straps Pistol RightWaist Size" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="Straps Pistol RightWaist Height" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="Straps Pistol RightWaist Line" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="Straps Pistol RightBack Size" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="Straps Pistol RightBack Arch" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="Straps Pistol RightHips Bone" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightHips Bone</Data>
+            <Data name="Straps Metal RightHips Bone" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="Holster RightHips Size" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightHips Size</Data>
+            <Data name="Straps Pistol RightHips Size" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightHips Size</Data>
+            <Data name="Straps Metal RightHips Size" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightHips Size</Data>
+            <Data name="Pistol RightHips Size" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightHips Size</Data>
+            <Data name="Metal Holster RightHips Size" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="Straps Pistol RightHips Upper Width" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightHips Upper Width</Data>
+            <Data name="Straps Metal RightHips Upper Width" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="Holster RightBum Size" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightBum Size</Data>
+            <Data name="Straps Pistol RightBum Size" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBum Size</Data>
+            <Data name="Straps Metal RightBum Size" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBum Size</Data>
+            <Data name="Pistol RightBum Size" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightBum Size</Data>
+            <Data name="Metal Holster RightBum Size" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightBum Size</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="Straps Pistol RightBum Shape 1" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBum Shape 1</Data>
+            <Data name="Straps Metal RightBum Shape 1" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="Straps Pistol RightBum Shape 2" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBum Shape 2</Data>
+            <Data name="Straps Metal RightBum Shape 2" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBum Shape 2</Data>
+            <Data name="Pistol RightBum Shape 2" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="Holster RightBum Small" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightBum Small</Data>
+            <Data name="Straps Pistol RightBum Small" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBum Small</Data>
+            <Data name="Straps Metal RightBum Small" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBum Small</Data>
+            <Data name="Pistol RightBum Small" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightBum Small</Data>
+            <Data name="Metal Holster RightBum Small" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="Holster RightBum Chubby" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightBum Chubby</Data>
+            <Data name="Straps Pistol RightBum Chubby" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBum Chubby</Data>
+            <Data name="Straps Metal RightBum Chubby" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBum Chubby</Data>
+            <Data name="Pistol RightBum Chubby" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightBum Chubby</Data>
+            <Data name="Metal Holster RightBum Chubby" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="Straps Pistol RightBum Round" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="Straps Pistol RightBum Apple" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBum Apple</Data>
+            <Data name="Straps Metal RightBum Apple" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="Holster RightLegs Chubby" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightLegs Chubby</Data>
+            <Data name="Straps Pistol RightLegs Chubby" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightLegs Chubby</Data>
+            <Data name="Straps Metal RightLegs Chubby" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightLegs Chubby</Data>
+            <Data name="Pistol RightLegs Chubby" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightLegs Chubby</Data>
+            <Data name="Metal Holster RightLegs Chubby" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="Holster RightLegs Shape" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightLegs Shape</Data>
+            <Data name="Straps Pistol RightLegs Shape" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightLegs Shape</Data>
+            <Data name="Straps Metal RightLegs Shape" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightLegs Shape</Data>
+            <Data name="Pistol RightLegs Shape" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightLegs Shape</Data>
+            <Data name="Metal Holster RightLegs Shape" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="Holster RightLegs Thin" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightLegs Thin</Data>
+            <Data name="Straps Pistol RightLegs Thin" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightLegs Thin</Data>
+            <Data name="Straps Metal RightLegs Thin" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightLegs Thin</Data>
+            <Data name="Pistol RightLegs Thin" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightLegs Thin</Data>
+            <Data name="Metal Holster RightLegs Thin" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="Holster RightThighs Slim" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightThighs Slim</Data>
+            <Data name="Straps Pistol RightThighs Slim" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightThighs Slim</Data>
+            <Data name="Straps Metal RightThighs Slim" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightThighs Slim</Data>
+            <Data name="Pistol RightThighs Slim" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightThighs Slim</Data>
+            <Data name="Metal Holster RightThighs Slim" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="Holster RightThighs Size" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightThighs Size</Data>
+            <Data name="Straps Pistol RightThighs Size" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightThighs Size</Data>
+            <Data name="Straps Metal RightThighs Size" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightThighs Size</Data>
+            <Data name="Pistol RightThighs Size" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightThighs Size</Data>
+            <Data name="Metal Holster RightThighs Size" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Straps Pistol RightTorso Size" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightTorso Size</Data>
+            <Data name="Straps Metal RightTorso Size" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Holster RightSturnum Depth" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightSturnum Depth</Data>
+            <Data name="Straps Pistol RightSturnum Depth" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightSturnum Depth</Data>
+            <Data name="Straps Metal RightSturnum Depth" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightSturnum Depth</Data>
+            <Data name="Pistol RightSturnum Depth" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Holster RightSturnum Height" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightSturnum Height</Data>
+            <Data name="Straps Pistol RightSturnum Height" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightSturnum Height</Data>
+            <Data name="Straps Metal RightSturnum Height" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightSturnum Height</Data>
+            <Data name="Pistol RightSturnum Height" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Holster RightGroin Position" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightGroin Position</Data>
+            <Data name="Straps Pistol RightGroin Position" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightGroin Position</Data>
+            <Data name="Straps Metal RightGroin Position" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightGroin Position</Data>
+            <Data name="Pistol RightGroin Position" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Holster RightGroin Back" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightGroin Back</Data>
+            <Data name="Straps Pistol RightGroin Back" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightGroin Back</Data>
+            <Data name="Straps Metal RightGroin Back" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightGroin Back</Data>
+            <Data name="Pistol RightGroin Back" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="Straps Pistol RightAbDefinition" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Holster RightBody Toning" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightBody Toning</Data>
+            <Data name="Straps Pistol RightBody Toning" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBody Toning</Data>
+            <Data name="Straps Metal RightBody Toning" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBody Toning</Data>
+            <Data name="Pistol RightBody Toning" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightBody Toning</Data>
+            <Data name="Metal Holster RightBody Toning" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Holster RightTigerSanBB" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightTigerSanBB</Data>
+            <Data name="Straps Pistol RightTigerSanBB" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightTigerSanBB</Data>
+            <Data name="Straps Metal RightTigerSanBB" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightTigerSanBB</Data>
+            <Data name="Pistol RightTigerSanBB" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightTigerSanBB</Data>
+            <Data name="Metal Holster RightTigerSanBB" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="Straps Pistol RightXunAbs" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="Straps Pistol RightFFB Fitness 2" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Holster RightAthletic" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightAthletic</Data>
+            <Data name="Straps Pistol RightAthletic" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightAthletic</Data>
+            <Data name="Straps Metal RightAthletic" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightAthletic</Data>
+            <Data name="Pistol RightAthletic" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightAthletic</Data>
+            <Data name="Metal Holster RightAthletic" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Holster RightSeveNBase Bombshell" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightSeveNBase Bombshell</Data>
+            <Data name="Straps Pistol RightSeveNBase Bombshell" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightSeveNBase Bombshell</Data>
+            <Data name="Straps Metal RightSeveNBase Bombshell" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightSeveNBase Bombshell</Data>
+            <Data name="Pistol RightSeveNBase Bombshell" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightSeveNBase Bombshell</Data>
+            <Data name="Metal Holster RightSeveNBase Bombshell" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="Holster RightKnee Height" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightKnee Height</Data>
+            <Data name="Straps Pistol RightKnee Height" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightKnee Height</Data>
+            <Data name="Straps Metal RightKnee Height" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightKnee Height</Data>
+            <Data name="Pistol RightKnee Height" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightKnee Height</Data>
+            <Data name="Metal Holster RightKnee Height" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Straps Pistol RightShoulder Width" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Holster RightBodyFat" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightBodyFat</Data>
+            <Data name="Straps Pistol RightBodyFat" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightBodyFat</Data>
+            <Data name="Straps Metal RightBodyFat" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightBodyFat</Data>
+            <Data name="Pistol RightBodyFat" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightBodyFat</Data>
+            <Data name="Metal Holster RightBodyFat" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="Holster RightLegThin" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightLegThin</Data>
+            <Data name="Straps Pistol RightLegThin" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightLegThin</Data>
+            <Data name="Straps Metal RightLegThin" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightLegThin</Data>
+            <Data name="Pistol RightLegThin" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightLegThin</Data>
+            <Data name="Metal Holster RightLegThin" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="Holster RightHipsNarrow" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightHipsNarrow</Data>
+            <Data name="Straps Pistol RightHipsNarrow" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightHipsNarrow</Data>
+            <Data name="Straps Metal RightHipsNarrow" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightHipsNarrow</Data>
+            <Data name="Pistol RightHipsNarrow" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightHipsNarrow</Data>
+            <Data name="Metal Holster RightHipsNarrow" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="Straps Pistol RightButtGravity" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightButtGravity</Data>
+            <Data name="Straps Metal RightButtGravity" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightButtGravity</Data>
+            <Data name="Pistol RightButtGravity" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="Holster RightButtThin" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightButtThin</Data>
+            <Data name="Straps Pistol RightButtThin" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightButtThin</Data>
+            <Data name="Straps Metal RightButtThin" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightButtThin</Data>
+            <Data name="Pistol RightButtThin" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightButtThin</Data>
+            <Data name="Metal Holster RightButtThin" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="Holster RightHipsForward" target="Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Holster RightHipsForward</Data>
+            <Data name="Straps Pistol RightHipsForward" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightHipsForward</Data>
+            <Data name="Straps Metal RightHipsForward" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightHipsForward</Data>
+            <Data name="Pistol RightHipsForward" target="Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Pistol RightHipsForward</Data>
+            <Data name="Metal Holster RightHipsForward" target="Metal Holster Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Metal Holster RightHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="Straps Pistol RightHipRotateForward" target="Straps Pistol Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Pistol RightHipRotateForward</Data>
+            <Data name="Straps Metal RightHipRotateForward" target="Straps Metal Right" local="true">Vtaw Wardrobe 6 Holster Right Side FG.osd\Straps Metal RightHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

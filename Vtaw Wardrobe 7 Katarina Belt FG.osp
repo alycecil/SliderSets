@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Katarina Belt FG">
+        <DataFolder>Vtaw Wardrobe 7 Katarina Belt FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Katarina Belt FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\Katarina</OutputPath>
+        <OutputFile GenWeights="false">KatarinaBelt</OutputFile>
+        <Shape target="Belt">Belt</Shape>
+        <Shape target="Belt2">Belt2</Shape>
+        <Shape target="Metal_Belt">Metal_Belt</Shape>
+        <Shape target="Metal_Belt_Button">Metal_Belt_Button</Shape>
+        <Shape target="Metal_Belt_Skull">Metal_Belt_Skull</Shape>
+        <Shape target="Metal_Belt_Spykes">Metal_Belt_Spykes</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="BeltBelly Pregnant" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBelly Pregnant</Data>
+            <Data name="Belt2Belly Pregnant" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Belly Pregnant</Data>
+            <Data name="Metal_BeltBelly Pregnant" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBelly Pregnant</Data>
+            <Data name="Metal_Belt_SkullBelly Pregnant" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="BeltBelly Big" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBelly Big</Data>
+            <Data name="Belt2Belly Big" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Belly Big</Data>
+            <Data name="Metal_BeltBelly Big" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBelly Big</Data>
+            <Data name="Metal_Belt_SkullBelly Big" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="BeltBelly Size" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBelly Size</Data>
+            <Data name="Belt2Belly Size" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Belly Size</Data>
+            <Data name="Metal_BeltBelly Size" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBelly Size</Data>
+            <Data name="Metal_Belt_SkullBelly Size" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="BeltBelly Tuck" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBelly Tuck</Data>
+            <Data name="Metal_BeltBelly Tuck" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBelly Tuck</Data>
+            <Data name="Metal_Belt_SkullBelly Tuck" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="BeltBoobs Yuge" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBoobs Yuge</Data>
+            <Data name="Belt2Boobs Yuge" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Boobs Yuge</Data>
+            <Data name="Metal_BeltBoobs Yuge" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBoobs Yuge</Data>
+            <Data name="Metal_Belt_ButtonBoobs Yuge" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBoobs Yuge</Data>
+            <Data name="Metal_Belt_SkullBoobs Yuge" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBoobs Yuge</Data>
+            <Data name="Metal_Belt_SpykesBoobs Yuge" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="BeltBoobs Big" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBoobs Big</Data>
+            <Data name="Belt2Boobs Big" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Boobs Big</Data>
+            <Data name="Metal_BeltBoobs Big" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBoobs Big</Data>
+            <Data name="Metal_Belt_ButtonBoobs Big" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBoobs Big</Data>
+            <Data name="Metal_Belt_SkullBoobs Big" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBoobs Big</Data>
+            <Data name="Metal_Belt_SpykesBoobs Big" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="BeltBoobs Gravity" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBoobs Gravity</Data>
+            <Data name="Belt2Boobs Gravity" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Boobs Gravity</Data>
+            <Data name="Metal_BeltBoobs Gravity" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBoobs Gravity</Data>
+            <Data name="Metal_Belt_ButtonBoobs Gravity" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBoobs Gravity</Data>
+            <Data name="Metal_Belt_SkullBoobs Gravity" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBoobs Gravity</Data>
+            <Data name="Metal_Belt_SpykesBoobs Gravity" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="BeltBoobs Mellons" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBoobs Mellons</Data>
+            <Data name="Belt2Boobs Mellons" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Boobs Mellons</Data>
+            <Data name="Metal_BeltBoobs Mellons" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBoobs Mellons</Data>
+            <Data name="Metal_Belt_ButtonBoobs Mellons" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBoobs Mellons</Data>
+            <Data name="Metal_Belt_SkullBoobs Mellons" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBoobs Mellons</Data>
+            <Data name="Metal_Belt_SpykesBoobs Mellons" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="BeltBoobs Perky" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBoobs Perky</Data>
+            <Data name="Belt2Boobs Perky" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Boobs Perky</Data>
+            <Data name="Metal_BeltBoobs Perky" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBoobs Perky</Data>
+            <Data name="Metal_Belt_ButtonBoobs Perky" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBoobs Perky</Data>
+            <Data name="Metal_Belt_SkullBoobs Perky" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBoobs Perky</Data>
+            <Data name="Metal_Belt_SpykesBoobs Perky" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="BeltBoobs Push Up" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBoobs Push Up</Data>
+            <Data name="Belt2Boobs Push Up" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Boobs Push Up</Data>
+            <Data name="Metal_BeltBoobs Push Up" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBoobs Push Up</Data>
+            <Data name="Metal_Belt_ButtonBoobs Push Up" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBoobs Push Up</Data>
+            <Data name="Metal_Belt_SkullBoobs Push Up" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBoobs Push Up</Data>
+            <Data name="Metal_Belt_SpykesBoobs Push Up" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="BeltBoobs Top Slope" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBoobs Top Slope</Data>
+            <Data name="Belt2Boobs Top Slope" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Boobs Top Slope</Data>
+            <Data name="Metal_BeltBoobs Top Slope" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBoobs Top Slope</Data>
+            <Data name="Metal_Belt_ButtonBoobs Top Slope" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBoobs Top Slope</Data>
+            <Data name="Metal_Belt_SkullBoobs Top Slope" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBoobs Top Slope</Data>
+            <Data name="Metal_Belt_SpykesBoobs Top Slope" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="BeltBoobs Tiny" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBoobs Tiny</Data>
+            <Data name="Belt2Boobs Tiny" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Boobs Tiny</Data>
+            <Data name="Metal_BeltBoobs Tiny" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBoobs Tiny</Data>
+            <Data name="Metal_Belt_ButtonBoobs Tiny" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBoobs Tiny</Data>
+            <Data name="Metal_Belt_SkullBoobs Tiny" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBoobs Tiny</Data>
+            <Data name="Metal_Belt_SpykesBoobs Tiny" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="BeltChest Width" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltChest Width</Data>
+            <Data name="Belt2Chest Width" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Chest Width</Data>
+            <Data name="Metal_BeltChest Width" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltChest Width</Data>
+            <Data name="Metal_Belt_SkullChest Width" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullChest Width</Data>
+            <Data name="Metal_Belt_SpykesChest Width" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="BeltWaist Chubby" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltWaist Chubby</Data>
+            <Data name="Belt2Waist Chubby" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Waist Chubby</Data>
+            <Data name="Metal_BeltWaist Chubby" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltWaist Chubby</Data>
+            <Data name="Metal_Belt_ButtonWaist Chubby" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonWaist Chubby</Data>
+            <Data name="Metal_Belt_SkullWaist Chubby" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullWaist Chubby</Data>
+            <Data name="Metal_Belt_SpykesWaist Chubby" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="BeltWaist Size" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltWaist Size</Data>
+            <Data name="Belt2Waist Size" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Waist Size</Data>
+            <Data name="Metal_BeltWaist Size" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltWaist Size</Data>
+            <Data name="Metal_Belt_SkullWaist Size" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullWaist Size</Data>
+            <Data name="Metal_Belt_SpykesWaist Size" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="BeltWaist Height" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltWaist Height</Data>
+            <Data name="Belt2Waist Height" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Waist Height</Data>
+            <Data name="Metal_BeltWaist Height" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltWaist Height</Data>
+            <Data name="Metal_Belt_SkullWaist Height" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullWaist Height</Data>
+            <Data name="Metal_Belt_SpykesWaist Height" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="BeltWaist Line" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltWaist Line</Data>
+            <Data name="Belt2Waist Line" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Waist Line</Data>
+            <Data name="Metal_Belt_SpykesWaist Line" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="BeltBack Size" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBack Size</Data>
+            <Data name="Belt2Back Size" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Back Size</Data>
+            <Data name="Metal_BeltBack Size" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBack Size</Data>
+            <Data name="Metal_Belt_ButtonBack Size" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBack Size</Data>
+            <Data name="Metal_Belt_SkullBack Size" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBack Size</Data>
+            <Data name="Metal_Belt_SpykesBack Size" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="BeltBack Arch" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBack Arch</Data>
+            <Data name="Belt2Back Arch" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Back Arch</Data>
+            <Data name="Metal_Belt_SpykesBack Arch" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="BeltHips Bone" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltHips Bone</Data>
+            <Data name="Belt2Hips Bone" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Hips Bone</Data>
+            <Data name="Metal_BeltHips Bone" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltHips Bone</Data>
+            <Data name="Metal_Belt_ButtonHips Bone" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonHips Bone</Data>
+            <Data name="Metal_Belt_SkullHips Bone" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullHips Bone</Data>
+            <Data name="Metal_Belt_SpykesHips Bone" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="BeltHips Size" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltHips Size</Data>
+            <Data name="Belt2Hips Size" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Hips Size</Data>
+            <Data name="Metal_BeltHips Size" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltHips Size</Data>
+            <Data name="Metal_Belt_ButtonHips Size" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonHips Size</Data>
+            <Data name="Metal_Belt_SkullHips Size" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullHips Size</Data>
+            <Data name="Metal_Belt_SpykesHips Size" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="BeltHips Upper Width" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltHips Upper Width</Data>
+            <Data name="Belt2Hips Upper Width" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Hips Upper Width</Data>
+            <Data name="Metal_BeltHips Upper Width" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltHips Upper Width</Data>
+            <Data name="Metal_Belt_ButtonHips Upper Width" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonHips Upper Width</Data>
+            <Data name="Metal_Belt_SkullHips Upper Width" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullHips Upper Width</Data>
+            <Data name="Metal_Belt_SpykesHips Upper Width" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="BeltBum Size" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBum Size</Data>
+            <Data name="Belt2Bum Size" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Bum Size</Data>
+            <Data name="Metal_BeltBum Size" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBum Size</Data>
+            <Data name="Metal_Belt_ButtonBum Size" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBum Size</Data>
+            <Data name="Metal_Belt_SkullBum Size" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBum Size</Data>
+            <Data name="Metal_Belt_SpykesBum Size" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="BeltBum Crack" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBum Crack</Data>
+            <Data name="Belt2Bum Crack" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Bum Crack</Data>
+            <Data name="Metal_Belt_ButtonBum Crack" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBum Crack</Data>
+            <Data name="Metal_Belt_SpykesBum Crack" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="BeltBum Shape 1" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBum Shape 1</Data>
+            <Data name="Belt2Bum Shape 1" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Bum Shape 1</Data>
+            <Data name="Metal_BeltBum Shape 1" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBum Shape 1</Data>
+            <Data name="Metal_Belt_ButtonBum Shape 1" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBum Shape 1</Data>
+            <Data name="Metal_Belt_SpykesBum Shape 1" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="BeltBum Shape 2" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBum Shape 2</Data>
+            <Data name="Belt2Bum Shape 2" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Bum Shape 2</Data>
+            <Data name="Metal_BeltBum Shape 2" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBum Shape 2</Data>
+            <Data name="Metal_Belt_ButtonBum Shape 2" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBum Shape 2</Data>
+            <Data name="Metal_Belt_SkullBum Shape 2" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBum Shape 2</Data>
+            <Data name="Metal_Belt_SpykesBum Shape 2" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="BeltBum Small" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBum Small</Data>
+            <Data name="Belt2Bum Small" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Bum Small</Data>
+            <Data name="Metal_BeltBum Small" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBum Small</Data>
+            <Data name="Metal_Belt_ButtonBum Small" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBum Small</Data>
+            <Data name="Metal_Belt_SkullBum Small" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBum Small</Data>
+            <Data name="Metal_Belt_SpykesBum Small" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="BeltBum Chubby" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBum Chubby</Data>
+            <Data name="Belt2Bum Chubby" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Bum Chubby</Data>
+            <Data name="Metal_BeltBum Chubby" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBum Chubby</Data>
+            <Data name="Metal_Belt_ButtonBum Chubby" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBum Chubby</Data>
+            <Data name="Metal_Belt_SkullBum Chubby" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBum Chubby</Data>
+            <Data name="Metal_Belt_SpykesBum Chubby" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="BeltBum Round" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBum Round</Data>
+            <Data name="Belt2Bum Round" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Bum Round</Data>
+            <Data name="Metal_Belt_ButtonBum Round" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBum Round</Data>
+            <Data name="Metal_Belt_SpykesBum Round" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="BeltBum Apple" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBum Apple</Data>
+            <Data name="Belt2Bum Apple" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Bum Apple</Data>
+            <Data name="Metal_BeltBum Apple" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBum Apple</Data>
+            <Data name="Metal_Belt_ButtonBum Apple" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBum Apple</Data>
+            <Data name="Metal_Belt_SkullBum Apple" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBum Apple</Data>
+            <Data name="Metal_Belt_SpykesBum Apple" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="BeltLegs Chubby" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltLegs Chubby</Data>
+            <Data name="Belt2Legs Chubby" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Legs Chubby</Data>
+            <Data name="Metal_BeltLegs Chubby" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltLegs Chubby</Data>
+            <Data name="Metal_Belt_ButtonLegs Chubby" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonLegs Chubby</Data>
+            <Data name="Metal_Belt_SkullLegs Chubby" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullLegs Chubby</Data>
+            <Data name="Metal_Belt_SpykesLegs Chubby" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="BeltLegs Shape" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltLegs Shape</Data>
+            <Data name="Belt2Legs Shape" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Legs Shape</Data>
+            <Data name="Metal_BeltLegs Shape" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltLegs Shape</Data>
+            <Data name="Metal_Belt_ButtonLegs Shape" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonLegs Shape</Data>
+            <Data name="Metal_Belt_SkullLegs Shape" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullLegs Shape</Data>
+            <Data name="Metal_Belt_SpykesLegs Shape" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="BeltLegs Thin" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltLegs Thin</Data>
+            <Data name="Belt2Legs Thin" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Legs Thin</Data>
+            <Data name="Metal_BeltLegs Thin" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltLegs Thin</Data>
+            <Data name="Metal_Belt_ButtonLegs Thin" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonLegs Thin</Data>
+            <Data name="Metal_Belt_SkullLegs Thin" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullLegs Thin</Data>
+            <Data name="Metal_Belt_SpykesLegs Thin" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="BeltThighs Slim" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltThighs Slim</Data>
+            <Data name="Belt2Thighs Slim" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Thighs Slim</Data>
+            <Data name="Metal_BeltThighs Slim" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltThighs Slim</Data>
+            <Data name="Metal_Belt_ButtonThighs Slim" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonThighs Slim</Data>
+            <Data name="Metal_Belt_SkullThighs Slim" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullThighs Slim</Data>
+            <Data name="Metal_Belt_SpykesThighs Slim" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="BeltThighs Size" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltThighs Size</Data>
+            <Data name="Belt2Thighs Size" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Thighs Size</Data>
+            <Data name="Metal_BeltThighs Size" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltThighs Size</Data>
+            <Data name="Metal_Belt_ButtonThighs Size" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonThighs Size</Data>
+            <Data name="Metal_Belt_SkullThighs Size" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullThighs Size</Data>
+            <Data name="Metal_Belt_SpykesThighs Size" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="BeltTorso Size" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltTorso Size</Data>
+            <Data name="Belt2Torso Size" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Torso Size</Data>
+            <Data name="Metal_BeltTorso Size" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltTorso Size</Data>
+            <Data name="Metal_Belt_ButtonTorso Size" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonTorso Size</Data>
+            <Data name="Metal_Belt_SkullTorso Size" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullTorso Size</Data>
+            <Data name="Metal_Belt_SpykesTorso Size" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="BeltSturnum Depth" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltSturnum Depth</Data>
+            <Data name="Belt2Sturnum Depth" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Sturnum Depth</Data>
+            <Data name="Metal_BeltSturnum Depth" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltSturnum Depth</Data>
+            <Data name="Metal_Belt_ButtonSturnum Depth" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonSturnum Depth</Data>
+            <Data name="Metal_Belt_SkullSturnum Depth" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullSturnum Depth</Data>
+            <Data name="Metal_Belt_SpykesSturnum Depth" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="BeltSturnum Height" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltSturnum Height</Data>
+            <Data name="Belt2Sturnum Height" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Sturnum Height</Data>
+            <Data name="Metal_BeltSturnum Height" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltSturnum Height</Data>
+            <Data name="Metal_Belt_ButtonSturnum Height" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonSturnum Height</Data>
+            <Data name="Metal_Belt_SkullSturnum Height" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullSturnum Height</Data>
+            <Data name="Metal_Belt_SpykesSturnum Height" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="BeltGroin Position" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltGroin Position</Data>
+            <Data name="Belt2Groin Position" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Groin Position</Data>
+            <Data name="Metal_BeltGroin Position" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltGroin Position</Data>
+            <Data name="Metal_Belt_ButtonGroin Position" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonGroin Position</Data>
+            <Data name="Metal_Belt_SkullGroin Position" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullGroin Position</Data>
+            <Data name="Metal_Belt_SpykesGroin Position" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="BeltGroin Back" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltGroin Back</Data>
+            <Data name="Belt2Groin Back" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Groin Back</Data>
+            <Data name="Metal_BeltGroin Back" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltGroin Back</Data>
+            <Data name="Metal_Belt_ButtonGroin Back" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonGroin Back</Data>
+            <Data name="Metal_Belt_SkullGroin Back" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullGroin Back</Data>
+            <Data name="Metal_Belt_SpykesGroin Back" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="BeltLabia Majora Inner" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltLabia Majora Inner</Data>
+            <Data name="Metal_BeltLabia Majora Inner" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="BeltAbDefinition" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltAbDefinition</Data>
+            <Data name="Belt2AbDefinition" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2AbDefinition</Data>
+            <Data name="Metal_BeltAbDefinition" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltAbDefinition</Data>
+            <Data name="Metal_Belt_SkullAbDefinition" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="BeltBody Toning" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBody Toning</Data>
+            <Data name="Belt2Body Toning" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Body Toning</Data>
+            <Data name="Metal_BeltBody Toning" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBody Toning</Data>
+            <Data name="Metal_Belt_ButtonBody Toning" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBody Toning</Data>
+            <Data name="Metal_Belt_SkullBody Toning" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBody Toning</Data>
+            <Data name="Metal_Belt_SpykesBody Toning" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="BeltTigerSanBB" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltTigerSanBB</Data>
+            <Data name="Belt2TigerSanBB" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2TigerSanBB</Data>
+            <Data name="Metal_BeltTigerSanBB" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltTigerSanBB</Data>
+            <Data name="Metal_Belt_ButtonTigerSanBB" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonTigerSanBB</Data>
+            <Data name="Metal_Belt_SkullTigerSanBB" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullTigerSanBB</Data>
+            <Data name="Metal_Belt_SpykesTigerSanBB" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="BeltXunAbs" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltXunAbs</Data>
+            <Data name="Metal_BeltXunAbs" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltXunAbs</Data>
+            <Data name="Metal_Belt_SkullXunAbs" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="BeltFFB Fitness 2" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltFFB Fitness 2</Data>
+            <Data name="Belt2FFB Fitness 2" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2FFB Fitness 2</Data>
+            <Data name="Metal_BeltFFB Fitness 2" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltFFB Fitness 2</Data>
+            <Data name="Metal_Belt_SkullFFB Fitness 2" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullFFB Fitness 2</Data>
+            <Data name="Metal_Belt_SpykesFFB Fitness 2" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="BeltAthletic" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltAthletic</Data>
+            <Data name="Belt2Athletic" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Athletic</Data>
+            <Data name="Metal_BeltAthletic" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltAthletic</Data>
+            <Data name="Metal_Belt_ButtonAthletic" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonAthletic</Data>
+            <Data name="Metal_Belt_SkullAthletic" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullAthletic</Data>
+            <Data name="Metal_Belt_SpykesAthletic" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="BeltSeveNBase Bombshell" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltSeveNBase Bombshell</Data>
+            <Data name="Belt2SeveNBase Bombshell" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2SeveNBase Bombshell</Data>
+            <Data name="Metal_BeltSeveNBase Bombshell" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltSeveNBase Bombshell</Data>
+            <Data name="Metal_Belt_ButtonSeveNBase Bombshell" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonSeveNBase Bombshell</Data>
+            <Data name="Metal_Belt_SkullSeveNBase Bombshell" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullSeveNBase Bombshell</Data>
+            <Data name="Metal_Belt_SpykesSeveNBase Bombshell" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="BeltShoulder Width" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltShoulder Width</Data>
+            <Data name="Belt2Shoulder Width" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2Shoulder Width</Data>
+            <Data name="Metal_Belt_SpykesShoulder Width" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="BeltBodyFat" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltBodyFat</Data>
+            <Data name="Belt2BodyFat" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2BodyFat</Data>
+            <Data name="Metal_BeltBodyFat" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltBodyFat</Data>
+            <Data name="Metal_Belt_ButtonBodyFat" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonBodyFat</Data>
+            <Data name="Metal_Belt_SkullBodyFat" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullBodyFat</Data>
+            <Data name="Metal_Belt_SpykesBodyFat" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="BeltLegThin" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltLegThin</Data>
+            <Data name="Belt2LegThin" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2LegThin</Data>
+            <Data name="Metal_BeltLegThin" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltLegThin</Data>
+            <Data name="Metal_Belt_ButtonLegThin" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonLegThin</Data>
+            <Data name="Metal_Belt_SkullLegThin" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullLegThin</Data>
+            <Data name="Metal_Belt_SpykesLegThin" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="BeltHipsNarrow" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltHipsNarrow</Data>
+            <Data name="Belt2HipsNarrow" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2HipsNarrow</Data>
+            <Data name="Metal_BeltHipsNarrow" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltHipsNarrow</Data>
+            <Data name="Metal_Belt_ButtonHipsNarrow" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonHipsNarrow</Data>
+            <Data name="Metal_Belt_SkullHipsNarrow" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullHipsNarrow</Data>
+            <Data name="Metal_Belt_SpykesHipsNarrow" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="Belt2ButtGravity" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2ButtGravity</Data>
+            <Data name="Metal_Belt_ButtonButtGravity" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="BeltButtThin" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltButtThin</Data>
+            <Data name="Belt2ButtThin" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2ButtThin</Data>
+            <Data name="Metal_BeltButtThin" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltButtThin</Data>
+            <Data name="Metal_Belt_ButtonButtThin" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonButtThin</Data>
+            <Data name="Metal_Belt_SkullButtThin" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullButtThin</Data>
+            <Data name="Metal_Belt_SpykesButtThin" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="BeltHipsForward" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltHipsForward</Data>
+            <Data name="Belt2HipsForward" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2HipsForward</Data>
+            <Data name="Metal_BeltHipsForward" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltHipsForward</Data>
+            <Data name="Metal_Belt_ButtonHipsForward" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonHipsForward</Data>
+            <Data name="Metal_Belt_SkullHipsForward" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullHipsForward</Data>
+            <Data name="Metal_Belt_SpykesHipsForward" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="BeltHipRotateForward" target="Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\BeltHipRotateForward</Data>
+            <Data name="Belt2HipRotateForward" target="Belt2" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Belt2HipRotateForward</Data>
+            <Data name="Metal_BeltHipRotateForward" target="Metal_Belt" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_BeltHipRotateForward</Data>
+            <Data name="Metal_Belt_ButtonHipRotateForward" target="Metal_Belt_Button" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_ButtonHipRotateForward</Data>
+            <Data name="Metal_Belt_SkullHipRotateForward" target="Metal_Belt_Skull" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SkullHipRotateForward</Data>
+            <Data name="Metal_Belt_SpykesHipRotateForward" target="Metal_Belt_Spykes" local="true">Vtaw Wardrobe 7 Katarina Belt FG.osd\Metal_Belt_SpykesHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

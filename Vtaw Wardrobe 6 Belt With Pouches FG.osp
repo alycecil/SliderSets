@@ -1,0 +1,612 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Belt With Pouches FG">
+        <DataFolder>Vtaw Wardrobe 6 Belt With Pouches FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Belt With Pouches FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Belt</OutputPath>
+        <OutputFile GenWeights="false">BeltWithPouches</OutputFile>
+        <Shape target="Bags Left">Bags Left</Shape>
+        <Shape target="Bags Metal Left">Bags Metal Left</Shape>
+        <Shape target="Bags Metal Right">Bags Metal Right</Shape>
+        <Shape target="Bags Right">Bags Right</Shape>
+        <Shape target="Belt">Belt</Shape>
+        <Shape target="Belt 2">Belt 2</Shape>
+        <Shape target="Belt Metal">Belt Metal</Shape>
+        <Shape target="Belt Metal 2">Belt Metal 2</Shape>
+        <Shape target="Knife">Knife</Shape>
+        <Shape target="Knife Holder">Knife Holder</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="BeltBelly Pregnant" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBelly Pregnant</Data>
+            <Data name="Belt MetalBelly Pregnant" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalBelly Pregnant</Data>
+            <Data name="Belt Metal 2Belly Pregnant" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Belly Pregnant</Data>
+            <Data name="Belt 2Belly Pregnant" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Belly Pregnant</Data>
+            <Data name="Bags Metal RightBelly Pregnant" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBelly Pregnant</Data>
+            <Data name="Bags RightBelly Pregnant" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBelly Pregnant</Data>
+            <Data name="Bags LeftBelly Pregnant" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBelly Pregnant</Data>
+            <Data name="Bags Metal LeftBelly Pregnant" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="BeltBelly Big" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBelly Big</Data>
+            <Data name="Belt MetalBelly Big" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalBelly Big</Data>
+            <Data name="Belt Metal 2Belly Big" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Belly Big</Data>
+            <Data name="Belt 2Belly Big" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Belly Big</Data>
+            <Data name="Bags Metal RightBelly Big" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBelly Big</Data>
+            <Data name="Bags RightBelly Big" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBelly Big</Data>
+            <Data name="Bags LeftBelly Big" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBelly Big</Data>
+            <Data name="Bags Metal LeftBelly Big" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="BeltBelly Size" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBelly Size</Data>
+            <Data name="Belt MetalBelly Size" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalBelly Size</Data>
+            <Data name="Belt Metal 2Belly Size" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Belly Size</Data>
+            <Data name="Belt 2Belly Size" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Belly Size</Data>
+            <Data name="Bags Metal RightBelly Size" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBelly Size</Data>
+            <Data name="Bags RightBelly Size" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBelly Size</Data>
+            <Data name="Bags LeftBelly Size" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBelly Size</Data>
+            <Data name="Bags Metal LeftBelly Size" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="BeltBelly Tuck" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBelly Tuck</Data>
+            <Data name="Belt MetalBelly Tuck" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalBelly Tuck</Data>
+            <Data name="Belt Metal 2Belly Tuck" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Belly Tuck</Data>
+            <Data name="Belt 2Belly Tuck" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Belly Tuck</Data>
+            <Data name="Bags Metal RightBelly Tuck" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBelly Tuck</Data>
+            <Data name="Bags RightBelly Tuck" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBelly Tuck</Data>
+            <Data name="Bags LeftBelly Tuck" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBelly Tuck</Data>
+            <Data name="Bags Metal LeftBelly Tuck" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="BeltBoobs Yuge" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBoobs Yuge</Data>
+            <Data name="KnifeBoobs Yuge" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBoobs Yuge</Data>
+            <Data name="Knife HolderBoobs Yuge" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBoobs Yuge</Data>
+            <Data name="Belt Metal 2Boobs Yuge" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Boobs Yuge</Data>
+            <Data name="Belt 2Boobs Yuge" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Boobs Yuge</Data>
+            <Data name="Bags Metal RightBoobs Yuge" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBoobs Yuge</Data>
+            <Data name="Bags RightBoobs Yuge" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBoobs Yuge</Data>
+            <Data name="Bags LeftBoobs Yuge" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBoobs Yuge</Data>
+            <Data name="Bags Metal LeftBoobs Yuge" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="BeltBoobs Big" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBoobs Big</Data>
+            <Data name="KnifeBoobs Big" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBoobs Big</Data>
+            <Data name="Knife HolderBoobs Big" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBoobs Big</Data>
+            <Data name="Belt MetalBoobs Big" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalBoobs Big</Data>
+            <Data name="Belt Metal 2Boobs Big" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Boobs Big</Data>
+            <Data name="Belt 2Boobs Big" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Boobs Big</Data>
+            <Data name="Bags Metal RightBoobs Big" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBoobs Big</Data>
+            <Data name="Bags RightBoobs Big" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBoobs Big</Data>
+            <Data name="Bags LeftBoobs Big" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBoobs Big</Data>
+            <Data name="Bags Metal LeftBoobs Big" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="BeltBoobs Gravity" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBoobs Gravity</Data>
+            <Data name="KnifeBoobs Gravity" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBoobs Gravity</Data>
+            <Data name="Knife HolderBoobs Gravity" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBoobs Gravity</Data>
+            <Data name="Belt Metal 2Boobs Gravity" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Boobs Gravity</Data>
+            <Data name="Belt 2Boobs Gravity" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Boobs Gravity</Data>
+            <Data name="Bags Metal RightBoobs Gravity" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBoobs Gravity</Data>
+            <Data name="Bags RightBoobs Gravity" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBoobs Gravity</Data>
+            <Data name="Bags LeftBoobs Gravity" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBoobs Gravity</Data>
+            <Data name="Bags Metal LeftBoobs Gravity" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="BeltBoobs Mellons" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBoobs Mellons</Data>
+            <Data name="KnifeBoobs Mellons" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBoobs Mellons</Data>
+            <Data name="Knife HolderBoobs Mellons" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBoobs Mellons</Data>
+            <Data name="Belt MetalBoobs Mellons" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalBoobs Mellons</Data>
+            <Data name="Belt Metal 2Boobs Mellons" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Boobs Mellons</Data>
+            <Data name="Belt 2Boobs Mellons" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Boobs Mellons</Data>
+            <Data name="Bags Metal RightBoobs Mellons" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBoobs Mellons</Data>
+            <Data name="Bags RightBoobs Mellons" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBoobs Mellons</Data>
+            <Data name="Bags LeftBoobs Mellons" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBoobs Mellons</Data>
+            <Data name="Bags Metal LeftBoobs Mellons" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="BeltBoobs Perky" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBoobs Perky</Data>
+            <Data name="KnifeBoobs Perky" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBoobs Perky</Data>
+            <Data name="Knife HolderBoobs Perky" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBoobs Perky</Data>
+            <Data name="Belt Metal 2Boobs Perky" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Boobs Perky</Data>
+            <Data name="Belt 2Boobs Perky" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Boobs Perky</Data>
+            <Data name="Bags Metal RightBoobs Perky" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBoobs Perky</Data>
+            <Data name="Bags RightBoobs Perky" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBoobs Perky</Data>
+            <Data name="Bags LeftBoobs Perky" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBoobs Perky</Data>
+            <Data name="Bags Metal LeftBoobs Perky" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="BeltBoobs Push Up" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBoobs Push Up</Data>
+            <Data name="KnifeBoobs Push Up" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBoobs Push Up</Data>
+            <Data name="Knife HolderBoobs Push Up" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBoobs Push Up</Data>
+            <Data name="Belt Metal 2Boobs Push Up" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Boobs Push Up</Data>
+            <Data name="Belt 2Boobs Push Up" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Boobs Push Up</Data>
+            <Data name="Bags Metal RightBoobs Push Up" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBoobs Push Up</Data>
+            <Data name="Bags RightBoobs Push Up" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBoobs Push Up</Data>
+            <Data name="Bags LeftBoobs Push Up" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBoobs Push Up</Data>
+            <Data name="Bags Metal LeftBoobs Push Up" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="BeltBoobs Top Slope" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBoobs Top Slope</Data>
+            <Data name="KnifeBoobs Top Slope" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBoobs Top Slope</Data>
+            <Data name="Knife HolderBoobs Top Slope" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBoobs Top Slope</Data>
+            <Data name="Belt Metal 2Boobs Top Slope" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Boobs Top Slope</Data>
+            <Data name="Belt 2Boobs Top Slope" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Boobs Top Slope</Data>
+            <Data name="Bags Metal RightBoobs Top Slope" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBoobs Top Slope</Data>
+            <Data name="Bags RightBoobs Top Slope" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBoobs Top Slope</Data>
+            <Data name="Bags LeftBoobs Top Slope" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBoobs Top Slope</Data>
+            <Data name="Bags Metal LeftBoobs Top Slope" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="BeltBoobs Tiny" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBoobs Tiny</Data>
+            <Data name="KnifeBoobs Tiny" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBoobs Tiny</Data>
+            <Data name="Knife HolderBoobs Tiny" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBoobs Tiny</Data>
+            <Data name="Belt MetalBoobs Tiny" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalBoobs Tiny</Data>
+            <Data name="Belt Metal 2Boobs Tiny" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Boobs Tiny</Data>
+            <Data name="Belt 2Boobs Tiny" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Boobs Tiny</Data>
+            <Data name="Bags Metal RightBoobs Tiny" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBoobs Tiny</Data>
+            <Data name="Bags RightBoobs Tiny" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBoobs Tiny</Data>
+            <Data name="Bags LeftBoobs Tiny" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBoobs Tiny</Data>
+            <Data name="Bags Metal LeftBoobs Tiny" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="Bags RightChest Depth" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightChest Depth</Data>
+            <Data name="Bags LeftChest Depth" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="BeltChest Width" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltChest Width</Data>
+            <Data name="Belt Metal 2Chest Width" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Chest Width</Data>
+            <Data name="Belt 2Chest Width" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Chest Width</Data>
+            <Data name="Bags Metal RightChest Width" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightChest Width</Data>
+            <Data name="Bags RightChest Width" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightChest Width</Data>
+            <Data name="Bags LeftChest Width" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftChest Width</Data>
+            <Data name="Bags Metal LeftChest Width" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="BeltWaist Chubby" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltWaist Chubby</Data>
+            <Data name="KnifeWaist Chubby" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeWaist Chubby</Data>
+            <Data name="Knife HolderWaist Chubby" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderWaist Chubby</Data>
+            <Data name="Belt MetalWaist Chubby" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalWaist Chubby</Data>
+            <Data name="Belt Metal 2Waist Chubby" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Waist Chubby</Data>
+            <Data name="Belt 2Waist Chubby" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Waist Chubby</Data>
+            <Data name="Bags Metal RightWaist Chubby" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightWaist Chubby</Data>
+            <Data name="Bags RightWaist Chubby" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightWaist Chubby</Data>
+            <Data name="Bags LeftWaist Chubby" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftWaist Chubby</Data>
+            <Data name="Bags Metal LeftWaist Chubby" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="BeltWaist Size" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltWaist Size</Data>
+            <Data name="KnifeWaist Size" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeWaist Size</Data>
+            <Data name="Knife HolderWaist Size" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderWaist Size</Data>
+            <Data name="Belt MetalWaist Size" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalWaist Size</Data>
+            <Data name="Belt Metal 2Waist Size" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Waist Size</Data>
+            <Data name="Belt 2Waist Size" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Waist Size</Data>
+            <Data name="Bags Metal RightWaist Size" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightWaist Size</Data>
+            <Data name="Bags RightWaist Size" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightWaist Size</Data>
+            <Data name="Bags LeftWaist Size" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftWaist Size</Data>
+            <Data name="Bags Metal LeftWaist Size" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="BeltWaist Height" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltWaist Height</Data>
+            <Data name="KnifeWaist Height" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeWaist Height</Data>
+            <Data name="Knife HolderWaist Height" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderWaist Height</Data>
+            <Data name="Belt MetalWaist Height" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalWaist Height</Data>
+            <Data name="Belt Metal 2Waist Height" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Waist Height</Data>
+            <Data name="Belt 2Waist Height" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Waist Height</Data>
+            <Data name="Bags Metal RightWaist Height" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightWaist Height</Data>
+            <Data name="Bags RightWaist Height" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightWaist Height</Data>
+            <Data name="Bags LeftWaist Height" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftWaist Height</Data>
+            <Data name="Bags Metal LeftWaist Height" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="BeltWaist Line" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltWaist Line</Data>
+            <Data name="Belt Metal 2Waist Line" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Waist Line</Data>
+            <Data name="Belt 2Waist Line" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Waist Line</Data>
+            <Data name="Bags Metal RightWaist Line" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightWaist Line</Data>
+            <Data name="Bags RightWaist Line" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightWaist Line</Data>
+            <Data name="Bags LeftWaist Line" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftWaist Line</Data>
+            <Data name="Bags Metal LeftWaist Line" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="BeltBack Size" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBack Size</Data>
+            <Data name="KnifeBack Size" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBack Size</Data>
+            <Data name="Knife HolderBack Size" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBack Size</Data>
+            <Data name="Belt Metal 2Back Size" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Back Size</Data>
+            <Data name="Belt 2Back Size" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Back Size</Data>
+            <Data name="Bags Metal RightBack Size" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBack Size</Data>
+            <Data name="Bags RightBack Size" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBack Size</Data>
+            <Data name="Bags LeftBack Size" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBack Size</Data>
+            <Data name="Bags Metal LeftBack Size" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="BeltBack Arch" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBack Arch</Data>
+            <Data name="KnifeBack Arch" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBack Arch</Data>
+            <Data name="Knife HolderBack Arch" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBack Arch</Data>
+            <Data name="Belt Metal 2Back Arch" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Back Arch</Data>
+            <Data name="Belt 2Back Arch" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Back Arch</Data>
+            <Data name="Bags Metal RightBack Arch" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBack Arch</Data>
+            <Data name="Bags RightBack Arch" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBack Arch</Data>
+            <Data name="Bags LeftBack Arch" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBack Arch</Data>
+            <Data name="Bags Metal LeftBack Arch" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="BeltHips Bone" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltHips Bone</Data>
+            <Data name="KnifeHips Bone" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeHips Bone</Data>
+            <Data name="Belt MetalHips Bone" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalHips Bone</Data>
+            <Data name="Belt Metal 2Hips Bone" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Hips Bone</Data>
+            <Data name="Belt 2Hips Bone" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Hips Bone</Data>
+            <Data name="Bags Metal RightHips Bone" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightHips Bone</Data>
+            <Data name="Bags RightHips Bone" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightHips Bone</Data>
+            <Data name="Bags LeftHips Bone" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftHips Bone</Data>
+            <Data name="Bags Metal LeftHips Bone" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="BeltHips Size" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltHips Size</Data>
+            <Data name="KnifeHips Size" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeHips Size</Data>
+            <Data name="Belt MetalHips Size" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalHips Size</Data>
+            <Data name="Belt Metal 2Hips Size" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Hips Size</Data>
+            <Data name="Belt 2Hips Size" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Hips Size</Data>
+            <Data name="Bags Metal RightHips Size" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightHips Size</Data>
+            <Data name="Bags RightHips Size" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightHips Size</Data>
+            <Data name="Bags LeftHips Size" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftHips Size</Data>
+            <Data name="Bags Metal LeftHips Size" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="BeltHips Upper Width" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltHips Upper Width</Data>
+            <Data name="KnifeHips Upper Width" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeHips Upper Width</Data>
+            <Data name="Knife HolderHips Upper Width" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderHips Upper Width</Data>
+            <Data name="Belt Metal 2Hips Upper Width" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Hips Upper Width</Data>
+            <Data name="Belt 2Hips Upper Width" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Hips Upper Width</Data>
+            <Data name="Bags Metal RightHips Upper Width" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightHips Upper Width</Data>
+            <Data name="Bags RightHips Upper Width" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightHips Upper Width</Data>
+            <Data name="Bags LeftHips Upper Width" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftHips Upper Width</Data>
+            <Data name="Bags Metal LeftHips Upper Width" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="BeltBum Size" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBum Size</Data>
+            <Data name="KnifeBum Size" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBum Size</Data>
+            <Data name="Knife HolderBum Size" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBum Size</Data>
+            <Data name="Belt Metal 2Bum Size" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Bum Size</Data>
+            <Data name="Belt 2Bum Size" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Bum Size</Data>
+            <Data name="Bags Metal RightBum Size" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBum Size</Data>
+            <Data name="Bags RightBum Size" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBum Size</Data>
+            <Data name="Bags LeftBum Size" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBum Size</Data>
+            <Data name="Bags Metal LeftBum Size" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="BeltBum Crack" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBum Crack</Data>
+            <Data name="KnifeBum Crack" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBum Crack</Data>
+            <Data name="Belt Metal 2Bum Crack" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Bum Crack</Data>
+            <Data name="Bags Metal RightBum Crack" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBum Crack</Data>
+            <Data name="Bags RightBum Crack" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBum Crack</Data>
+            <Data name="Bags LeftBum Crack" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="BeltBum Shape 1" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBum Shape 1</Data>
+            <Data name="KnifeBum Shape 1" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBum Shape 1</Data>
+            <Data name="Knife HolderBum Shape 1" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBum Shape 1</Data>
+            <Data name="Belt Metal 2Bum Shape 1" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Bum Shape 1</Data>
+            <Data name="Belt 2Bum Shape 1" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Bum Shape 1</Data>
+            <Data name="Bags Metal RightBum Shape 1" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBum Shape 1</Data>
+            <Data name="Bags RightBum Shape 1" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBum Shape 1</Data>
+            <Data name="Bags LeftBum Shape 1" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBum Shape 1</Data>
+            <Data name="Bags Metal LeftBum Shape 1" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="BeltBum Shape 2" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBum Shape 2</Data>
+            <Data name="KnifeBum Shape 2" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBum Shape 2</Data>
+            <Data name="Knife HolderBum Shape 2" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBum Shape 2</Data>
+            <Data name="Belt MetalBum Shape 2" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalBum Shape 2</Data>
+            <Data name="Belt Metal 2Bum Shape 2" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Bum Shape 2</Data>
+            <Data name="Belt 2Bum Shape 2" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Bum Shape 2</Data>
+            <Data name="Bags Metal RightBum Shape 2" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBum Shape 2</Data>
+            <Data name="Bags RightBum Shape 2" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBum Shape 2</Data>
+            <Data name="Bags LeftBum Shape 2" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBum Shape 2</Data>
+            <Data name="Bags Metal LeftBum Shape 2" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="BeltBum Small" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBum Small</Data>
+            <Data name="KnifeBum Small" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBum Small</Data>
+            <Data name="Knife HolderBum Small" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBum Small</Data>
+            <Data name="Belt MetalBum Small" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalBum Small</Data>
+            <Data name="Belt Metal 2Bum Small" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Bum Small</Data>
+            <Data name="Belt 2Bum Small" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Bum Small</Data>
+            <Data name="Bags Metal RightBum Small" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBum Small</Data>
+            <Data name="Bags RightBum Small" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBum Small</Data>
+            <Data name="Bags LeftBum Small" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBum Small</Data>
+            <Data name="Bags Metal LeftBum Small" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="BeltBum Chubby" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBum Chubby</Data>
+            <Data name="KnifeBum Chubby" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBum Chubby</Data>
+            <Data name="Knife HolderBum Chubby" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBum Chubby</Data>
+            <Data name="Belt Metal 2Bum Chubby" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Bum Chubby</Data>
+            <Data name="Belt 2Bum Chubby" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Bum Chubby</Data>
+            <Data name="Bags Metal RightBum Chubby" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBum Chubby</Data>
+            <Data name="Bags RightBum Chubby" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBum Chubby</Data>
+            <Data name="Bags LeftBum Chubby" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBum Chubby</Data>
+            <Data name="Bags Metal LeftBum Chubby" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="BeltBum Round" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBum Round</Data>
+            <Data name="KnifeBum Round" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBum Round</Data>
+            <Data name="Knife HolderBum Round" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBum Round</Data>
+            <Data name="Belt Metal 2Bum Round" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Bum Round</Data>
+            <Data name="Belt 2Bum Round" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Bum Round</Data>
+            <Data name="Bags Metal RightBum Round" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBum Round</Data>
+            <Data name="Bags RightBum Round" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBum Round</Data>
+            <Data name="Bags LeftBum Round" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBum Round</Data>
+            <Data name="Bags Metal LeftBum Round" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="BeltBum Apple" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBum Apple</Data>
+            <Data name="KnifeBum Apple" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBum Apple</Data>
+            <Data name="Knife HolderBum Apple" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBum Apple</Data>
+            <Data name="Belt MetalBum Apple" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalBum Apple</Data>
+            <Data name="Belt Metal 2Bum Apple" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Bum Apple</Data>
+            <Data name="Belt 2Bum Apple" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Bum Apple</Data>
+            <Data name="Bags Metal RightBum Apple" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBum Apple</Data>
+            <Data name="Bags RightBum Apple" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBum Apple</Data>
+            <Data name="Bags LeftBum Apple" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBum Apple</Data>
+            <Data name="Bags Metal LeftBum Apple" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="BeltLegs Chubby" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltLegs Chubby</Data>
+            <Data name="KnifeLegs Chubby" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeLegs Chubby</Data>
+            <Data name="Knife HolderLegs Chubby" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderLegs Chubby</Data>
+            <Data name="Belt MetalLegs Chubby" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalLegs Chubby</Data>
+            <Data name="Belt Metal 2Legs Chubby" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Legs Chubby</Data>
+            <Data name="Belt 2Legs Chubby" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Legs Chubby</Data>
+            <Data name="Bags Metal RightLegs Chubby" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightLegs Chubby</Data>
+            <Data name="Bags RightLegs Chubby" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightLegs Chubby</Data>
+            <Data name="Bags LeftLegs Chubby" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftLegs Chubby</Data>
+            <Data name="Bags Metal LeftLegs Chubby" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="BeltLegs Shape" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltLegs Shape</Data>
+            <Data name="Bags RightLegs Shape" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightLegs Shape</Data>
+            <Data name="Bags LeftLegs Shape" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="Bags RightLegs Thin" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightLegs Thin</Data>
+            <Data name="Bags LeftLegs Thin" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="BeltThighs Slim" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltThighs Slim</Data>
+            <Data name="KnifeThighs Slim" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeThighs Slim</Data>
+            <Data name="Knife HolderThighs Slim" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderThighs Slim</Data>
+            <Data name="Belt MetalThighs Slim" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalThighs Slim</Data>
+            <Data name="Belt Metal 2Thighs Slim" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Thighs Slim</Data>
+            <Data name="Belt 2Thighs Slim" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Thighs Slim</Data>
+            <Data name="Bags Metal RightThighs Slim" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightThighs Slim</Data>
+            <Data name="Bags RightThighs Slim" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightThighs Slim</Data>
+            <Data name="Bags LeftThighs Slim" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftThighs Slim</Data>
+            <Data name="Bags Metal LeftThighs Slim" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="BeltThighs Size" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltThighs Size</Data>
+            <Data name="KnifeThighs Size" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeThighs Size</Data>
+            <Data name="Knife HolderThighs Size" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderThighs Size</Data>
+            <Data name="Belt Metal 2Thighs Size" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Thighs Size</Data>
+            <Data name="Belt 2Thighs Size" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Thighs Size</Data>
+            <Data name="Bags Metal RightThighs Size" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightThighs Size</Data>
+            <Data name="Bags RightThighs Size" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightThighs Size</Data>
+            <Data name="Bags LeftThighs Size" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftThighs Size</Data>
+            <Data name="Bags Metal LeftThighs Size" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="BeltTorso Size" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltTorso Size</Data>
+            <Data name="KnifeTorso Size" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeTorso Size</Data>
+            <Data name="Knife HolderTorso Size" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderTorso Size</Data>
+            <Data name="Belt MetalTorso Size" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalTorso Size</Data>
+            <Data name="Belt Metal 2Torso Size" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Torso Size</Data>
+            <Data name="Belt 2Torso Size" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Torso Size</Data>
+            <Data name="Bags Metal RightTorso Size" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightTorso Size</Data>
+            <Data name="Bags RightTorso Size" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightTorso Size</Data>
+            <Data name="Bags LeftTorso Size" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftTorso Size</Data>
+            <Data name="Bags Metal LeftTorso Size" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="BeltSturnum Depth" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltSturnum Depth</Data>
+            <Data name="KnifeSturnum Depth" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeSturnum Depth</Data>
+            <Data name="Knife HolderSturnum Depth" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderSturnum Depth</Data>
+            <Data name="Belt MetalSturnum Depth" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalSturnum Depth</Data>
+            <Data name="Belt Metal 2Sturnum Depth" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Sturnum Depth</Data>
+            <Data name="Belt 2Sturnum Depth" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Sturnum Depth</Data>
+            <Data name="Bags Metal RightSturnum Depth" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightSturnum Depth</Data>
+            <Data name="Bags RightSturnum Depth" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightSturnum Depth</Data>
+            <Data name="Bags LeftSturnum Depth" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftSturnum Depth</Data>
+            <Data name="Bags Metal LeftSturnum Depth" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="BeltSturnum Height" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltSturnum Height</Data>
+            <Data name="KnifeSturnum Height" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeSturnum Height</Data>
+            <Data name="Knife HolderSturnum Height" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderSturnum Height</Data>
+            <Data name="Belt MetalSturnum Height" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalSturnum Height</Data>
+            <Data name="Belt Metal 2Sturnum Height" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Sturnum Height</Data>
+            <Data name="Belt 2Sturnum Height" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Sturnum Height</Data>
+            <Data name="Bags Metal RightSturnum Height" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightSturnum Height</Data>
+            <Data name="Bags RightSturnum Height" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightSturnum Height</Data>
+            <Data name="Bags LeftSturnum Height" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftSturnum Height</Data>
+            <Data name="Bags Metal LeftSturnum Height" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="BeltGroin Position" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltGroin Position</Data>
+            <Data name="KnifeGroin Position" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeGroin Position</Data>
+            <Data name="Knife HolderGroin Position" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderGroin Position</Data>
+            <Data name="Belt MetalGroin Position" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalGroin Position</Data>
+            <Data name="Belt Metal 2Groin Position" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Groin Position</Data>
+            <Data name="Belt 2Groin Position" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Groin Position</Data>
+            <Data name="Bags Metal RightGroin Position" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightGroin Position</Data>
+            <Data name="Bags RightGroin Position" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightGroin Position</Data>
+            <Data name="Bags LeftGroin Position" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftGroin Position</Data>
+            <Data name="Bags Metal LeftGroin Position" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="BeltGroin Back" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltGroin Back</Data>
+            <Data name="KnifeGroin Back" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeGroin Back</Data>
+            <Data name="Knife HolderGroin Back" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderGroin Back</Data>
+            <Data name="Belt MetalGroin Back" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalGroin Back</Data>
+            <Data name="Belt Metal 2Groin Back" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Groin Back</Data>
+            <Data name="Belt 2Groin Back" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Groin Back</Data>
+            <Data name="Bags Metal RightGroin Back" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightGroin Back</Data>
+            <Data name="Bags RightGroin Back" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightGroin Back</Data>
+            <Data name="Bags LeftGroin Back" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftGroin Back</Data>
+            <Data name="Bags Metal LeftGroin Back" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="BeltAbDefinition" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltAbDefinition</Data>
+            <Data name="Belt MetalAbDefinition" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalAbDefinition</Data>
+            <Data name="Belt Metal 2AbDefinition" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2AbDefinition</Data>
+            <Data name="Belt 2AbDefinition" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2AbDefinition</Data>
+            <Data name="Bags Metal RightAbDefinition" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightAbDefinition</Data>
+            <Data name="Bags RightAbDefinition" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightAbDefinition</Data>
+            <Data name="Bags LeftAbDefinition" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftAbDefinition</Data>
+            <Data name="Bags Metal LeftAbDefinition" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="BeltBody Toning" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBody Toning</Data>
+            <Data name="KnifeBody Toning" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBody Toning</Data>
+            <Data name="Knife HolderBody Toning" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBody Toning</Data>
+            <Data name="Belt MetalBody Toning" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalBody Toning</Data>
+            <Data name="Belt Metal 2Body Toning" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Body Toning</Data>
+            <Data name="Belt 2Body Toning" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Body Toning</Data>
+            <Data name="Bags Metal RightBody Toning" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBody Toning</Data>
+            <Data name="Bags RightBody Toning" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBody Toning</Data>
+            <Data name="Bags LeftBody Toning" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBody Toning</Data>
+            <Data name="Bags Metal LeftBody Toning" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="BeltTigerSanBB" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltTigerSanBB</Data>
+            <Data name="KnifeTigerSanBB" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeTigerSanBB</Data>
+            <Data name="Knife HolderTigerSanBB" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderTigerSanBB</Data>
+            <Data name="Belt MetalTigerSanBB" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalTigerSanBB</Data>
+            <Data name="Belt Metal 2TigerSanBB" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2TigerSanBB</Data>
+            <Data name="Belt 2TigerSanBB" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2TigerSanBB</Data>
+            <Data name="Bags Metal RightTigerSanBB" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightTigerSanBB</Data>
+            <Data name="Bags RightTigerSanBB" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightTigerSanBB</Data>
+            <Data name="Bags LeftTigerSanBB" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftTigerSanBB</Data>
+            <Data name="Bags Metal LeftTigerSanBB" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="BeltXunAbs" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltXunAbs</Data>
+            <Data name="Belt MetalXunAbs" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalXunAbs</Data>
+            <Data name="Belt Metal 2XunAbs" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2XunAbs</Data>
+            <Data name="Belt 2XunAbs" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2XunAbs</Data>
+            <Data name="Bags Metal RightXunAbs" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightXunAbs</Data>
+            <Data name="Bags RightXunAbs" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightXunAbs</Data>
+            <Data name="Bags LeftXunAbs" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftXunAbs</Data>
+            <Data name="Bags Metal LeftXunAbs" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="BeltFFB Fitness 2" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltFFB Fitness 2</Data>
+            <Data name="KnifeFFB Fitness 2" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeFFB Fitness 2</Data>
+            <Data name="Knife HolderFFB Fitness 2" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderFFB Fitness 2</Data>
+            <Data name="Belt MetalFFB Fitness 2" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalFFB Fitness 2</Data>
+            <Data name="Belt Metal 2FFB Fitness 2" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2FFB Fitness 2</Data>
+            <Data name="Belt 2FFB Fitness 2" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2FFB Fitness 2</Data>
+            <Data name="Bags Metal RightFFB Fitness 2" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightFFB Fitness 2</Data>
+            <Data name="Bags RightFFB Fitness 2" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightFFB Fitness 2</Data>
+            <Data name="Bags LeftFFB Fitness 2" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftFFB Fitness 2</Data>
+            <Data name="Bags Metal LeftFFB Fitness 2" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="BeltAthletic" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltAthletic</Data>
+            <Data name="KnifeAthletic" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeAthletic</Data>
+            <Data name="Knife HolderAthletic" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderAthletic</Data>
+            <Data name="Belt MetalAthletic" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalAthletic</Data>
+            <Data name="Belt Metal 2Athletic" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Athletic</Data>
+            <Data name="Belt 2Athletic" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Athletic</Data>
+            <Data name="Bags Metal RightAthletic" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightAthletic</Data>
+            <Data name="Bags RightAthletic" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightAthletic</Data>
+            <Data name="Bags LeftAthletic" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftAthletic</Data>
+            <Data name="Bags Metal LeftAthletic" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="BeltSeveNBase Bombshell" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltSeveNBase Bombshell</Data>
+            <Data name="KnifeSeveNBase Bombshell" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeSeveNBase Bombshell</Data>
+            <Data name="Knife HolderSeveNBase Bombshell" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderSeveNBase Bombshell</Data>
+            <Data name="Belt MetalSeveNBase Bombshell" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalSeveNBase Bombshell</Data>
+            <Data name="Belt Metal 2SeveNBase Bombshell" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2SeveNBase Bombshell</Data>
+            <Data name="Belt 2SeveNBase Bombshell" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2SeveNBase Bombshell</Data>
+            <Data name="Bags Metal RightSeveNBase Bombshell" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightSeveNBase Bombshell</Data>
+            <Data name="Bags RightSeveNBase Bombshell" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightSeveNBase Bombshell</Data>
+            <Data name="Bags LeftSeveNBase Bombshell" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftSeveNBase Bombshell</Data>
+            <Data name="Bags Metal LeftSeveNBase Bombshell" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="BeltShoulder Width" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltShoulder Width</Data>
+            <Data name="Belt Metal 2Shoulder Width" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2Shoulder Width</Data>
+            <Data name="Belt 2Shoulder Width" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2Shoulder Width</Data>
+            <Data name="Bags Metal RightShoulder Width" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightShoulder Width</Data>
+            <Data name="Bags RightShoulder Width" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightShoulder Width</Data>
+            <Data name="Bags LeftShoulder Width" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftShoulder Width</Data>
+            <Data name="Bags Metal LeftShoulder Width" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="BeltBodyFat" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltBodyFat</Data>
+            <Data name="KnifeBodyFat" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeBodyFat</Data>
+            <Data name="Knife HolderBodyFat" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderBodyFat</Data>
+            <Data name="Belt MetalBodyFat" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalBodyFat</Data>
+            <Data name="Belt Metal 2BodyFat" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2BodyFat</Data>
+            <Data name="Belt 2BodyFat" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2BodyFat</Data>
+            <Data name="Bags Metal RightBodyFat" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightBodyFat</Data>
+            <Data name="Bags RightBodyFat" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightBodyFat</Data>
+            <Data name="Bags LeftBodyFat" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftBodyFat</Data>
+            <Data name="Bags Metal LeftBodyFat" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="BeltLegThin" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltLegThin</Data>
+            <Data name="KnifeLegThin" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeLegThin</Data>
+            <Data name="Belt Metal 2LegThin" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2LegThin</Data>
+            <Data name="Belt 2LegThin" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2LegThin</Data>
+            <Data name="Bags Metal RightLegThin" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightLegThin</Data>
+            <Data name="Bags RightLegThin" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightLegThin</Data>
+            <Data name="Bags LeftLegThin" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftLegThin</Data>
+            <Data name="Bags Metal LeftLegThin" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="BeltHipsNarrow" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltHipsNarrow</Data>
+            <Data name="KnifeHipsNarrow" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeHipsNarrow</Data>
+            <Data name="Knife HolderHipsNarrow" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderHipsNarrow</Data>
+            <Data name="Belt Metal 2HipsNarrow" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2HipsNarrow</Data>
+            <Data name="Belt 2HipsNarrow" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2HipsNarrow</Data>
+            <Data name="Bags Metal RightHipsNarrow" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightHipsNarrow</Data>
+            <Data name="Bags RightHipsNarrow" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightHipsNarrow</Data>
+            <Data name="Bags LeftHipsNarrow" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftHipsNarrow</Data>
+            <Data name="Bags Metal LeftHipsNarrow" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="BeltButtThin" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltButtThin</Data>
+            <Data name="KnifeButtThin" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeButtThin</Data>
+            <Data name="Knife HolderButtThin" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderButtThin</Data>
+            <Data name="Belt Metal 2ButtThin" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2ButtThin</Data>
+            <Data name="Belt 2ButtThin" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2ButtThin</Data>
+            <Data name="Bags Metal RightButtThin" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightButtThin</Data>
+            <Data name="Bags RightButtThin" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightButtThin</Data>
+            <Data name="Bags LeftButtThin" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftButtThin</Data>
+            <Data name="Bags Metal LeftButtThin" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="BeltHipsForward" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltHipsForward</Data>
+            <Data name="KnifeHipsForward" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeHipsForward</Data>
+            <Data name="Knife HolderHipsForward" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderHipsForward</Data>
+            <Data name="Belt MetalHipsForward" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalHipsForward</Data>
+            <Data name="Belt Metal 2HipsForward" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2HipsForward</Data>
+            <Data name="Belt 2HipsForward" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2HipsForward</Data>
+            <Data name="Bags Metal RightHipsForward" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightHipsForward</Data>
+            <Data name="Bags RightHipsForward" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightHipsForward</Data>
+            <Data name="Bags LeftHipsForward" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftHipsForward</Data>
+            <Data name="Bags Metal LeftHipsForward" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="BeltHipRotateForward" target="Belt" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\BeltHipRotateForward</Data>
+            <Data name="KnifeHipRotateForward" target="Knife" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\KnifeHipRotateForward</Data>
+            <Data name="Knife HolderHipRotateForward" target="Knife Holder" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Knife HolderHipRotateForward</Data>
+            <Data name="Belt MetalHipRotateForward" target="Belt Metal" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt MetalHipRotateForward</Data>
+            <Data name="Belt Metal 2HipRotateForward" target="Belt Metal 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt Metal 2HipRotateForward</Data>
+            <Data name="Belt 2HipRotateForward" target="Belt 2" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Belt 2HipRotateForward</Data>
+            <Data name="Bags Metal RightHipRotateForward" target="Bags Metal Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal RightHipRotateForward</Data>
+            <Data name="Bags RightHipRotateForward" target="Bags Right" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags RightHipRotateForward</Data>
+            <Data name="Bags LeftHipRotateForward" target="Bags Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags LeftHipRotateForward</Data>
+            <Data name="Bags Metal LeftHipRotateForward" target="Bags Metal Left" local="true">Vtaw Wardrobe 6 Belt With Pouches FG.osd\Bags Metal LeftHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

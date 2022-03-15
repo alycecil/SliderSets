@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="_Amputee Harness">
+        <DataFolder>Amputee</DataFolder>
+        <SourceFile>_Amputee Harness.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\Amputee</OutputPath>
+        <OutputFile GenWeights="false">AmputeeHarnes</OutputFile>
+        <Shape target="Body_2">Body_2</Shape>
+        <Shape target="Charred_Arm_Armwrap" DataFolder="FusionGirl">Charred_Arm_Armwrap</Shape>
+        <Shape target="Charred_BarbedWire_2">Charred_BarbedWire_2</Shape>
+        <Shape target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0">Model002_24_-part1-armbandage.part1-armbandage_0_0_0</Shape>
+        <Shape target="Raider04FHarnessBackfaces_0">Raider04FHarnessBackfaces_0</Shape>
+        <Shape target="Raider04FHarness_0">Raider04FHarness_0</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="Raider04FHarness_0Belly Pregnant" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="Raider04FHarness_0Belly Big" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="Raider04FHarness_0Belly Size" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Belly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="Raider04FHarness_0Belly Tuck" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Belly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Boobs Yuge" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Boobs Yuge</Data>
+            <Data name="Raider04FHarness_0Boobs Yuge" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Boobs Yuge</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Yuge" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapBoobs Yuge</Data>
+            <Data name="Charred_BarbedWire_2Boobs Yuge" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Boobs Yuge</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Yuge" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Boobs Big" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Boobs Big</Data>
+            <Data name="Raider04FHarness_0Boobs Big" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Boobs Big</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Big" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapBoobs Big</Data>
+            <Data name="Charred_BarbedWire_2Boobs Big" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Boobs Big</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Big" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="Raider04FHarness_0Boobs Cleavage" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Boobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="Raider04FHarness_0Boobs Flat" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Boobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Boobs Gravity" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Boobs Gravity</Data>
+            <Data name="Raider04FHarness_0Boobs Gravity" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Boobs Gravity</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Gravity" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapBoobs Gravity</Data>
+            <Data name="Charred_BarbedWire_2Boobs Gravity" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Boobs Gravity</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Gravity" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="Raider04FHarness_0Boobs Height" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Boobs Height</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Height" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Boobs Mellons" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Boobs Mellons</Data>
+            <Data name="Raider04FHarness_0Boobs Mellons" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Boobs Mellons</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Mellons" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapBoobs Mellons</Data>
+            <Data name="Charred_BarbedWire_2Boobs Mellons" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Boobs Mellons</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Mellons" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Boobs Perky" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Boobs Perky</Data>
+            <Data name="Raider04FHarness_0Boobs Perky" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Boobs Perky</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Perky" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapBoobs Perky</Data>
+            <Data name="Charred_BarbedWire_2Boobs Perky" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Boobs Perky</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Perky" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Boobs Push Up" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Boobs Push Up</Data>
+            <Data name="Raider04FHarness_0Boobs Push Up" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Boobs Push Up</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Push Up" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapBoobs Push Up</Data>
+            <Data name="Charred_BarbedWire_2Boobs Push Up" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Boobs Push Up</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Push Up" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="Raider04FHarness_0Boobs Small" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Boobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="Raider04FHarness_0Boobs Together" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Boobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Boobs Top Slope" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Boobs Top Slope</Data>
+            <Data name="Raider04FHarness_0Boobs Top Slope" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Boobs Top Slope</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Top Slope" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapBoobs Top Slope</Data>
+            <Data name="Charred_BarbedWire_2Boobs Top Slope" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Boobs Top Slope</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Top Slope" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="Raider04FHarness_0Boobs Width" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Boobs Width</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Boobs Tiny" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Boobs Tiny</Data>
+            <Data name="Raider04FHarness_0Boobs Tiny" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Boobs Tiny</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Tiny" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapBoobs Tiny</Data>
+            <Data name="Charred_BarbedWire_2Boobs Tiny" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Boobs Tiny</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Tiny" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="Raider04FHarness_0Nipples Length" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Nipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="Raider04FHarness_0Nipples Areola" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Nipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="Raider04FHarness_0Nipples Distance" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Nipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="Raider04FHarness_0Nipples Down" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Nipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Nipples Gone" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Nipples Gone</Data>
+            <Data name="Raider04FHarness_0Nipples Gone" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Nipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="Raider04FHarness_0Nipples Shape" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Nipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="Raider04FHarness_0Nipples Size" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Nipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="Raider04FHarness_0Nipples Perkiness" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Nipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="Raider04FHarness_0Nipples Puffy" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Nipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="Raider04FHarness_0Nipples Up" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Nipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="Raider04FHarness_0Nipples Tip" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Nipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="Raider04FHarness_0Chest Depth" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Chest Depth</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Depth" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="Raider04FHarness_0Chest Width" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Chest Width</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="Raider04FHarness_0Waist Chubby" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="Raider04FHarness_0Waist Size" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Waist Size</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Waist Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="Raider04FHarness_0Waist Height" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="Raider04FHarness_0Waist Line" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="Raider04FHarness_0Back Size" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="Raider04FHarness_0Back Arch" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="Raider04FHarness_0Hips Bone" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Hips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="Raider04FHarness_0Hips Size" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Hips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="Raider04FHarness_0Hips Upper Width" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="Raider04FHarness_0Bum Size" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="Raider04FHarness_0Bum Crack" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="Raider04FHarness_0Bum Shape 1" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="Raider04FHarness_0Bum Shape 2" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="Raider04FHarness_0Bum Small" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="Raider04FHarness_0Bum Chubby" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="Raider04FHarness_0Bum Round" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="Raider04FHarness_0Bum Apple" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Bum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Calf Size" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Calf Size</Data>
+            <Data name="Raider04FHarness_0Calf Size" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Calf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Calf Small" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Calf Small</Data>
+            <Data name="Raider04FHarness_0Calf Small" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Calf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Legs Chubby" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Legs Chubby</Data>
+            <Data name="Raider04FHarness_0Legs Chubby" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Legs Shape" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Legs Shape</Data>
+            <Data name="Raider04FHarness_0Legs Shape" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Legs Thin" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Legs Thin</Data>
+            <Data name="Raider04FHarness_0Legs Thin" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Thighs Slim" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Thighs Slim</Data>
+            <Data name="Raider04FHarness_0Thighs Slim" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Thighs Size" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Thighs Size</Data>
+            <Data name="Raider04FHarness_0Thighs Size" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Thighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Ankle Size" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Ankle Size</Data>
+            <Data name="Raider04FHarness_0Ankle Size" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Ankle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="Raider04FHarness_0Arms Chubby" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Arms Chubby</Data>
+            <Data name="Charred_Arm_ArmwrapArms Chubby" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapArms Chubby</Data>
+            <Data name="Charred_BarbedWire_2Arms Chubby" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Arms Chubby</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Chubby" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="Raider04FHarness_0Shoulder Smooth" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Shoulder Smooth</Data>
+            <Data name="Charred_Arm_ArmwrapShoulder Smooth" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapShoulder Smooth</Data>
+            <Data name="Charred_BarbedWire_2Shoulder Smooth" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Shoulder Smooth</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Smooth" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="Raider04FHarness_0Shoulder Tweak" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Shoulder Tweak</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Tweak" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="Raider04FHarness_0Arms Size" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Arms Size</Data>
+            <Data name="Charred_Arm_ArmwrapArms Size" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapArms Size</Data>
+            <Data name="Charred_BarbedWire_2Arms Size" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Arms Size</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="Raider04FHarness_0Armpit Ajustment" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Armpit Ajustment</Data>
+            <Data name="Charred_Arm_ArmwrapArmpit Ajustment" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapArmpit Ajustment</Data>
+            <Data name="Charred_BarbedWire_2Armpit Ajustment" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Armpit Ajustment</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Armpit Ajustment" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapForearms Size" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapForearms Size</Data>
+            <Data name="Charred_BarbedWire_2Forearms Size" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Forearms Size</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Forearms Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Forearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Raider04FHarness_0Torso Size" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Torso Size</Data>
+            <Data name="Charred_Arm_ArmwrapTorso Size" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapTorso Size</Data>
+            <Data name="Charred_BarbedWire_2Torso Size" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Torso Size</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Torso Size" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Sturnum Depth" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Sturnum Depth</Data>
+            <Data name="Raider04FHarness_0Sturnum Depth" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Sturnum Depth</Data>
+            <Data name="Charred_Arm_ArmwrapSturnum Depth" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapSturnum Depth</Data>
+            <Data name="Charred_BarbedWire_2Sturnum Depth" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Sturnum Depth</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Depth" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Sturnum Height" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Sturnum Height</Data>
+            <Data name="Raider04FHarness_0Sturnum Height" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Sturnum Height</Data>
+            <Data name="Charred_Arm_ArmwrapSturnum Height" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapSturnum Height</Data>
+            <Data name="Charred_BarbedWire_2Sturnum Height" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Sturnum Height</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Height" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Groin Position" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Groin Position</Data>
+            <Data name="Raider04FHarness_0Groin Position" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Groin Position</Data>
+            <Data name="Charred_Arm_ArmwrapGroin Position" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapGroin Position</Data>
+            <Data name="Charred_BarbedWire_2Groin Position" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Groin Position</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Position" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Groin Back" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Groin Back</Data>
+            <Data name="Raider04FHarness_0Groin Back" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Groin Back</Data>
+            <Data name="Charred_Arm_ArmwrapGroin Back" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapGroin Back</Data>
+            <Data name="Charred_BarbedWire_2Groin Back" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Groin Back</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Back" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Groin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="Raider04FHarness_0Labia Minora Flat" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Labia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="Raider04FHarness_0Labia Minora Longer" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Labia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="Raider04FHarness_0Clitoras Size" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Clitoras Size</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="Raider04FHarness_0Labia Majora Wide" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Labia Majora Wide</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0AbDefinition" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0AbDefinition</Data>
+            <Data name="Raider04FHarness_0AbDefinition" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Body Toning" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Body Toning</Data>
+            <Data name="Raider04FHarness_0Body Toning" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Body Toning</Data>
+            <Data name="Charred_Arm_ArmwrapBody Toning" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapBody Toning</Data>
+            <Data name="Charred_BarbedWire_2Body Toning" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Body Toning</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Body Toning" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0TigerSanBB" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0TigerSanBB</Data>
+            <Data name="Raider04FHarness_0TigerSanBB" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0TigerSanBB</Data>
+            <Data name="Charred_Arm_ArmwrapTigerSanBB" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapTigerSanBB</Data>
+            <Data name="Charred_BarbedWire_2TigerSanBB" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2TigerSanBB</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0TigerSanBB" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="Raider04FHarness_0XunAbs" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="Raider04FHarness_0FFB Fitness 2" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Athletic" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Athletic</Data>
+            <Data name="Raider04FHarness_0Athletic" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Athletic</Data>
+            <Data name="Charred_Arm_ArmwrapAthletic" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapAthletic</Data>
+            <Data name="Charred_BarbedWire_2Athletic" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Athletic</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Athletic" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0SeveNBase Bombshell" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0SeveNBase Bombshell</Data>
+            <Data name="Raider04FHarness_0SeveNBase Bombshell" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0SeveNBase Bombshell</Data>
+            <Data name="Charred_Arm_ArmwrapSeveNBase Bombshell" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapSeveNBase Bombshell</Data>
+            <Data name="Charred_BarbedWire_2SeveNBase Bombshell" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2SeveNBase Bombshell</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0SeveNBase Bombshell" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0Knee Height" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0Knee Height</Data>
+            <Data name="Raider04FHarness_0Knee Height" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Knee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Raider04FHarness_0Shoulder Width" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0Shoulder Width</Data>
+            <Data name="Charred_Arm_ArmwrapShoulder Width" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapShoulder Width</Data>
+            <Data name="Charred_BarbedWire_2Shoulder Width" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2Shoulder Width</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Width" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0Shoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="Raider04FHarnessBackfaces_0HighHeels" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0HighHeels</Data>
+            <Data name="Raider04FHarness_0HighHeels" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0HighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0BodyFat" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0BodyFat</Data>
+            <Data name="Raider04FHarness_0BodyFat" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0BodyFat</Data>
+            <Data name="Charred_Arm_ArmwrapBodyFat" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapBodyFat</Data>
+            <Data name="Charred_BarbedWire_2BodyFat" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2BodyFat</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BodyFat" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0LegThin" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0LegThin</Data>
+            <Data name="Raider04FHarness_0LegThin" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0HipsNarrow" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0HipsNarrow</Data>
+            <Data name="Raider04FHarness_0HipsNarrow" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0ButtGravity" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0ButtGravity</Data>
+            <Data name="Raider04FHarness_0ButtGravity" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0ButtThin" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0ButtThin</Data>
+            <Data name="Raider04FHarness_0ButtThin" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0HipsForward" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0HipsForward</Data>
+            <Data name="Raider04FHarness_0HipsForward" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0HipRotateForward" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0HipRotateForward</Data>
+            <Data name="Raider04FHarness_0HipRotateForward" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0BreastArmpitin" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0BreastArmpitin</Data>
+            <Data name="Raider04FHarness_0BreastArmpitin" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0BreastArmpitin</Data>
+            <Data name="Charred_Arm_ArmwrapBreastArmpitin" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapBreastArmpitin</Data>
+            <Data name="Charred_BarbedWire_2BreastArmpitin" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2BreastArmpitin</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitin" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0BreastArmpitWide" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0BreastArmpitWide</Data>
+            <Data name="Raider04FHarness_0BreastArmpitWide" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0BreastArmpitWide</Data>
+            <Data name="Charred_Arm_ArmwrapBreastArmpitWide" target="Charred_Arm_Armwrap" local="true">_Amputee Harness.osd\Charred_Arm_ArmwrapBreastArmpitWide</Data>
+            <Data name="Charred_BarbedWire_2BreastArmpitWide" target="Charred_BarbedWire_2" local="true">_Amputee Harness.osd\Charred_BarbedWire_2BreastArmpitWide</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitWide" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0BreastCurve" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0BreastCurve</Data>
+            <Data name="Raider04FHarness_0BreastCurve" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="Raider04FHarnessBackfaces_0BreastHeight2" target="Raider04FHarnessBackfaces_0" local="true">_Amputee Harness.osd\Raider04FHarnessBackfaces_0BreastHeight2</Data>
+            <Data name="Raider04FHarness_0BreastHeight2" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0BreastHeight2</Data>
+            <Data name="Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastHeight2" target="Model002_24_-part1-armbandage.part1-armbandage_0_0_0" local="true">_Amputee Harness.osd\Model002_24_-part1-armbandage.part1-armbandage_0_0_0BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="Raider04FHarness_0BreastConcave" target="Raider04FHarness_0" local="true">_Amputee Harness.osd\Raider04FHarness_0BreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

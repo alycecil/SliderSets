@@ -1,0 +1,551 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Hotpants No pockets FG">
+        <DataFolder>Vtaw Wardrobe 5 Hotpants No pockets FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Hotpants No pockets FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\hotpants</OutputPath>
+        <OutputFile GenWeights="false">hotpantsNo</OutputFile>
+        <Shape target="backpockets">backpockets</Shape>
+        <Shape target="but">but</Shape>
+        <Shape target="hotpants">hotpants</Shape>
+        <Shape target="rip">rip</Shape>
+        <Shape target="zipper">zipper</Shape>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="zipperBreastsSmall" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBreastsSmall</Data>
+            <Data name="hotpantsBreastsSmall" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBreastsSmall</Data>
+            <Data name="butBreastsSmall" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="zipperBreastsSmall2" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBreastsSmall2</Data>
+            <Data name="hotpantsBreastsSmall2" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBreastsSmall2</Data>
+            <Data name="butBreastsSmall2" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBreastsSmall2</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="zipperButt" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperButt</Data>
+            <Data name="hotpantsButt" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsButt</Data>
+            <Data name="butButt" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butButt</Data>
+            <Data name="ripButt" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripButt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="hotpantsButtCrack" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsButtCrack</Data>
+            <Data name="ripButtCrack" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="zipperButtNew" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperButtNew</Data>
+            <Data name="hotpantsButtNew" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsButtNew</Data>
+            <Data name="butButtNew" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butButtNew</Data>
+            <Data name="ripButtNew" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="zipperButtShape2" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperButtShape2</Data>
+            <Data name="hotpantsButtShape2" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsButtShape2</Data>
+            <Data name="butButtShape2" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butButtShape2</Data>
+            <Data name="ripButtShape2" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="zipperButtSmall" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperButtSmall</Data>
+            <Data name="hotpantsButtSmall" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsButtSmall</Data>
+            <Data name="butButtSmall" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butButtSmall</Data>
+            <Data name="ripButtSmall" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripButtSmall</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="zipperChestDepth" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperChestDepth</Data>
+            <Data name="hotpantsChestDepth" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsChestDepth</Data>
+            <Data name="butChestDepth" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butChestDepth</Data>
+            <Data name="ripChestDepth" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripChestDepth</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="zipperChubbyButt" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperChubbyButt</Data>
+            <Data name="hotpantsChubbyButt" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsChubbyButt</Data>
+            <Data name="butChubbyButt" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butChubbyButt</Data>
+            <Data name="ripChubbyButt" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="zipperChubbyLegs" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperChubbyLegs</Data>
+            <Data name="hotpantsChubbyLegs" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsChubbyLegs</Data>
+            <Data name="butChubbyLegs" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butChubbyLegs</Data>
+            <Data name="ripChubbyLegs" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="zipperChubbyWaist" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperChubbyWaist</Data>
+            <Data name="hotpantsChubbyWaist" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsChubbyWaist</Data>
+            <Data name="butChubbyWaist" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butChubbyWaist</Data>
+            <Data name="ripChubbyWaist" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" default="0">
+            <Data name="zipperCrotchBack" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperCrotchBack</Data>
+            <Data name="hotpantsCrotchBack" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsCrotchBack</Data>
+            <Data name="butCrotchBack" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butCrotchBack</Data>
+            <Data name="ripCrotchBack" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripCrotchBack</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" default="0">
+            <Data name="zipperGroin" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperGroin</Data>
+            <Data name="hotpantsGroin" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsGroin</Data>
+            <Data name="butGroin" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butGroin</Data>
+            <Data name="ripGroin" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripGroin</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="zipperHipBack" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperHipBack</Data>
+            <Data name="hotpantsHipBack" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsHipBack</Data>
+            <Data name="butHipBack" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butHipBack</Data>
+            <Data name="ripHipBack" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripHipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="zipperHipBone" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperHipBone</Data>
+            <Data name="hotpantsHipBone" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsHipBone</Data>
+            <Data name="butHipBone" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butHipBone</Data>
+            <Data name="ripHipBone" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripHipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="zipperHips" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperHips</Data>
+            <Data name="hotpantsHips" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsHips</Data>
+            <Data name="butHips" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butHips</Data>
+            <Data name="ripHips" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="zipperHipUpperWidth" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperHipUpperWidth</Data>
+            <Data name="hotpantsHipUpperWidth" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsHipUpperWidth</Data>
+            <Data name="butHipUpperWidth" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butHipUpperWidth</Data>
+            <Data name="ripHipUpperWidth" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripHipUpperWidth</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="hotpantsLegShape" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsLegShape</Data>
+            <Data name="ripLegShape" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripLegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="hotpantsLegsThin" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsLegsThin</Data>
+            <Data name="ripLegsThin" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripLegsThin</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="zipperPregnancyBelly" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperPregnancyBelly</Data>
+            <Data name="hotpantsPregnancyBelly" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsPregnancyBelly</Data>
+            <Data name="butPregnancyBelly" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butPregnancyBelly</Data>
+            <Data name="ripPregnancyBelly" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripPregnancyBelly</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="zipperRoundAss" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperRoundAss</Data>
+            <Data name="hotpantsRoundAss" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsRoundAss</Data>
+            <Data name="butRoundAss" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butRoundAss</Data>
+            <Data name="ripRoundAss" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="zipperSlimThighs" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperSlimThighs</Data>
+            <Data name="hotpantsSlimThighs" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsSlimThighs</Data>
+            <Data name="butSlimThighs" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butSlimThighs</Data>
+            <Data name="ripSlimThighs" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="zipperThighs" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperThighs</Data>
+            <Data name="hotpantsThighs" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsThighs</Data>
+            <Data name="butThighs" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butThighs</Data>
+            <Data name="ripThighs" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="zipperTummyTuck" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperTummyTuck</Data>
+            <Data name="hotpantsTummyTuck" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsTummyTuck</Data>
+            <Data name="butTummyTuck" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butTummyTuck</Data>
+            <Data name="ripTummyTuck" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripTummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="zipperVanillaFo4" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperVanillaFo4</Data>
+            <Data name="hotpantsVanillaFo4" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsVanillaFo4</Data>
+            <Data name="butVanillaFo4" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butVanillaFo4</Data>
+            <Data name="ripVanillaFo4" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripVanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="zipperWaist" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperWaist</Data>
+            <Data name="hotpantsWaist" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsWaist</Data>
+            <Data name="butWaist" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butWaist</Data>
+            <Data name="ripWaist" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="zipperWaistHeight" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperWaistHeight</Data>
+            <Data name="hotpantsWaistHeight" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsWaistHeight</Data>
+            <Data name="butWaistHeight" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butWaistHeight</Data>
+            <Data name="ripWaistHeight" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="zipperWideWaistLine" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperWideWaistLine</Data>
+            <Data name="hotpantsWideWaistLine" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsWideWaistLine</Data>
+            <Data name="butWideWaistLine" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butWideWaistLine</Data>
+            <Data name="ripWideWaistLine" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripWideWaistLine</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="zipperAppleCheeks" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperAppleCheeks</Data>
+            <Data name="hotpantsAppleCheeks" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsAppleCheeks</Data>
+            <Data name="butAppleCheeks" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butAppleCheeks</Data>
+            <Data name="ripAppleCheeks" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripAppleCheeks</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="hotpantsBack" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBack</Data>
+            <Data name="ripBack" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="hotpantsBackArch" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="zipperBelly" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBelly</Data>
+            <Data name="hotpantsBelly" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBelly</Data>
+            <Data name="butBelly" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBelly</Data>
+            <Data name="ripBelly" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="zipperBigBelly" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBigBelly</Data>
+            <Data name="hotpantsBigBelly" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBigBelly</Data>
+            <Data name="butBigBelly" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBigBelly</Data>
+            <Data name="ripBigBelly" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="zipperBigButt" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBigButt</Data>
+            <Data name="hotpantsBigButt" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBigButt</Data>
+            <Data name="butBigButt" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBigButt</Data>
+            <Data name="ripBigButt" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="zipperBigTorso" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBigTorso</Data>
+            <Data name="hotpantsBigTorso" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBigTorso</Data>
+            <Data name="butBigTorso" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBigTorso</Data>
+            <Data name="ripBigTorso" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBigTorso</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="zipper7B Lower" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipper7B Lower</Data>
+            <Data name="hotpants7B Lower" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpants7B Lower</Data>
+            <Data name="but7B Lower" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\but7B Lower</Data>
+            <Data name="rip7B Lower" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\rip7B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="zipperMuscularChest" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperMuscularChest</Data>
+            <Data name="hotpantsMuscularChest" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsMuscularChest</Data>
+            <Data name="butMuscularChest" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butMuscularChest</Data>
+            <Data name="ripMuscularChest" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripMuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="hotpantsMuscularButt" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsMuscularButt</Data>
+            <Data name="ripMuscularButt" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripMuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="hotpantsMuscularLegs" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsMuscularLegs</Data>
+            <Data name="ripMuscularLegs" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripMuscularLegs</Data>
+        </Slider>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="zipperBelly Pregnant" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBelly Pregnant</Data>
+            <Data name="hotpantsBelly Pregnant" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBelly Pregnant</Data>
+            <Data name="butBelly Pregnant" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBelly Pregnant</Data>
+            <Data name="ripBelly Pregnant" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="zipperBelly Big" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBelly Big</Data>
+            <Data name="hotpantsBelly Big" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBelly Big</Data>
+            <Data name="butBelly Big" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBelly Big</Data>
+            <Data name="ripBelly Big" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="zipperBelly Size" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBelly Size</Data>
+            <Data name="hotpantsBelly Size" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBelly Size</Data>
+            <Data name="butBelly Size" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="zipperBelly Tuck" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBelly Tuck</Data>
+            <Data name="hotpantsBelly Tuck" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBelly Tuck</Data>
+            <Data name="butBelly Tuck" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBelly Tuck</Data>
+            <Data name="ripBelly Tuck" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="backpocketsBoobs Yuge" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBoobs Yuge</Data>
+            <Data name="zipperBoobs Yuge" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBoobs Yuge</Data>
+            <Data name="hotpantsBoobs Yuge" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBoobs Yuge</Data>
+            <Data name="butBoobs Yuge" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBoobs Yuge</Data>
+            <Data name="ripBoobs Yuge" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="backpocketsBoobs Big" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBoobs Big</Data>
+            <Data name="zipperBoobs Big" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBoobs Big</Data>
+            <Data name="hotpantsBoobs Big" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBoobs Big</Data>
+            <Data name="butBoobs Big" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBoobs Big</Data>
+            <Data name="ripBoobs Big" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="backpocketsBoobs Gravity" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBoobs Gravity</Data>
+            <Data name="zipperBoobs Gravity" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBoobs Gravity</Data>
+            <Data name="hotpantsBoobs Gravity" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBoobs Gravity</Data>
+            <Data name="butBoobs Gravity" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBoobs Gravity</Data>
+            <Data name="ripBoobs Gravity" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="backpocketsBoobs Mellons" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBoobs Mellons</Data>
+            <Data name="zipperBoobs Mellons" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBoobs Mellons</Data>
+            <Data name="hotpantsBoobs Mellons" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBoobs Mellons</Data>
+            <Data name="butBoobs Mellons" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBoobs Mellons</Data>
+            <Data name="ripBoobs Mellons" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="backpocketsBoobs Perky" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBoobs Perky</Data>
+            <Data name="zipperBoobs Perky" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBoobs Perky</Data>
+            <Data name="hotpantsBoobs Perky" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBoobs Perky</Data>
+            <Data name="butBoobs Perky" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBoobs Perky</Data>
+            <Data name="ripBoobs Perky" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="backpocketsBoobs Push Up" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBoobs Push Up</Data>
+            <Data name="zipperBoobs Push Up" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBoobs Push Up</Data>
+            <Data name="hotpantsBoobs Push Up" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBoobs Push Up</Data>
+            <Data name="butBoobs Push Up" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBoobs Push Up</Data>
+            <Data name="ripBoobs Push Up" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="backpocketsBoobs Top Slope" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBoobs Top Slope</Data>
+            <Data name="zipperBoobs Top Slope" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBoobs Top Slope</Data>
+            <Data name="hotpantsBoobs Top Slope" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBoobs Top Slope</Data>
+            <Data name="butBoobs Top Slope" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBoobs Top Slope</Data>
+            <Data name="ripBoobs Top Slope" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="backpocketsBoobs Tiny" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBoobs Tiny</Data>
+            <Data name="zipperBoobs Tiny" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBoobs Tiny</Data>
+            <Data name="hotpantsBoobs Tiny" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBoobs Tiny</Data>
+            <Data name="butBoobs Tiny" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBoobs Tiny</Data>
+            <Data name="ripBoobs Tiny" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="hotpantsChest Width" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="backpocketsWaist Chubby" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsWaist Chubby</Data>
+            <Data name="zipperWaist Chubby" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperWaist Chubby</Data>
+            <Data name="hotpantsWaist Chubby" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsWaist Chubby</Data>
+            <Data name="butWaist Chubby" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butWaist Chubby</Data>
+            <Data name="ripWaist Chubby" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="hotpantsWaist Size" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsWaist Size</Data>
+            <Data name="butWaist Size" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="zipperWaist Height" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperWaist Height</Data>
+            <Data name="hotpantsWaist Height" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsWaist Height</Data>
+            <Data name="butWaist Height" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butWaist Height</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="backpocketsBack Size" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBack Size</Data>
+            <Data name="hotpantsBack Size" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="hotpantsBack Arch" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="backpocketsHips Bone" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsHips Bone</Data>
+            <Data name="hotpantsHips Bone" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsHips Bone</Data>
+            <Data name="butHips Bone" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butHips Bone</Data>
+            <Data name="ripHips Bone" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="backpocketsHips Size" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsHips Size</Data>
+            <Data name="hotpantsHips Size" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsHips Size</Data>
+            <Data name="butHips Size" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butHips Size</Data>
+            <Data name="ripHips Size" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="hotpantsHips Upper Width" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsHips Upper Width</Data>
+            <Data name="ripHips Upper Width" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="backpocketsBum Size" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBum Size</Data>
+            <Data name="hotpantsBum Size" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBum Size</Data>
+            <Data name="ripBum Size" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="backpocketsBum Crack" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBum Crack</Data>
+            <Data name="hotpantsBum Crack" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBum Crack</Data>
+            <Data name="ripBum Crack" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="backpocketsBum Shape 1" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBum Shape 1</Data>
+            <Data name="hotpantsBum Shape 1" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBum Shape 1</Data>
+            <Data name="ripBum Shape 1" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="backpocketsBum Shape 2" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBum Shape 2</Data>
+            <Data name="zipperBum Shape 2" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBum Shape 2</Data>
+            <Data name="hotpantsBum Shape 2" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBum Shape 2</Data>
+            <Data name="butBum Shape 2" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBum Shape 2</Data>
+            <Data name="ripBum Shape 2" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="backpocketsBum Small" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBum Small</Data>
+            <Data name="zipperBum Small" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBum Small</Data>
+            <Data name="hotpantsBum Small" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBum Small</Data>
+            <Data name="butBum Small" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBum Small</Data>
+            <Data name="ripBum Small" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="backpocketsBum Chubby" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBum Chubby</Data>
+            <Data name="zipperBum Chubby" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBum Chubby</Data>
+            <Data name="hotpantsBum Chubby" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBum Chubby</Data>
+            <Data name="butBum Chubby" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBum Chubby</Data>
+            <Data name="ripBum Chubby" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="backpocketsBum Round" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBum Round</Data>
+            <Data name="hotpantsBum Round" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBum Round</Data>
+            <Data name="ripBum Round" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="backpocketsBum Apple" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBum Apple</Data>
+            <Data name="hotpantsBum Apple" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBum Apple</Data>
+            <Data name="ripBum Apple" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="backpocketsLegs Chubby" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsLegs Chubby</Data>
+            <Data name="zipperLegs Chubby" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperLegs Chubby</Data>
+            <Data name="hotpantsLegs Chubby" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsLegs Chubby</Data>
+            <Data name="butLegs Chubby" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butLegs Chubby</Data>
+            <Data name="ripLegs Chubby" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="backpocketsLegs Shape" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsLegs Shape</Data>
+            <Data name="hotpantsLegs Shape" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsLegs Shape</Data>
+            <Data name="ripLegs Shape" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="backpocketsLegs Thin" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsLegs Thin</Data>
+            <Data name="hotpantsLegs Thin" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsLegs Thin</Data>
+            <Data name="ripLegs Thin" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="backpocketsThighs Slim" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsThighs Slim</Data>
+            <Data name="zipperThighs Slim" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperThighs Slim</Data>
+            <Data name="hotpantsThighs Slim" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsThighs Slim</Data>
+            <Data name="butThighs Slim" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butThighs Slim</Data>
+            <Data name="ripThighs Slim" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="backpocketsThighs Size" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsThighs Size</Data>
+            <Data name="zipperThighs Size" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperThighs Size</Data>
+            <Data name="hotpantsThighs Size" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsThighs Size</Data>
+            <Data name="butThighs Size" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butThighs Size</Data>
+            <Data name="ripThighs Size" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="backpocketsTorso Size" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsTorso Size</Data>
+            <Data name="zipperTorso Size" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperTorso Size</Data>
+            <Data name="hotpantsTorso Size" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsTorso Size</Data>
+            <Data name="butTorso Size" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butTorso Size</Data>
+            <Data name="ripTorso Size" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="backpocketsSturnum Depth" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsSturnum Depth</Data>
+            <Data name="zipperSturnum Depth" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperSturnum Depth</Data>
+            <Data name="hotpantsSturnum Depth" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsSturnum Depth</Data>
+            <Data name="butSturnum Depth" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butSturnum Depth</Data>
+            <Data name="ripSturnum Depth" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="backpocketsSturnum Height" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsSturnum Height</Data>
+            <Data name="zipperSturnum Height" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperSturnum Height</Data>
+            <Data name="hotpantsSturnum Height" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsSturnum Height</Data>
+            <Data name="butSturnum Height" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butSturnum Height</Data>
+            <Data name="ripSturnum Height" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="backpocketsGroin Position" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsGroin Position</Data>
+            <Data name="zipperGroin Position" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperGroin Position</Data>
+            <Data name="hotpantsGroin Position" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsGroin Position</Data>
+            <Data name="butGroin Position" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butGroin Position</Data>
+            <Data name="ripGroin Position" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="backpocketsGroin Back" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsGroin Back</Data>
+            <Data name="zipperGroin Back" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperGroin Back</Data>
+            <Data name="hotpantsGroin Back" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsGroin Back</Data>
+            <Data name="butGroin Back" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butGroin Back</Data>
+            <Data name="ripGroin Back" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="zipperAbDefinition" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperAbDefinition</Data>
+            <Data name="hotpantsAbDefinition" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsAbDefinition</Data>
+            <Data name="butAbDefinition" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="backpocketsBody Toning" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBody Toning</Data>
+            <Data name="zipperBody Toning" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBody Toning</Data>
+            <Data name="hotpantsBody Toning" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBody Toning</Data>
+            <Data name="butBody Toning" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBody Toning</Data>
+            <Data name="ripBody Toning" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="backpocketsTigerSanBB" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsTigerSanBB</Data>
+            <Data name="zipperTigerSanBB" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperTigerSanBB</Data>
+            <Data name="hotpantsTigerSanBB" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsTigerSanBB</Data>
+            <Data name="butTigerSanBB" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butTigerSanBB</Data>
+            <Data name="ripTigerSanBB" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="zipperXunAbs" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperXunAbs</Data>
+            <Data name="hotpantsXunAbs" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsXunAbs</Data>
+            <Data name="butXunAbs" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="zipperFFB Fitness 2" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperFFB Fitness 2</Data>
+            <Data name="hotpantsFFB Fitness 2" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsFFB Fitness 2</Data>
+            <Data name="butFFB Fitness 2" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butFFB Fitness 2</Data>
+            <Data name="ripFFB Fitness 2" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="backpocketsAthletic" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsAthletic</Data>
+            <Data name="zipperAthletic" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperAthletic</Data>
+            <Data name="hotpantsAthletic" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsAthletic</Data>
+            <Data name="butAthletic" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butAthletic</Data>
+            <Data name="ripAthletic" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="backpocketsSeveNBase Bombshell" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsSeveNBase Bombshell</Data>
+            <Data name="zipperSeveNBase Bombshell" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperSeveNBase Bombshell</Data>
+            <Data name="hotpantsSeveNBase Bombshell" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsSeveNBase Bombshell</Data>
+            <Data name="butSeveNBase Bombshell" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butSeveNBase Bombshell</Data>
+            <Data name="ripSeveNBase Bombshell" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="backpocketsBodyFat" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsBodyFat</Data>
+            <Data name="zipperBodyFat" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperBodyFat</Data>
+            <Data name="hotpantsBodyFat" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsBodyFat</Data>
+            <Data name="butBodyFat" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butBodyFat</Data>
+            <Data name="ripBodyFat" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="backpocketsLegThin" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsLegThin</Data>
+            <Data name="zipperLegThin" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperLegThin</Data>
+            <Data name="hotpantsLegThin" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsLegThin</Data>
+            <Data name="butLegThin" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butLegThin</Data>
+            <Data name="ripLegThin" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="backpocketsHipsNarrow" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsHipsNarrow</Data>
+            <Data name="hotpantsHipsNarrow" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsHipsNarrow</Data>
+            <Data name="ripHipsNarrow" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="backpocketsButtGravity" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsButtGravity</Data>
+            <Data name="hotpantsButtGravity" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsButtGravity</Data>
+            <Data name="ripButtGravity" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="backpocketsButtThin" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsButtThin</Data>
+            <Data name="hotpantsButtThin" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsButtThin</Data>
+            <Data name="ripButtThin" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="backpocketsHipsForward" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsHipsForward</Data>
+            <Data name="zipperHipsForward" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperHipsForward</Data>
+            <Data name="hotpantsHipsForward" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsHipsForward</Data>
+            <Data name="butHipsForward" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butHipsForward</Data>
+            <Data name="ripHipsForward" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="backpocketsHipRotateForward" target="backpockets" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\backpocketsHipRotateForward</Data>
+            <Data name="zipperHipRotateForward" target="zipper" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\zipperHipRotateForward</Data>
+            <Data name="hotpantsHipRotateForward" target="hotpants" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\hotpantsHipRotateForward</Data>
+            <Data name="butHipRotateForward" target="but" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\butHipRotateForward</Data>
+            <Data name="ripHipRotateForward" target="rip" local="true">Vtaw Wardrobe 5 Hotpants No pockets FG.osd\ripHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

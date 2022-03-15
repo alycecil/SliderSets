@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Tomb Raider Belt FG">
+        <DataFolder>Vtaw Wardrobe 6 Tomb Raider Belt FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Tomb Raider Belt FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Tomb\Belt</OutputPath>
+        <OutputFile GenWeights="false">TRBelt</OutputFile>
+        <Shape target="belt">belt</Shape>
+        <Shape target="legs">legs</Shape>
+        <Shape target="straps mid">straps mid</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="beltBelly Pregnant" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBelly Pregnant</Data>
+            <Data name="straps midBelly Pregnant" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="beltBelly Big" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBelly Big</Data>
+            <Data name="straps midBelly Big" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="beltBelly Size" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBelly Size</Data>
+            <Data name="straps midBelly Size" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="beltBelly Tuck" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBelly Tuck</Data>
+            <Data name="straps midBelly Tuck" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="legsBoobs Yuge" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBoobs Yuge</Data>
+            <Data name="beltBoobs Yuge" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBoobs Yuge</Data>
+            <Data name="straps midBoobs Yuge" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="legsBoobs Big" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBoobs Big</Data>
+            <Data name="beltBoobs Big" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBoobs Big</Data>
+            <Data name="straps midBoobs Big" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="legsBoobs Gravity" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBoobs Gravity</Data>
+            <Data name="beltBoobs Gravity" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBoobs Gravity</Data>
+            <Data name="straps midBoobs Gravity" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="legsBoobs Mellons" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBoobs Mellons</Data>
+            <Data name="beltBoobs Mellons" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBoobs Mellons</Data>
+            <Data name="straps midBoobs Mellons" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="legsBoobs Perky" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBoobs Perky</Data>
+            <Data name="beltBoobs Perky" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBoobs Perky</Data>
+            <Data name="straps midBoobs Perky" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="legsBoobs Push Up" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBoobs Push Up</Data>
+            <Data name="beltBoobs Push Up" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBoobs Push Up</Data>
+            <Data name="straps midBoobs Push Up" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="legsBoobs Top Slope" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBoobs Top Slope</Data>
+            <Data name="beltBoobs Top Slope" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBoobs Top Slope</Data>
+            <Data name="straps midBoobs Top Slope" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="legsBoobs Tiny" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBoobs Tiny</Data>
+            <Data name="beltBoobs Tiny" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBoobs Tiny</Data>
+            <Data name="straps midBoobs Tiny" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="beltChest Width" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="beltWaist Chubby" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltWaist Chubby</Data>
+            <Data name="straps midWaist Chubby" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="beltWaist Size" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltWaist Size</Data>
+            <Data name="straps midWaist Size" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="beltWaist Height" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltWaist Height</Data>
+            <Data name="straps midWaist Height" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="beltWaist Line" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="beltBack Size" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBack Size</Data>
+            <Data name="straps midBack Size" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="beltBack Arch" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBack Arch</Data>
+            <Data name="straps midBack Arch" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="legsHips Bone" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsHips Bone</Data>
+            <Data name="beltHips Bone" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltHips Bone</Data>
+            <Data name="straps midHips Bone" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="legsHips Size" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsHips Size</Data>
+            <Data name="beltHips Size" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltHips Size</Data>
+            <Data name="straps midHips Size" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="beltHips Upper Width" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltHips Upper Width</Data>
+            <Data name="straps midHips Upper Width" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="legsBum Size" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBum Size</Data>
+            <Data name="beltBum Size" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBum Size</Data>
+            <Data name="straps midBum Size" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="beltBum Crack" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBum Crack</Data>
+            <Data name="straps midBum Crack" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="legsBum Shape 1" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBum Shape 1</Data>
+            <Data name="beltBum Shape 1" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBum Shape 1</Data>
+            <Data name="straps midBum Shape 1" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="legsBum Shape 2" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBum Shape 2</Data>
+            <Data name="beltBum Shape 2" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBum Shape 2</Data>
+            <Data name="straps midBum Shape 2" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="legsBum Small" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBum Small</Data>
+            <Data name="beltBum Small" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBum Small</Data>
+            <Data name="straps midBum Small" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="legsBum Chubby" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBum Chubby</Data>
+            <Data name="beltBum Chubby" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBum Chubby</Data>
+            <Data name="straps midBum Chubby" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="legsBum Round" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBum Round</Data>
+            <Data name="beltBum Round" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBum Round</Data>
+            <Data name="straps midBum Round" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="legsBum Apple" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBum Apple</Data>
+            <Data name="beltBum Apple" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBum Apple</Data>
+            <Data name="straps midBum Apple" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="legsLegs Chubby" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsLegs Chubby</Data>
+            <Data name="beltLegs Chubby" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltLegs Chubby</Data>
+            <Data name="straps midLegs Chubby" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="legsLegs Shape" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsLegs Shape</Data>
+            <Data name="beltLegs Shape" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltLegs Shape</Data>
+            <Data name="straps midLegs Shape" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="legsLegs Thin" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsLegs Thin</Data>
+            <Data name="beltLegs Thin" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltLegs Thin</Data>
+            <Data name="straps midLegs Thin" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="legsThighs Slim" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsThighs Slim</Data>
+            <Data name="beltThighs Slim" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltThighs Slim</Data>
+            <Data name="straps midThighs Slim" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="legsThighs Size" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsThighs Size</Data>
+            <Data name="beltThighs Size" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltThighs Size</Data>
+            <Data name="straps midThighs Size" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="legsTorso Size" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsTorso Size</Data>
+            <Data name="beltTorso Size" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltTorso Size</Data>
+            <Data name="straps midTorso Size" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="legsSturnum Depth" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsSturnum Depth</Data>
+            <Data name="beltSturnum Depth" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltSturnum Depth</Data>
+            <Data name="straps midSturnum Depth" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="legsSturnum Height" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsSturnum Height</Data>
+            <Data name="beltSturnum Height" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltSturnum Height</Data>
+            <Data name="straps midSturnum Height" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="legsGroin Position" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsGroin Position</Data>
+            <Data name="beltGroin Position" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltGroin Position</Data>
+            <Data name="straps midGroin Position" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="legsGroin Back" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsGroin Back</Data>
+            <Data name="beltGroin Back" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltGroin Back</Data>
+            <Data name="straps midGroin Back" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="beltAbDefinition" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltAbDefinition</Data>
+            <Data name="straps midAbDefinition" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="legsBody Toning" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBody Toning</Data>
+            <Data name="beltBody Toning" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBody Toning</Data>
+            <Data name="straps midBody Toning" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="legsTigerSanBB" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsTigerSanBB</Data>
+            <Data name="beltTigerSanBB" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltTigerSanBB</Data>
+            <Data name="straps midTigerSanBB" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="beltXunAbs" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltXunAbs</Data>
+            <Data name="straps midXunAbs" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="beltFFB Fitness 2" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltFFB Fitness 2</Data>
+            <Data name="straps midFFB Fitness 2" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="legsAthletic" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsAthletic</Data>
+            <Data name="beltAthletic" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltAthletic</Data>
+            <Data name="straps midAthletic" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="legsSeveNBase Bombshell" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsSeveNBase Bombshell</Data>
+            <Data name="beltSeveNBase Bombshell" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltSeveNBase Bombshell</Data>
+            <Data name="straps midSeveNBase Bombshell" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="legsKnee Height" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="beltShoulder Width" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="legsBodyFat" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsBodyFat</Data>
+            <Data name="beltBodyFat" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltBodyFat</Data>
+            <Data name="straps midBodyFat" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="legsLegThin" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsLegThin</Data>
+            <Data name="beltLegThin" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltLegThin</Data>
+            <Data name="straps midLegThin" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="legsHipsNarrow" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsHipsNarrow</Data>
+            <Data name="beltHipsNarrow" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltHipsNarrow</Data>
+            <Data name="straps midHipsNarrow" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="legsButtGravity" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsButtGravity</Data>
+            <Data name="straps midButtGravity" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="legsButtThin" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsButtThin</Data>
+            <Data name="beltButtThin" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltButtThin</Data>
+            <Data name="straps midButtThin" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="legsHipsForward" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsHipsForward</Data>
+            <Data name="beltHipsForward" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltHipsForward</Data>
+            <Data name="straps midHipsForward" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="legsHipRotateForward" target="legs" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\legsHipRotateForward</Data>
+            <Data name="beltHipRotateForward" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\beltHipRotateForward</Data>
+            <Data name="straps midHipRotateForward" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt FG.osd\straps midHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

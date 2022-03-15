@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 2B Dress Panty FG">
+        <DataFolder>Vtaw Wardrobe 7 2B Dress Panty FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 2B Dress Panty FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\2BDress</OutputPath>
+        <OutputFile GenWeights="false">2BDressPanty</OutputFile>
+        <Shape target="Panty">Panty</Shape>
+        <Shape target="PantyLaces">PantyLaces</Shape>
+        <Shape target="PantyMetal">PantyMetal</Shape>
+        <Shape target="PantyStraps">PantyStraps</Shape>
+        <Shape target="metal55">metal55</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="metal55Belly Pregnant" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Belly Pregnant</Data>
+            <Data name="PantyMetalBelly Pregnant" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBelly Pregnant</Data>
+            <Data name="PantyBelly Pregnant" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBelly Pregnant</Data>
+            <Data name="PantyStrapsBelly Pregnant" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBelly Pregnant</Data>
+            <Data name="PantyLacesBelly Pregnant" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="metal55Belly Big" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Belly Big</Data>
+            <Data name="PantyMetalBelly Big" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBelly Big</Data>
+            <Data name="PantyBelly Big" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBelly Big</Data>
+            <Data name="PantyStrapsBelly Big" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBelly Big</Data>
+            <Data name="PantyLacesBelly Big" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="metal55Belly Size" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Belly Size</Data>
+            <Data name="PantyMetalBelly Size" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBelly Size</Data>
+            <Data name="PantyBelly Size" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBelly Size</Data>
+            <Data name="PantyStrapsBelly Size" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBelly Size</Data>
+            <Data name="PantyLacesBelly Size" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="metal55Belly Tuck" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Belly Tuck</Data>
+            <Data name="PantyMetalBelly Tuck" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBelly Tuck</Data>
+            <Data name="PantyBelly Tuck" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBelly Tuck</Data>
+            <Data name="PantyStrapsBelly Tuck" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBelly Tuck</Data>
+            <Data name="PantyLacesBelly Tuck" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="PantyMetalBoobs Yuge" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBoobs Yuge</Data>
+            <Data name="PantyBoobs Yuge" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBoobs Yuge</Data>
+            <Data name="PantyStrapsBoobs Yuge" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBoobs Yuge</Data>
+            <Data name="PantyLacesBoobs Yuge" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="PantyMetalBoobs Big" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBoobs Big</Data>
+            <Data name="PantyBoobs Big" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBoobs Big</Data>
+            <Data name="PantyStrapsBoobs Big" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBoobs Big</Data>
+            <Data name="PantyLacesBoobs Big" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="PantyMetalBoobs Gravity" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBoobs Gravity</Data>
+            <Data name="PantyBoobs Gravity" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBoobs Gravity</Data>
+            <Data name="PantyStrapsBoobs Gravity" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBoobs Gravity</Data>
+            <Data name="PantyLacesBoobs Gravity" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="PantyMetalBoobs Mellons" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBoobs Mellons</Data>
+            <Data name="PantyBoobs Mellons" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBoobs Mellons</Data>
+            <Data name="PantyStrapsBoobs Mellons" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBoobs Mellons</Data>
+            <Data name="PantyLacesBoobs Mellons" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="PantyMetalBoobs Perky" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBoobs Perky</Data>
+            <Data name="PantyBoobs Perky" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBoobs Perky</Data>
+            <Data name="PantyStrapsBoobs Perky" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBoobs Perky</Data>
+            <Data name="PantyLacesBoobs Perky" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="PantyMetalBoobs Push Up" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBoobs Push Up</Data>
+            <Data name="PantyBoobs Push Up" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBoobs Push Up</Data>
+            <Data name="PantyStrapsBoobs Push Up" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBoobs Push Up</Data>
+            <Data name="PantyLacesBoobs Push Up" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="PantyMetalBoobs Top Slope" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBoobs Top Slope</Data>
+            <Data name="PantyBoobs Top Slope" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBoobs Top Slope</Data>
+            <Data name="PantyStrapsBoobs Top Slope" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBoobs Top Slope</Data>
+            <Data name="PantyLacesBoobs Top Slope" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="metal55Boobs Tiny" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Boobs Tiny</Data>
+            <Data name="PantyMetalBoobs Tiny" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBoobs Tiny</Data>
+            <Data name="PantyBoobs Tiny" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBoobs Tiny</Data>
+            <Data name="PantyStrapsBoobs Tiny" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBoobs Tiny</Data>
+            <Data name="PantyLacesBoobs Tiny" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="metal55Chest Width" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Chest Width</Data>
+            <Data name="PantyChest Width" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyChest Width</Data>
+            <Data name="PantyStrapsChest Width" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="metal55Waist Chubby" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Waist Chubby</Data>
+            <Data name="PantyMetalWaist Chubby" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalWaist Chubby</Data>
+            <Data name="PantyWaist Chubby" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyWaist Chubby</Data>
+            <Data name="PantyStrapsWaist Chubby" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsWaist Chubby</Data>
+            <Data name="PantyLacesWaist Chubby" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="metal55Waist Size" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Waist Size</Data>
+            <Data name="PantyMetalWaist Size" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalWaist Size</Data>
+            <Data name="PantyWaist Size" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyWaist Size</Data>
+            <Data name="PantyStrapsWaist Size" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsWaist Size</Data>
+            <Data name="PantyLacesWaist Size" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="metal55Waist Height" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Waist Height</Data>
+            <Data name="PantyMetalWaist Height" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalWaist Height</Data>
+            <Data name="PantyWaist Height" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyWaist Height</Data>
+            <Data name="PantyStrapsWaist Height" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsWaist Height</Data>
+            <Data name="PantyLacesWaist Height" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="metal55Waist Line" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Waist Line</Data>
+            <Data name="PantyWaist Line" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyWaist Line</Data>
+            <Data name="PantyStrapsWaist Line" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="metal55Back Size" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Back Size</Data>
+            <Data name="PantyBack Size" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBack Size</Data>
+            <Data name="PantyStrapsBack Size" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="metal55Back Arch" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Back Arch</Data>
+            <Data name="PantyBack Arch" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBack Arch</Data>
+            <Data name="PantyStrapsBack Arch" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="metal55Hips Bone" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Hips Bone</Data>
+            <Data name="PantyHips Bone" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyHips Bone</Data>
+            <Data name="PantyStrapsHips Bone" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="metal55Hips Size" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Hips Size</Data>
+            <Data name="PantyMetalHips Size" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalHips Size</Data>
+            <Data name="PantyHips Size" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyHips Size</Data>
+            <Data name="PantyStrapsHips Size" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsHips Size</Data>
+            <Data name="PantyLacesHips Size" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="metal55Hips Upper Width" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Hips Upper Width</Data>
+            <Data name="PantyHips Upper Width" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyHips Upper Width</Data>
+            <Data name="PantyStrapsHips Upper Width" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="metal55Bum Size" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Bum Size</Data>
+            <Data name="PantyBum Size" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBum Size</Data>
+            <Data name="PantyStrapsBum Size" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="PantyMetalBum Crack" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBum Crack</Data>
+            <Data name="PantyBum Crack" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBum Crack</Data>
+            <Data name="PantyLacesBum Crack" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="metal55Bum Shape 1" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Bum Shape 1</Data>
+            <Data name="PantyBum Shape 1" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBum Shape 1</Data>
+            <Data name="PantyStrapsBum Shape 1" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="metal55Bum Shape 2" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Bum Shape 2</Data>
+            <Data name="PantyMetalBum Shape 2" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBum Shape 2</Data>
+            <Data name="PantyBum Shape 2" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBum Shape 2</Data>
+            <Data name="PantyStrapsBum Shape 2" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBum Shape 2</Data>
+            <Data name="PantyLacesBum Shape 2" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="metal55Bum Small" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Bum Small</Data>
+            <Data name="PantyMetalBum Small" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBum Small</Data>
+            <Data name="PantyBum Small" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBum Small</Data>
+            <Data name="PantyStrapsBum Small" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBum Small</Data>
+            <Data name="PantyLacesBum Small" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="metal55Bum Chubby" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Bum Chubby</Data>
+            <Data name="PantyMetalBum Chubby" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBum Chubby</Data>
+            <Data name="PantyBum Chubby" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBum Chubby</Data>
+            <Data name="PantyStrapsBum Chubby" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBum Chubby</Data>
+            <Data name="PantyLacesBum Chubby" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="metal55Bum Round" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Bum Round</Data>
+            <Data name="PantyBum Round" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBum Round</Data>
+            <Data name="PantyStrapsBum Round" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="metal55Bum Apple" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Bum Apple</Data>
+            <Data name="PantyMetalBum Apple" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBum Apple</Data>
+            <Data name="PantyBum Apple" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBum Apple</Data>
+            <Data name="PantyStrapsBum Apple" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBum Apple</Data>
+            <Data name="PantyLacesBum Apple" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="metal55Legs Chubby" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Legs Chubby</Data>
+            <Data name="PantyMetalLegs Chubby" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalLegs Chubby</Data>
+            <Data name="PantyLegs Chubby" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLegs Chubby</Data>
+            <Data name="PantyStrapsLegs Chubby" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsLegs Chubby</Data>
+            <Data name="PantyLacesLegs Chubby" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="PantyLegs Shape" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLegs Shape</Data>
+            <Data name="PantyStrapsLegs Shape" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="PantyMetalLegs Thin" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalLegs Thin</Data>
+            <Data name="PantyLegs Thin" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLegs Thin</Data>
+            <Data name="PantyLacesLegs Thin" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="metal55Thighs Slim" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Thighs Slim</Data>
+            <Data name="PantyMetalThighs Slim" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalThighs Slim</Data>
+            <Data name="PantyThighs Slim" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyThighs Slim</Data>
+            <Data name="PantyStrapsThighs Slim" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsThighs Slim</Data>
+            <Data name="PantyLacesThighs Slim" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="metal55Thighs Size" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Thighs Size</Data>
+            <Data name="PantyMetalThighs Size" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalThighs Size</Data>
+            <Data name="PantyThighs Size" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyThighs Size</Data>
+            <Data name="PantyStrapsThighs Size" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsThighs Size</Data>
+            <Data name="PantyLacesThighs Size" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="metal55Torso Size" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Torso Size</Data>
+            <Data name="PantyMetalTorso Size" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalTorso Size</Data>
+            <Data name="PantyTorso Size" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyTorso Size</Data>
+            <Data name="PantyStrapsTorso Size" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsTorso Size</Data>
+            <Data name="PantyLacesTorso Size" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="PantyMetalSturnum Depth" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalSturnum Depth</Data>
+            <Data name="PantySturnum Depth" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantySturnum Depth</Data>
+            <Data name="PantyStrapsSturnum Depth" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsSturnum Depth</Data>
+            <Data name="PantyLacesSturnum Depth" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="PantyMetalSturnum Height" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalSturnum Height</Data>
+            <Data name="PantySturnum Height" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantySturnum Height</Data>
+            <Data name="PantyStrapsSturnum Height" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsSturnum Height</Data>
+            <Data name="PantyLacesSturnum Height" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="metal55Groin Position" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Groin Position</Data>
+            <Data name="PantyMetalGroin Position" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalGroin Position</Data>
+            <Data name="PantyGroin Position" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyGroin Position</Data>
+            <Data name="PantyStrapsGroin Position" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsGroin Position</Data>
+            <Data name="PantyLacesGroin Position" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="metal55Groin Back" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Groin Back</Data>
+            <Data name="PantyMetalGroin Back" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalGroin Back</Data>
+            <Data name="PantyGroin Back" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyGroin Back</Data>
+            <Data name="PantyStrapsGroin Back" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsGroin Back</Data>
+            <Data name="PantyLacesGroin Back" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="metal55AbDefinition" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55AbDefinition</Data>
+            <Data name="PantyMetalAbDefinition" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalAbDefinition</Data>
+            <Data name="PantyAbDefinition" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyAbDefinition</Data>
+            <Data name="PantyStrapsAbDefinition" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsAbDefinition</Data>
+            <Data name="PantyLacesAbDefinition" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="metal55Body Toning" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Body Toning</Data>
+            <Data name="PantyMetalBody Toning" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBody Toning</Data>
+            <Data name="PantyBody Toning" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBody Toning</Data>
+            <Data name="PantyStrapsBody Toning" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBody Toning</Data>
+            <Data name="PantyLacesBody Toning" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="metal55TigerSanBB" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55TigerSanBB</Data>
+            <Data name="PantyMetalTigerSanBB" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalTigerSanBB</Data>
+            <Data name="PantyTigerSanBB" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyTigerSanBB</Data>
+            <Data name="PantyStrapsTigerSanBB" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsTigerSanBB</Data>
+            <Data name="PantyLacesTigerSanBB" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="metal55XunAbs" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55XunAbs</Data>
+            <Data name="PantyMetalXunAbs" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalXunAbs</Data>
+            <Data name="PantyXunAbs" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyXunAbs</Data>
+            <Data name="PantyStrapsXunAbs" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsXunAbs</Data>
+            <Data name="PantyLacesXunAbs" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="metal55FFB Fitness 2" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55FFB Fitness 2</Data>
+            <Data name="PantyMetalFFB Fitness 2" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalFFB Fitness 2</Data>
+            <Data name="PantyFFB Fitness 2" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyFFB Fitness 2</Data>
+            <Data name="PantyStrapsFFB Fitness 2" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsFFB Fitness 2</Data>
+            <Data name="PantyLacesFFB Fitness 2" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="metal55Athletic" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55Athletic</Data>
+            <Data name="PantyMetalAthletic" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalAthletic</Data>
+            <Data name="PantyAthletic" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyAthletic</Data>
+            <Data name="PantyStrapsAthletic" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsAthletic</Data>
+            <Data name="PantyLacesAthletic" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="metal55SeveNBase Bombshell" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55SeveNBase Bombshell</Data>
+            <Data name="PantyMetalSeveNBase Bombshell" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalSeveNBase Bombshell</Data>
+            <Data name="PantySeveNBase Bombshell" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantySeveNBase Bombshell</Data>
+            <Data name="PantyStrapsSeveNBase Bombshell" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsSeveNBase Bombshell</Data>
+            <Data name="PantyLacesSeveNBase Bombshell" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="PantyStrapsShoulder Width" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="metal55BodyFat" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55BodyFat</Data>
+            <Data name="PantyMetalBodyFat" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalBodyFat</Data>
+            <Data name="PantyBodyFat" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyBodyFat</Data>
+            <Data name="PantyStrapsBodyFat" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsBodyFat</Data>
+            <Data name="PantyLacesBodyFat" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="metal55LegThin" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55LegThin</Data>
+            <Data name="PantyMetalLegThin" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalLegThin</Data>
+            <Data name="PantyLegThin" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLegThin</Data>
+            <Data name="PantyStrapsLegThin" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsLegThin</Data>
+            <Data name="PantyLacesLegThin" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="metal55HipsNarrow" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55HipsNarrow</Data>
+            <Data name="PantyHipsNarrow" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyHipsNarrow</Data>
+            <Data name="PantyStrapsHipsNarrow" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="PantyButtGravity" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="metal55ButtThin" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55ButtThin</Data>
+            <Data name="PantyButtThin" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyButtThin</Data>
+            <Data name="PantyStrapsButtThin" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="metal55HipsForward" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55HipsForward</Data>
+            <Data name="PantyMetalHipsForward" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalHipsForward</Data>
+            <Data name="PantyHipsForward" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyHipsForward</Data>
+            <Data name="PantyStrapsHipsForward" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsHipsForward</Data>
+            <Data name="PantyLacesHipsForward" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="metal55HipRotateForward" target="metal55" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\metal55HipRotateForward</Data>
+            <Data name="PantyMetalHipRotateForward" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalHipRotateForward</Data>
+            <Data name="PantyHipRotateForward" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyHipRotateForward</Data>
+            <Data name="PantyStrapsHipRotateForward" target="PantyStraps" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyStrapsHipRotateForward</Data>
+            <Data name="PantyLacesHipRotateForward" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesHipRotateForward</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="PantyLabia Minora Flat" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="PantyLabia Minora Longer" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="PantyClitoras Size" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="PantyClitoras Long" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="PantyLabia Majora Long" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="PantyLabia Majora Wide" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="PantyMetalLabia Majora Inner" target="PantyMetal" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyMetalLabia Majora Inner</Data>
+            <Data name="PantyLabia Majora Inner" target="Panty" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLabia Majora Inner</Data>
+            <Data name="PantyLacesLabia Majora Inner" target="PantyLaces" local="true">Vtaw Wardrobe 7 2B Dress Panty FG.osd\PantyLacesLabia Majora Inner</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

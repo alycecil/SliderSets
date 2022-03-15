@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Raider hotpants lace FG">
+        <DataFolder>Vtaw Raider hotpants lace FG</DataFolder>
+        <SourceFile>Vtaw Raider hotpants lace FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe4\hotpants</OutputPath>
+        <OutputFile GenWeights="false">hotpantsfur</OutputFile>
+        <Shape target="fur1">fur1</Shape>
+        <Shape target="hotpants">hotpants</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="fur1Belly Pregnant" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Belly Pregnant</Data>
+            <Data name="hotpantsBelly Pregnant" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="fur1Belly Big" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Belly Big</Data>
+            <Data name="hotpantsBelly Big" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="fur1Belly Size" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Belly Size</Data>
+            <Data name="hotpantsBelly Size" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="fur1Belly Tuck" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Belly Tuck</Data>
+            <Data name="hotpantsBelly Tuck" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="fur1Boobs Yuge" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Boobs Yuge</Data>
+            <Data name="hotpantsBoobs Yuge" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="fur1Boobs Big" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Boobs Big</Data>
+            <Data name="hotpantsBoobs Big" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="fur1Boobs Gravity" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Boobs Gravity</Data>
+            <Data name="hotpantsBoobs Gravity" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="fur1Boobs Mellons" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Boobs Mellons</Data>
+            <Data name="hotpantsBoobs Mellons" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="fur1Boobs Perky" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Boobs Perky</Data>
+            <Data name="hotpantsBoobs Perky" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="fur1Boobs Push Up" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Boobs Push Up</Data>
+            <Data name="hotpantsBoobs Push Up" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="fur1Boobs Top Slope" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Boobs Top Slope</Data>
+            <Data name="hotpantsBoobs Top Slope" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="fur1Boobs Tiny" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Boobs Tiny</Data>
+            <Data name="hotpantsBoobs Tiny" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="hotpantsChest Width" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="fur1Waist Chubby" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Waist Chubby</Data>
+            <Data name="hotpantsWaist Chubby" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="fur1Waist Size" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Waist Size</Data>
+            <Data name="hotpantsWaist Size" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="hotpantsWaist Height" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="hotpantsWaist Line" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="fur1Back Size" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Back Size</Data>
+            <Data name="hotpantsBack Size" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="hotpantsBack Arch" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="fur1Hips Bone" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Hips Bone</Data>
+            <Data name="hotpantsHips Bone" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="fur1Hips Size" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Hips Size</Data>
+            <Data name="hotpantsHips Size" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="fur1Hips Upper Width" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Hips Upper Width</Data>
+            <Data name="hotpantsHips Upper Width" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="fur1Bum Size" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Bum Size</Data>
+            <Data name="hotpantsBum Size" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="fur1Bum Crack" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Bum Crack</Data>
+            <Data name="hotpantsBum Crack" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="fur1Bum Shape 1" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Bum Shape 1</Data>
+            <Data name="hotpantsBum Shape 1" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="fur1Bum Shape 2" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Bum Shape 2</Data>
+            <Data name="hotpantsBum Shape 2" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="fur1Bum Small" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Bum Small</Data>
+            <Data name="hotpantsBum Small" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="fur1Bum Chubby" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Bum Chubby</Data>
+            <Data name="hotpantsBum Chubby" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="fur1Bum Round" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Bum Round</Data>
+            <Data name="hotpantsBum Round" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="fur1Bum Apple" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Bum Apple</Data>
+            <Data name="hotpantsBum Apple" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="fur1Legs Chubby" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Legs Chubby</Data>
+            <Data name="hotpantsLegs Chubby" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="fur1Legs Shape" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Legs Shape</Data>
+            <Data name="hotpantsLegs Shape" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="fur1Legs Thin" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Legs Thin</Data>
+            <Data name="hotpantsLegs Thin" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="fur1Thighs Slim" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Thighs Slim</Data>
+            <Data name="hotpantsThighs Slim" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="fur1Thighs Size" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Thighs Size</Data>
+            <Data name="hotpantsThighs Size" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="fur1Torso Size" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Torso Size</Data>
+            <Data name="hotpantsTorso Size" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="fur1Sturnum Depth" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Sturnum Depth</Data>
+            <Data name="hotpantsSturnum Depth" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="fur1Sturnum Height" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Sturnum Height</Data>
+            <Data name="hotpantsSturnum Height" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="fur1Groin Position" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Groin Position</Data>
+            <Data name="hotpantsGroin Position" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="fur1Groin Back" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Groin Back</Data>
+            <Data name="hotpantsGroin Back" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="hotpantsAbDefinition" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="fur1Body Toning" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Body Toning</Data>
+            <Data name="hotpantsBody Toning" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="fur1TigerSanBB" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1TigerSanBB</Data>
+            <Data name="hotpantsTigerSanBB" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="fur1XunAbs" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1XunAbs</Data>
+            <Data name="hotpantsXunAbs" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="fur1FFB Fitness 2" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1FFB Fitness 2</Data>
+            <Data name="hotpantsFFB Fitness 2" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="fur1Athletic" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1Athletic</Data>
+            <Data name="hotpantsAthletic" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="fur1SeveNBase Bombshell" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1SeveNBase Bombshell</Data>
+            <Data name="hotpantsSeveNBase Bombshell" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="hotpantsShoulder Width" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="fur1BodyFat" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1BodyFat</Data>
+            <Data name="hotpantsBodyFat" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="fur1LegThin" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1LegThin</Data>
+            <Data name="hotpantsLegThin" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="fur1HipsNarrow" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1HipsNarrow</Data>
+            <Data name="hotpantsHipsNarrow" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="fur1ButtGravity" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1ButtGravity</Data>
+            <Data name="hotpantsButtGravity" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="fur1ButtThin" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1ButtThin</Data>
+            <Data name="hotpantsButtThin" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="fur1HipsForward" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1HipsForward</Data>
+            <Data name="hotpantsHipsForward" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="fur1HipRotateForward" target="fur1" local="true">Vtaw Raider hotpants lace FG.osd\fur1HipRotateForward</Data>
+            <Data name="hotpantsHipRotateForward" target="hotpants" local="true">Vtaw Raider hotpants lace FG.osd\hotpantsHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

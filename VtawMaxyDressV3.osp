@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Maxy Dress V3">
+        <DataFolder>VtawMaxyDress</DataFolder>
+        <SourceFile>MaxyDressV3.nif</SourceFile>
+        <OutputPath>meshes\vtaw\MaxyDress</OutputPath>
+        <OutputFile GenWeights="false">MaxyDressV3</OutputFile>
+        <Shape target="V3">V3</Shape>
+        <Shape target="zip">zip</Shape>
+        <Slider name="Breasts" invert="false" default="0">
+            <Data name="V3Breasts" target="V3" local="true">MaxyDressV3.osd\V3Breasts</Data>
+        </Slider>
+        <Slider name="BreastsCleavage" invert="false" default="0">
+            <Data name="V3BreastsCleavage" target="V3" local="true">MaxyDressV3.osd\V3BreastsCleavage</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" default="0">
+            <Data name="V3BreastsGone" target="V3" local="true">MaxyDressV3.osd\V3BreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" default="0">
+            <Data name="V3BreastsNewSH" target="V3" local="true">MaxyDressV3.osd\V3BreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="V3BreastsSmall" target="V3" local="true">MaxyDressV3.osd\V3BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="V3BreastsSmall2" target="V3" local="true">MaxyDressV3.osd\V3BreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" default="0">
+            <Data name="V3BreastsTogether" target="V3" local="true">MaxyDressV3.osd\V3BreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" default="0">
+            <Data name="V3BreastTopSlope" target="V3" local="true">MaxyDressV3.osd\V3BreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="V3BreastWidth" target="V3" local="true">MaxyDressV3.osd\V3BreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="V3Butt" target="V3" local="true">MaxyDressV3.osd\V3Butt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="V3ButtCrack" target="V3" local="true">MaxyDressV3.osd\V3ButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="zipButtNew" target="zip" local="true">MaxyDressV3.osd\zipButtNew</Data>
+            <Data name="V3ButtNew" target="V3" local="true">MaxyDressV3.osd\V3ButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="V3ButtShape2" target="V3" local="true">MaxyDressV3.osd\V3ButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="V3ButtSmall" target="V3" local="true">MaxyDressV3.osd\V3ButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" default="0">
+            <Data name="V3CalfSize" target="V3" local="true">MaxyDressV3.osd\V3CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" default="0">
+            <Data name="V3CalfSmooth" target="V3" local="true">MaxyDressV3.osd\V3CalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="zipChestDepth" target="zip" local="true">MaxyDressV3.osd\zipChestDepth</Data>
+            <Data name="V3ChestDepth" target="V3" local="true">MaxyDressV3.osd\V3ChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="zipChestWidth" target="zip" local="true">MaxyDressV3.osd\zipChestWidth</Data>
+            <Data name="V3ChestWidth" target="V3" local="true">MaxyDressV3.osd\V3ChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="zipChubbyArms" target="zip" local="true">MaxyDressV3.osd\zipChubbyArms</Data>
+            <Data name="V3ChubbyArms" target="V3" local="true">MaxyDressV3.osd\V3ChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="zipChubbyButt" target="zip" local="true">MaxyDressV3.osd\zipChubbyButt</Data>
+            <Data name="V3ChubbyButt" target="V3" local="true">MaxyDressV3.osd\V3ChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="V3ChubbyLegs" target="V3" local="true">MaxyDressV3.osd\V3ChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="zipChubbyWaist" target="zip" local="true">MaxyDressV3.osd\zipChubbyWaist</Data>
+            <Data name="V3ChubbyWaist" target="V3" local="true">MaxyDressV3.osd\V3ChubbyWaist</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="V3DoubleMelon" target="V3" local="true">MaxyDressV3.osd\V3DoubleMelon</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="zipHipBack" target="zip" local="true">MaxyDressV3.osd\zipHipBack</Data>
+            <Data name="V3HipBack" target="V3" local="true">MaxyDressV3.osd\V3HipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="V3HipBone" target="V3" local="true">MaxyDressV3.osd\V3HipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="V3Hips" target="V3" local="true">MaxyDressV3.osd\V3Hips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="V3HipUpperWidth" target="V3" local="true">MaxyDressV3.osd\V3HipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" default="0">
+            <Data name="V3KneeHeight" target="V3" local="true">MaxyDressV3.osd\V3KneeHeight</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="V3LegShape" target="V3" local="true">MaxyDressV3.osd\V3LegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="V3LegsThin" target="V3" local="true">MaxyDressV3.osd\V3LegsThin</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" default="0">
+            <Data name="V3NippleDistance" target="V3" local="true">MaxyDressV3.osd\V3NippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="V3NippleDown" target="V3" local="true">MaxyDressV3.osd\V3NippleDown</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" default="0">
+            <Data name="V3NipplePerkiness" target="V3" local="true">MaxyDressV3.osd\V3NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="V3NippleUp" target="V3" local="true">MaxyDressV3.osd\V3NippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="V3PregnancyBelly" target="V3" local="true">MaxyDressV3.osd\V3PregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="V3PushUp" target="V3" local="true">MaxyDressV3.osd\V3PushUp</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="V3RoundAss" target="V3" local="true">MaxyDressV3.osd\V3RoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="zipShoulderSmooth" target="zip" local="true">MaxyDressV3.osd\zipShoulderSmooth</Data>
+            <Data name="V3ShoulderSmooth" target="V3" local="true">MaxyDressV3.osd\V3ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="V3ShoulderTweak" target="V3" local="true">MaxyDressV3.osd\V3ShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="zipShoulderWidth" target="zip" local="true">MaxyDressV3.osd\zipShoulderWidth</Data>
+            <Data name="V3ShoulderWidth" target="V3" local="true">MaxyDressV3.osd\V3ShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="V3SlimThighs" target="V3" local="true">MaxyDressV3.osd\V3SlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="V3Thighs" target="V3" local="true">MaxyDressV3.osd\V3Thighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="V3TummyTuck" target="V3" local="true">MaxyDressV3.osd\V3TummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="zipVanillaFo4" target="zip" local="true">MaxyDressV3.osd\zipVanillaFo4</Data>
+            <Data name="V3VanillaFo4" target="V3" local="true">MaxyDressV3.osd\V3VanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="zipWaist" target="zip" local="true">MaxyDressV3.osd\zipWaist</Data>
+            <Data name="V3Waist" target="V3" local="true">MaxyDressV3.osd\V3Waist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="zipWaistHeight" target="zip" local="true">MaxyDressV3.osd\zipWaistHeight</Data>
+            <Data name="V3WaistHeight" target="V3" local="true">MaxyDressV3.osd\V3WaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="V3WideWaistLine" target="V3" local="true">MaxyDressV3.osd\V3WideWaistLine</Data>
+        </Slider>
+        <Slider name="Ankles" invert="false" default="0">
+            <Data name="V3Ankles" target="V3" local="true">MaxyDressV3.osd\V3Ankles</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="V3AppleCheeks" target="V3" local="true">MaxyDressV3.osd\V3AppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="zipArms" target="zip" local="true">MaxyDressV3.osd\zipArms</Data>
+            <Data name="V3Arms" target="V3" local="true">MaxyDressV3.osd\V3Arms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="zipBack" target="zip" local="true">MaxyDressV3.osd\zipBack</Data>
+            <Data name="V3Back" target="V3" local="true">MaxyDressV3.osd\V3Back</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="zipBackArch" target="zip" local="true">MaxyDressV3.osd\zipBackArch</Data>
+            <Data name="V3BackArch" target="V3" local="true">MaxyDressV3.osd\V3BackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="V3Belly" target="V3" local="true">MaxyDressV3.osd\V3Belly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="V3BigBelly" target="V3" local="true">MaxyDressV3.osd\V3BigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="V3BigButt" target="V3" local="true">MaxyDressV3.osd\V3BigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="zipBigTorso" target="zip" local="true">MaxyDressV3.osd\zipBigTorso</Data>
+            <Data name="V3BigTorso" target="V3" local="true">MaxyDressV3.osd\V3BigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="V3BreastCenter" target="V3" local="true">MaxyDressV3.osd\V3BreastCenter</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="V3BreastFantasy" target="V3" local="true">MaxyDressV3.osd\V3BreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="V3BreastFlatness2" target="V3" local="true">MaxyDressV3.osd\V3BreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="V3BreastGravity2" target="V3" local="true">MaxyDressV3.osd\V3BreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="V3BreastHeight" target="V3" local="true">MaxyDressV3.osd\V3BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="V3BreastPerkiness" target="V3" local="true">MaxyDressV3.osd\V3BreastPerkiness</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="V3ArmpitHeight" target="V3" local="true">MaxyDressV3.osd\V3ArmpitHeight</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="zip7B Upper" target="zip" local="true">MaxyDressV3.osd\zip7B Upper</Data>
+            <Data name="V37B Upper" target="V3" local="true">MaxyDressV3.osd\V37B Upper</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="V37B Lower" target="V3" local="true">MaxyDressV3.osd\V37B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="V3MuscularChest" target="V3" local="true">MaxyDressV3.osd\V3MuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="zipMuscularArms" target="zip" local="true">MaxyDressV3.osd\zipMuscularArms</Data>
+            <Data name="V3MuscularArms" target="V3" local="true">MaxyDressV3.osd\V3MuscularArms</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="V3MuscularButt" target="V3" local="true">MaxyDressV3.osd\V3MuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="V3MuscularLegs" target="V3" local="true">MaxyDressV3.osd\V3MuscularLegs</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

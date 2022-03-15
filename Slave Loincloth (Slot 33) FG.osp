@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Slave Loincloth (Slot 33) FG">
+        <DataFolder>Slave Loincloth (Slot 33) FG</DataFolder>
+        <SourceFile>Slave Loincloth (Slot 33) FG.nif</SourceFile>
+        <OutputPath>meshes\kharneth\slaveloincloth2</OutputPath>
+        <OutputFile GenWeights="false">loincloth33</OutputFile>
+        <Shape target="FusionGirl" DataFolder="FusionGirl">FusionGirl</Shape>
+        <Shape target="loincloth">loincloth</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FusionGirlBelly Pregnant" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Pregnant</Data>
+            <Data name="loinclothBelly Pregnant" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FusionGirlBelly Big" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Big</Data>
+            <Data name="loinclothBelly Big" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FusionGirlBelly Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Size</Data>
+            <Data name="loinclothBelly Size" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FusionGirlBelly Tuck" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Tuck</Data>
+            <Data name="loinclothBelly Tuck" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FusionGirlBoobs Yuge" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Yuge</Data>
+            <Data name="loinclothBoobs Yuge" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FusionGirlBoobs Big" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Big</Data>
+            <Data name="loinclothBoobs Big" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FusionGirlBoobs Cleavage" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FusionGirlBoobs Flat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FusionGirlBoobs Gravity" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Gravity</Data>
+            <Data name="loinclothBoobs Gravity" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FusionGirlBoobs Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FusionGirlBoobs Mellons" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Mellons</Data>
+            <Data name="loinclothBoobs Mellons" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FusionGirlBoobs Perky" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Perky</Data>
+            <Data name="loinclothBoobs Perky" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FusionGirlBoobs Push Up" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Push Up</Data>
+            <Data name="loinclothBoobs Push Up" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FusionGirlBoobs Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FusionGirlBoobs Together" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FusionGirlBoobs Top Slope" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Top Slope</Data>
+            <Data name="loinclothBoobs Top Slope" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FusionGirlBoobs Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FusionGirlBoobs Tiny" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Tiny</Data>
+            <Data name="loinclothBoobs Tiny" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="FusionGirlNipples Length" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="FusionGirlNipples Areola" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FusionGirlNipples Distance" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FusionGirlNipples Down" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="FusionGirlNipples Gone" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="FusionGirlNipples Shape" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="FusionGirlNipples Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FusionGirlNipples Perkiness" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FusionGirlNipples Puffy" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FusionGirlNipples Up" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="FusionGirlNipples Tip" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FusionGirlChest Depth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FusionGirlChest Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlChest Width</Data>
+            <Data name="loinclothChest Width" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FusionGirlWaist Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Chubby</Data>
+            <Data name="loinclothWaist Chubby" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FusionGirlWaist Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Size</Data>
+            <Data name="loinclothWaist Size" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FusionGirlWaist Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Height</Data>
+            <Data name="loinclothWaist Height" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FusionGirlWaist Line" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Line</Data>
+            <Data name="loinclothWaist Line" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FusionGirlBack Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBack Size</Data>
+            <Data name="loinclothBack Size" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FusionGirlBack Arch" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBack Arch</Data>
+            <Data name="loinclothBack Arch" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FusionGirlHips Bone" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Bone</Data>
+            <Data name="loinclothHips Bone" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FusionGirlHips Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Size</Data>
+            <Data name="loinclothHips Size" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FusionGirlHips Upper Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Upper Width</Data>
+            <Data name="loinclothHips Upper Width" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FusionGirlBum Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Size</Data>
+            <Data name="loinclothBum Size" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FusionGirlBum Crack" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Crack</Data>
+            <Data name="loinclothBum Crack" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 1" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Shape 1</Data>
+            <Data name="loinclothBum Shape 1" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Shape 2</Data>
+            <Data name="loinclothBum Shape 2" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FusionGirlBum Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Small</Data>
+            <Data name="loinclothBum Small" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FusionGirlBum Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Chubby</Data>
+            <Data name="loinclothBum Chubby" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FusionGirlBum Round" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Round</Data>
+            <Data name="loinclothBum Round" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FusionGirlBum Apple" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Apple</Data>
+            <Data name="loinclothBum Apple" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FusionGirlCalf Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FusionGirlCalf Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FusionGirlLegs Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Chubby</Data>
+            <Data name="loinclothLegs Chubby" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FusionGirlLegs Shape" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Shape</Data>
+            <Data name="loinclothLegs Shape" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FusionGirlLegs Thin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Thin</Data>
+            <Data name="loinclothLegs Thin" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FusionGirlThighs Slim" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlThighs Slim</Data>
+            <Data name="loinclothThighs Slim" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FusionGirlThighs Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlThighs Size</Data>
+            <Data name="loinclothThighs Size" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FusionGirlAnkle Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FusionGirlArms Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FusionGirlShoulder Smooth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FusionGirlShoulder Tweak" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FusionGirlArms Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FusionGirlArmpit Ajustment" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FusionGirlForearms Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FusionGirlTorso Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlTorso Size</Data>
+            <Data name="loinclothTorso Size" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FusionGirlSturnum Depth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FusionGirlSturnum Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FusionGirlGroin Position" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlGroin Position</Data>
+            <Data name="loinclothGroin Position" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FusionGirlGroin Back" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlGroin Back</Data>
+            <Data name="loinclothGroin Back" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Flat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Minora Flat</Data>
+            <Data name="loinclothLabia Minora Flat" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Longer" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Minora Longer</Data>
+            <Data name="loinclothLabia Minora Longer" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="FusionGirlClitoras Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlClitoras Size</Data>
+            <Data name="loinclothClitoras Size" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="FusionGirlClitoras Long" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Long" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Long</Data>
+            <Data name="loinclothLabia Majora Long" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Wide" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Wide</Data>
+            <Data name="loinclothLabia Majora Wide" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Inner" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Inner</Data>
+            <Data name="loinclothLabia Majora Inner" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FusionGirlAbDefinition" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAbDefinition</Data>
+            <Data name="loinclothAbDefinition" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FusionGirlBody Toning" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBody Toning</Data>
+            <Data name="loinclothBody Toning" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FusionGirlTigerSanBB" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlTigerSanBB</Data>
+            <Data name="loinclothTigerSanBB" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FusionGirlXunAbs" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlXunAbs</Data>
+            <Data name="loinclothXunAbs" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FusionGirlFFB Fitness 2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlFFB Fitness 2</Data>
+            <Data name="loinclothFFB Fitness 2" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FusionGirlAthletic" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAthletic</Data>
+            <Data name="loinclothAthletic" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FusionGirlSeveNBase Bombshell" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSeveNBase Bombshell</Data>
+            <Data name="loinclothSeveNBase Bombshell" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FusionGirlKnee Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FusionGirlShoulder Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Width</Data>
+            <Data name="loinclothShoulder Width" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FusionGirlHighHeels" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FusionGirlBodyFat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBodyFat</Data>
+            <Data name="loinclothBodyFat" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FusionGirlLegThin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegThin</Data>
+            <Data name="loinclothLegThin" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FusionGirlHipsNarrow" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipsNarrow</Data>
+            <Data name="loinclothHipsNarrow" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FusionGirlButtGravity" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlButtGravity</Data>
+            <Data name="loinclothButtGravity" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FusionGirlButtThin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlButtThin</Data>
+            <Data name="loinclothButtThin" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FusionGirlHipsForward" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipsForward</Data>
+            <Data name="loinclothHipsForward" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FusionGirlHipRotateForward" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipRotateForward</Data>
+            <Data name="loinclothHipRotateForward" target="loincloth" local="true">Slave Loincloth (Slot 33) FG.osd\loinclothHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitWide" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FusionGirlBreastCurve" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FusionGirlBreastHeight2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FusionGirlBreastConcave" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

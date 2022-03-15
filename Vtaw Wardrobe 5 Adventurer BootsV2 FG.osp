@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Adventurer BootsV2 FG">
+        <DataFolder>Vtaw Wardrobe 5 Adventurer BootsV2 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Adventurer BootsV2 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Adventurer</OutputPath>
+        <OutputFile GenWeights="false">ADBootsV2</OutputFile>
+        <Shape target="FusionGirl" DataFolder="FusionGirl">FusionGirl</Shape>
+        <Shape target="boots">boots</Shape>
+        <Shape target="boots2">boots2</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FusionGirlBelly Pregnant" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FusionGirlBelly Big" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FusionGirlBelly Size" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FusionGirlBelly Tuck" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FusionGirlBoobs Yuge" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBoobs Yuge</Data>
+            <Data name="bootsBoobs Yuge" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBoobs Yuge</Data>
+            <Data name="boots2Boobs Yuge" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FusionGirlBoobs Big" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBoobs Big</Data>
+            <Data name="bootsBoobs Big" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBoobs Big</Data>
+            <Data name="boots2Boobs Big" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FusionGirlBoobs Cleavage" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FusionGirlBoobs Flat" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FusionGirlBoobs Gravity" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBoobs Gravity</Data>
+            <Data name="bootsBoobs Gravity" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBoobs Gravity</Data>
+            <Data name="boots2Boobs Gravity" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FusionGirlBoobs Height" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FusionGirlBoobs Mellons" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBoobs Mellons</Data>
+            <Data name="bootsBoobs Mellons" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBoobs Mellons</Data>
+            <Data name="boots2Boobs Mellons" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FusionGirlBoobs Perky" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBoobs Perky</Data>
+            <Data name="bootsBoobs Perky" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBoobs Perky</Data>
+            <Data name="boots2Boobs Perky" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FusionGirlBoobs Push Up" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBoobs Push Up</Data>
+            <Data name="bootsBoobs Push Up" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBoobs Push Up</Data>
+            <Data name="boots2Boobs Push Up" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FusionGirlBoobs Small" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FusionGirlBoobs Together" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FusionGirlBoobs Top Slope" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBoobs Top Slope</Data>
+            <Data name="bootsBoobs Top Slope" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBoobs Top Slope</Data>
+            <Data name="boots2Boobs Top Slope" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FusionGirlBoobs Width" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FusionGirlBoobs Tiny" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBoobs Tiny</Data>
+            <Data name="bootsBoobs Tiny" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBoobs Tiny</Data>
+            <Data name="boots2Boobs Tiny" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FusionGirlNipples Distance" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FusionGirlNipples Down" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FusionGirlNipples Perkiness" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FusionGirlNipples Puffy" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FusionGirlNipples Up" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FusionGirlChest Depth" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FusionGirlChest Width" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FusionGirlWaist Chubby" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FusionGirlWaist Size" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FusionGirlWaist Height" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FusionGirlWaist Line" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FusionGirlBack Size" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FusionGirlBack Arch" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FusionGirlHips Bone" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FusionGirlHips Size" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FusionGirlHips Upper Width" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FusionGirlBum Size" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FusionGirlBum Crack" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 1" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 2" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FusionGirlBum Small" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FusionGirlBum Chubby" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FusionGirlBum Round" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FusionGirlBum Apple" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBum Apple</Data>
+            <Data name="bootsBum Apple" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FusionGirlCalf Size" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlCalf Size</Data>
+            <Data name="bootsCalf Size" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FusionGirlCalf Small" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlCalf Small</Data>
+            <Data name="bootsCalf Small" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FusionGirlLegs Chubby" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlLegs Chubby</Data>
+            <Data name="bootsLegs Chubby" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FusionGirlLegs Shape" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlLegs Shape</Data>
+            <Data name="bootsLegs Shape" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FusionGirlLegs Thin" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlLegs Thin</Data>
+            <Data name="bootsLegs Thin" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FusionGirlThighs Slim" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlThighs Slim</Data>
+            <Data name="bootsThighs Slim" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FusionGirlThighs Size" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlThighs Size</Data>
+            <Data name="bootsThighs Size" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FusionGirlAnkle Size" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlAnkle Size</Data>
+            <Data name="bootsAnkle Size" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsAnkle Size</Data>
+            <Data name="boots2Ankle Size" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Ankle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FusionGirlArms Chubby" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FusionGirlShoulder Smooth" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FusionGirlShoulder Tweak" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FusionGirlArms Size" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FusionGirlArmpit Ajustment" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FusionGirlForearms Size" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FusionGirlTorso Size" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FusionGirlSturnum Depth" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlSturnum Depth</Data>
+            <Data name="bootsSturnum Depth" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsSturnum Depth</Data>
+            <Data name="boots2Sturnum Depth" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FusionGirlSturnum Height" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlSturnum Height</Data>
+            <Data name="bootsSturnum Height" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsSturnum Height</Data>
+            <Data name="boots2Sturnum Height" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FusionGirlGroin Position" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlGroin Position</Data>
+            <Data name="bootsGroin Position" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsGroin Position</Data>
+            <Data name="boots2Groin Position" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FusionGirlGroin Back" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlGroin Back</Data>
+            <Data name="bootsGroin Back" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsGroin Back</Data>
+            <Data name="boots2Groin Back" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FusionGirlAbDefinition" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlAbDefinition</Data>
+            <Data name="bootsAbDefinition" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsAbDefinition</Data>
+            <Data name="boots2AbDefinition" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FusionGirlBody Toning" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBody Toning</Data>
+            <Data name="bootsBody Toning" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBody Toning</Data>
+            <Data name="boots2Body Toning" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FusionGirlTigerSanBB" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlTigerSanBB</Data>
+            <Data name="bootsTigerSanBB" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsTigerSanBB</Data>
+            <Data name="boots2TigerSanBB" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FusionGirlXunAbs" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FusionGirlFFB Fitness 2" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FusionGirlAthletic" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlAthletic</Data>
+            <Data name="bootsAthletic" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsAthletic</Data>
+            <Data name="boots2Athletic" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FusionGirlSeveNBase Bombshell" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlSeveNBase Bombshell</Data>
+            <Data name="bootsSeveNBase Bombshell" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsSeveNBase Bombshell</Data>
+            <Data name="boots2SeveNBase Bombshell" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FusionGirlKnee Height" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlKnee Height</Data>
+            <Data name="bootsKnee Height" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FusionGirlShoulder Width" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FusionGirlHighHeels" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlHighHeels</Data>
+            <Data name="bootsHighHeels" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsHighHeels</Data>
+            <Data name="boots2HighHeels" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2HighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FusionGirlBodyFat" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBodyFat</Data>
+            <Data name="bootsBodyFat" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBodyFat</Data>
+            <Data name="boots2BodyFat" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FusionGirlLegThin" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlLegThin</Data>
+            <Data name="bootsLegThin" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsLegThin</Data>
+            <Data name="boots2LegThin" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FusionGirlHipsNarrow" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlHipsNarrow</Data>
+            <Data name="bootsHipsNarrow" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsHipsNarrow</Data>
+            <Data name="boots2HipsNarrow" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FusionGirlButtGravity" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlButtGravity</Data>
+            <Data name="bootsButtGravity" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsButtGravity</Data>
+            <Data name="boots2ButtGravity" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FusionGirlButtThin" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlButtThin</Data>
+            <Data name="bootsButtThin" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsButtThin</Data>
+            <Data name="boots2ButtThin" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FusionGirlHipsForward" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlHipsForward</Data>
+            <Data name="bootsHipsForward" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsHipsForward</Data>
+            <Data name="boots2HipsForward" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FusionGirlHipRotateForward" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlHipRotateForward</Data>
+            <Data name="bootsHipRotateForward" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsHipRotateForward</Data>
+            <Data name="boots2HipRotateForward" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitin" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBreastArmpitin</Data>
+            <Data name="bootsBreastArmpitin" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBreastArmpitin</Data>
+            <Data name="boots2BreastArmpitin" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitWide" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBreastArmpitWide</Data>
+            <Data name="bootsBreastArmpitWide" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBreastArmpitWide</Data>
+            <Data name="boots2BreastArmpitWide" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FusionGirlBreastCurve" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBreastCurve</Data>
+            <Data name="bootsBreastCurve" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBreastCurve</Data>
+            <Data name="boots2BreastCurve" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FusionGirlBreastHeight2" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBreastHeight2</Data>
+            <Data name="bootsBreastHeight2" target="boots" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\bootsBreastHeight2</Data>
+            <Data name="boots2BreastHeight2" target="boots2" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\boots2BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FusionGirlBreastConcave" target="FusionGirl">FusionGirl-ClothingMakers.osd\FusionGirlBreastConcave</Data>
+        </Slider>
+        <Slider name="Zap-Legs" invert="false" default="100" hidden="true" zap="true">
+            <Data name="FusionGirlZap-Legs" target="FusionGirl" local="true">Vtaw Wardrobe 5 Adventurer BootsV2 FG.osd\FusionGirlZap-Legs</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

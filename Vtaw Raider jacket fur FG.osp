@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Raider jacket fur FG">
+        <DataFolder>Vtaw Raider jacket fur FG</DataFolder>
+        <SourceFile>Vtaw Raider jacket fur FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe4\fur</OutputPath>
+        <OutputFile GenWeights="false">fur</OutputFile>
+        <Shape target="fur">fur</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="furBoobs Yuge" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="furBoobs Big" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="furBoobs Cleavage" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="furBoobs Flat" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="furBoobs Gravity" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="furBoobs Height" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="furBoobs Mellons" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="furBoobs Perky" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="furBoobs Push Up" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="furBoobs Small" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="furBoobs Together" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="furBoobs Top Slope" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="furBoobs Width" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="furBoobs Tiny" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="furNipples Distance" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="furNipples Down" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="furNipples Perkiness" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="furNipples Puffy" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="furNipples Up" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="furChest Depth" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="furChest Width" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furChest Width</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="furBack Size" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBack Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="furArms Chubby" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="furShoulder Smooth" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="furShoulder Tweak" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="furArms Size" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="furArmpit Ajustment" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="furTorso Size" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="furSturnum Depth" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="furSturnum Height" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="furGroin Position" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="furGroin Back" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="furBody Toning" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="furTigerSanBB" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="furAthletic" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="furSeveNBase Bombshell" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="furShoulder Width" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="furBodyFat" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBodyFat</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="furBreastArmpitin" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="furBreastArmpitWide" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="furBreastCurve" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="furBreastHeight2" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="furBreastConcave" target="fur" local="true">Vtaw Raider jacket fur FG.osd\furBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

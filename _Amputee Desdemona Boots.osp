@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="_Amputee Desdemona Boots">
+        <DataFolder>Amputee</DataFolder>
+        <SourceFile>_Amputee Desdemona Boots.nif</SourceFile>
+        <OutputPath>meshes\clothes\Amputee</OutputPath>
+        <OutputFile GenWeights="false">Amputee Boots Des</OutputFile>
+        <Shape target="Body">Body</Shape>
+        <Shape target="Charred_Arm_Armwrap">Charred_Arm_Armwrap</Shape>
+        <Shape target="Charred_BarbedWire_2">Charred_BarbedWire_2</Shape>
+        <Shape target="Fusion_vagina" DataFolder="Amputee">Fusion_vagina</Shape>
+        <Shape target="JaneBodVag">JaneBodVag</Shape>
+        <Shape target="desboots">desboots</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="Fusion_vaginaBelly Pregnant" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBelly Pregnant</Data>
+            <Data name="JaneBodVagBelly Pregnant" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBelly Pregnant</Data>
+            <Data name="BodyBelly Pregnant" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="JaneBodVagBelly Big" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBelly Big</Data>
+            <Data name="BodyBelly Big" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="BodyBelly Size" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="JaneBodVagBelly Tuck" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBelly Tuck</Data>
+            <Data name="BodyBelly Tuck" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Fusion_vaginaBoobs Yuge" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBoobs Yuge</Data>
+            <Data name="desbootsBoobs Yuge" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBoobs Yuge</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Yuge" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapBoobs Yuge</Data>
+            <Data name="Charred_BarbedWire_2Boobs Yuge" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Boobs Yuge</Data>
+            <Data name="JaneBodVagBoobs Yuge" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBoobs Yuge</Data>
+            <Data name="BodyBoobs Yuge" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Fusion_vaginaBoobs Big" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBoobs Big</Data>
+            <Data name="desbootsBoobs Big" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBoobs Big</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Big" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapBoobs Big</Data>
+            <Data name="Charred_BarbedWire_2Boobs Big" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Boobs Big</Data>
+            <Data name="JaneBodVagBoobs Big" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBoobs Big</Data>
+            <Data name="BodyBoobs Big" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="BodyBoobs Cleavage" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="BodyBoobs Flat" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Fusion_vaginaBoobs Gravity" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBoobs Gravity</Data>
+            <Data name="desbootsBoobs Gravity" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBoobs Gravity</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Gravity" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapBoobs Gravity</Data>
+            <Data name="Charred_BarbedWire_2Boobs Gravity" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Boobs Gravity</Data>
+            <Data name="JaneBodVagBoobs Gravity" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBoobs Gravity</Data>
+            <Data name="BodyBoobs Gravity" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="BodyBoobs Height" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Fusion_vaginaBoobs Mellons" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBoobs Mellons</Data>
+            <Data name="desbootsBoobs Mellons" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBoobs Mellons</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Mellons" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapBoobs Mellons</Data>
+            <Data name="Charred_BarbedWire_2Boobs Mellons" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Boobs Mellons</Data>
+            <Data name="JaneBodVagBoobs Mellons" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBoobs Mellons</Data>
+            <Data name="BodyBoobs Mellons" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Fusion_vaginaBoobs Perky" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBoobs Perky</Data>
+            <Data name="desbootsBoobs Perky" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBoobs Perky</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Perky" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapBoobs Perky</Data>
+            <Data name="Charred_BarbedWire_2Boobs Perky" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Boobs Perky</Data>
+            <Data name="JaneBodVagBoobs Perky" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBoobs Perky</Data>
+            <Data name="BodyBoobs Perky" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Fusion_vaginaBoobs Push Up" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBoobs Push Up</Data>
+            <Data name="desbootsBoobs Push Up" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBoobs Push Up</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Push Up" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapBoobs Push Up</Data>
+            <Data name="Charred_BarbedWire_2Boobs Push Up" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Boobs Push Up</Data>
+            <Data name="JaneBodVagBoobs Push Up" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBoobs Push Up</Data>
+            <Data name="BodyBoobs Push Up" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="BodyBoobs Small" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="BodyBoobs Together" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="Fusion_vaginaBoobs Top Slope" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBoobs Top Slope</Data>
+            <Data name="desbootsBoobs Top Slope" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBoobs Top Slope</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Top Slope" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapBoobs Top Slope</Data>
+            <Data name="Charred_BarbedWire_2Boobs Top Slope" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Boobs Top Slope</Data>
+            <Data name="JaneBodVagBoobs Top Slope" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBoobs Top Slope</Data>
+            <Data name="BodyBoobs Top Slope" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="BodyBoobs Width" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Fusion_vaginaBoobs Tiny" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBoobs Tiny</Data>
+            <Data name="desbootsBoobs Tiny" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBoobs Tiny</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Tiny" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapBoobs Tiny</Data>
+            <Data name="Charred_BarbedWire_2Boobs Tiny" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Boobs Tiny</Data>
+            <Data name="JaneBodVagBoobs Tiny" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBoobs Tiny</Data>
+            <Data name="BodyBoobs Tiny" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="BodyNipples Distance" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="BodyNipples Down" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="BodyNipples Perkiness" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="BodyNipples Puffy" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="BodyNipples Up" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="BodyChest Depth" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="BodyChest Width" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="BodyWaist Chubby" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="BodyWaist Size" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="BodyWaist Height" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="BodyWaist Line" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="BodyBack Size" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="BodyBack Arch" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="BodyHips Bone" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="BodyHips Size" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="BodyHips Upper Width" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="BodyBum Size" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="Fusion_vaginaBum Crack" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBum Crack</Data>
+            <Data name="JaneBodVagBum Crack" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBum Crack</Data>
+            <Data name="BodyBum Crack" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="Fusion_vaginaBum Shape 1" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBum Shape 1</Data>
+            <Data name="JaneBodVagBum Shape 1" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBum Shape 1</Data>
+            <Data name="BodyBum Shape 1" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="Fusion_vaginaBum Shape 2" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBum Shape 2</Data>
+            <Data name="JaneBodVagBum Shape 2" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBum Shape 2</Data>
+            <Data name="BodyBum Shape 2" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="Fusion_vaginaBum Small" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBum Small</Data>
+            <Data name="JaneBodVagBum Small" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBum Small</Data>
+            <Data name="BodyBum Small" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="Fusion_vaginaBum Chubby" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBum Chubby</Data>
+            <Data name="JaneBodVagBum Chubby" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBum Chubby</Data>
+            <Data name="BodyBum Chubby" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="BodyBum Round" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="Fusion_vaginaBum Apple" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBum Apple</Data>
+            <Data name="desbootsBum Apple" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBum Apple</Data>
+            <Data name="JaneBodVagBum Apple" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBum Apple</Data>
+            <Data name="BodyBum Apple" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="desbootsCalf Size" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsCalf Size</Data>
+            <Data name="BodyCalf Size" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="desbootsCalf Small" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsCalf Small</Data>
+            <Data name="BodyCalf Small" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="Fusion_vaginaLegs Chubby" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaLegs Chubby</Data>
+            <Data name="desbootsLegs Chubby" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsLegs Chubby</Data>
+            <Data name="JaneBodVagLegs Chubby" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagLegs Chubby</Data>
+            <Data name="BodyLegs Chubby" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="desbootsLegs Shape" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsLegs Shape</Data>
+            <Data name="BodyLegs Shape" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="desbootsLegs Thin" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsLegs Thin</Data>
+            <Data name="JaneBodVagLegs Thin" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagLegs Thin</Data>
+            <Data name="BodyLegs Thin" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="desbootsThighs Slim" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsThighs Slim</Data>
+            <Data name="JaneBodVagThighs Slim" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagThighs Slim</Data>
+            <Data name="BodyThighs Slim" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="Fusion_vaginaThighs Size" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaThighs Size</Data>
+            <Data name="desbootsThighs Size" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsThighs Size</Data>
+            <Data name="JaneBodVagThighs Size" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagThighs Size</Data>
+            <Data name="BodyThighs Size" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="desbootsAnkle Size" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsAnkle Size</Data>
+            <Data name="BodyAnkle Size" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapArms Chubby" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapArms Chubby</Data>
+            <Data name="Charred_BarbedWire_2Arms Chubby" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Arms Chubby</Data>
+            <Data name="BodyArms Chubby" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapShoulder Smooth" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapShoulder Smooth</Data>
+            <Data name="Charred_BarbedWire_2Shoulder Smooth" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Shoulder Smooth</Data>
+            <Data name="BodyShoulder Smooth" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="BodyShoulder Tweak" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapArms Size" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapArms Size</Data>
+            <Data name="Charred_BarbedWire_2Arms Size" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Arms Size</Data>
+            <Data name="BodyArms Size" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapArmpit Ajustment" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapArmpit Ajustment</Data>
+            <Data name="Charred_BarbedWire_2Armpit Ajustment" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Armpit Ajustment</Data>
+            <Data name="BodyArmpit Ajustment" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapForearms Size" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapForearms Size</Data>
+            <Data name="Charred_BarbedWire_2Forearms Size" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Forearms Size</Data>
+            <Data name="BodyForearms Size" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapTorso Size" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapTorso Size</Data>
+            <Data name="Charred_BarbedWire_2Torso Size" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Torso Size</Data>
+            <Data name="JaneBodVagTorso Size" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagTorso Size</Data>
+            <Data name="BodyTorso Size" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Fusion_vaginaSturnum Depth" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaSturnum Depth</Data>
+            <Data name="desbootsSturnum Depth" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsSturnum Depth</Data>
+            <Data name="Charred_Arm_ArmwrapSturnum Depth" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapSturnum Depth</Data>
+            <Data name="Charred_BarbedWire_2Sturnum Depth" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Sturnum Depth</Data>
+            <Data name="JaneBodVagSturnum Depth" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagSturnum Depth</Data>
+            <Data name="BodySturnum Depth" target="Body" local="true">_Amputee Desdemona Boots.osd\BodySturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Fusion_vaginaSturnum Height" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaSturnum Height</Data>
+            <Data name="desbootsSturnum Height" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsSturnum Height</Data>
+            <Data name="Charred_Arm_ArmwrapSturnum Height" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapSturnum Height</Data>
+            <Data name="Charred_BarbedWire_2Sturnum Height" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Sturnum Height</Data>
+            <Data name="JaneBodVagSturnum Height" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagSturnum Height</Data>
+            <Data name="BodySturnum Height" target="Body" local="true">_Amputee Desdemona Boots.osd\BodySturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Fusion_vaginaGroin Position" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaGroin Position</Data>
+            <Data name="desbootsGroin Position" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsGroin Position</Data>
+            <Data name="Charred_Arm_ArmwrapGroin Position" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapGroin Position</Data>
+            <Data name="Charred_BarbedWire_2Groin Position" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Groin Position</Data>
+            <Data name="JaneBodVagGroin Position" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagGroin Position</Data>
+            <Data name="BodyGroin Position" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Fusion_vaginaGroin Back" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaGroin Back</Data>
+            <Data name="desbootsGroin Back" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsGroin Back</Data>
+            <Data name="Charred_Arm_ArmwrapGroin Back" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapGroin Back</Data>
+            <Data name="Charred_BarbedWire_2Groin Back" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Groin Back</Data>
+            <Data name="JaneBodVagGroin Back" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagGroin Back</Data>
+            <Data name="BodyGroin Back" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="desbootsAbDefinition" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsAbDefinition</Data>
+            <Data name="BodyAbDefinition" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Fusion_vaginaBody Toning" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBody Toning</Data>
+            <Data name="desbootsBody Toning" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBody Toning</Data>
+            <Data name="Charred_Arm_ArmwrapBody Toning" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapBody Toning</Data>
+            <Data name="Charred_BarbedWire_2Body Toning" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Body Toning</Data>
+            <Data name="JaneBodVagBody Toning" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBody Toning</Data>
+            <Data name="BodyBody Toning" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Fusion_vaginaTigerSanBB" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaTigerSanBB</Data>
+            <Data name="desbootsTigerSanBB" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsTigerSanBB</Data>
+            <Data name="Charred_Arm_ArmwrapTigerSanBB" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapTigerSanBB</Data>
+            <Data name="Charred_BarbedWire_2TigerSanBB" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2TigerSanBB</Data>
+            <Data name="JaneBodVagTigerSanBB" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagTigerSanBB</Data>
+            <Data name="BodyTigerSanBB" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="BodyXunAbs" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="BodyFFB Fitness 2" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Fusion_vaginaAthletic" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaAthletic</Data>
+            <Data name="desbootsAthletic" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsAthletic</Data>
+            <Data name="Charred_Arm_ArmwrapAthletic" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapAthletic</Data>
+            <Data name="Charred_BarbedWire_2Athletic" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Athletic</Data>
+            <Data name="JaneBodVagAthletic" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagAthletic</Data>
+            <Data name="BodyAthletic" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Fusion_vaginaSeveNBase Bombshell" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaSeveNBase Bombshell</Data>
+            <Data name="desbootsSeveNBase Bombshell" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsSeveNBase Bombshell</Data>
+            <Data name="Charred_Arm_ArmwrapSeveNBase Bombshell" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapSeveNBase Bombshell</Data>
+            <Data name="Charred_BarbedWire_2SeveNBase Bombshell" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2SeveNBase Bombshell</Data>
+            <Data name="JaneBodVagSeveNBase Bombshell" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagSeveNBase Bombshell</Data>
+            <Data name="BodySeveNBase Bombshell" target="Body" local="true">_Amputee Desdemona Boots.osd\BodySeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="desbootsKnee Height" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsKnee Height</Data>
+            <Data name="BodyKnee Height" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Charred_Arm_ArmwrapShoulder Width" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapShoulder Width</Data>
+            <Data name="Charred_BarbedWire_2Shoulder Width" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2Shoulder Width</Data>
+            <Data name="BodyShoulder Width" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="desbootsHighHeels" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsHighHeels</Data>
+            <Data name="BodyHighHeels" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Fusion_vaginaBodyFat" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaBodyFat</Data>
+            <Data name="desbootsBodyFat" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBodyFat</Data>
+            <Data name="Charred_Arm_ArmwrapBodyFat" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapBodyFat</Data>
+            <Data name="Charred_BarbedWire_2BodyFat" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2BodyFat</Data>
+            <Data name="JaneBodVagBodyFat" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagBodyFat</Data>
+            <Data name="BodyBodyFat" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="Fusion_vaginaLegThin" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaLegThin</Data>
+            <Data name="desbootsLegThin" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsLegThin</Data>
+            <Data name="JaneBodVagLegThin" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagLegThin</Data>
+            <Data name="BodyLegThin" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="desbootsHipsNarrow" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsHipsNarrow</Data>
+            <Data name="BodyHipsNarrow" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="Fusion_vaginaButtGravity" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaButtGravity</Data>
+            <Data name="desbootsButtGravity" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsButtGravity</Data>
+            <Data name="JaneBodVagButtGravity" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagButtGravity</Data>
+            <Data name="BodyButtGravity" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="Fusion_vaginaButtThin" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaButtThin</Data>
+            <Data name="desbootsButtThin" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsButtThin</Data>
+            <Data name="JaneBodVagButtThin" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagButtThin</Data>
+            <Data name="BodyButtThin" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="Fusion_vaginaHipsForward" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaHipsForward</Data>
+            <Data name="desbootsHipsForward" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsHipsForward</Data>
+            <Data name="JaneBodVagHipsForward" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagHipsForward</Data>
+            <Data name="BodyHipsForward" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="desbootsHipRotateForward" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsHipRotateForward</Data>
+            <Data name="BodyHipRotateForward" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="desbootsBreastArmpitin" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBreastArmpitin</Data>
+            <Data name="Charred_Arm_ArmwrapBreastArmpitin" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapBreastArmpitin</Data>
+            <Data name="Charred_BarbedWire_2BreastArmpitin" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2BreastArmpitin</Data>
+            <Data name="BodyBreastArmpitin" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="desbootsBreastArmpitWide" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBreastArmpitWide</Data>
+            <Data name="Charred_Arm_ArmwrapBreastArmpitWide" target="Charred_Arm_Armwrap" local="true">_Amputee Desdemona Boots.osd\Charred_Arm_ArmwrapBreastArmpitWide</Data>
+            <Data name="Charred_BarbedWire_2BreastArmpitWide" target="Charred_BarbedWire_2" local="true">_Amputee Desdemona Boots.osd\Charred_BarbedWire_2BreastArmpitWide</Data>
+            <Data name="BodyBreastArmpitWide" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="desbootsBreastCurve" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBreastCurve</Data>
+            <Data name="BodyBreastCurve" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="desbootsBreastHeight2" target="desboots" local="true">_Amputee Desdemona Boots.osd\desbootsBreastHeight2</Data>
+            <Data name="BodyBreastHeight2" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="BodyBreastConcave" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyBreastConcave</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="BodyNipples Length" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="BodyNipples Areola" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="BodyNipples Gone" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="BodyNipples Shape" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="BodyNipples Size" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="BodyNipples Tip" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyNipples Tip</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="Fusion_vaginaLabia Minora Flat" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaLabia Minora Flat</Data>
+            <Data name="JaneBodVagLabia Minora Flat" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagLabia Minora Flat</Data>
+            <Data name="BodyLabia Minora Flat" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="Fusion_vaginaLabia Minora Longer" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaLabia Minora Longer</Data>
+            <Data name="JaneBodVagLabia Minora Longer" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagLabia Minora Longer</Data>
+            <Data name="BodyLabia Minora Longer" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="Fusion_vaginaClitoras Size" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaClitoras Size</Data>
+            <Data name="JaneBodVagClitoras Size" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagClitoras Size</Data>
+            <Data name="BodyClitoras Size" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="Fusion_vaginaClitoras Long" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaClitoras Long</Data>
+            <Data name="JaneBodVagClitoras Long" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagClitoras Long</Data>
+            <Data name="BodyClitoras Long" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="Fusion_vaginaLabia Majora Long" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaLabia Majora Long</Data>
+            <Data name="JaneBodVagLabia Majora Long" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagLabia Majora Long</Data>
+            <Data name="BodyLabia Majora Long" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="Fusion_vaginaLabia Majora Wide" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaLabia Majora Wide</Data>
+            <Data name="JaneBodVagLabia Majora Wide" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagLabia Majora Wide</Data>
+            <Data name="BodyLabia Majora Wide" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="Fusion_vaginaLabia Majora Inner" target="Fusion_vagina" local="true">_Amputee Desdemona Boots.osd\Fusion_vaginaLabia Majora Inner</Data>
+            <Data name="JaneBodVagLabia Majora Inner" target="JaneBodVag" local="true">_Amputee Desdemona Boots.osd\JaneBodVagLabia Majora Inner</Data>
+            <Data name="BodyLabia Majora Inner" target="Body" local="true">_Amputee Desdemona Boots.osd\BodyLabia Majora Inner</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Accessories Leg Belts FG">
+        <DataFolder>Vtaw Wardrobe 5 Accessories Leg Belts FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Accessories Leg Belts FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Accessories</OutputPath>
+        <OutputFile GenWeights="false">LegBelts</OutputFile>
+        <Shape target="kunai2">kunai2</Shape>
+        <Shape target="legs">legs</Shape>
+        <Shape target="legstraps">legstraps</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="kunai2Boobs Yuge" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Boobs Yuge</Data>
+            <Data name="legsBoobs Yuge" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBoobs Yuge</Data>
+            <Data name="legstrapsBoobs Yuge" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="kunai2Boobs Big" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Boobs Big</Data>
+            <Data name="legsBoobs Big" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBoobs Big</Data>
+            <Data name="legstrapsBoobs Big" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="kunai2Boobs Gravity" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Boobs Gravity</Data>
+            <Data name="legsBoobs Gravity" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBoobs Gravity</Data>
+            <Data name="legstrapsBoobs Gravity" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="kunai2Boobs Mellons" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Boobs Mellons</Data>
+            <Data name="legsBoobs Mellons" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBoobs Mellons</Data>
+            <Data name="legstrapsBoobs Mellons" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="kunai2Boobs Perky" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Boobs Perky</Data>
+            <Data name="legsBoobs Perky" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBoobs Perky</Data>
+            <Data name="legstrapsBoobs Perky" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="kunai2Boobs Push Up" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Boobs Push Up</Data>
+            <Data name="legsBoobs Push Up" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBoobs Push Up</Data>
+            <Data name="legstrapsBoobs Push Up" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="kunai2Boobs Top Slope" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Boobs Top Slope</Data>
+            <Data name="legsBoobs Top Slope" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBoobs Top Slope</Data>
+            <Data name="legstrapsBoobs Top Slope" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="kunai2Boobs Tiny" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Boobs Tiny</Data>
+            <Data name="legsBoobs Tiny" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBoobs Tiny</Data>
+            <Data name="legstrapsBoobs Tiny" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="kunai2Waist Chubby" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Waist Chubby</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="kunai2Hips Bone" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Hips Bone</Data>
+            <Data name="legstrapsHips Bone" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="kunai2Hips Size" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Hips Size</Data>
+            <Data name="legsHips Size" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsHips Size</Data>
+            <Data name="legstrapsHips Size" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsHips Size</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="kunai2Bum Size" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Bum Size</Data>
+            <Data name="legsBum Size" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBum Size</Data>
+            <Data name="legstrapsBum Size" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="kunai2Bum Crack" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="kunai2Bum Shape 1" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Bum Shape 1</Data>
+            <Data name="legsBum Shape 1" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="kunai2Bum Shape 2" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Bum Shape 2</Data>
+            <Data name="legsBum Shape 2" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBum Shape 2</Data>
+            <Data name="legstrapsBum Shape 2" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="kunai2Bum Small" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Bum Small</Data>
+            <Data name="legsBum Small" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBum Small</Data>
+            <Data name="legstrapsBum Small" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="kunai2Bum Chubby" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Bum Chubby</Data>
+            <Data name="legsBum Chubby" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBum Chubby</Data>
+            <Data name="legstrapsBum Chubby" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="kunai2Bum Round" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Bum Round</Data>
+            <Data name="legsBum Round" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="kunai2Bum Apple" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Bum Apple</Data>
+            <Data name="legsBum Apple" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBum Apple</Data>
+            <Data name="legstrapsBum Apple" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="kunai2Legs Chubby" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Legs Chubby</Data>
+            <Data name="legsLegs Chubby" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsLegs Chubby</Data>
+            <Data name="legstrapsLegs Chubby" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="kunai2Legs Shape" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Legs Shape</Data>
+            <Data name="legsLegs Shape" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsLegs Shape</Data>
+            <Data name="legstrapsLegs Shape" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="kunai2Legs Thin" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Legs Thin</Data>
+            <Data name="legsLegs Thin" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsLegs Thin</Data>
+            <Data name="legstrapsLegs Thin" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="kunai2Thighs Slim" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Thighs Slim</Data>
+            <Data name="legsThighs Slim" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsThighs Slim</Data>
+            <Data name="legstrapsThighs Slim" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="kunai2Thighs Size" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Thighs Size</Data>
+            <Data name="legsThighs Size" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsThighs Size</Data>
+            <Data name="legstrapsThighs Size" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="kunai2Torso Size" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="kunai2Sturnum Depth" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Sturnum Depth</Data>
+            <Data name="legsSturnum Depth" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsSturnum Depth</Data>
+            <Data name="legstrapsSturnum Depth" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="kunai2Sturnum Height" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Sturnum Height</Data>
+            <Data name="legsSturnum Height" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsSturnum Height</Data>
+            <Data name="legstrapsSturnum Height" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="kunai2Groin Position" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Groin Position</Data>
+            <Data name="legsGroin Position" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsGroin Position</Data>
+            <Data name="legstrapsGroin Position" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="kunai2Groin Back" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Groin Back</Data>
+            <Data name="legsGroin Back" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsGroin Back</Data>
+            <Data name="legstrapsGroin Back" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="kunai2Body Toning" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Body Toning</Data>
+            <Data name="legsBody Toning" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBody Toning</Data>
+            <Data name="legstrapsBody Toning" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="kunai2TigerSanBB" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2TigerSanBB</Data>
+            <Data name="legsTigerSanBB" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsTigerSanBB</Data>
+            <Data name="legstrapsTigerSanBB" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="kunai2Athletic" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Athletic</Data>
+            <Data name="legsAthletic" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsAthletic</Data>
+            <Data name="legstrapsAthletic" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="kunai2SeveNBase Bombshell" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2SeveNBase Bombshell</Data>
+            <Data name="legsSeveNBase Bombshell" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsSeveNBase Bombshell</Data>
+            <Data name="legstrapsSeveNBase Bombshell" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="kunai2Knee Height" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2Knee Height</Data>
+            <Data name="legsKnee Height" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsKnee Height</Data>
+            <Data name="legstrapsKnee Height" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsKnee Height</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="kunai2BodyFat" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2BodyFat</Data>
+            <Data name="legsBodyFat" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsBodyFat</Data>
+            <Data name="legstrapsBodyFat" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="kunai2LegThin" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2LegThin</Data>
+            <Data name="legsLegThin" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsLegThin</Data>
+            <Data name="legstrapsLegThin" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="kunai2HipsNarrow" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2HipsNarrow</Data>
+            <Data name="legsHipsNarrow" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsHipsNarrow</Data>
+            <Data name="legstrapsHipsNarrow" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="kunai2ButtGravity" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2ButtGravity</Data>
+            <Data name="legsButtGravity" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsButtGravity</Data>
+            <Data name="legstrapsButtGravity" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="kunai2ButtThin" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2ButtThin</Data>
+            <Data name="legsButtThin" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsButtThin</Data>
+            <Data name="legstrapsButtThin" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="kunai2HipsForward" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2HipsForward</Data>
+            <Data name="legsHipsForward" target="legs" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legsHipsForward</Data>
+            <Data name="legstrapsHipsForward" target="legstraps" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\legstrapsHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="kunai2HipRotateForward" target="kunai2" local="true">Vtaw Wardrobe 5 Accessories Leg Belts FG.osd\kunai2HipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

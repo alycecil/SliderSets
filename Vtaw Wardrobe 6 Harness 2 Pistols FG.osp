@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Harness 2 Pistols FG">
+        <DataFolder>Vtaw Wardrobe 6 Harness 2 Pistols FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Harness 2 Pistols FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Harness2</OutputPath>
+        <OutputFile GenWeights="false">Harness2Pistols</OutputFile>
+        <Shape target="Holster Left">Holster Left</Shape>
+        <Shape target="Holster Right">Holster Right</Shape>
+        <Shape target="Metal Left">Metal Left</Shape>
+        <Shape target="Metal Right">Metal Right</Shape>
+        <Shape target="Pistol Left">Pistol Left</Shape>
+        <Shape target="Pistol Right">Pistol Right</Shape>
+        <Shape target="harness">harness</Shape>
+        <Shape target="harness metal">harness metal</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="harnessBelly Pregnant" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBelly Pregnant</Data>
+            <Data name="Metal LeftBelly Pregnant" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBelly Pregnant</Data>
+            <Data name="Pistol LeftBelly Pregnant" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBelly Pregnant</Data>
+            <Data name="Holster LeftBelly Pregnant" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBelly Pregnant</Data>
+            <Data name="Pistol RightBelly Pregnant" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="harness metalBelly Big" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBelly Big</Data>
+            <Data name="harnessBelly Big" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBelly Big</Data>
+            <Data name="Pistol LeftBelly Big" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBelly Big</Data>
+            <Data name="Holster LeftBelly Big" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBelly Big</Data>
+            <Data name="Holster RightBelly Big" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBelly Big</Data>
+            <Data name="Pistol RightBelly Big" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="harnessBelly Size" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBelly Size</Data>
+            <Data name="Pistol LeftBelly Size" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBelly Size</Data>
+            <Data name="Pistol RightBelly Size" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="harness metalBoobs Yuge" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBoobs Yuge</Data>
+            <Data name="harnessBoobs Yuge" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBoobs Yuge</Data>
+            <Data name="Metal LeftBoobs Yuge" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBoobs Yuge</Data>
+            <Data name="Pistol LeftBoobs Yuge" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBoobs Yuge</Data>
+            <Data name="Holster LeftBoobs Yuge" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBoobs Yuge</Data>
+            <Data name="Holster RightBoobs Yuge" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBoobs Yuge</Data>
+            <Data name="Metal RightBoobs Yuge" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBoobs Yuge</Data>
+            <Data name="Pistol RightBoobs Yuge" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="harness metalBoobs Big" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBoobs Big</Data>
+            <Data name="harnessBoobs Big" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBoobs Big</Data>
+            <Data name="Metal LeftBoobs Big" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBoobs Big</Data>
+            <Data name="Pistol LeftBoobs Big" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBoobs Big</Data>
+            <Data name="Holster LeftBoobs Big" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBoobs Big</Data>
+            <Data name="Holster RightBoobs Big" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBoobs Big</Data>
+            <Data name="Metal RightBoobs Big" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBoobs Big</Data>
+            <Data name="Pistol RightBoobs Big" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="harness metalBoobs Cleavage" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBoobs Cleavage</Data>
+            <Data name="harnessBoobs Cleavage" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBoobs Cleavage</Data>
+            <Data name="Metal LeftBoobs Cleavage" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBoobs Cleavage</Data>
+            <Data name="Pistol LeftBoobs Cleavage" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBoobs Cleavage</Data>
+            <Data name="Holster LeftBoobs Cleavage" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBoobs Cleavage</Data>
+            <Data name="Holster RightBoobs Cleavage" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBoobs Cleavage</Data>
+            <Data name="Metal RightBoobs Cleavage" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBoobs Cleavage</Data>
+            <Data name="Pistol RightBoobs Cleavage" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="harness metalBoobs Flat" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBoobs Flat</Data>
+            <Data name="harnessBoobs Flat" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBoobs Flat</Data>
+            <Data name="Metal LeftBoobs Flat" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBoobs Flat</Data>
+            <Data name="Pistol LeftBoobs Flat" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBoobs Flat</Data>
+            <Data name="Holster LeftBoobs Flat" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBoobs Flat</Data>
+            <Data name="Holster RightBoobs Flat" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBoobs Flat</Data>
+            <Data name="Metal RightBoobs Flat" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBoobs Flat</Data>
+            <Data name="Pistol RightBoobs Flat" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="harness metalBoobs Gravity" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBoobs Gravity</Data>
+            <Data name="harnessBoobs Gravity" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBoobs Gravity</Data>
+            <Data name="Metal LeftBoobs Gravity" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBoobs Gravity</Data>
+            <Data name="Pistol LeftBoobs Gravity" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBoobs Gravity</Data>
+            <Data name="Holster LeftBoobs Gravity" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBoobs Gravity</Data>
+            <Data name="Holster RightBoobs Gravity" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBoobs Gravity</Data>
+            <Data name="Metal RightBoobs Gravity" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBoobs Gravity</Data>
+            <Data name="Pistol RightBoobs Gravity" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="harness metalBoobs Height" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBoobs Height</Data>
+            <Data name="harnessBoobs Height" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBoobs Height</Data>
+            <Data name="Metal LeftBoobs Height" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBoobs Height</Data>
+            <Data name="Pistol LeftBoobs Height" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBoobs Height</Data>
+            <Data name="Holster LeftBoobs Height" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBoobs Height</Data>
+            <Data name="Holster RightBoobs Height" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBoobs Height</Data>
+            <Data name="Metal RightBoobs Height" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBoobs Height</Data>
+            <Data name="Pistol RightBoobs Height" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="harness metalBoobs Mellons" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBoobs Mellons</Data>
+            <Data name="harnessBoobs Mellons" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBoobs Mellons</Data>
+            <Data name="Metal LeftBoobs Mellons" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBoobs Mellons</Data>
+            <Data name="Pistol LeftBoobs Mellons" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBoobs Mellons</Data>
+            <Data name="Holster LeftBoobs Mellons" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBoobs Mellons</Data>
+            <Data name="Holster RightBoobs Mellons" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBoobs Mellons</Data>
+            <Data name="Metal RightBoobs Mellons" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBoobs Mellons</Data>
+            <Data name="Pistol RightBoobs Mellons" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="harness metalBoobs Perky" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBoobs Perky</Data>
+            <Data name="harnessBoobs Perky" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBoobs Perky</Data>
+            <Data name="Metal LeftBoobs Perky" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBoobs Perky</Data>
+            <Data name="Pistol LeftBoobs Perky" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBoobs Perky</Data>
+            <Data name="Holster LeftBoobs Perky" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBoobs Perky</Data>
+            <Data name="Holster RightBoobs Perky" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBoobs Perky</Data>
+            <Data name="Metal RightBoobs Perky" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBoobs Perky</Data>
+            <Data name="Pistol RightBoobs Perky" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="harness metalBoobs Push Up" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBoobs Push Up</Data>
+            <Data name="harnessBoobs Push Up" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBoobs Push Up</Data>
+            <Data name="Metal LeftBoobs Push Up" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBoobs Push Up</Data>
+            <Data name="Pistol LeftBoobs Push Up" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBoobs Push Up</Data>
+            <Data name="Holster LeftBoobs Push Up" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBoobs Push Up</Data>
+            <Data name="Holster RightBoobs Push Up" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBoobs Push Up</Data>
+            <Data name="Metal RightBoobs Push Up" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBoobs Push Up</Data>
+            <Data name="Pistol RightBoobs Push Up" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="harness metalBoobs Small" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBoobs Small</Data>
+            <Data name="harnessBoobs Small" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBoobs Small</Data>
+            <Data name="Metal LeftBoobs Small" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBoobs Small</Data>
+            <Data name="Pistol LeftBoobs Small" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBoobs Small</Data>
+            <Data name="Holster LeftBoobs Small" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBoobs Small</Data>
+            <Data name="Holster RightBoobs Small" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBoobs Small</Data>
+            <Data name="Metal RightBoobs Small" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBoobs Small</Data>
+            <Data name="Pistol RightBoobs Small" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="harness metalBoobs Together" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBoobs Together</Data>
+            <Data name="harnessBoobs Together" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBoobs Together</Data>
+            <Data name="Metal LeftBoobs Together" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBoobs Together</Data>
+            <Data name="Pistol LeftBoobs Together" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBoobs Together</Data>
+            <Data name="Holster LeftBoobs Together" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBoobs Together</Data>
+            <Data name="Holster RightBoobs Together" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBoobs Together</Data>
+            <Data name="Metal RightBoobs Together" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBoobs Together</Data>
+            <Data name="Pistol RightBoobs Together" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="harness metalBoobs Top Slope" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBoobs Top Slope</Data>
+            <Data name="harnessBoobs Top Slope" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBoobs Top Slope</Data>
+            <Data name="Metal LeftBoobs Top Slope" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBoobs Top Slope</Data>
+            <Data name="Pistol LeftBoobs Top Slope" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBoobs Top Slope</Data>
+            <Data name="Holster LeftBoobs Top Slope" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBoobs Top Slope</Data>
+            <Data name="Holster RightBoobs Top Slope" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBoobs Top Slope</Data>
+            <Data name="Metal RightBoobs Top Slope" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBoobs Top Slope</Data>
+            <Data name="Pistol RightBoobs Top Slope" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="harness metalBoobs Width" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBoobs Width</Data>
+            <Data name="harnessBoobs Width" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBoobs Width</Data>
+            <Data name="Metal LeftBoobs Width" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBoobs Width</Data>
+            <Data name="Pistol LeftBoobs Width" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBoobs Width</Data>
+            <Data name="Holster LeftBoobs Width" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBoobs Width</Data>
+            <Data name="Holster RightBoobs Width" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBoobs Width</Data>
+            <Data name="Metal RightBoobs Width" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBoobs Width</Data>
+            <Data name="Pistol RightBoobs Width" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="harness metalBoobs Tiny" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBoobs Tiny</Data>
+            <Data name="harnessBoobs Tiny" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBoobs Tiny</Data>
+            <Data name="Metal LeftBoobs Tiny" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBoobs Tiny</Data>
+            <Data name="Pistol LeftBoobs Tiny" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBoobs Tiny</Data>
+            <Data name="Holster LeftBoobs Tiny" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBoobs Tiny</Data>
+            <Data name="Holster RightBoobs Tiny" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBoobs Tiny</Data>
+            <Data name="Metal RightBoobs Tiny" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBoobs Tiny</Data>
+            <Data name="Pistol RightBoobs Tiny" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="harness metalNipples Distance" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalNipples Distance</Data>
+            <Data name="harnessNipples Distance" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessNipples Distance</Data>
+            <Data name="Metal LeftNipples Distance" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftNipples Distance</Data>
+            <Data name="Pistol LeftNipples Distance" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftNipples Distance</Data>
+            <Data name="Holster LeftNipples Distance" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftNipples Distance</Data>
+            <Data name="Holster RightNipples Distance" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightNipples Distance</Data>
+            <Data name="Metal RightNipples Distance" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightNipples Distance</Data>
+            <Data name="Pistol RightNipples Distance" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="harness metalNipples Down" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalNipples Down</Data>
+            <Data name="harnessNipples Down" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessNipples Down</Data>
+            <Data name="Metal LeftNipples Down" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftNipples Down</Data>
+            <Data name="Pistol LeftNipples Down" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftNipples Down</Data>
+            <Data name="Holster LeftNipples Down" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftNipples Down</Data>
+            <Data name="Holster RightNipples Down" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightNipples Down</Data>
+            <Data name="Metal RightNipples Down" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightNipples Down</Data>
+            <Data name="Pistol RightNipples Down" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="harness metalNipples Perkiness" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalNipples Perkiness</Data>
+            <Data name="harnessNipples Perkiness" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessNipples Perkiness</Data>
+            <Data name="Metal LeftNipples Perkiness" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftNipples Perkiness</Data>
+            <Data name="Pistol LeftNipples Perkiness" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftNipples Perkiness</Data>
+            <Data name="Holster LeftNipples Perkiness" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftNipples Perkiness</Data>
+            <Data name="Holster RightNipples Perkiness" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightNipples Perkiness</Data>
+            <Data name="Metal RightNipples Perkiness" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightNipples Perkiness</Data>
+            <Data name="Pistol RightNipples Perkiness" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="harness metalNipples Up" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalNipples Up</Data>
+            <Data name="harnessNipples Up" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessNipples Up</Data>
+            <Data name="Metal LeftNipples Up" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftNipples Up</Data>
+            <Data name="Pistol LeftNipples Up" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftNipples Up</Data>
+            <Data name="Holster LeftNipples Up" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftNipples Up</Data>
+            <Data name="Holster RightNipples Up" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightNipples Up</Data>
+            <Data name="Metal RightNipples Up" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightNipples Up</Data>
+            <Data name="Pistol RightNipples Up" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="harness metalChest Depth" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalChest Depth</Data>
+            <Data name="harnessChest Depth" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessChest Depth</Data>
+            <Data name="Metal LeftChest Depth" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftChest Depth</Data>
+            <Data name="Pistol LeftChest Depth" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftChest Depth</Data>
+            <Data name="Holster LeftChest Depth" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftChest Depth</Data>
+            <Data name="Holster RightChest Depth" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightChest Depth</Data>
+            <Data name="Metal RightChest Depth" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightChest Depth</Data>
+            <Data name="Pistol RightChest Depth" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="harness metalChest Width" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalChest Width</Data>
+            <Data name="harnessChest Width" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessChest Width</Data>
+            <Data name="Metal LeftChest Width" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftChest Width</Data>
+            <Data name="Pistol LeftChest Width" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftChest Width</Data>
+            <Data name="Holster LeftChest Width" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftChest Width</Data>
+            <Data name="Holster RightChest Width" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightChest Width</Data>
+            <Data name="Metal RightChest Width" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightChest Width</Data>
+            <Data name="Pistol RightChest Width" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="harness metalWaist Chubby" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalWaist Chubby</Data>
+            <Data name="harnessWaist Chubby" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessWaist Chubby</Data>
+            <Data name="Metal LeftWaist Chubby" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftWaist Chubby</Data>
+            <Data name="Pistol LeftWaist Chubby" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftWaist Chubby</Data>
+            <Data name="Holster LeftWaist Chubby" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftWaist Chubby</Data>
+            <Data name="Holster RightWaist Chubby" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightWaist Chubby</Data>
+            <Data name="Metal RightWaist Chubby" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightWaist Chubby</Data>
+            <Data name="Pistol RightWaist Chubby" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightWaist Chubby</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="harnessBack Arch" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBack Arch</Data>
+            <Data name="Pistol LeftBack Arch" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBack Arch</Data>
+            <Data name="Holster LeftBack Arch" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBack Arch</Data>
+            <Data name="Holster RightBack Arch" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBack Arch</Data>
+            <Data name="Metal RightBack Arch" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="Pistol LeftHips Upper Width" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftHips Upper Width</Data>
+            <Data name="Holster RightHips Upper Width" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightHips Upper Width</Data>
+            <Data name="Metal RightHips Upper Width" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightHips Upper Width</Data>
+            <Data name="Pistol RightHips Upper Width" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="Holster LeftBum Shape 2" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="Pistol LeftBum Chubby" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBum Chubby</Data>
+            <Data name="Pistol RightBum Chubby" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBum Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="harness metalArms Chubby" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalArms Chubby</Data>
+            <Data name="harnessArms Chubby" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessArms Chubby</Data>
+            <Data name="Metal LeftArms Chubby" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftArms Chubby</Data>
+            <Data name="Pistol LeftArms Chubby" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftArms Chubby</Data>
+            <Data name="Holster LeftArms Chubby" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftArms Chubby</Data>
+            <Data name="Holster RightArms Chubby" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightArms Chubby</Data>
+            <Data name="Metal RightArms Chubby" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightArms Chubby</Data>
+            <Data name="Pistol RightArms Chubby" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="harness metalShoulder Smooth" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalShoulder Smooth</Data>
+            <Data name="harnessShoulder Smooth" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessShoulder Smooth</Data>
+            <Data name="Pistol LeftShoulder Smooth" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftShoulder Smooth</Data>
+            <Data name="Holster LeftShoulder Smooth" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftShoulder Smooth</Data>
+            <Data name="Holster RightShoulder Smooth" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightShoulder Smooth</Data>
+            <Data name="Pistol RightShoulder Smooth" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="harness metalShoulder Tweak" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalShoulder Tweak</Data>
+            <Data name="harnessShoulder Tweak" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="harness metalArms Size" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalArms Size</Data>
+            <Data name="harnessArms Size" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessArms Size</Data>
+            <Data name="Pistol LeftArms Size" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftArms Size</Data>
+            <Data name="Holster LeftArms Size" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftArms Size</Data>
+            <Data name="Holster RightArms Size" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightArms Size</Data>
+            <Data name="Metal RightArms Size" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightArms Size</Data>
+            <Data name="Pistol RightArms Size" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="harness metalArmpit Ajustment" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalArmpit Ajustment</Data>
+            <Data name="harnessArmpit Ajustment" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessArmpit Ajustment</Data>
+            <Data name="Pistol LeftArmpit Ajustment" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftArmpit Ajustment</Data>
+            <Data name="Holster LeftArmpit Ajustment" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftArmpit Ajustment</Data>
+            <Data name="Holster RightArmpit Ajustment" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightArmpit Ajustment</Data>
+            <Data name="Pistol RightArmpit Ajustment" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="Pistol LeftForearms Size" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftForearms Size</Data>
+            <Data name="Holster LeftForearms Size" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftForearms Size</Data>
+            <Data name="Holster RightForearms Size" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightForearms Size</Data>
+            <Data name="Pistol RightForearms Size" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="harness metalTorso Size" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalTorso Size</Data>
+            <Data name="harnessTorso Size" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessTorso Size</Data>
+            <Data name="Metal LeftTorso Size" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftTorso Size</Data>
+            <Data name="Pistol LeftTorso Size" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftTorso Size</Data>
+            <Data name="Holster LeftTorso Size" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftTorso Size</Data>
+            <Data name="Holster RightTorso Size" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightTorso Size</Data>
+            <Data name="Metal RightTorso Size" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightTorso Size</Data>
+            <Data name="Pistol RightTorso Size" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="harness metalSturnum Depth" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalSturnum Depth</Data>
+            <Data name="harnessSturnum Depth" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessSturnum Depth</Data>
+            <Data name="Pistol LeftSturnum Depth" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftSturnum Depth</Data>
+            <Data name="Holster LeftSturnum Depth" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftSturnum Depth</Data>
+            <Data name="Holster RightSturnum Depth" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightSturnum Depth</Data>
+            <Data name="Pistol RightSturnum Depth" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="harness metalSturnum Height" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalSturnum Height</Data>
+            <Data name="harnessSturnum Height" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessSturnum Height</Data>
+            <Data name="Metal LeftSturnum Height" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftSturnum Height</Data>
+            <Data name="Pistol LeftSturnum Height" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftSturnum Height</Data>
+            <Data name="Holster LeftSturnum Height" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftSturnum Height</Data>
+            <Data name="Holster RightSturnum Height" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightSturnum Height</Data>
+            <Data name="Metal RightSturnum Height" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightSturnum Height</Data>
+            <Data name="Pistol RightSturnum Height" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="harness metalGroin Position" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalGroin Position</Data>
+            <Data name="harnessGroin Position" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessGroin Position</Data>
+            <Data name="Pistol LeftGroin Position" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftGroin Position</Data>
+            <Data name="Holster LeftGroin Position" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftGroin Position</Data>
+            <Data name="Holster RightGroin Position" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightGroin Position</Data>
+            <Data name="Pistol RightGroin Position" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="harness metalGroin Back" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalGroin Back</Data>
+            <Data name="harnessGroin Back" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessGroin Back</Data>
+            <Data name="Pistol LeftGroin Back" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftGroin Back</Data>
+            <Data name="Holster LeftGroin Back" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftGroin Back</Data>
+            <Data name="Holster RightGroin Back" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightGroin Back</Data>
+            <Data name="Pistol RightGroin Back" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="harnessAbDefinition" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessAbDefinition</Data>
+            <Data name="Pistol LeftAbDefinition" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftAbDefinition</Data>
+            <Data name="Pistol RightAbDefinition" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="harness metalBody Toning" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBody Toning</Data>
+            <Data name="harnessBody Toning" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBody Toning</Data>
+            <Data name="Metal LeftBody Toning" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBody Toning</Data>
+            <Data name="Pistol LeftBody Toning" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBody Toning</Data>
+            <Data name="Holster LeftBody Toning" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBody Toning</Data>
+            <Data name="Holster RightBody Toning" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBody Toning</Data>
+            <Data name="Metal RightBody Toning" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBody Toning</Data>
+            <Data name="Pistol RightBody Toning" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="harness metalTigerSanBB" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalTigerSanBB</Data>
+            <Data name="harnessTigerSanBB" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessTigerSanBB</Data>
+            <Data name="Metal LeftTigerSanBB" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftTigerSanBB</Data>
+            <Data name="Pistol LeftTigerSanBB" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftTigerSanBB</Data>
+            <Data name="Holster LeftTigerSanBB" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftTigerSanBB</Data>
+            <Data name="Holster RightTigerSanBB" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightTigerSanBB</Data>
+            <Data name="Metal RightTigerSanBB" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightTigerSanBB</Data>
+            <Data name="Pistol RightTigerSanBB" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="Pistol LeftXunAbs" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftXunAbs</Data>
+            <Data name="Pistol RightXunAbs" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="harnessFFB Fitness 2" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessFFB Fitness 2</Data>
+            <Data name="Metal LeftFFB Fitness 2" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftFFB Fitness 2</Data>
+            <Data name="Pistol LeftFFB Fitness 2" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftFFB Fitness 2</Data>
+            <Data name="Holster LeftFFB Fitness 2" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftFFB Fitness 2</Data>
+            <Data name="Holster RightFFB Fitness 2" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightFFB Fitness 2</Data>
+            <Data name="Metal RightFFB Fitness 2" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightFFB Fitness 2</Data>
+            <Data name="Pistol RightFFB Fitness 2" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="harness metalAthletic" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalAthletic</Data>
+            <Data name="harnessAthletic" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessAthletic</Data>
+            <Data name="Metal LeftAthletic" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftAthletic</Data>
+            <Data name="Pistol LeftAthletic" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftAthletic</Data>
+            <Data name="Holster LeftAthletic" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftAthletic</Data>
+            <Data name="Holster RightAthletic" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightAthletic</Data>
+            <Data name="Metal RightAthletic" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightAthletic</Data>
+            <Data name="Pistol RightAthletic" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="harness metalSeveNBase Bombshell" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalSeveNBase Bombshell</Data>
+            <Data name="harnessSeveNBase Bombshell" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessSeveNBase Bombshell</Data>
+            <Data name="Metal LeftSeveNBase Bombshell" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftSeveNBase Bombshell</Data>
+            <Data name="Pistol LeftSeveNBase Bombshell" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftSeveNBase Bombshell</Data>
+            <Data name="Holster LeftSeveNBase Bombshell" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftSeveNBase Bombshell</Data>
+            <Data name="Holster RightSeveNBase Bombshell" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightSeveNBase Bombshell</Data>
+            <Data name="Metal RightSeveNBase Bombshell" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightSeveNBase Bombshell</Data>
+            <Data name="Pistol RightSeveNBase Bombshell" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="harness metalShoulder Width" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalShoulder Width</Data>
+            <Data name="harnessShoulder Width" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessShoulder Width</Data>
+            <Data name="Metal LeftShoulder Width" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftShoulder Width</Data>
+            <Data name="Pistol LeftShoulder Width" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftShoulder Width</Data>
+            <Data name="Holster LeftShoulder Width" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftShoulder Width</Data>
+            <Data name="Holster RightShoulder Width" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightShoulder Width</Data>
+            <Data name="Metal RightShoulder Width" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightShoulder Width</Data>
+            <Data name="Pistol RightShoulder Width" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="harness metalBodyFat" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBodyFat</Data>
+            <Data name="harnessBodyFat" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBodyFat</Data>
+            <Data name="Metal LeftBodyFat" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBodyFat</Data>
+            <Data name="Pistol LeftBodyFat" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBodyFat</Data>
+            <Data name="Holster LeftBodyFat" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBodyFat</Data>
+            <Data name="Holster RightBodyFat" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBodyFat</Data>
+            <Data name="Metal RightBodyFat" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBodyFat</Data>
+            <Data name="Pistol RightBodyFat" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBodyFat</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="harnessHipRotateForward" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessHipRotateForward</Data>
+            <Data name="Metal LeftHipRotateForward" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftHipRotateForward</Data>
+            <Data name="Pistol LeftHipRotateForward" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftHipRotateForward</Data>
+            <Data name="Holster LeftHipRotateForward" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftHipRotateForward</Data>
+            <Data name="Holster RightHipRotateForward" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightHipRotateForward</Data>
+            <Data name="Metal RightHipRotateForward" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightHipRotateForward</Data>
+            <Data name="Pistol RightHipRotateForward" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="harness metalBreastArmpitin" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBreastArmpitin</Data>
+            <Data name="harnessBreastArmpitin" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBreastArmpitin</Data>
+            <Data name="Metal LeftBreastArmpitin" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBreastArmpitin</Data>
+            <Data name="Pistol LeftBreastArmpitin" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBreastArmpitin</Data>
+            <Data name="Holster LeftBreastArmpitin" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBreastArmpitin</Data>
+            <Data name="Holster RightBreastArmpitin" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBreastArmpitin</Data>
+            <Data name="Metal RightBreastArmpitin" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBreastArmpitin</Data>
+            <Data name="Pistol RightBreastArmpitin" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="harness metalBreastArmpitWide" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBreastArmpitWide</Data>
+            <Data name="harnessBreastArmpitWide" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBreastArmpitWide</Data>
+            <Data name="Metal LeftBreastArmpitWide" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBreastArmpitWide</Data>
+            <Data name="Pistol LeftBreastArmpitWide" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBreastArmpitWide</Data>
+            <Data name="Holster LeftBreastArmpitWide" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBreastArmpitWide</Data>
+            <Data name="Holster RightBreastArmpitWide" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBreastArmpitWide</Data>
+            <Data name="Metal RightBreastArmpitWide" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBreastArmpitWide</Data>
+            <Data name="Pistol RightBreastArmpitWide" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="harness metalBreastCurve" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBreastCurve</Data>
+            <Data name="harnessBreastCurve" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBreastCurve</Data>
+            <Data name="Metal LeftBreastCurve" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBreastCurve</Data>
+            <Data name="Pistol LeftBreastCurve" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBreastCurve</Data>
+            <Data name="Holster LeftBreastCurve" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBreastCurve</Data>
+            <Data name="Holster RightBreastCurve" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBreastCurve</Data>
+            <Data name="Metal RightBreastCurve" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBreastCurve</Data>
+            <Data name="Pistol RightBreastCurve" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="harness metalBreastHeight2" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBreastHeight2</Data>
+            <Data name="harnessBreastHeight2" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBreastHeight2</Data>
+            <Data name="Metal LeftBreastHeight2" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBreastHeight2</Data>
+            <Data name="Pistol LeftBreastHeight2" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBreastHeight2</Data>
+            <Data name="Holster LeftBreastHeight2" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBreastHeight2</Data>
+            <Data name="Holster RightBreastHeight2" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBreastHeight2</Data>
+            <Data name="Metal RightBreastHeight2" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBreastHeight2</Data>
+            <Data name="Pistol RightBreastHeight2" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="harness metalBreastConcave" target="harness metal" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harness metalBreastConcave</Data>
+            <Data name="harnessBreastConcave" target="harness" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\harnessBreastConcave</Data>
+            <Data name="Metal LeftBreastConcave" target="Metal Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal LeftBreastConcave</Data>
+            <Data name="Pistol LeftBreastConcave" target="Pistol Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol LeftBreastConcave</Data>
+            <Data name="Holster LeftBreastConcave" target="Holster Left" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster LeftBreastConcave</Data>
+            <Data name="Holster RightBreastConcave" target="Holster Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Holster RightBreastConcave</Data>
+            <Data name="Metal RightBreastConcave" target="Metal Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Metal RightBreastConcave</Data>
+            <Data name="Pistol RightBreastConcave" target="Pistol Right" local="true">Vtaw Wardrobe 6 Harness 2 Pistols FG.osd\Pistol RightBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

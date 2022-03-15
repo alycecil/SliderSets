@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Slave Loincloth BT3">
+        <DataFolder>Slave Loincloth BT3</DataFolder>
+        <SourceFile>Slave Loincloth BT3.nif</SourceFile>
+        <OutputPath>Meshes\kharneth\slaveloincloth2\male</OutputPath>
+        <OutputFile GenWeights="false">loincloth</OutputFile>
+        <Shape target="loincloth">loincloth</Shape>
+        <Slider name="BTWaist-In" invert="false" default="100">
+            <Data name="loinclothBTWaist-In" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTWaist-In</Data>
+        </Slider>
+        <Slider name="BTTraps" invert="false" default="100">
+            <Data name="loinclothBTTraps" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTTraps</Data>
+        </Slider>
+        <Slider name="BTHips-In" invert="false" default="100">
+            <Data name="loinclothBTHips-In" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTHips-In</Data>
+        </Slider>
+        <Slider name="BTStomach" invert="false" default="100">
+            <Data name="loinclothBTStomach" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTStomach</Data>
+        </Slider>
+        <Slider name="BTButt" invert="false" default="100">
+            <Data name="loinclothBTButt" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTButt</Data>
+        </Slider>
+        <Slider name="BTThigh" invert="false" default="100">
+            <Data name="loinclothBTThigh" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTThigh</Data>
+        </Slider>
+        <Slider name="BTCalves" invert="false" default="100">
+            <Data name="loinclothBTCalves" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTCalves</Data>
+        </Slider>
+        <Slider name="BTBack" invert="false" default="100">
+            <Data name="loinclothBTBack" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTBack</Data>
+        </Slider>
+        <Slider name="BTWaist-Smoothing" invert="false" default="100">
+            <Data name="loinclothBTWaist-Smoothing" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTWaist-Smoothing</Data>
+        </Slider>
+        <Slider name="BTButtWidth" invert="false" default="100">
+            <Data name="loinclothBTButtWidth" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTButtWidth</Data>
+        </Slider>
+        <Slider name="BTStomachFat" invert="false" default="100">
+            <Data name="loinclothBTStomachFat" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTStomachFat</Data>
+        </Slider>
+        <Slider name="BTBackArch" invert="false" default="100">
+            <Data name="loinclothBTBackArch" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTBackArch</Data>
+        </Slider>
+        <Slider name="BTAbDefinition" invert="false" default="100">
+            <Data name="loinclothBTAbDefinition" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTAbDefinition</Data>
+        </Slider>
+        <Slider name="BTARYAYDA" invert="false" default="0">
+            <Data name="loinclothBTARYAYDA" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTARYAYDA</Data>
+        </Slider>
+        <Slider name="BTAryaydaMoreMuscular" invert="false" default="0">
+            <Data name="loinclothBTAryaydaMoreMuscular" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTAryaydaMoreMuscular</Data>
+        </Slider>
+        <Slider name="BTAMWaistAdust" invert="false" default="0">
+            <Data name="loinclothBTAMWaistAdust" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTAMWaistAdust</Data>
+        </Slider>
+        <Slider name="BTGrayson" invert="false" default="0">
+            <Data name="loinclothBTGrayson" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTGrayson</Data>
+        </Slider>
+        <Slider name="BTFlyGrayson" invert="false" default="0">
+            <Data name="loinclothBTFlyGrayson" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTFlyGrayson</Data>
+        </Slider>
+        <Slider name="AryaydaMuscleSlider" invert="false" default="0">
+            <Data name="loinclothAryaydaMuscleSlider" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothAryaydaMuscleSlider</Data>
+        </Slider>
+        <Slider name="TigerSanBBMale" invert="false" default="0">
+            <Data name="loinclothTigerSanBBMale" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothTigerSanBBMale</Data>
+        </Slider>
+        <Slider name="BTChubbyLeg" invert="false" default="0">
+            <Data name="loinclothBTChubbyLeg" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBTChubbyLeg</Data>
+        </Slider>
+        <Slider name="ThinThigh" invert="false" default="0">
+            <Data name="loinclothThinThigh" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothThinThigh</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="loinclothHips" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothHips</Data>
+        </Slider>
+        <Slider name="BT2AdonisBelt" invert="false" default="0">
+            <Data name="loinclothBT2AdonisBelt" target="loincloth" local="true">Slave Loincloth BT3.osd\loinclothBT2AdonisBelt</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

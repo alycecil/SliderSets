@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Bodysuit Shoes FG">
+        <DataFolder>Vtaw Wardrobe 5 Bodysuit Shoes FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Bodysuit Shoes FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Bodysuit</OutputPath>
+        <OutputFile GenWeights="false">Shoes</OutputFile>
+        <Shape target="shoes">shoes</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="shoesBoobs Yuge" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="shoesBoobs Big" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="shoesBoobs Gravity" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="shoesBoobs Mellons" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="shoesBoobs Perky" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="shoesBoobs Push Up" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="shoesBoobs Top Slope" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="shoesBoobs Tiny" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="shoesBum Apple" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="shoesCalf Small" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="shoesLegs Chubby" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="shoesLegs Thin" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesLegs Thin</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="shoesAnkle Size" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesAnkle Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="shoesSturnum Depth" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="shoesSturnum Height" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="shoesGroin Position" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="shoesGroin Back" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="shoesAbDefinition" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="shoesBody Toning" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="shoesTigerSanBB" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="shoesAthletic" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="shoesSeveNBase Bombshell" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="shoesKnee Height" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesKnee Height</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="shoesHighHeels" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="shoesBodyFat" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="shoesLegThin" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="shoesHipsNarrow" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="shoesButtGravity" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="shoesButtThin" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="shoesHipsForward" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="shoesHipRotateForward" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="shoesBreastArmpitin" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="shoesBreastArmpitWide" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="shoesBreastCurve" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="shoesBreastHeight2" target="shoes" local="true">Vtaw Wardrobe 5 Bodysuit Shoes FG.osd\shoesBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

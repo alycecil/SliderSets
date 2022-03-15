@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Shuten Kimono FG">
+        <DataFolder>Vtaw Wardrobe 7 Shuten Kimono FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Shuten Kimono FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\ShutenKimono</OutputPath>
+        <OutputFile GenWeights="false">ShutenKimono</OutputFile>
+        <Shape target="Kimono">Kimono</Shape>
+        <Shape target="Kimono Back">Kimono Back</Shape>
+        <Shape target="Kimono Belt">Kimono Belt</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="Kimono BeltBelly Pregnant" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBelly Pregnant</Data>
+            <Data name="Kimono BackBelly Pregnant" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBelly Pregnant</Data>
+            <Data name="KimonoBelly Pregnant" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="Kimono BeltBelly Big" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBelly Big</Data>
+            <Data name="Kimono BackBelly Big" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBelly Big</Data>
+            <Data name="KimonoBelly Big" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="Kimono BeltBelly Size" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBelly Size</Data>
+            <Data name="Kimono BackBelly Size" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBelly Size</Data>
+            <Data name="KimonoBelly Size" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="KimonoBelly Tuck" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Kimono BeltBoobs Yuge" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBoobs Yuge</Data>
+            <Data name="Kimono BackBoobs Yuge" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBoobs Yuge</Data>
+            <Data name="KimonoBoobs Yuge" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Kimono BeltBoobs Big" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBoobs Big</Data>
+            <Data name="Kimono BackBoobs Big" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBoobs Big</Data>
+            <Data name="KimonoBoobs Big" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="Kimono BeltBoobs Cleavage" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBoobs Cleavage</Data>
+            <Data name="KimonoBoobs Cleavage" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="Kimono BeltBoobs Flat" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBoobs Flat</Data>
+            <Data name="KimonoBoobs Flat" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Kimono BeltBoobs Gravity" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBoobs Gravity</Data>
+            <Data name="Kimono BackBoobs Gravity" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBoobs Gravity</Data>
+            <Data name="KimonoBoobs Gravity" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="Kimono BeltBoobs Height" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBoobs Height</Data>
+            <Data name="KimonoBoobs Height" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Kimono BeltBoobs Mellons" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBoobs Mellons</Data>
+            <Data name="Kimono BackBoobs Mellons" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBoobs Mellons</Data>
+            <Data name="KimonoBoobs Mellons" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Kimono BeltBoobs Perky" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBoobs Perky</Data>
+            <Data name="Kimono BackBoobs Perky" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBoobs Perky</Data>
+            <Data name="KimonoBoobs Perky" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Kimono BeltBoobs Push Up" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBoobs Push Up</Data>
+            <Data name="Kimono BackBoobs Push Up" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBoobs Push Up</Data>
+            <Data name="KimonoBoobs Push Up" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="Kimono BeltBoobs Small" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBoobs Small</Data>
+            <Data name="KimonoBoobs Small" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="Kimono BeltBoobs Together" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBoobs Together</Data>
+            <Data name="KimonoBoobs Together" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="Kimono BeltBoobs Top Slope" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBoobs Top Slope</Data>
+            <Data name="Kimono BackBoobs Top Slope" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBoobs Top Slope</Data>
+            <Data name="KimonoBoobs Top Slope" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="Kimono BeltBoobs Width" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBoobs Width</Data>
+            <Data name="KimonoBoobs Width" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Kimono BeltBoobs Tiny" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBoobs Tiny</Data>
+            <Data name="Kimono BackBoobs Tiny" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBoobs Tiny</Data>
+            <Data name="KimonoBoobs Tiny" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="Kimono BeltNipples Distance" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltNipples Distance</Data>
+            <Data name="KimonoNipples Distance" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="Kimono BeltNipples Down" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltNipples Down</Data>
+            <Data name="KimonoNipples Down" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="Kimono BeltNipples Perkiness" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltNipples Perkiness</Data>
+            <Data name="KimonoNipples Perkiness" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="KimonoNipples Puffy" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="Kimono BeltNipples Up" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltNipples Up</Data>
+            <Data name="KimonoNipples Up" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="Kimono BeltChest Depth" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltChest Depth</Data>
+            <Data name="KimonoChest Depth" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="Kimono BeltChest Width" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltChest Width</Data>
+            <Data name="Kimono BackChest Width" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackChest Width</Data>
+            <Data name="KimonoChest Width" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="Kimono BeltWaist Chubby" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltWaist Chubby</Data>
+            <Data name="Kimono BackWaist Chubby" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackWaist Chubby</Data>
+            <Data name="KimonoWaist Chubby" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="Kimono BeltWaist Size" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltWaist Size</Data>
+            <Data name="Kimono BackWaist Size" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackWaist Size</Data>
+            <Data name="KimonoWaist Size" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="Kimono BeltWaist Height" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltWaist Height</Data>
+            <Data name="Kimono BackWaist Height" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackWaist Height</Data>
+            <Data name="KimonoWaist Height" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="Kimono BeltWaist Line" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltWaist Line</Data>
+            <Data name="Kimono BackWaist Line" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackWaist Line</Data>
+            <Data name="KimonoWaist Line" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="Kimono BeltBack Size" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBack Size</Data>
+            <Data name="Kimono BackBack Size" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBack Size</Data>
+            <Data name="KimonoBack Size" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="Kimono BeltBack Arch" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBack Arch</Data>
+            <Data name="Kimono BackBack Arch" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBack Arch</Data>
+            <Data name="KimonoBack Arch" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="Kimono BeltHips Bone" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltHips Bone</Data>
+            <Data name="KimonoHips Bone" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="KimonoHips Size" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="Kimono BeltHips Upper Width" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltHips Upper Width</Data>
+            <Data name="Kimono BackHips Upper Width" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackHips Upper Width</Data>
+            <Data name="KimonoHips Upper Width" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="Kimono BeltBum Size" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBum Size</Data>
+            <Data name="Kimono BackBum Size" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBum Size</Data>
+            <Data name="KimonoBum Size" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="KimonoBum Crack" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="Kimono BeltBum Shape 1" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBum Shape 1</Data>
+            <Data name="KimonoBum Shape 1" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="Kimono BeltBum Shape 2" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBum Shape 2</Data>
+            <Data name="Kimono BackBum Shape 2" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBum Shape 2</Data>
+            <Data name="KimonoBum Shape 2" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="Kimono BackBum Small" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBum Small</Data>
+            <Data name="KimonoBum Small" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="Kimono BeltBum Chubby" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBum Chubby</Data>
+            <Data name="Kimono BackBum Chubby" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBum Chubby</Data>
+            <Data name="KimonoBum Chubby" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="Kimono BackBum Round" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBum Round</Data>
+            <Data name="KimonoBum Round" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="Kimono BeltBum Apple" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBum Apple</Data>
+            <Data name="Kimono BackBum Apple" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBum Apple</Data>
+            <Data name="KimonoBum Apple" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="Kimono BeltLegs Chubby" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltLegs Chubby</Data>
+            <Data name="Kimono BackLegs Chubby" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackLegs Chubby</Data>
+            <Data name="KimonoLegs Chubby" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="KimonoLegs Shape" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="KimonoLegs Thin" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="KimonoThighs Slim" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="KimonoThighs Size" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoThighs Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="KimonoArms Chubby" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="KimonoShoulder Smooth" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="KimonoShoulder Tweak" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="Kimono BackArms Size" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackArms Size</Data>
+            <Data name="KimonoArms Size" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="KimonoArmpit Ajustment" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="KimonoForearms Size" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Kimono BeltTorso Size" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltTorso Size</Data>
+            <Data name="Kimono BackTorso Size" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackTorso Size</Data>
+            <Data name="KimonoTorso Size" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoTorso Size</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Kimono BeltGroin Position" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltGroin Position</Data>
+            <Data name="Kimono BackGroin Position" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackGroin Position</Data>
+            <Data name="KimonoGroin Position" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Kimono BeltGroin Back" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltGroin Back</Data>
+            <Data name="Kimono BackGroin Back" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackGroin Back</Data>
+            <Data name="KimonoGroin Back" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="Kimono BeltAbDefinition" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltAbDefinition</Data>
+            <Data name="KimonoAbDefinition" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Kimono BeltBody Toning" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBody Toning</Data>
+            <Data name="Kimono BackBody Toning" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBody Toning</Data>
+            <Data name="KimonoBody Toning" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Kimono BeltTigerSanBB" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltTigerSanBB</Data>
+            <Data name="Kimono BackTigerSanBB" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackTigerSanBB</Data>
+            <Data name="KimonoTigerSanBB" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="Kimono BeltXunAbs" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltXunAbs</Data>
+            <Data name="KimonoXunAbs" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="Kimono BeltFFB Fitness 2" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltFFB Fitness 2</Data>
+            <Data name="Kimono BackFFB Fitness 2" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackFFB Fitness 2</Data>
+            <Data name="KimonoFFB Fitness 2" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Kimono BeltAthletic" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltAthletic</Data>
+            <Data name="Kimono BackAthletic" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackAthletic</Data>
+            <Data name="KimonoAthletic" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Kimono BeltSeveNBase Bombshell" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltSeveNBase Bombshell</Data>
+            <Data name="Kimono BackSeveNBase Bombshell" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackSeveNBase Bombshell</Data>
+            <Data name="KimonoSeveNBase Bombshell" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Kimono BeltShoulder Width" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltShoulder Width</Data>
+            <Data name="KimonoShoulder Width" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Kimono BeltBodyFat" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBodyFat</Data>
+            <Data name="Kimono BackBodyFat" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackBodyFat</Data>
+            <Data name="KimonoBodyFat" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="KimonoLegThin" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="Kimono BeltHipsNarrow" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltHipsNarrow</Data>
+            <Data name="KimonoHipsNarrow" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="KimonoButtGravity" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="Kimono BackButtThin" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackButtThin</Data>
+            <Data name="KimonoButtThin" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="Kimono BeltHipsForward" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltHipsForward</Data>
+            <Data name="KimonoHipsForward" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="Kimono BeltHipRotateForward" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltHipRotateForward</Data>
+            <Data name="Kimono BackHipRotateForward" target="Kimono Back" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BackHipRotateForward</Data>
+            <Data name="KimonoHipRotateForward" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="KimonoBreastArmpitin" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="KimonoBreastArmpitWide" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="Kimono BeltBreastCurve" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBreastCurve</Data>
+            <Data name="KimonoBreastCurve" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="Kimono BeltBreastHeight2" target="Kimono Belt" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\Kimono BeltBreastHeight2</Data>
+            <Data name="KimonoBreastHeight2" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="KimonoBreastConcave" target="Kimono" local="true">Vtaw Wardrobe 7 Shuten Kimono FG.osd\KimonoBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Top4 FG">
+        <DataFolder>Vtaw Wardrobe 5 Top4 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Top4 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Top4</OutputPath>
+        <OutputFile GenWeights="false">Top4</OutputFile>
+        <Shape target="top4">top4</Shape>
+        <Shape target="top42">top42</Shape>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="top4Belly Big" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Belly Big</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="top4Boobs Yuge" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Boobs Yuge</Data>
+            <Data name="top42Boobs Yuge" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="top4Boobs Big" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Boobs Big</Data>
+            <Data name="top42Boobs Big" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="top4Boobs Cleavage" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Boobs Cleavage</Data>
+            <Data name="top42Boobs Cleavage" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Boobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="top4Boobs Flat" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Boobs Flat</Data>
+            <Data name="top42Boobs Flat" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Boobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="top4Boobs Gravity" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Boobs Gravity</Data>
+            <Data name="top42Boobs Gravity" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="top4Boobs Height" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Boobs Height</Data>
+            <Data name="top42Boobs Height" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Boobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="top4Boobs Mellons" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Boobs Mellons</Data>
+            <Data name="top42Boobs Mellons" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="top4Boobs Perky" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Boobs Perky</Data>
+            <Data name="top42Boobs Perky" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="top4Boobs Push Up" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Boobs Push Up</Data>
+            <Data name="top42Boobs Push Up" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="top4Boobs Small" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Boobs Small</Data>
+            <Data name="top42Boobs Small" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Boobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="top4Boobs Together" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Boobs Together</Data>
+            <Data name="top42Boobs Together" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Boobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="top4Boobs Top Slope" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Boobs Top Slope</Data>
+            <Data name="top42Boobs Top Slope" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="top4Boobs Width" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Boobs Width</Data>
+            <Data name="top42Boobs Width" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Boobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="top4Boobs Tiny" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Boobs Tiny</Data>
+            <Data name="top42Boobs Tiny" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="top4Nipples Distance" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Nipples Distance</Data>
+            <Data name="top42Nipples Distance" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Nipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="top4Nipples Down" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Nipples Down</Data>
+            <Data name="top42Nipples Down" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Nipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="top4Nipples Perkiness" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Nipples Perkiness</Data>
+            <Data name="top42Nipples Perkiness" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Nipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="top4Nipples Puffy" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Nipples Puffy</Data>
+            <Data name="top42Nipples Puffy" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Nipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="top4Nipples Up" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Nipples Up</Data>
+            <Data name="top42Nipples Up" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Nipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="top4Chest Depth" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Chest Depth</Data>
+            <Data name="top42Chest Depth" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Chest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="top4Chest Width" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="top4Waist Chubby" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="top4Waist Size" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="top4Waist Height" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Waist Height</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="top4Back Size" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="top4Back Arch" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Back Arch</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="top4Bum Apple" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Bum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="top4Legs Chubby" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Legs Chubby</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="top4Arms Chubby" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Arms Chubby</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="top4Arms Size" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Arms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="top4Torso Size" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Torso Size</Data>
+            <Data name="top42Torso Size" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="top4Sturnum Depth" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Sturnum Depth</Data>
+            <Data name="top42Sturnum Depth" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="top4Sturnum Height" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="top4Groin Position" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="top4Groin Back" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Groin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="top4Body Toning" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Body Toning</Data>
+            <Data name="top42Body Toning" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="top4TigerSanBB" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4TigerSanBB</Data>
+            <Data name="top42TigerSanBB" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42TigerSanBB</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="top4FFB Fitness 2" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="top4Athletic" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Athletic</Data>
+            <Data name="top42Athletic" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="top4SeveNBase Bombshell" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4SeveNBase Bombshell</Data>
+            <Data name="top42SeveNBase Bombshell" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="top4Shoulder Width" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4Shoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="top4BodyFat" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4BodyFat</Data>
+            <Data name="top42BodyFat" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42BodyFat</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="top4ButtThin" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4ButtThin</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="top4BreastArmpitin" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4BreastArmpitin</Data>
+            <Data name="top42BreastArmpitin" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="top4BreastArmpitWide" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4BreastArmpitWide</Data>
+            <Data name="top42BreastArmpitWide" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="top4BreastCurve" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4BreastCurve</Data>
+            <Data name="top42BreastCurve" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="top4BreastHeight2" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4BreastHeight2</Data>
+            <Data name="top42BreastHeight2" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="top4BreastConcave" target="top4" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top4BreastConcave</Data>
+            <Data name="top42BreastConcave" target="top42" local="true">Vtaw Wardrobe 5 Top4 FG.osd\top42BreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

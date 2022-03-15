@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BodyTalk3-NW-OperatorTie">
+        <DataFolder>BodyTalk3-NukaWorld</DataFolder>
+        <SourceFile>BodyTalk3-NW-OperatorTie.nif</SourceFile>
+        <OutputPath>meshes\DLC04\Clothes\Operators</OutputPath>
+        <OutputFile GenWeights="false">OperatorTieM</OutputFile>
+        <Shape target="OperatorTieM:0">OperatorTieM:0</Shape>
+        <Slider name="BTShoulders" invert="false" default="100">
+            <Data name="OperatorTieM:0BTShoulders" target="OperatorTieM:0" local="true">BodyTalk3-NW-OperatorTie.osd\OperatorTieM:0BTShoulders</Data>
+        </Slider>
+        <Slider name="BTPectorals" invert="false" default="100">
+            <Data name="OperatorTieM:0BTPectorals" target="OperatorTieM:0" local="true">BodyTalk3-NW-OperatorTie.osd\OperatorTieM:0BTPectorals</Data>
+        </Slider>
+        <Slider name="BTChest" invert="false" default="100">
+            <Data name="OperatorTieM:0BTChest" target="OperatorTieM:0" local="true">BodyTalk3-NW-OperatorTie.osd\OperatorTieM:0BTChest</Data>
+        </Slider>
+        <Slider name="BTStomachFat" invert="false" default="100">
+            <Data name="OperatorTieM:0BTStomachFat" target="OperatorTieM:0" local="true">BodyTalk3-NW-OperatorTie.osd\OperatorTieM:0BTStomachFat</Data>
+        </Slider>
+        <Slider name="BTChestSmoothing" invert="false" default="100">
+            <Data name="OperatorTieM:0BTChestSmoothing" target="OperatorTieM:0" local="true">BodyTalk3-NW-OperatorTie.osd\OperatorTieM:0BTChestSmoothing</Data>
+        </Slider>
+        <Slider name="BTAbDefinition" invert="false" default="100">
+            <Data name="OperatorTieM:0BTAbDefinition" target="OperatorTieM:0" local="true">BodyTalk3-NW-OperatorTie.osd\OperatorTieM:0BTAbDefinition</Data>
+        </Slider>
+        <Slider name="BTARYAYDA" invert="false" default="0">
+            <Data name="OperatorTieM:0BTARYAYDA" target="OperatorTieM:0" local="true">BodyTalk3-NW-OperatorTie.osd\OperatorTieM:0BTARYAYDA</Data>
+        </Slider>
+        <Slider name="BTAryaydaMoreMuscular" invert="false" default="0">
+            <Data name="OperatorTieM:0BTAryaydaMoreMuscular" target="OperatorTieM:0" local="true">BodyTalk3-NW-OperatorTie.osd\OperatorTieM:0BTAryaydaMoreMuscular</Data>
+        </Slider>
+        <Slider name="AryaydaMuscleSlider" invert="false" default="0">
+            <Data name="OperatorTieM:0AryaydaMuscleSlider" target="OperatorTieM:0" local="true">BodyTalk3-NW-OperatorTie.osd\OperatorTieM:0AryaydaMuscleSlider</Data>
+        </Slider>
+        <Slider name="TigerSanBBMale" invert="false" default="0">
+            <Data name="OperatorTieM:0TigerSanBBMale" target="OperatorTieM:0" local="true">BodyTalk3-NW-OperatorTie.osd\OperatorTieM:0TigerSanBBMale</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

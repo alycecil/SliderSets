@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Slave Loincloth FG">
+        <DataFolder>Slave Loincloth FG</DataFolder>
+        <SourceFile>Slave Loincloth FG.nif</SourceFile>
+        <OutputPath>meshes\kharneth\slaveloincloth2</OutputPath>
+        <OutputFile GenWeights="false">loincloth</OutputFile>
+        <Shape target="loincloth">loincloth</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="loinclothBelly Pregnant" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="loinclothBelly Big" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="loinclothBelly Size" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="loinclothBelly Tuck" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="loinclothBoobs Yuge" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="loinclothBoobs Big" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="loinclothBoobs Gravity" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="loinclothBoobs Mellons" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="loinclothBoobs Perky" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="loinclothBoobs Push Up" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="loinclothBoobs Top Slope" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="loinclothBoobs Tiny" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="loinclothChest Width" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="loinclothWaist Chubby" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="loinclothWaist Size" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="loinclothWaist Height" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="loinclothWaist Line" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="loinclothBack Size" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="loinclothBack Arch" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="loinclothHips Bone" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="loinclothHips Size" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="loinclothHips Upper Width" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="loinclothBum Size" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="loinclothBum Crack" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="loinclothBum Shape 1" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="loinclothBum Shape 2" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="loinclothBum Small" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="loinclothBum Chubby" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="loinclothBum Round" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="loinclothBum Apple" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="loinclothLegs Chubby" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="loinclothLegs Shape" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="loinclothLegs Thin" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="loinclothThighs Slim" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="loinclothThighs Size" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="loinclothTorso Size" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothTorso Size</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="loinclothGroin Position" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="loinclothGroin Back" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="loinclothAbDefinition" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="loinclothBody Toning" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="loinclothTigerSanBB" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="loinclothXunAbs" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="loinclothFFB Fitness 2" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="loinclothAthletic" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="loinclothSeveNBase Bombshell" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="loinclothShoulder Width" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="loinclothBodyFat" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="loinclothLegThin" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="loinclothHipsNarrow" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="loinclothButtGravity" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="loinclothButtThin" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="loinclothHipsForward" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="loinclothHipRotateForward" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothHipRotateForward</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="loinclothLabia Minora Flat" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="loinclothLabia Minora Longer" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="loinclothClitoras Size" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothClitoras Size</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="loinclothLabia Majora Long" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="loinclothLabia Majora Wide" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="loinclothLabia Majora Inner" target="loincloth" local="true">Slave Loincloth FG.osd\loinclothLabia Majora Inner</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

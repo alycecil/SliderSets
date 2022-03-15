@@ -1,0 +1,819 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Beach Girl FG">
+        <DataFolder>Vtaw Beach Girl FG</DataFolder>
+        <SourceFile>Vtaw Beach Girl FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\SBOutfit</OutputPath>
+        <OutputFile GenWeights="false">SBBikini</OutputFile>
+        <Shape target="BB1">BB1</Shape>
+        <Shape target="BB2">BB2</Shape>
+        <Shape target="BT1">BT1</Shape>
+        <Shape target="BT2">BT2</Shape>
+        <Shape target="BT3">BT3</Shape>
+        <Shape target="BT4">BT4</Shape>
+        <Shape target="BT5">BT5</Shape>
+        <Shape target="Br1">Br1</Shape>
+        <Shape target="Br2">Br2</Shape>
+        <Shape target="FusionGirl" DataFolder="FusionGirl">FusionGirl</Shape>
+        <Shape target="Gl1">Gl1</Shape>
+        <Shape target="Gl2">Gl2</Shape>
+        <Shape target="Gl3">Gl3</Shape>
+        <Shape target="Gl4">Gl4</Shape>
+        <Shape target="NPi1">NPi1</Shape>
+        <Shape target="NiPi1">NiPi1</Shape>
+        <Shape target="Tow1">Tow1</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FusionGirlBelly Pregnant" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Pregnant</Data>
+            <Data name="BB1Belly Pregnant" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Belly Pregnant</Data>
+            <Data name="BB2Belly Pregnant" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Belly Pregnant</Data>
+            <Data name="BT3Belly Pregnant" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Belly Pregnant</Data>
+            <Data name="BT4Belly Pregnant" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Belly Pregnant</Data>
+            <Data name="BT5Belly Pregnant" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Belly Pregnant</Data>
+            <Data name="NPi1Belly Pregnant" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Belly Pregnant</Data>
+            <Data name="Tow1Belly Pregnant" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FusionGirlBelly Big" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Big</Data>
+            <Data name="BB1Belly Big" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Belly Big</Data>
+            <Data name="BB2Belly Big" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Belly Big</Data>
+            <Data name="BT4Belly Big" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Belly Big</Data>
+            <Data name="NPi1Belly Big" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Belly Big</Data>
+            <Data name="Tow1Belly Big" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FusionGirlBelly Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Size</Data>
+            <Data name="BB1Belly Size" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Belly Size</Data>
+            <Data name="BB2Belly Size" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Belly Size</Data>
+            <Data name="BT4Belly Size" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Belly Size</Data>
+            <Data name="NPi1Belly Size" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Belly Size</Data>
+            <Data name="Tow1Belly Size" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Belly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FusionGirlBelly Tuck" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Tuck</Data>
+            <Data name="BB1Belly Tuck" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Belly Tuck</Data>
+            <Data name="Tow1Belly Tuck" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Belly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FusionGirlBoobs Yuge" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Yuge</Data>
+            <Data name="BB1Boobs Yuge" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Boobs Yuge</Data>
+            <Data name="BB2Boobs Yuge" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Boobs Yuge</Data>
+            <Data name="BT1Boobs Yuge" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Boobs Yuge</Data>
+            <Data name="BT2Boobs Yuge" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Boobs Yuge</Data>
+            <Data name="BT3Boobs Yuge" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Boobs Yuge</Data>
+            <Data name="BT4Boobs Yuge" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Boobs Yuge</Data>
+            <Data name="BT5Boobs Yuge" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Boobs Yuge</Data>
+            <Data name="Br2Boobs Yuge" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Boobs Yuge</Data>
+            <Data name="NPi1Boobs Yuge" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Boobs Yuge</Data>
+            <Data name="NiPi1Boobs Yuge" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Boobs Yuge</Data>
+            <Data name="Tow1Boobs Yuge" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FusionGirlBoobs Big" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Big</Data>
+            <Data name="BB1Boobs Big" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Boobs Big</Data>
+            <Data name="BB2Boobs Big" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Boobs Big</Data>
+            <Data name="BT1Boobs Big" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Boobs Big</Data>
+            <Data name="BT2Boobs Big" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Boobs Big</Data>
+            <Data name="BT3Boobs Big" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Boobs Big</Data>
+            <Data name="BT4Boobs Big" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Boobs Big</Data>
+            <Data name="BT5Boobs Big" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Boobs Big</Data>
+            <Data name="Br2Boobs Big" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Boobs Big</Data>
+            <Data name="NPi1Boobs Big" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Boobs Big</Data>
+            <Data name="NiPi1Boobs Big" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Boobs Big</Data>
+            <Data name="Tow1Boobs Big" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FusionGirlBoobs Cleavage" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Cleavage</Data>
+            <Data name="BT2Boobs Cleavage" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Boobs Cleavage</Data>
+            <Data name="BT3Boobs Cleavage" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Boobs Cleavage</Data>
+            <Data name="BT4Boobs Cleavage" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Boobs Cleavage</Data>
+            <Data name="BT5Boobs Cleavage" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Boobs Cleavage</Data>
+            <Data name="NiPi1Boobs Cleavage" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Boobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FusionGirlBoobs Flat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Flat</Data>
+            <Data name="BT2Boobs Flat" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Boobs Flat</Data>
+            <Data name="BT3Boobs Flat" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Boobs Flat</Data>
+            <Data name="BT4Boobs Flat" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Boobs Flat</Data>
+            <Data name="BT5Boobs Flat" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Boobs Flat</Data>
+            <Data name="NiPi1Boobs Flat" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Boobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FusionGirlBoobs Gravity" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Gravity</Data>
+            <Data name="BB1Boobs Gravity" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Boobs Gravity</Data>
+            <Data name="BB2Boobs Gravity" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Boobs Gravity</Data>
+            <Data name="BT1Boobs Gravity" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Boobs Gravity</Data>
+            <Data name="BT2Boobs Gravity" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Boobs Gravity</Data>
+            <Data name="BT3Boobs Gravity" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Boobs Gravity</Data>
+            <Data name="BT4Boobs Gravity" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Boobs Gravity</Data>
+            <Data name="BT5Boobs Gravity" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Boobs Gravity</Data>
+            <Data name="Br2Boobs Gravity" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Boobs Gravity</Data>
+            <Data name="NPi1Boobs Gravity" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Boobs Gravity</Data>
+            <Data name="NiPi1Boobs Gravity" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Boobs Gravity</Data>
+            <Data name="Tow1Boobs Gravity" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FusionGirlBoobs Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Height</Data>
+            <Data name="BT2Boobs Height" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Boobs Height</Data>
+            <Data name="BT3Boobs Height" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Boobs Height</Data>
+            <Data name="BT4Boobs Height" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Boobs Height</Data>
+            <Data name="BT5Boobs Height" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Boobs Height</Data>
+            <Data name="NiPi1Boobs Height" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Boobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FusionGirlBoobs Mellons" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Mellons</Data>
+            <Data name="BB1Boobs Mellons" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Boobs Mellons</Data>
+            <Data name="BB2Boobs Mellons" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Boobs Mellons</Data>
+            <Data name="BT1Boobs Mellons" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Boobs Mellons</Data>
+            <Data name="BT2Boobs Mellons" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Boobs Mellons</Data>
+            <Data name="BT3Boobs Mellons" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Boobs Mellons</Data>
+            <Data name="BT4Boobs Mellons" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Boobs Mellons</Data>
+            <Data name="BT5Boobs Mellons" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Boobs Mellons</Data>
+            <Data name="Br2Boobs Mellons" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Boobs Mellons</Data>
+            <Data name="NPi1Boobs Mellons" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Boobs Mellons</Data>
+            <Data name="NiPi1Boobs Mellons" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Boobs Mellons</Data>
+            <Data name="Tow1Boobs Mellons" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FusionGirlBoobs Perky" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Perky</Data>
+            <Data name="BB1Boobs Perky" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Boobs Perky</Data>
+            <Data name="BB2Boobs Perky" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Boobs Perky</Data>
+            <Data name="BT1Boobs Perky" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Boobs Perky</Data>
+            <Data name="BT2Boobs Perky" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Boobs Perky</Data>
+            <Data name="BT3Boobs Perky" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Boobs Perky</Data>
+            <Data name="BT4Boobs Perky" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Boobs Perky</Data>
+            <Data name="BT5Boobs Perky" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Boobs Perky</Data>
+            <Data name="Br2Boobs Perky" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Boobs Perky</Data>
+            <Data name="NPi1Boobs Perky" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Boobs Perky</Data>
+            <Data name="NiPi1Boobs Perky" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Boobs Perky</Data>
+            <Data name="Tow1Boobs Perky" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FusionGirlBoobs Push Up" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Push Up</Data>
+            <Data name="BB1Boobs Push Up" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Boobs Push Up</Data>
+            <Data name="BB2Boobs Push Up" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Boobs Push Up</Data>
+            <Data name="BT1Boobs Push Up" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Boobs Push Up</Data>
+            <Data name="BT2Boobs Push Up" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Boobs Push Up</Data>
+            <Data name="BT3Boobs Push Up" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Boobs Push Up</Data>
+            <Data name="BT4Boobs Push Up" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Boobs Push Up</Data>
+            <Data name="BT5Boobs Push Up" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Boobs Push Up</Data>
+            <Data name="Br2Boobs Push Up" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Boobs Push Up</Data>
+            <Data name="NPi1Boobs Push Up" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Boobs Push Up</Data>
+            <Data name="NiPi1Boobs Push Up" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Boobs Push Up</Data>
+            <Data name="Tow1Boobs Push Up" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FusionGirlBoobs Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Small</Data>
+            <Data name="BT2Boobs Small" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Boobs Small</Data>
+            <Data name="BT3Boobs Small" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Boobs Small</Data>
+            <Data name="BT4Boobs Small" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Boobs Small</Data>
+            <Data name="BT5Boobs Small" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Boobs Small</Data>
+            <Data name="NiPi1Boobs Small" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Boobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FusionGirlBoobs Together" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Together</Data>
+            <Data name="BT2Boobs Together" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Boobs Together</Data>
+            <Data name="BT3Boobs Together" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Boobs Together</Data>
+            <Data name="BT4Boobs Together" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Boobs Together</Data>
+            <Data name="BT5Boobs Together" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Boobs Together</Data>
+            <Data name="NiPi1Boobs Together" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Boobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FusionGirlBoobs Top Slope" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Top Slope</Data>
+            <Data name="BB1Boobs Top Slope" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Boobs Top Slope</Data>
+            <Data name="BB2Boobs Top Slope" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Boobs Top Slope</Data>
+            <Data name="BT1Boobs Top Slope" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Boobs Top Slope</Data>
+            <Data name="BT2Boobs Top Slope" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Boobs Top Slope</Data>
+            <Data name="BT3Boobs Top Slope" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Boobs Top Slope</Data>
+            <Data name="BT4Boobs Top Slope" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Boobs Top Slope</Data>
+            <Data name="BT5Boobs Top Slope" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Boobs Top Slope</Data>
+            <Data name="Br2Boobs Top Slope" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Boobs Top Slope</Data>
+            <Data name="NPi1Boobs Top Slope" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Boobs Top Slope</Data>
+            <Data name="NiPi1Boobs Top Slope" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Boobs Top Slope</Data>
+            <Data name="Tow1Boobs Top Slope" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FusionGirlBoobs Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Width</Data>
+            <Data name="BT2Boobs Width" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Boobs Width</Data>
+            <Data name="BT3Boobs Width" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Boobs Width</Data>
+            <Data name="BT4Boobs Width" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Boobs Width</Data>
+            <Data name="BT5Boobs Width" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Boobs Width</Data>
+            <Data name="NiPi1Boobs Width" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Boobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FusionGirlBoobs Tiny" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Tiny</Data>
+            <Data name="BB1Boobs Tiny" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Boobs Tiny</Data>
+            <Data name="BB2Boobs Tiny" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Boobs Tiny</Data>
+            <Data name="BT1Boobs Tiny" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Boobs Tiny</Data>
+            <Data name="BT2Boobs Tiny" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Boobs Tiny</Data>
+            <Data name="BT3Boobs Tiny" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Boobs Tiny</Data>
+            <Data name="BT4Boobs Tiny" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Boobs Tiny</Data>
+            <Data name="BT5Boobs Tiny" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Boobs Tiny</Data>
+            <Data name="Br2Boobs Tiny" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Boobs Tiny</Data>
+            <Data name="NPi1Boobs Tiny" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Boobs Tiny</Data>
+            <Data name="NiPi1Boobs Tiny" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Boobs Tiny</Data>
+            <Data name="Tow1Boobs Tiny" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="FusionGirlNipples Length" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Length</Data>
+            <Data name="BT3Nipples Length" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Nipples Length</Data>
+            <Data name="NiPi1Nipples Length" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Nipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="FusionGirlNipples Areola" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Areola</Data>
+            <Data name="BT3Nipples Areola" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Nipples Areola</Data>
+            <Data name="NiPi1Nipples Areola" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Nipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FusionGirlNipples Distance" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Distance</Data>
+            <Data name="BT2Nipples Distance" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Nipples Distance</Data>
+            <Data name="BT3Nipples Distance" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Nipples Distance</Data>
+            <Data name="BT4Nipples Distance" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Nipples Distance</Data>
+            <Data name="BT5Nipples Distance" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Nipples Distance</Data>
+            <Data name="NiPi1Nipples Distance" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Nipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FusionGirlNipples Down" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Down</Data>
+            <Data name="BT2Nipples Down" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Nipples Down</Data>
+            <Data name="BT3Nipples Down" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Nipples Down</Data>
+            <Data name="BT4Nipples Down" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Nipples Down</Data>
+            <Data name="BT5Nipples Down" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Nipples Down</Data>
+            <Data name="NiPi1Nipples Down" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Nipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="FusionGirlNipples Gone" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Gone</Data>
+            <Data name="BT3Nipples Gone" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Nipples Gone</Data>
+            <Data name="NiPi1Nipples Gone" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Nipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="FusionGirlNipples Shape" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Shape</Data>
+            <Data name="BT3Nipples Shape" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Nipples Shape</Data>
+            <Data name="NiPi1Nipples Shape" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Nipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="FusionGirlNipples Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Size</Data>
+            <Data name="BT3Nipples Size" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Nipples Size</Data>
+            <Data name="NiPi1Nipples Size" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Nipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FusionGirlNipples Perkiness" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Perkiness</Data>
+            <Data name="BT2Nipples Perkiness" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Nipples Perkiness</Data>
+            <Data name="BT3Nipples Perkiness" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Nipples Perkiness</Data>
+            <Data name="BT4Nipples Perkiness" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Nipples Perkiness</Data>
+            <Data name="BT5Nipples Perkiness" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Nipples Perkiness</Data>
+            <Data name="NiPi1Nipples Perkiness" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Nipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FusionGirlNipples Puffy" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Puffy</Data>
+            <Data name="BT3Nipples Puffy" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Nipples Puffy</Data>
+            <Data name="NiPi1Nipples Puffy" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Nipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FusionGirlNipples Up" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Up</Data>
+            <Data name="BT2Nipples Up" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Nipples Up</Data>
+            <Data name="BT3Nipples Up" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Nipples Up</Data>
+            <Data name="BT4Nipples Up" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Nipples Up</Data>
+            <Data name="BT5Nipples Up" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Nipples Up</Data>
+            <Data name="NiPi1Nipples Up" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Nipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="FusionGirlNipples Tip" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Tip</Data>
+            <Data name="BT3Nipples Tip" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Nipples Tip</Data>
+            <Data name="NiPi1Nipples Tip" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Nipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FusionGirlChest Depth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlChest Depth</Data>
+            <Data name="BT2Chest Depth" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Chest Depth</Data>
+            <Data name="BT3Chest Depth" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Chest Depth</Data>
+            <Data name="BT4Chest Depth" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Chest Depth</Data>
+            <Data name="BT5Chest Depth" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Chest Depth</Data>
+            <Data name="NiPi1Chest Depth" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Chest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FusionGirlChest Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlChest Width</Data>
+            <Data name="BB1Chest Width" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Chest Width</Data>
+            <Data name="BB2Chest Width" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Chest Width</Data>
+            <Data name="BT3Chest Width" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Chest Width</Data>
+            <Data name="BT4Chest Width" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Chest Width</Data>
+            <Data name="Tow1Chest Width" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FusionGirlWaist Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Chubby</Data>
+            <Data name="BB1Waist Chubby" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Waist Chubby</Data>
+            <Data name="BB2Waist Chubby" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Waist Chubby</Data>
+            <Data name="BT3Waist Chubby" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Waist Chubby</Data>
+            <Data name="BT4Waist Chubby" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Waist Chubby</Data>
+            <Data name="BT5Waist Chubby" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Waist Chubby</Data>
+            <Data name="NPi1Waist Chubby" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Waist Chubby</Data>
+            <Data name="Tow1Waist Chubby" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FusionGirlWaist Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Size</Data>
+            <Data name="BB1Waist Size" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Waist Size</Data>
+            <Data name="BB2Waist Size" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Waist Size</Data>
+            <Data name="BT3Waist Size" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Waist Size</Data>
+            <Data name="BT4Waist Size" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Waist Size</Data>
+            <Data name="NPi1Waist Size" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Waist Size</Data>
+            <Data name="Tow1Waist Size" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FusionGirlWaist Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Height</Data>
+            <Data name="BB1Waist Height" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Waist Height</Data>
+            <Data name="BB2Waist Height" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Waist Height</Data>
+            <Data name="BT3Waist Height" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Waist Height</Data>
+            <Data name="BT4Waist Height" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Waist Height</Data>
+            <Data name="NPi1Waist Height" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Waist Height</Data>
+            <Data name="Tow1Waist Height" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FusionGirlWaist Line" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Line</Data>
+            <Data name="BB1Waist Line" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Waist Line</Data>
+            <Data name="BB2Waist Line" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FusionGirlBack Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBack Size</Data>
+            <Data name="BB1Back Size" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Back Size</Data>
+            <Data name="BB2Back Size" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Back Size</Data>
+            <Data name="BT1Back Size" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Back Size</Data>
+            <Data name="BT2Back Size" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Back Size</Data>
+            <Data name="BT4Back Size" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Back Size</Data>
+            <Data name="Tow1Back Size" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FusionGirlBack Arch" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBack Arch</Data>
+            <Data name="BB1Back Arch" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Back Arch</Data>
+            <Data name="BB2Back Arch" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Back Arch</Data>
+            <Data name="BT4Back Arch" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FusionGirlHips Bone" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Bone</Data>
+            <Data name="BB1Hips Bone" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Hips Bone</Data>
+            <Data name="BB2Hips Bone" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Hips Bone</Data>
+            <Data name="Tow1Hips Bone" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Hips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FusionGirlHips Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Size</Data>
+            <Data name="BB1Hips Size" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Hips Size</Data>
+            <Data name="BB2Hips Size" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Hips Size</Data>
+            <Data name="Tow1Hips Size" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Hips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FusionGirlHips Upper Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Upper Width</Data>
+            <Data name="BB1Hips Upper Width" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Hips Upper Width</Data>
+            <Data name="BB2Hips Upper Width" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Hips Upper Width</Data>
+            <Data name="BT4Hips Upper Width" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Hips Upper Width</Data>
+            <Data name="Tow1Hips Upper Width" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FusionGirlBum Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Size</Data>
+            <Data name="BB1Bum Size" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Bum Size</Data>
+            <Data name="BB2Bum Size" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Bum Size</Data>
+            <Data name="Tow1Bum Size" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FusionGirlBum Crack" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Crack</Data>
+            <Data name="BB1Bum Crack" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Bum Crack</Data>
+            <Data name="Tow1Bum Crack" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 1" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Shape 1</Data>
+            <Data name="BB1Bum Shape 1" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Bum Shape 1</Data>
+            <Data name="BB2Bum Shape 1" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Bum Shape 1</Data>
+            <Data name="Tow1Bum Shape 1" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Shape 2</Data>
+            <Data name="BB1Bum Shape 2" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Bum Shape 2</Data>
+            <Data name="BB2Bum Shape 2" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Bum Shape 2</Data>
+            <Data name="Tow1Bum Shape 2" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FusionGirlBum Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Small</Data>
+            <Data name="BB1Bum Small" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Bum Small</Data>
+            <Data name="BB2Bum Small" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Bum Small</Data>
+            <Data name="NPi1Bum Small" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Bum Small</Data>
+            <Data name="Tow1Bum Small" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FusionGirlBum Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Chubby</Data>
+            <Data name="BB1Bum Chubby" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Bum Chubby</Data>
+            <Data name="BB2Bum Chubby" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Bum Chubby</Data>
+            <Data name="Tow1Bum Chubby" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FusionGirlBum Round" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Round</Data>
+            <Data name="BB1Bum Round" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Bum Round</Data>
+            <Data name="BB2Bum Round" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Bum Round</Data>
+            <Data name="Tow1Bum Round" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FusionGirlBum Apple" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Apple</Data>
+            <Data name="BB1Bum Apple" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Bum Apple</Data>
+            <Data name="BB2Bum Apple" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Bum Apple</Data>
+            <Data name="BT4Bum Apple" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Bum Apple</Data>
+            <Data name="NPi1Bum Apple" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Bum Apple</Data>
+            <Data name="Tow1Bum Apple" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Bum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FusionGirlCalf Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlCalf Size</Data>
+            <Data name="Tow1Calf Size" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Calf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FusionGirlCalf Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlCalf Small</Data>
+            <Data name="Br2Calf Small" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Calf Small</Data>
+            <Data name="Tow1Calf Small" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Calf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FusionGirlLegs Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Chubby</Data>
+            <Data name="BB1Legs Chubby" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Legs Chubby</Data>
+            <Data name="BB2Legs Chubby" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Legs Chubby</Data>
+            <Data name="BT4Legs Chubby" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Legs Chubby</Data>
+            <Data name="Br2Legs Chubby" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Legs Chubby</Data>
+            <Data name="Tow1Legs Chubby" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FusionGirlLegs Shape" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Shape</Data>
+            <Data name="BB1Legs Shape" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Legs Shape</Data>
+            <Data name="BB2Legs Shape" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Legs Shape</Data>
+            <Data name="Tow1Legs Shape" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FusionGirlLegs Thin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Thin</Data>
+            <Data name="BB1Legs Thin" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Legs Thin</Data>
+            <Data name="Br2Legs Thin" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Legs Thin</Data>
+            <Data name="Tow1Legs Thin" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FusionGirlThighs Slim" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlThighs Slim</Data>
+            <Data name="BB1Thighs Slim" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Thighs Slim</Data>
+            <Data name="BB2Thighs Slim" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Thighs Slim</Data>
+            <Data name="Tow1Thighs Slim" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FusionGirlThighs Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlThighs Size</Data>
+            <Data name="BB1Thighs Size" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Thighs Size</Data>
+            <Data name="BB2Thighs Size" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Thighs Size</Data>
+            <Data name="Tow1Thighs Size" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Thighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FusionGirlAnkle Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAnkle Size</Data>
+            <Data name="Br2Ankle Size" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Ankle Size</Data>
+            <Data name="Tow1Ankle Size" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Ankle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FusionGirlArms Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArms Chubby</Data>
+            <Data name="BT1Arms Chubby" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Arms Chubby</Data>
+            <Data name="BT2Arms Chubby" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FusionGirlShoulder Smooth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Smooth</Data>
+            <Data name="BT1Shoulder Smooth" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Shoulder Smooth</Data>
+            <Data name="BT2Shoulder Smooth" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FusionGirlShoulder Tweak" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Tweak</Data>
+            <Data name="BT1Shoulder Tweak" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Shoulder Tweak</Data>
+            <Data name="BT2Shoulder Tweak" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Shoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FusionGirlArms Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArms Size</Data>
+            <Data name="BT1Arms Size" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Arms Size</Data>
+            <Data name="BT2Arms Size" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Arms Size</Data>
+            <Data name="BT4Arms Size" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FusionGirlArmpit Ajustment" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArmpit Ajustment</Data>
+            <Data name="BT1Armpit Ajustment" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Armpit Ajustment</Data>
+            <Data name="BT2Armpit Ajustment" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FusionGirlForearms Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FusionGirlTorso Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlTorso Size</Data>
+            <Data name="BB1Torso Size" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Torso Size</Data>
+            <Data name="BB2Torso Size" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Torso Size</Data>
+            <Data name="BT1Torso Size" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Torso Size</Data>
+            <Data name="BT2Torso Size" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Torso Size</Data>
+            <Data name="BT3Torso Size" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Torso Size</Data>
+            <Data name="BT4Torso Size" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Torso Size</Data>
+            <Data name="BT5Torso Size" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Torso Size</Data>
+            <Data name="NPi1Torso Size" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Torso Size</Data>
+            <Data name="NiPi1Torso Size" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Torso Size</Data>
+            <Data name="Tow1Torso Size" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FusionGirlSturnum Depth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSturnum Depth</Data>
+            <Data name="BB1Sturnum Depth" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Sturnum Depth</Data>
+            <Data name="BB2Sturnum Depth" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Sturnum Depth</Data>
+            <Data name="BT1Sturnum Depth" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Sturnum Depth</Data>
+            <Data name="BT2Sturnum Depth" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Sturnum Depth</Data>
+            <Data name="BT3Sturnum Depth" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Sturnum Depth</Data>
+            <Data name="BT4Sturnum Depth" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Sturnum Depth</Data>
+            <Data name="BT5Sturnum Depth" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Sturnum Depth</Data>
+            <Data name="Br2Sturnum Depth" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Sturnum Depth</Data>
+            <Data name="NPi1Sturnum Depth" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Sturnum Depth</Data>
+            <Data name="NiPi1Sturnum Depth" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Sturnum Depth</Data>
+            <Data name="Tow1Sturnum Depth" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FusionGirlSturnum Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSturnum Height</Data>
+            <Data name="BB1Sturnum Height" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Sturnum Height</Data>
+            <Data name="BB2Sturnum Height" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Sturnum Height</Data>
+            <Data name="BT1Sturnum Height" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Sturnum Height</Data>
+            <Data name="BT2Sturnum Height" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Sturnum Height</Data>
+            <Data name="BT3Sturnum Height" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Sturnum Height</Data>
+            <Data name="BT4Sturnum Height" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Sturnum Height</Data>
+            <Data name="BT5Sturnum Height" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Sturnum Height</Data>
+            <Data name="Br2Sturnum Height" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Sturnum Height</Data>
+            <Data name="NPi1Sturnum Height" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Sturnum Height</Data>
+            <Data name="Tow1Sturnum Height" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FusionGirlGroin Position" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlGroin Position</Data>
+            <Data name="BB1Groin Position" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Groin Position</Data>
+            <Data name="BB2Groin Position" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Groin Position</Data>
+            <Data name="BT1Groin Position" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Groin Position</Data>
+            <Data name="BT2Groin Position" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Groin Position</Data>
+            <Data name="BT4Groin Position" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Groin Position</Data>
+            <Data name="Br2Groin Position" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Groin Position</Data>
+            <Data name="NPi1Groin Position" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Groin Position</Data>
+            <Data name="Tow1Groin Position" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FusionGirlGroin Back" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlGroin Back</Data>
+            <Data name="BB1Groin Back" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Groin Back</Data>
+            <Data name="BB2Groin Back" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Groin Back</Data>
+            <Data name="BT1Groin Back" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Groin Back</Data>
+            <Data name="BT2Groin Back" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Groin Back</Data>
+            <Data name="BT4Groin Back" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Groin Back</Data>
+            <Data name="Br2Groin Back" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Groin Back</Data>
+            <Data name="NPi1Groin Back" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Groin Back</Data>
+            <Data name="Tow1Groin Back" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Groin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Flat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Minora Flat</Data>
+            <Data name="BB1Labia Minora Flat" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Labia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Longer" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Minora Longer</Data>
+            <Data name="BB1Labia Minora Longer" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Labia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="FusionGirlClitoras Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlClitoras Size</Data>
+            <Data name="BB1Clitoras Size" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Clitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="FusionGirlClitoras Long" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlClitoras Long</Data>
+            <Data name="BB1Clitoras Long" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Clitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Long" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Long</Data>
+            <Data name="BB1Labia Majora Long" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Labia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Wide" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Wide</Data>
+            <Data name="BB1Labia Majora Wide" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Labia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Inner" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Inner</Data>
+            <Data name="BB1Labia Majora Inner" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Labia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FusionGirlAbDefinition" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAbDefinition</Data>
+            <Data name="BB1AbDefinition" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1AbDefinition</Data>
+            <Data name="BB2AbDefinition" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2AbDefinition</Data>
+            <Data name="BT3AbDefinition" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3AbDefinition</Data>
+            <Data name="BT4AbDefinition" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4AbDefinition</Data>
+            <Data name="BT5AbDefinition" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5AbDefinition</Data>
+            <Data name="Br2AbDefinition" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2AbDefinition</Data>
+            <Data name="NPi1AbDefinition" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1AbDefinition</Data>
+            <Data name="Tow1AbDefinition" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FusionGirlBody Toning" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBody Toning</Data>
+            <Data name="BB1Body Toning" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Body Toning</Data>
+            <Data name="BB2Body Toning" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Body Toning</Data>
+            <Data name="BT1Body Toning" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Body Toning</Data>
+            <Data name="BT2Body Toning" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Body Toning</Data>
+            <Data name="BT3Body Toning" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Body Toning</Data>
+            <Data name="BT4Body Toning" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Body Toning</Data>
+            <Data name="BT5Body Toning" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Body Toning</Data>
+            <Data name="Br2Body Toning" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Body Toning</Data>
+            <Data name="NPi1Body Toning" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Body Toning</Data>
+            <Data name="NiPi1Body Toning" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Body Toning</Data>
+            <Data name="Tow1Body Toning" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FusionGirlTigerSanBB" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlTigerSanBB</Data>
+            <Data name="BB1TigerSanBB" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1TigerSanBB</Data>
+            <Data name="BB2TigerSanBB" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2TigerSanBB</Data>
+            <Data name="BT1TigerSanBB" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1TigerSanBB</Data>
+            <Data name="BT2TigerSanBB" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2TigerSanBB</Data>
+            <Data name="BT3TigerSanBB" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3TigerSanBB</Data>
+            <Data name="BT4TigerSanBB" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4TigerSanBB</Data>
+            <Data name="BT5TigerSanBB" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5TigerSanBB</Data>
+            <Data name="Br2TigerSanBB" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2TigerSanBB</Data>
+            <Data name="NPi1TigerSanBB" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1TigerSanBB</Data>
+            <Data name="NiPi1TigerSanBB" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1TigerSanBB</Data>
+            <Data name="Tow1TigerSanBB" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FusionGirlXunAbs" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlXunAbs</Data>
+            <Data name="BB1XunAbs" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1XunAbs</Data>
+            <Data name="BB2XunAbs" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2XunAbs</Data>
+            <Data name="BT5XunAbs" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5XunAbs</Data>
+            <Data name="NPi1XunAbs" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1XunAbs</Data>
+            <Data name="Tow1XunAbs" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FusionGirlFFB Fitness 2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlFFB Fitness 2</Data>
+            <Data name="BB1FFB Fitness 2" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1FFB Fitness 2</Data>
+            <Data name="BB2FFB Fitness 2" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2FFB Fitness 2</Data>
+            <Data name="BT3FFB Fitness 2" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3FFB Fitness 2</Data>
+            <Data name="BT4FFB Fitness 2" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4FFB Fitness 2</Data>
+            <Data name="BT5FFB Fitness 2" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5FFB Fitness 2</Data>
+            <Data name="NPi1FFB Fitness 2" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1FFB Fitness 2</Data>
+            <Data name="Tow1FFB Fitness 2" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FusionGirlAthletic" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAthletic</Data>
+            <Data name="BB1Athletic" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Athletic</Data>
+            <Data name="BB2Athletic" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Athletic</Data>
+            <Data name="BT1Athletic" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Athletic</Data>
+            <Data name="BT2Athletic" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Athletic</Data>
+            <Data name="BT3Athletic" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Athletic</Data>
+            <Data name="BT4Athletic" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Athletic</Data>
+            <Data name="BT5Athletic" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Athletic</Data>
+            <Data name="Br2Athletic" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Athletic</Data>
+            <Data name="NPi1Athletic" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Athletic</Data>
+            <Data name="NiPi1Athletic" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Athletic</Data>
+            <Data name="Tow1Athletic" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FusionGirlSeveNBase Bombshell" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSeveNBase Bombshell</Data>
+            <Data name="BB1SeveNBase Bombshell" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1SeveNBase Bombshell</Data>
+            <Data name="BB2SeveNBase Bombshell" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2SeveNBase Bombshell</Data>
+            <Data name="BT1SeveNBase Bombshell" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1SeveNBase Bombshell</Data>
+            <Data name="BT2SeveNBase Bombshell" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2SeveNBase Bombshell</Data>
+            <Data name="BT3SeveNBase Bombshell" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3SeveNBase Bombshell</Data>
+            <Data name="BT4SeveNBase Bombshell" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4SeveNBase Bombshell</Data>
+            <Data name="BT5SeveNBase Bombshell" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5SeveNBase Bombshell</Data>
+            <Data name="Br2SeveNBase Bombshell" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2SeveNBase Bombshell</Data>
+            <Data name="NPi1SeveNBase Bombshell" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1SeveNBase Bombshell</Data>
+            <Data name="NiPi1SeveNBase Bombshell" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1SeveNBase Bombshell</Data>
+            <Data name="Tow1SeveNBase Bombshell" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FusionGirlKnee Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlKnee Height</Data>
+            <Data name="Br2Knee Height" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Knee Height</Data>
+            <Data name="Tow1Knee Height" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Knee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FusionGirlShoulder Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Width</Data>
+            <Data name="BB1Shoulder Width" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1Shoulder Width</Data>
+            <Data name="BB2Shoulder Width" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2Shoulder Width</Data>
+            <Data name="BT1Shoulder Width" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Shoulder Width</Data>
+            <Data name="BT2Shoulder Width" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Shoulder Width</Data>
+            <Data name="BT3Shoulder Width" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Shoulder Width</Data>
+            <Data name="BT4Shoulder Width" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Shoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FusionGirlHighHeels" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHighHeels</Data>
+            <Data name="Br2HighHeels" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2HighHeels</Data>
+            <Data name="Tow1HighHeels" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1HighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FusionGirlBodyFat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBodyFat</Data>
+            <Data name="BB1BodyFat" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1BodyFat</Data>
+            <Data name="BB2BodyFat" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2BodyFat</Data>
+            <Data name="BT1BodyFat" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1BodyFat</Data>
+            <Data name="BT2BodyFat" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2BodyFat</Data>
+            <Data name="BT3BodyFat" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3BodyFat</Data>
+            <Data name="BT4BodyFat" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4BodyFat</Data>
+            <Data name="BT5BodyFat" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5BodyFat</Data>
+            <Data name="Br2BodyFat" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2BodyFat</Data>
+            <Data name="NPi1BodyFat" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1BodyFat</Data>
+            <Data name="NiPi1BodyFat" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1BodyFat</Data>
+            <Data name="Tow1BodyFat" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FusionGirlLegThin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegThin</Data>
+            <Data name="BB1LegThin" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1LegThin</Data>
+            <Data name="BB2LegThin" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2LegThin</Data>
+            <Data name="Br2LegThin" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2LegThin</Data>
+            <Data name="Tow1LegThin" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FusionGirlHipsNarrow" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipsNarrow</Data>
+            <Data name="BB1HipsNarrow" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1HipsNarrow</Data>
+            <Data name="BB2HipsNarrow" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2HipsNarrow</Data>
+            <Data name="Br2HipsNarrow" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2HipsNarrow</Data>
+            <Data name="Tow1HipsNarrow" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FusionGirlButtGravity" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlButtGravity</Data>
+            <Data name="BB1ButtGravity" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1ButtGravity</Data>
+            <Data name="Br2ButtGravity" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2ButtGravity</Data>
+            <Data name="Tow1ButtGravity" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FusionGirlButtThin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlButtThin</Data>
+            <Data name="BB1ButtThin" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1ButtThin</Data>
+            <Data name="BB2ButtThin" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2ButtThin</Data>
+            <Data name="BT4ButtThin" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4ButtThin</Data>
+            <Data name="Br2ButtThin" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2ButtThin</Data>
+            <Data name="Tow1ButtThin" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FusionGirlHipsForward" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipsForward</Data>
+            <Data name="BB1HipsForward" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1HipsForward</Data>
+            <Data name="BB2HipsForward" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2HipsForward</Data>
+            <Data name="Br2HipsForward" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2HipsForward</Data>
+            <Data name="NPi1HipsForward" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1HipsForward</Data>
+            <Data name="Tow1HipsForward" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FusionGirlHipRotateForward" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipRotateForward</Data>
+            <Data name="BB1HipRotateForward" target="BB1" local="true">Vtaw Beach Girl FG.osd\BB1HipRotateForward</Data>
+            <Data name="BB2HipRotateForward" target="BB2" local="true">Vtaw Beach Girl FG.osd\BB2HipRotateForward</Data>
+            <Data name="BT3HipRotateForward" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3HipRotateForward</Data>
+            <Data name="BT4HipRotateForward" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4HipRotateForward</Data>
+            <Data name="Br2HipRotateForward" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2HipRotateForward</Data>
+            <Data name="NPi1HipRotateForward" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1HipRotateForward</Data>
+            <Data name="Tow1HipRotateForward" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastArmpitin</Data>
+            <Data name="BT2BreastArmpitin" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2BreastArmpitin</Data>
+            <Data name="BT3BreastArmpitin" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3BreastArmpitin</Data>
+            <Data name="BT4BreastArmpitin" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4BreastArmpitin</Data>
+            <Data name="Br2BreastArmpitin" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2BreastArmpitin</Data>
+            <Data name="NiPi1BreastArmpitin" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1BreastArmpitin</Data>
+            <Data name="Tow1BreastArmpitin" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitWide" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastArmpitWide</Data>
+            <Data name="BT2BreastArmpitWide" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2BreastArmpitWide</Data>
+            <Data name="BT3BreastArmpitWide" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3BreastArmpitWide</Data>
+            <Data name="BT4BreastArmpitWide" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4BreastArmpitWide</Data>
+            <Data name="Br2BreastArmpitWide" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2BreastArmpitWide</Data>
+            <Data name="NiPi1BreastArmpitWide" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1BreastArmpitWide</Data>
+            <Data name="Tow1BreastArmpitWide" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FusionGirlBreastCurve" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastCurve</Data>
+            <Data name="BT2BreastCurve" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2BreastCurve</Data>
+            <Data name="BT3BreastCurve" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3BreastCurve</Data>
+            <Data name="BT4BreastCurve" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4BreastCurve</Data>
+            <Data name="BT5BreastCurve" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5BreastCurve</Data>
+            <Data name="Br2BreastCurve" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2BreastCurve</Data>
+            <Data name="NiPi1BreastCurve" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1BreastCurve</Data>
+            <Data name="Tow1BreastCurve" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FusionGirlBreastHeight2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastHeight2</Data>
+            <Data name="BT2BreastHeight2" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2BreastHeight2</Data>
+            <Data name="BT3BreastHeight2" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3BreastHeight2</Data>
+            <Data name="BT4BreastHeight2" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4BreastHeight2</Data>
+            <Data name="BT5BreastHeight2" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5BreastHeight2</Data>
+            <Data name="Br2BreastHeight2" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2BreastHeight2</Data>
+            <Data name="NiPi1BreastHeight2" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1BreastHeight2</Data>
+            <Data name="Tow1BreastHeight2" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FusionGirlBreastConcave" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastConcave</Data>
+            <Data name="BT2BreastConcave" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2BreastConcave</Data>
+            <Data name="BT3BreastConcave" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3BreastConcave</Data>
+        </Slider>
+        <Slider name="Topless" invert="false" default="0" zap="true">
+            <Data name="BT1Topless" target="BT1" local="true">Vtaw Beach Girl FG.osd\BT1Topless</Data>
+            <Data name="BT2Topless" target="BT2" local="true">Vtaw Beach Girl FG.osd\BT2Topless</Data>
+            <Data name="BT3Topless" target="BT3" local="true">Vtaw Beach Girl FG.osd\BT3Topless</Data>
+            <Data name="BT4Topless" target="BT4" local="true">Vtaw Beach Girl FG.osd\BT4Topless</Data>
+            <Data name="BT5Topless" target="BT5" local="true">Vtaw Beach Girl FG.osd\BT5Topless</Data>
+        </Slider>
+        <Slider name="Bracelets" invert="false" default="0" zap="true">
+            <Data name="Br1Bracelets" target="Br1" local="true">Vtaw Beach Girl FG.osd\Br1Bracelets</Data>
+        </Slider>
+        <Slider name="Legs Braces" invert="false" default="0" zap="true">
+            <Data name="Br2Legs Braces" target="Br2" local="true">Vtaw Beach Girl FG.osd\Br2Legs Braces</Data>
+        </Slider>
+        <Slider name="Navel Piercing" invert="false" default="0" zap="true">
+            <Data name="NPi1Navel Piercing" target="NPi1" local="true">Vtaw Beach Girl FG.osd\NPi1Navel Piercing</Data>
+        </Slider>
+        <Slider name="Nipples Piercing" invert="false" default="100" zap="true">
+            <Data name="NiPi1Nipples Piercing" target="NiPi1" local="true">Vtaw Beach Girl FG.osd\NiPi1Nipples Piercing</Data>
+        </Slider>
+        <Slider name="Towel" invert="false" default="0" zap="true">
+            <Data name="Tow1Towel" target="Tow1" local="true">Vtaw Beach Girl FG.osd\Tow1Towel</Data>
+        </Slider>
+        <Slider name="Glasses Up" invert="false" default="0" zap="true">
+            <Data name="Gl1Glasses Up" target="Gl1" local="true">Vtaw Beach Girl FG.osd\Gl1Glasses Up</Data>
+            <Data name="Gl2Glasses Up" target="Gl2" local="true">Vtaw Beach Girl FG.osd\Gl2Glasses Up</Data>
+        </Slider>
+        <Slider name="Glasses Down" invert="false" default="100" zap="true">
+            <Data name="Gl3Glasses Down" target="Gl3" local="true">Vtaw Beach Girl FG.osd\Gl3Glasses Down</Data>
+            <Data name="Gl4Glasses Down" target="Gl4" local="true">Vtaw Beach Girl FG.osd\Gl4Glasses Down</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

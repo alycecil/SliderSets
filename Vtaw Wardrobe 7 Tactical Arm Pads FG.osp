@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Tactical Arm Pads FG">
+        <DataFolder>Vtaw Wardrobe 7 Tactical Arm Pads FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Tactical Arm Pads FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\TacticalKneePads</OutputPath>
+        <OutputFile GenWeights="false">TacticalArmPads</OutputFile>
+        <Shape target="ArmPads">ArmPads</Shape>
+        <Shape target="ArmPads Meta;">ArmPads Meta;</Shape>
+        <Shape target="ArmPads Metal">ArmPads Metal</Shape>
+        <Shape target="ArmPads Straps">ArmPads Straps</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="ArmPads StrapsBoobs Yuge" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsBoobs Yuge</Data>
+            <Data name="ArmPadsBoobs Yuge" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsBoobs Yuge</Data>
+            <Data name="ArmPads Meta;Boobs Yuge" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="ArmPads StrapsBoobs Big" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsBoobs Big</Data>
+            <Data name="ArmPadsBoobs Big" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsBoobs Big</Data>
+            <Data name="ArmPads Meta;Boobs Big" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="ArmPads StrapsBoobs Gravity" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsBoobs Gravity</Data>
+            <Data name="ArmPads MetalBoobs Gravity" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalBoobs Gravity</Data>
+            <Data name="ArmPadsBoobs Gravity" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsBoobs Gravity</Data>
+            <Data name="ArmPads Meta;Boobs Gravity" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="ArmPads StrapsBoobs Mellons" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsBoobs Mellons</Data>
+            <Data name="ArmPadsBoobs Mellons" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsBoobs Mellons</Data>
+            <Data name="ArmPads Meta;Boobs Mellons" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="ArmPads StrapsBoobs Perky" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsBoobs Perky</Data>
+            <Data name="ArmPadsBoobs Perky" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsBoobs Perky</Data>
+            <Data name="ArmPads Meta;Boobs Perky" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="ArmPads StrapsBoobs Push Up" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsBoobs Push Up</Data>
+            <Data name="ArmPads MetalBoobs Push Up" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalBoobs Push Up</Data>
+            <Data name="ArmPadsBoobs Push Up" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsBoobs Push Up</Data>
+            <Data name="ArmPads Meta;Boobs Push Up" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="ArmPads StrapsBoobs Top Slope" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsBoobs Top Slope</Data>
+            <Data name="ArmPads MetalBoobs Top Slope" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalBoobs Top Slope</Data>
+            <Data name="ArmPadsBoobs Top Slope" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsBoobs Top Slope</Data>
+            <Data name="ArmPads Meta;Boobs Top Slope" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="ArmPads StrapsBoobs Tiny" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsBoobs Tiny</Data>
+            <Data name="ArmPadsBoobs Tiny" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsBoobs Tiny</Data>
+            <Data name="ArmPads Meta;Boobs Tiny" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="ArmPads StrapsBack Size" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsBack Size</Data>
+            <Data name="ArmPadsBack Size" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsBack Size</Data>
+            <Data name="ArmPads Meta;Back Size" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Back Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="ArmPads StrapsArms Chubby" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsArms Chubby</Data>
+            <Data name="ArmPads MetalArms Chubby" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalArms Chubby</Data>
+            <Data name="ArmPadsArms Chubby" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsArms Chubby</Data>
+            <Data name="ArmPads Meta;Arms Chubby" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Arms Chubby</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="ArmPads StrapsArms Size" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsArms Size</Data>
+            <Data name="ArmPads MetalArms Size" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalArms Size</Data>
+            <Data name="ArmPadsArms Size" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsArms Size</Data>
+            <Data name="ArmPads Meta;Arms Size" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="ArmPads StrapsArmpit Ajustment" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsArmpit Ajustment</Data>
+            <Data name="ArmPads MetalArmpit Ajustment" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalArmpit Ajustment</Data>
+            <Data name="ArmPadsArmpit Ajustment" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsArmpit Ajustment</Data>
+            <Data name="ArmPads Meta;Armpit Ajustment" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="ArmPads StrapsForearms Size" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsForearms Size</Data>
+            <Data name="ArmPads MetalForearms Size" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalForearms Size</Data>
+            <Data name="ArmPadsForearms Size" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsForearms Size</Data>
+            <Data name="ArmPads Meta;Forearms Size" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Forearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="ArmPads StrapsTorso Size" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsTorso Size</Data>
+            <Data name="ArmPads MetalTorso Size" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalTorso Size</Data>
+            <Data name="ArmPadsTorso Size" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsTorso Size</Data>
+            <Data name="ArmPads Meta;Torso Size" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="ArmPads StrapsSturnum Depth" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsSturnum Depth</Data>
+            <Data name="ArmPadsSturnum Depth" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsSturnum Depth</Data>
+            <Data name="ArmPads Meta;Sturnum Depth" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="ArmPads StrapsSturnum Height" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsSturnum Height</Data>
+            <Data name="ArmPads MetalSturnum Height" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalSturnum Height</Data>
+            <Data name="ArmPadsSturnum Height" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsSturnum Height</Data>
+            <Data name="ArmPads Meta;Sturnum Height" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="ArmPads StrapsGroin Position" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsGroin Position</Data>
+            <Data name="ArmPadsGroin Position" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsGroin Position</Data>
+            <Data name="ArmPads Meta;Groin Position" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="ArmPads StrapsGroin Back" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsGroin Back</Data>
+            <Data name="ArmPads MetalGroin Back" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalGroin Back</Data>
+            <Data name="ArmPadsGroin Back" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsGroin Back</Data>
+            <Data name="ArmPads Meta;Groin Back" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Groin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="ArmPads StrapsBody Toning" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsBody Toning</Data>
+            <Data name="ArmPads MetalBody Toning" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalBody Toning</Data>
+            <Data name="ArmPadsBody Toning" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsBody Toning</Data>
+            <Data name="ArmPads Meta;Body Toning" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="ArmPads StrapsTigerSanBB" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsTigerSanBB</Data>
+            <Data name="ArmPads MetalTigerSanBB" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalTigerSanBB</Data>
+            <Data name="ArmPadsTigerSanBB" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsTigerSanBB</Data>
+            <Data name="ArmPads Meta;TigerSanBB" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;TigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="ArmPads StrapsAthletic" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsAthletic</Data>
+            <Data name="ArmPads MetalAthletic" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalAthletic</Data>
+            <Data name="ArmPadsAthletic" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsAthletic</Data>
+            <Data name="ArmPads Meta;Athletic" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="ArmPads StrapsSeveNBase Bombshell" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsSeveNBase Bombshell</Data>
+            <Data name="ArmPads MetalSeveNBase Bombshell" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalSeveNBase Bombshell</Data>
+            <Data name="ArmPadsSeveNBase Bombshell" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsSeveNBase Bombshell</Data>
+            <Data name="ArmPads Meta;SeveNBase Bombshell" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="ArmPads StrapsShoulder Width" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsShoulder Width</Data>
+            <Data name="ArmPads MetalShoulder Width" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalShoulder Width</Data>
+            <Data name="ArmPadsShoulder Width" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsShoulder Width</Data>
+            <Data name="ArmPads Meta;Shoulder Width" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;Shoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="ArmPads StrapsBodyFat" target="ArmPads Straps" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads StrapsBodyFat</Data>
+            <Data name="ArmPads MetalBodyFat" target="ArmPads Metal" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads MetalBodyFat</Data>
+            <Data name="ArmPadsBodyFat" target="ArmPads" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPadsBodyFat</Data>
+            <Data name="ArmPads Meta;BodyFat" target="ArmPads Meta;" local="true">Vtaw Wardrobe 7 Tactical Arm Pads FG.osd\ArmPads Meta;BodyFat</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

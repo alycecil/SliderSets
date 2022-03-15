@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Adventurer Belt FG">
+        <DataFolder>Vtaw Wardrobe 5 Adventurer Belt FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Adventurer Belt FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Adventurer</OutputPath>
+        <OutputFile GenWeights="false">ADBelt</OutputFile>
+        <Shape target="bags">bags</Shape>
+        <Shape target="belt">belt</Shape>
+        <Shape target="main">main</Shape>
+        <Shape target="strap">strap</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="strapBelly Pregnant" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBelly Pregnant</Data>
+            <Data name="beltBelly Pregnant" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBelly Pregnant</Data>
+            <Data name="mainBelly Pregnant" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBelly Pregnant</Data>
+            <Data name="bagsBelly Pregnant" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="strapBelly Big" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBelly Big</Data>
+            <Data name="beltBelly Big" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBelly Big</Data>
+            <Data name="mainBelly Big" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBelly Big</Data>
+            <Data name="bagsBelly Big" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="strapBelly Size" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBelly Size</Data>
+            <Data name="beltBelly Size" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBelly Size</Data>
+            <Data name="mainBelly Size" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBelly Size</Data>
+            <Data name="bagsBelly Size" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="strapBelly Tuck" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBelly Tuck</Data>
+            <Data name="beltBelly Tuck" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBelly Tuck</Data>
+            <Data name="mainBelly Tuck" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBelly Tuck</Data>
+            <Data name="bagsBelly Tuck" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="strapBoobs Yuge" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBoobs Yuge</Data>
+            <Data name="beltBoobs Yuge" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBoobs Yuge</Data>
+            <Data name="mainBoobs Yuge" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBoobs Yuge</Data>
+            <Data name="bagsBoobs Yuge" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="strapBoobs Big" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBoobs Big</Data>
+            <Data name="beltBoobs Big" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBoobs Big</Data>
+            <Data name="mainBoobs Big" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBoobs Big</Data>
+            <Data name="bagsBoobs Big" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="strapBoobs Gravity" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBoobs Gravity</Data>
+            <Data name="beltBoobs Gravity" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBoobs Gravity</Data>
+            <Data name="mainBoobs Gravity" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBoobs Gravity</Data>
+            <Data name="bagsBoobs Gravity" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="strapBoobs Mellons" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBoobs Mellons</Data>
+            <Data name="beltBoobs Mellons" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBoobs Mellons</Data>
+            <Data name="mainBoobs Mellons" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBoobs Mellons</Data>
+            <Data name="bagsBoobs Mellons" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="strapBoobs Perky" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBoobs Perky</Data>
+            <Data name="beltBoobs Perky" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBoobs Perky</Data>
+            <Data name="mainBoobs Perky" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBoobs Perky</Data>
+            <Data name="bagsBoobs Perky" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="strapBoobs Push Up" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBoobs Push Up</Data>
+            <Data name="beltBoobs Push Up" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBoobs Push Up</Data>
+            <Data name="mainBoobs Push Up" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBoobs Push Up</Data>
+            <Data name="bagsBoobs Push Up" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="strapBoobs Top Slope" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBoobs Top Slope</Data>
+            <Data name="beltBoobs Top Slope" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBoobs Top Slope</Data>
+            <Data name="mainBoobs Top Slope" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBoobs Top Slope</Data>
+            <Data name="bagsBoobs Top Slope" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="strapBoobs Tiny" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBoobs Tiny</Data>
+            <Data name="beltBoobs Tiny" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBoobs Tiny</Data>
+            <Data name="mainBoobs Tiny" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBoobs Tiny</Data>
+            <Data name="bagsBoobs Tiny" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="strapChest Depth" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapChest Depth</Data>
+            <Data name="beltChest Depth" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltChest Depth</Data>
+            <Data name="mainChest Depth" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainChest Depth</Data>
+            <Data name="bagsChest Depth" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="beltChest Width" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltChest Width</Data>
+            <Data name="mainChest Width" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainChest Width</Data>
+            <Data name="bagsChest Width" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="strapWaist Chubby" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapWaist Chubby</Data>
+            <Data name="beltWaist Chubby" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltWaist Chubby</Data>
+            <Data name="mainWaist Chubby" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainWaist Chubby</Data>
+            <Data name="bagsWaist Chubby" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="strapWaist Size" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapWaist Size</Data>
+            <Data name="beltWaist Size" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltWaist Size</Data>
+            <Data name="mainWaist Size" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainWaist Size</Data>
+            <Data name="bagsWaist Size" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="strapWaist Height" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapWaist Height</Data>
+            <Data name="beltWaist Height" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltWaist Height</Data>
+            <Data name="mainWaist Height" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainWaist Height</Data>
+            <Data name="bagsWaist Height" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="beltWaist Line" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltWaist Line</Data>
+            <Data name="mainWaist Line" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainWaist Line</Data>
+            <Data name="bagsWaist Line" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="beltBack Size" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBack Size</Data>
+            <Data name="mainBack Size" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBack Size</Data>
+            <Data name="bagsBack Size" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="beltBack Arch" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBack Arch</Data>
+            <Data name="mainBack Arch" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="strapHips Bone" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapHips Bone</Data>
+            <Data name="beltHips Bone" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltHips Bone</Data>
+            <Data name="mainHips Bone" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainHips Bone</Data>
+            <Data name="bagsHips Bone" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="strapHips Size" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapHips Size</Data>
+            <Data name="beltHips Size" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltHips Size</Data>
+            <Data name="mainHips Size" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainHips Size</Data>
+            <Data name="bagsHips Size" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="beltHips Upper Width" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltHips Upper Width</Data>
+            <Data name="mainHips Upper Width" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainHips Upper Width</Data>
+            <Data name="bagsHips Upper Width" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="beltBum Size" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBum Size</Data>
+            <Data name="mainBum Size" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBum Size</Data>
+            <Data name="bagsBum Size" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="mainBum Crack" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBum Crack</Data>
+            <Data name="bagsBum Crack" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="beltBum Shape 1" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBum Shape 1</Data>
+            <Data name="mainBum Shape 1" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBum Shape 1</Data>
+            <Data name="bagsBum Shape 1" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="strapBum Shape 2" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBum Shape 2</Data>
+            <Data name="beltBum Shape 2" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBum Shape 2</Data>
+            <Data name="mainBum Shape 2" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBum Shape 2</Data>
+            <Data name="bagsBum Shape 2" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="strapBum Small" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBum Small</Data>
+            <Data name="beltBum Small" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBum Small</Data>
+            <Data name="mainBum Small" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBum Small</Data>
+            <Data name="bagsBum Small" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="strapBum Chubby" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBum Chubby</Data>
+            <Data name="beltBum Chubby" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBum Chubby</Data>
+            <Data name="mainBum Chubby" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBum Chubby</Data>
+            <Data name="bagsBum Chubby" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="beltBum Round" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBum Round</Data>
+            <Data name="mainBum Round" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBum Round</Data>
+            <Data name="bagsBum Round" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="strapBum Apple" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBum Apple</Data>
+            <Data name="beltBum Apple" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBum Apple</Data>
+            <Data name="mainBum Apple" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBum Apple</Data>
+            <Data name="bagsBum Apple" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="strapLegs Chubby" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapLegs Chubby</Data>
+            <Data name="beltLegs Chubby" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltLegs Chubby</Data>
+            <Data name="mainLegs Chubby" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainLegs Chubby</Data>
+            <Data name="bagsLegs Chubby" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="bagsLegs Shape" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="bagsLegs Thin" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="strapThighs Slim" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapThighs Slim</Data>
+            <Data name="beltThighs Slim" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltThighs Slim</Data>
+            <Data name="mainThighs Slim" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainThighs Slim</Data>
+            <Data name="bagsThighs Slim" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="strapThighs Size" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapThighs Size</Data>
+            <Data name="beltThighs Size" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltThighs Size</Data>
+            <Data name="mainThighs Size" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainThighs Size</Data>
+            <Data name="bagsThighs Size" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="strapTorso Size" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapTorso Size</Data>
+            <Data name="beltTorso Size" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltTorso Size</Data>
+            <Data name="mainTorso Size" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainTorso Size</Data>
+            <Data name="bagsTorso Size" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="strapSturnum Depth" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapSturnum Depth</Data>
+            <Data name="beltSturnum Depth" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltSturnum Depth</Data>
+            <Data name="mainSturnum Depth" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainSturnum Depth</Data>
+            <Data name="bagsSturnum Depth" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="strapSturnum Height" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapSturnum Height</Data>
+            <Data name="beltSturnum Height" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltSturnum Height</Data>
+            <Data name="mainSturnum Height" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainSturnum Height</Data>
+            <Data name="bagsSturnum Height" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="strapGroin Position" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapGroin Position</Data>
+            <Data name="beltGroin Position" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltGroin Position</Data>
+            <Data name="mainGroin Position" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainGroin Position</Data>
+            <Data name="bagsGroin Position" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="strapGroin Back" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapGroin Back</Data>
+            <Data name="beltGroin Back" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltGroin Back</Data>
+            <Data name="mainGroin Back" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainGroin Back</Data>
+            <Data name="bagsGroin Back" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="strapAbDefinition" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapAbDefinition</Data>
+            <Data name="beltAbDefinition" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltAbDefinition</Data>
+            <Data name="mainAbDefinition" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainAbDefinition</Data>
+            <Data name="bagsAbDefinition" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="strapBody Toning" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBody Toning</Data>
+            <Data name="beltBody Toning" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBody Toning</Data>
+            <Data name="mainBody Toning" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBody Toning</Data>
+            <Data name="bagsBody Toning" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="strapTigerSanBB" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapTigerSanBB</Data>
+            <Data name="beltTigerSanBB" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltTigerSanBB</Data>
+            <Data name="mainTigerSanBB" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainTigerSanBB</Data>
+            <Data name="bagsTigerSanBB" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="strapXunAbs" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapXunAbs</Data>
+            <Data name="beltXunAbs" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltXunAbs</Data>
+            <Data name="mainXunAbs" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainXunAbs</Data>
+            <Data name="bagsXunAbs" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="strapFFB Fitness 2" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapFFB Fitness 2</Data>
+            <Data name="beltFFB Fitness 2" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltFFB Fitness 2</Data>
+            <Data name="mainFFB Fitness 2" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainFFB Fitness 2</Data>
+            <Data name="bagsFFB Fitness 2" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="strapAthletic" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapAthletic</Data>
+            <Data name="beltAthletic" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltAthletic</Data>
+            <Data name="mainAthletic" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainAthletic</Data>
+            <Data name="bagsAthletic" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="strapSeveNBase Bombshell" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapSeveNBase Bombshell</Data>
+            <Data name="beltSeveNBase Bombshell" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltSeveNBase Bombshell</Data>
+            <Data name="mainSeveNBase Bombshell" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainSeveNBase Bombshell</Data>
+            <Data name="bagsSeveNBase Bombshell" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="beltShoulder Width" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltShoulder Width</Data>
+            <Data name="mainShoulder Width" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainShoulder Width</Data>
+            <Data name="bagsShoulder Width" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="strapBodyFat" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapBodyFat</Data>
+            <Data name="beltBodyFat" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltBodyFat</Data>
+            <Data name="mainBodyFat" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainBodyFat</Data>
+            <Data name="bagsBodyFat" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="strapLegThin" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapLegThin</Data>
+            <Data name="beltLegThin" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltLegThin</Data>
+            <Data name="mainLegThin" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainLegThin</Data>
+            <Data name="bagsLegThin" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="beltHipsNarrow" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltHipsNarrow</Data>
+            <Data name="mainHipsNarrow" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainHipsNarrow</Data>
+            <Data name="bagsHipsNarrow" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="beltButtThin" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltButtThin</Data>
+            <Data name="mainButtThin" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainButtThin</Data>
+            <Data name="bagsButtThin" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="strapHipsForward" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapHipsForward</Data>
+            <Data name="beltHipsForward" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltHipsForward</Data>
+            <Data name="mainHipsForward" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainHipsForward</Data>
+            <Data name="bagsHipsForward" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="strapHipRotateForward" target="strap" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\strapHipRotateForward</Data>
+            <Data name="beltHipRotateForward" target="belt" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\beltHipRotateForward</Data>
+            <Data name="mainHipRotateForward" target="main" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\mainHipRotateForward</Data>
+            <Data name="bagsHipRotateForward" target="bags" local="true">Vtaw Wardrobe 5 Adventurer Belt FG.osd\bagsHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

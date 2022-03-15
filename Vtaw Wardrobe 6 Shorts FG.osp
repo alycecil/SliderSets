@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Shorts FG">
+        <DataFolder>Vtaw Wardrobe 6 Shorts FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Shorts FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Shorts</OutputPath>
+        <OutputFile GenWeights="false">Shorts</OutputFile>
+        <Shape target="Shorts">Shorts</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="ShortsBelly Pregnant" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="ShortsBelly Big" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="ShortsBelly Size" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="ShortsBelly Tuck" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="ShortsBoobs Yuge" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="ShortsBoobs Big" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="ShortsBoobs Gravity" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="ShortsBoobs Mellons" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="ShortsBoobs Perky" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="ShortsBoobs Push Up" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="ShortsBoobs Top Slope" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="ShortsBoobs Tiny" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="ShortsChest Width" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="ShortsWaist Chubby" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="ShortsWaist Size" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="ShortsWaist Height" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="ShortsWaist Line" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="ShortsBack Size" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="ShortsBack Arch" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="ShortsHips Bone" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="ShortsHips Size" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="ShortsHips Upper Width" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="ShortsBum Size" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="ShortsBum Crack" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="ShortsBum Shape 1" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="ShortsBum Shape 2" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="ShortsBum Small" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="ShortsBum Chubby" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="ShortsBum Round" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="ShortsBum Apple" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="ShortsLegs Chubby" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="ShortsLegs Shape" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="ShortsLegs Thin" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="ShortsThighs Slim" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="ShortsThighs Size" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="ShortsTorso Size" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="ShortsSturnum Depth" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="ShortsSturnum Height" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="ShortsGroin Position" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="ShortsGroin Back" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="ShortsAbDefinition" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="ShortsBody Toning" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="ShortsTigerSanBB" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="ShortsXunAbs" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="ShortsFFB Fitness 2" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="ShortsAthletic" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="ShortsSeveNBase Bombshell" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="ShortsShoulder Width" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="ShortsBodyFat" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="ShortsLegThin" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="ShortsHipsNarrow" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="ShortsButtGravity" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="ShortsButtThin" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="ShortsHipsForward" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="ShortsHipRotateForward" target="Shorts" local="true">Vtaw Wardrobe 6 Shorts FG.osd\ShortsHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

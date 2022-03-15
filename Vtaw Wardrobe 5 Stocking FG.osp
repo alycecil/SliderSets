@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Stocking FG">
+        <DataFolder>Vtaw Wardrobe 5 Stocking FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Stocking FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Lingerie</OutputPath>
+        <OutputFile GenWeights="false">Stocking</OutputFile>
+        <Shape target="stocking">stocking</Shape>
+        <Shape target="stocktop">stocktop</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="stocktopBoobs Yuge" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBoobs Yuge</Data>
+            <Data name="stockingBoobs Yuge" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="stocktopBoobs Big" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBoobs Big</Data>
+            <Data name="stockingBoobs Big" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="stocktopBoobs Gravity" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBoobs Gravity</Data>
+            <Data name="stockingBoobs Gravity" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="stocktopBoobs Mellons" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBoobs Mellons</Data>
+            <Data name="stockingBoobs Mellons" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="stocktopBoobs Perky" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBoobs Perky</Data>
+            <Data name="stockingBoobs Perky" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="stocktopBoobs Push Up" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBoobs Push Up</Data>
+            <Data name="stockingBoobs Push Up" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="stocktopBoobs Top Slope" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBoobs Top Slope</Data>
+            <Data name="stockingBoobs Top Slope" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="stocktopBoobs Tiny" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBoobs Tiny</Data>
+            <Data name="stockingBoobs Tiny" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="stocktopHips Size" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopHips Size</Data>
+            <Data name="stockingHips Size" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingHips Size</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="stocktopBum Size" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBum Size</Data>
+            <Data name="stockingBum Size" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBum Size</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="stocktopBum Shape 1" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBum Shape 1</Data>
+            <Data name="stockingBum Shape 1" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="stocktopBum Shape 2" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBum Shape 2</Data>
+            <Data name="stockingBum Shape 2" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="stocktopBum Small" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBum Small</Data>
+            <Data name="stockingBum Small" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="stocktopBum Chubby" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBum Chubby</Data>
+            <Data name="stockingBum Chubby" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="stocktopBum Round" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="stocktopBum Apple" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBum Apple</Data>
+            <Data name="stockingBum Apple" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="stockingCalf Size" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="stockingCalf Small" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="stocktopLegs Chubby" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopLegs Chubby</Data>
+            <Data name="stockingLegs Chubby" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="stocktopLegs Shape" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopLegs Shape</Data>
+            <Data name="stockingLegs Shape" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="stocktopLegs Thin" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopLegs Thin</Data>
+            <Data name="stockingLegs Thin" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="stocktopThighs Slim" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopThighs Slim</Data>
+            <Data name="stockingThighs Slim" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="stocktopThighs Size" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopThighs Size</Data>
+            <Data name="stockingThighs Size" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="stockingAnkle Size" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingAnkle Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="stocktopSturnum Depth" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopSturnum Depth</Data>
+            <Data name="stockingSturnum Depth" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="stocktopSturnum Height" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopSturnum Height</Data>
+            <Data name="stockingSturnum Height" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="stocktopGroin Position" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopGroin Position</Data>
+            <Data name="stockingGroin Position" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="stocktopGroin Back" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopGroin Back</Data>
+            <Data name="stockingGroin Back" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="stockingAbDefinition" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="stocktopBody Toning" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBody Toning</Data>
+            <Data name="stockingBody Toning" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="stocktopTigerSanBB" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopTigerSanBB</Data>
+            <Data name="stockingTigerSanBB" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="stocktopAthletic" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopAthletic</Data>
+            <Data name="stockingAthletic" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="stocktopSeveNBase Bombshell" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopSeveNBase Bombshell</Data>
+            <Data name="stockingSeveNBase Bombshell" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="stocktopKnee Height" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopKnee Height</Data>
+            <Data name="stockingKnee Height" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingKnee Height</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="stockingHighHeels" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="stocktopBodyFat" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopBodyFat</Data>
+            <Data name="stockingBodyFat" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="stocktopLegThin" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopLegThin</Data>
+            <Data name="stockingLegThin" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="stocktopHipsNarrow" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopHipsNarrow</Data>
+            <Data name="stockingHipsNarrow" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="stocktopButtGravity" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopButtGravity</Data>
+            <Data name="stockingButtGravity" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="stocktopButtThin" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopButtThin</Data>
+            <Data name="stockingButtThin" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="stocktopHipsForward" target="stocktop" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stocktopHipsForward</Data>
+            <Data name="stockingHipsForward" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="stockingHipRotateForward" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="stockingBreastArmpitin" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="stockingBreastArmpitWide" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="stockingBreastCurve" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="stockingBreastHeight2" target="stocking" local="true">Vtaw Wardrobe 5 Stocking FG.osd\stockingBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

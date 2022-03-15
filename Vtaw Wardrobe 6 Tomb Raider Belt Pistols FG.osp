@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG">
+        <DataFolder>Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Tomb\Belt</OutputPath>
+        <OutputFile GenWeights="false">TRBeltPistols</OutputFile>
+        <Shape target="Legs pistols">Legs pistols</Shape>
+        <Shape target="Pistol Left">Pistol Left</Shape>
+        <Shape target="Pistol Right">Pistol Right</Shape>
+        <Shape target="belt">belt</Shape>
+        <Shape target="straps mid">straps mid</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="beltBelly Pregnant" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBelly Pregnant</Data>
+            <Data name="straps midBelly Pregnant" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="beltBelly Big" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBelly Big</Data>
+            <Data name="straps midBelly Big" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="beltBelly Size" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBelly Size</Data>
+            <Data name="straps midBelly Size" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="beltBelly Tuck" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBelly Tuck</Data>
+            <Data name="straps midBelly Tuck" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="beltBoobs Yuge" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBoobs Yuge</Data>
+            <Data name="straps midBoobs Yuge" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBoobs Yuge</Data>
+            <Data name="Legs pistolsBoobs Yuge" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBoobs Yuge</Data>
+            <Data name="Pistol LeftBoobs Yuge" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBoobs Yuge</Data>
+            <Data name="Pistol RightBoobs Yuge" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="beltBoobs Big" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBoobs Big</Data>
+            <Data name="straps midBoobs Big" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBoobs Big</Data>
+            <Data name="Legs pistolsBoobs Big" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBoobs Big</Data>
+            <Data name="Pistol LeftBoobs Big" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBoobs Big</Data>
+            <Data name="Pistol RightBoobs Big" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="beltBoobs Gravity" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBoobs Gravity</Data>
+            <Data name="straps midBoobs Gravity" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBoobs Gravity</Data>
+            <Data name="Legs pistolsBoobs Gravity" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBoobs Gravity</Data>
+            <Data name="Pistol LeftBoobs Gravity" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBoobs Gravity</Data>
+            <Data name="Pistol RightBoobs Gravity" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="beltBoobs Mellons" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBoobs Mellons</Data>
+            <Data name="straps midBoobs Mellons" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBoobs Mellons</Data>
+            <Data name="Legs pistolsBoobs Mellons" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBoobs Mellons</Data>
+            <Data name="Pistol LeftBoobs Mellons" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBoobs Mellons</Data>
+            <Data name="Pistol RightBoobs Mellons" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="beltBoobs Perky" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBoobs Perky</Data>
+            <Data name="straps midBoobs Perky" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBoobs Perky</Data>
+            <Data name="Legs pistolsBoobs Perky" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBoobs Perky</Data>
+            <Data name="Pistol LeftBoobs Perky" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBoobs Perky</Data>
+            <Data name="Pistol RightBoobs Perky" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="beltBoobs Push Up" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBoobs Push Up</Data>
+            <Data name="straps midBoobs Push Up" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBoobs Push Up</Data>
+            <Data name="Legs pistolsBoobs Push Up" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBoobs Push Up</Data>
+            <Data name="Pistol LeftBoobs Push Up" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBoobs Push Up</Data>
+            <Data name="Pistol RightBoobs Push Up" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="beltBoobs Top Slope" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBoobs Top Slope</Data>
+            <Data name="straps midBoobs Top Slope" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBoobs Top Slope</Data>
+            <Data name="Legs pistolsBoobs Top Slope" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBoobs Top Slope</Data>
+            <Data name="Pistol LeftBoobs Top Slope" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBoobs Top Slope</Data>
+            <Data name="Pistol RightBoobs Top Slope" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="beltBoobs Tiny" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBoobs Tiny</Data>
+            <Data name="straps midBoobs Tiny" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBoobs Tiny</Data>
+            <Data name="Legs pistolsBoobs Tiny" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBoobs Tiny</Data>
+            <Data name="Pistol LeftBoobs Tiny" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBoobs Tiny</Data>
+            <Data name="Pistol RightBoobs Tiny" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="beltChest Width" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="beltWaist Chubby" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltWaist Chubby</Data>
+            <Data name="straps midWaist Chubby" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midWaist Chubby</Data>
+            <Data name="Pistol LeftWaist Chubby" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftWaist Chubby</Data>
+            <Data name="Pistol RightWaist Chubby" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="beltWaist Size" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltWaist Size</Data>
+            <Data name="straps midWaist Size" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="beltWaist Height" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltWaist Height</Data>
+            <Data name="straps midWaist Height" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="beltWaist Line" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="beltBack Size" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBack Size</Data>
+            <Data name="straps midBack Size" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="beltBack Arch" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBack Arch</Data>
+            <Data name="straps midBack Arch" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="beltHips Bone" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltHips Bone</Data>
+            <Data name="straps midHips Bone" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midHips Bone</Data>
+            <Data name="Legs pistolsHips Bone" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsHips Bone</Data>
+            <Data name="Pistol LeftHips Bone" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftHips Bone</Data>
+            <Data name="Pistol RightHips Bone" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="beltHips Size" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltHips Size</Data>
+            <Data name="straps midHips Size" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midHips Size</Data>
+            <Data name="Legs pistolsHips Size" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsHips Size</Data>
+            <Data name="Pistol LeftHips Size" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftHips Size</Data>
+            <Data name="Pistol RightHips Size" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="beltHips Upper Width" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltHips Upper Width</Data>
+            <Data name="straps midHips Upper Width" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midHips Upper Width</Data>
+            <Data name="Pistol RightHips Upper Width" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="beltBum Size" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBum Size</Data>
+            <Data name="straps midBum Size" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBum Size</Data>
+            <Data name="Legs pistolsBum Size" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBum Size</Data>
+            <Data name="Pistol LeftBum Size" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBum Size</Data>
+            <Data name="Pistol RightBum Size" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="beltBum Crack" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBum Crack</Data>
+            <Data name="straps midBum Crack" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBum Crack</Data>
+            <Data name="Pistol LeftBum Crack" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBum Crack</Data>
+            <Data name="Pistol RightBum Crack" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="beltBum Shape 1" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBum Shape 1</Data>
+            <Data name="straps midBum Shape 1" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBum Shape 1</Data>
+            <Data name="Legs pistolsBum Shape 1" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBum Shape 1</Data>
+            <Data name="Pistol LeftBum Shape 1" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBum Shape 1</Data>
+            <Data name="Pistol RightBum Shape 1" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="beltBum Shape 2" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBum Shape 2</Data>
+            <Data name="straps midBum Shape 2" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBum Shape 2</Data>
+            <Data name="Legs pistolsBum Shape 2" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBum Shape 2</Data>
+            <Data name="Pistol LeftBum Shape 2" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBum Shape 2</Data>
+            <Data name="Pistol RightBum Shape 2" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="beltBum Small" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBum Small</Data>
+            <Data name="straps midBum Small" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBum Small</Data>
+            <Data name="Legs pistolsBum Small" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBum Small</Data>
+            <Data name="Pistol LeftBum Small" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBum Small</Data>
+            <Data name="Pistol RightBum Small" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="beltBum Chubby" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBum Chubby</Data>
+            <Data name="straps midBum Chubby" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBum Chubby</Data>
+            <Data name="Legs pistolsBum Chubby" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBum Chubby</Data>
+            <Data name="Pistol LeftBum Chubby" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBum Chubby</Data>
+            <Data name="Pistol RightBum Chubby" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="beltBum Round" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBum Round</Data>
+            <Data name="straps midBum Round" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBum Round</Data>
+            <Data name="Legs pistolsBum Round" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBum Round</Data>
+            <Data name="Pistol LeftBum Round" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBum Round</Data>
+            <Data name="Pistol RightBum Round" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="beltBum Apple" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBum Apple</Data>
+            <Data name="straps midBum Apple" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBum Apple</Data>
+            <Data name="Legs pistolsBum Apple" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBum Apple</Data>
+            <Data name="Pistol LeftBum Apple" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBum Apple</Data>
+            <Data name="Pistol RightBum Apple" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="beltLegs Chubby" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltLegs Chubby</Data>
+            <Data name="straps midLegs Chubby" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midLegs Chubby</Data>
+            <Data name="Legs pistolsLegs Chubby" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsLegs Chubby</Data>
+            <Data name="Pistol LeftLegs Chubby" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftLegs Chubby</Data>
+            <Data name="Pistol RightLegs Chubby" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="beltLegs Shape" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltLegs Shape</Data>
+            <Data name="straps midLegs Shape" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midLegs Shape</Data>
+            <Data name="Legs pistolsLegs Shape" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsLegs Shape</Data>
+            <Data name="Pistol LeftLegs Shape" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftLegs Shape</Data>
+            <Data name="Pistol RightLegs Shape" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="beltLegs Thin" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltLegs Thin</Data>
+            <Data name="straps midLegs Thin" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midLegs Thin</Data>
+            <Data name="Legs pistolsLegs Thin" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsLegs Thin</Data>
+            <Data name="Pistol LeftLegs Thin" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftLegs Thin</Data>
+            <Data name="Pistol RightLegs Thin" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="beltThighs Slim" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltThighs Slim</Data>
+            <Data name="straps midThighs Slim" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midThighs Slim</Data>
+            <Data name="Legs pistolsThighs Slim" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsThighs Slim</Data>
+            <Data name="Pistol LeftThighs Slim" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftThighs Slim</Data>
+            <Data name="Pistol RightThighs Slim" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="beltThighs Size" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltThighs Size</Data>
+            <Data name="straps midThighs Size" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midThighs Size</Data>
+            <Data name="Legs pistolsThighs Size" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsThighs Size</Data>
+            <Data name="Pistol LeftThighs Size" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftThighs Size</Data>
+            <Data name="Pistol RightThighs Size" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="beltTorso Size" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltTorso Size</Data>
+            <Data name="straps midTorso Size" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midTorso Size</Data>
+            <Data name="Legs pistolsTorso Size" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsTorso Size</Data>
+            <Data name="Pistol LeftTorso Size" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftTorso Size</Data>
+            <Data name="Pistol RightTorso Size" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="beltSturnum Depth" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltSturnum Depth</Data>
+            <Data name="straps midSturnum Depth" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midSturnum Depth</Data>
+            <Data name="Legs pistolsSturnum Depth" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsSturnum Depth</Data>
+            <Data name="Pistol LeftSturnum Depth" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftSturnum Depth</Data>
+            <Data name="Pistol RightSturnum Depth" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="beltSturnum Height" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltSturnum Height</Data>
+            <Data name="straps midSturnum Height" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midSturnum Height</Data>
+            <Data name="Legs pistolsSturnum Height" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsSturnum Height</Data>
+            <Data name="Pistol LeftSturnum Height" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftSturnum Height</Data>
+            <Data name="Pistol RightSturnum Height" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="beltGroin Position" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltGroin Position</Data>
+            <Data name="straps midGroin Position" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midGroin Position</Data>
+            <Data name="Legs pistolsGroin Position" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsGroin Position</Data>
+            <Data name="Pistol LeftGroin Position" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftGroin Position</Data>
+            <Data name="Pistol RightGroin Position" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="beltGroin Back" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltGroin Back</Data>
+            <Data name="straps midGroin Back" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midGroin Back</Data>
+            <Data name="Legs pistolsGroin Back" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsGroin Back</Data>
+            <Data name="Pistol LeftGroin Back" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftGroin Back</Data>
+            <Data name="Pistol RightGroin Back" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="beltAbDefinition" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltAbDefinition</Data>
+            <Data name="straps midAbDefinition" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="beltBody Toning" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBody Toning</Data>
+            <Data name="straps midBody Toning" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBody Toning</Data>
+            <Data name="Legs pistolsBody Toning" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBody Toning</Data>
+            <Data name="Pistol LeftBody Toning" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBody Toning</Data>
+            <Data name="Pistol RightBody Toning" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="beltTigerSanBB" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltTigerSanBB</Data>
+            <Data name="straps midTigerSanBB" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midTigerSanBB</Data>
+            <Data name="Legs pistolsTigerSanBB" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsTigerSanBB</Data>
+            <Data name="Pistol LeftTigerSanBB" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftTigerSanBB</Data>
+            <Data name="Pistol RightTigerSanBB" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="beltXunAbs" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltXunAbs</Data>
+            <Data name="straps midXunAbs" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="beltFFB Fitness 2" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltFFB Fitness 2</Data>
+            <Data name="straps midFFB Fitness 2" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="beltAthletic" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltAthletic</Data>
+            <Data name="straps midAthletic" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midAthletic</Data>
+            <Data name="Legs pistolsAthletic" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsAthletic</Data>
+            <Data name="Pistol LeftAthletic" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftAthletic</Data>
+            <Data name="Pistol RightAthletic" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="beltSeveNBase Bombshell" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltSeveNBase Bombshell</Data>
+            <Data name="straps midSeveNBase Bombshell" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midSeveNBase Bombshell</Data>
+            <Data name="Legs pistolsSeveNBase Bombshell" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsSeveNBase Bombshell</Data>
+            <Data name="Pistol LeftSeveNBase Bombshell" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftSeveNBase Bombshell</Data>
+            <Data name="Pistol RightSeveNBase Bombshell" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="Legs pistolsKnee Height" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsKnee Height</Data>
+            <Data name="Pistol LeftKnee Height" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftKnee Height</Data>
+            <Data name="Pistol RightKnee Height" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="beltShoulder Width" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="beltBodyFat" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltBodyFat</Data>
+            <Data name="straps midBodyFat" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midBodyFat</Data>
+            <Data name="Legs pistolsBodyFat" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsBodyFat</Data>
+            <Data name="Pistol LeftBodyFat" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftBodyFat</Data>
+            <Data name="Pistol RightBodyFat" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="beltLegThin" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltLegThin</Data>
+            <Data name="straps midLegThin" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midLegThin</Data>
+            <Data name="Legs pistolsLegThin" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsLegThin</Data>
+            <Data name="Pistol LeftLegThin" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftLegThin</Data>
+            <Data name="Pistol RightLegThin" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="beltHipsNarrow" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltHipsNarrow</Data>
+            <Data name="straps midHipsNarrow" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midHipsNarrow</Data>
+            <Data name="Legs pistolsHipsNarrow" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsHipsNarrow</Data>
+            <Data name="Pistol LeftHipsNarrow" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftHipsNarrow</Data>
+            <Data name="Pistol RightHipsNarrow" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="straps midButtGravity" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midButtGravity</Data>
+            <Data name="Legs pistolsButtGravity" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsButtGravity</Data>
+            <Data name="Pistol LeftButtGravity" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftButtGravity</Data>
+            <Data name="Pistol RightButtGravity" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="beltButtThin" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltButtThin</Data>
+            <Data name="straps midButtThin" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midButtThin</Data>
+            <Data name="Legs pistolsButtThin" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsButtThin</Data>
+            <Data name="Pistol LeftButtThin" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftButtThin</Data>
+            <Data name="Pistol RightButtThin" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="beltHipsForward" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltHipsForward</Data>
+            <Data name="straps midHipsForward" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midHipsForward</Data>
+            <Data name="Legs pistolsHipsForward" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsHipsForward</Data>
+            <Data name="Pistol LeftHipsForward" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftHipsForward</Data>
+            <Data name="Pistol RightHipsForward" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="beltHipRotateForward" target="belt" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\beltHipRotateForward</Data>
+            <Data name="straps midHipRotateForward" target="straps mid" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\straps midHipRotateForward</Data>
+            <Data name="Legs pistolsHipRotateForward" target="Legs pistols" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Legs pistolsHipRotateForward</Data>
+            <Data name="Pistol LeftHipRotateForward" target="Pistol Left" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol LeftHipRotateForward</Data>
+            <Data name="Pistol RightHipRotateForward" target="Pistol Right" local="true">Vtaw Wardrobe 6 Tomb Raider Belt Pistols FG.osd\Pistol RightHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

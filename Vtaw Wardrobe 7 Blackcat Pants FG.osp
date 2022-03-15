@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Blackcat Pants FG">
+        <DataFolder>Vtaw Wardrobe 7 Blackcat Pants FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Blackcat Pants FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\BlackcatPants</OutputPath>
+        <OutputFile GenWeights="false">BlackcatPants</OutputFile>
+        <Shape target="pants">pants</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="pantsBelly Pregnant" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="pantsBelly Big" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="pantsBelly Size" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="pantsBelly Tuck" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="pantsBoobs Yuge" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="pantsBoobs Big" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="pantsBoobs Gravity" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="pantsBoobs Mellons" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="pantsBoobs Perky" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="pantsBoobs Push Up" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="pantsBoobs Top Slope" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="pantsBoobs Tiny" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="pantsNipples Gone" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsNipples Gone</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="pantsChest Width" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="pantsWaist Chubby" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="pantsWaist Size" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="pantsWaist Height" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="pantsWaist Line" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="pantsBack Size" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="pantsBack Arch" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="pantsHips Bone" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="pantsHips Size" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="pantsHips Upper Width" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="pantsBum Size" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="pantsBum Crack" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="pantsBum Shape 1" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="pantsBum Shape 2" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="pantsBum Small" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="pantsBum Chubby" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="pantsBum Round" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="pantsBum Apple" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="pantsCalf Size" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="pantsCalf Small" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="pantsLegs Chubby" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="pantsLegs Shape" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="pantsLegs Thin" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="pantsThighs Slim" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="pantsThighs Size" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="pantsAnkle Size" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsAnkle Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="pantsTorso Size" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="pantsSturnum Depth" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="pantsSturnum Height" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="pantsGroin Position" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="pantsGroin Back" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="pantsLabia Minora Flat" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="pantsLabia Minora Longer" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="pantsClitoras Size" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="pantsClitoras Long" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="pantsLabia Majora Long" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="pantsLabia Majora Wide" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="pantsLabia Majora Inner" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="pantsAbDefinition" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="pantsBody Toning" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="pantsTigerSanBB" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="pantsXunAbs" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="pantsFFB Fitness 2" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="pantsAthletic" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="pantsSeveNBase Bombshell" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="pantsKnee Height" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="pantsShoulder Width" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="pantsHighHeels" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="pantsBodyFat" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="pantsLegThin" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="pantsHipsNarrow" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="pantsButtGravity" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="pantsButtThin" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="pantsHipsForward" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="pantsHipRotateForward" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="pantsBreastArmpitin" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="pantsBreastArmpitWide" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="pantsBreastCurve" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="pantsBreastHeight2" target="pants" local="true">Vtaw Wardrobe 7 Blackcat Pants FG.osd\pantsBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

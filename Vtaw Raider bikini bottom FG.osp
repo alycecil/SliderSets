@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Raider bikini bottom FG">
+        <DataFolder>Vtaw Raider bikini bottom FG</DataFolder>
+        <SourceFile>Vtaw Raider bikini bottom FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe4\bikini</OutputPath>
+        <OutputFile GenWeights="false">4bottom</OutputFile>
+        <Shape target="bikinibot">bikinibot</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="bikinibotBelly Pregnant" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="bikinibotBelly Big" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="bikinibotBelly Size" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="bikinibotBelly Tuck" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="bikinibotBoobs Yuge" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="bikinibotBoobs Big" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="bikinibotBoobs Gravity" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="bikinibotBoobs Mellons" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="bikinibotBoobs Perky" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="bikinibotBoobs Push Up" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="bikinibotBoobs Top Slope" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="bikinibotBoobs Tiny" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="bikinibotChest Width" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="bikinibotWaist Chubby" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="bikinibotWaist Size" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="bikinibotWaist Height" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="bikinibotWaist Line" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="bikinibotBack Size" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="bikinibotBack Arch" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="bikinibotHips Bone" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="bikinibotHips Size" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="bikinibotHips Upper Width" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="bikinibotBum Size" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="bikinibotBum Crack" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="bikinibotBum Shape 1" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="bikinibotBum Shape 2" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="bikinibotBum Small" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="bikinibotBum Chubby" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="bikinibotBum Round" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="bikinibotBum Apple" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="bikinibotLegs Chubby" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="bikinibotLegs Shape" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="bikinibotLegs Thin" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="bikinibotThighs Slim" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="bikinibotThighs Size" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="bikinibotTorso Size" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="bikinibotSturnum Depth" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="bikinibotSturnum Height" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="bikinibotGroin Position" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="bikinibotGroin Back" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="bikinibotAbDefinition" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="bikinibotBody Toning" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="bikinibotTigerSanBB" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="bikinibotXunAbs" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="bikinibotFFB Fitness 2" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="bikinibotAthletic" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="bikinibotSeveNBase Bombshell" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="bikinibotShoulder Width" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="bikinibotBodyFat" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="bikinibotLegThin" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="bikinibotHipsNarrow" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="bikinibotButtGravity" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="bikinibotButtThin" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="bikinibotHipsForward" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="bikinibotHipRotateForward" target="bikinibot" local="true">Vtaw Raider bikini bottom FG.osd\bikinibotHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

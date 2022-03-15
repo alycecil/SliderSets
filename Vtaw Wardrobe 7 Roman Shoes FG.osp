@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Roman Shoes FG">
+        <DataFolder>Vtaw Wardrobe 7 Roman Shoes FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Roman Shoes FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\RomanTop</OutputPath>
+        <OutputFile GenWeights="false">RomanShoes</OutputFile>
+        <Shape target="CBBE-HH-FemFeet">CBBE-HH-FemFeet</Shape>
+        <Shape target="FusionNudeHH" DataFolder="VtawWardrobe7">FusionNudeHH</Shape>
+        <Shape target="Shoes">Shoes</Shape>
+        <Shape target="ShoesMetal">ShoesMetal</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Pregnant" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBelly Pregnant</Data>
+            <Data name="CBBE-HH-FemFeetBelly Pregnant" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Big" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBelly Big</Data>
+            <Data name="CBBE-HH-FemFeetBelly Big" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBelly Size</Data>
+            <Data name="CBBE-HH-FemFeetBelly Size" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Tuck" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBelly Tuck</Data>
+            <Data name="CBBE-HH-FemFeetBelly Tuck" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Yuge" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBoobs Yuge</Data>
+            <Data name="ShoesBoobs Yuge" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBoobs Yuge</Data>
+            <Data name="ShoesMetalBoobs Yuge" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalBoobs Yuge</Data>
+            <Data name="CBBE-HH-FemFeetBoobs Yuge" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Big" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBoobs Big</Data>
+            <Data name="ShoesBoobs Big" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBoobs Big</Data>
+            <Data name="ShoesMetalBoobs Big" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalBoobs Big</Data>
+            <Data name="CBBE-HH-FemFeetBoobs Big" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Cleavage" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBoobs Cleavage</Data>
+            <Data name="CBBE-HH-FemFeetBoobs Cleavage" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Flat" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBoobs Flat</Data>
+            <Data name="CBBE-HH-FemFeetBoobs Flat" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Gravity" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBoobs Gravity</Data>
+            <Data name="ShoesBoobs Gravity" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBoobs Gravity</Data>
+            <Data name="ShoesMetalBoobs Gravity" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalBoobs Gravity</Data>
+            <Data name="CBBE-HH-FemFeetBoobs Gravity" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBoobs Height</Data>
+            <Data name="CBBE-HH-FemFeetBoobs Height" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Mellons" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBoobs Mellons</Data>
+            <Data name="ShoesBoobs Mellons" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBoobs Mellons</Data>
+            <Data name="ShoesMetalBoobs Mellons" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalBoobs Mellons</Data>
+            <Data name="CBBE-HH-FemFeetBoobs Mellons" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Perky" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBoobs Perky</Data>
+            <Data name="ShoesBoobs Perky" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBoobs Perky</Data>
+            <Data name="ShoesMetalBoobs Perky" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalBoobs Perky</Data>
+            <Data name="CBBE-HH-FemFeetBoobs Perky" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Push Up" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBoobs Push Up</Data>
+            <Data name="ShoesBoobs Push Up" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBoobs Push Up</Data>
+            <Data name="ShoesMetalBoobs Push Up" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalBoobs Push Up</Data>
+            <Data name="CBBE-HH-FemFeetBoobs Push Up" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Small" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBoobs Small</Data>
+            <Data name="CBBE-HH-FemFeetBoobs Small" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Together" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBoobs Together</Data>
+            <Data name="CBBE-HH-FemFeetBoobs Together" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Top Slope" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBoobs Top Slope</Data>
+            <Data name="ShoesBoobs Top Slope" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBoobs Top Slope</Data>
+            <Data name="ShoesMetalBoobs Top Slope" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalBoobs Top Slope</Data>
+            <Data name="CBBE-HH-FemFeetBoobs Top Slope" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBoobs Width</Data>
+            <Data name="CBBE-HH-FemFeetBoobs Width" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Tiny" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBoobs Tiny</Data>
+            <Data name="ShoesBoobs Tiny" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBoobs Tiny</Data>
+            <Data name="ShoesMetalBoobs Tiny" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalBoobs Tiny</Data>
+            <Data name="CBBE-HH-FemFeetBoobs Tiny" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Length" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHNipples Length</Data>
+            <Data name="CBBE-HH-FemFeetNipples Length" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Areola" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHNipples Areola</Data>
+            <Data name="CBBE-HH-FemFeetNipples Areola" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Distance" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHNipples Distance</Data>
+            <Data name="CBBE-HH-FemFeetNipples Distance" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Down" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHNipples Down</Data>
+            <Data name="CBBE-HH-FemFeetNipples Down" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Gone" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHNipples Gone</Data>
+            <Data name="ShoesNipples Gone" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesNipples Gone</Data>
+            <Data name="ShoesMetalNipples Gone" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalNipples Gone</Data>
+            <Data name="CBBE-HH-FemFeetNipples Gone" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Shape" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHNipples Shape</Data>
+            <Data name="CBBE-HH-FemFeetNipples Shape" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHNipples Size</Data>
+            <Data name="CBBE-HH-FemFeetNipples Size" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Perkiness" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHNipples Perkiness</Data>
+            <Data name="CBBE-HH-FemFeetNipples Perkiness" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Puffy" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHNipples Puffy</Data>
+            <Data name="CBBE-HH-FemFeetNipples Puffy" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Up" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHNipples Up</Data>
+            <Data name="CBBE-HH-FemFeetNipples Up" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetNipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Tip" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHNipples Tip</Data>
+            <Data name="CBBE-HH-FemFeetNipples Tip" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetNipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FusionNudeHHChest Depth" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHChest Depth</Data>
+            <Data name="CBBE-HH-FemFeetChest Depth" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FusionNudeHHChest Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHChest Width</Data>
+            <Data name="CBBE-HH-FemFeetChest Width" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHWaist Chubby</Data>
+            <Data name="CBBE-HH-FemFeetWaist Chubby" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHWaist Size</Data>
+            <Data name="CBBE-HH-FemFeetWaist Size" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHWaist Height</Data>
+            <Data name="CBBE-HH-FemFeetWaist Height" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Line" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHWaist Line</Data>
+            <Data name="CBBE-HH-FemFeetWaist Line" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FusionNudeHHBack Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBack Size</Data>
+            <Data name="CBBE-HH-FemFeetBack Size" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FusionNudeHHBack Arch" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBack Arch</Data>
+            <Data name="CBBE-HH-FemFeetBack Arch" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FusionNudeHHHips Bone" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHHips Bone</Data>
+            <Data name="CBBE-HH-FemFeetHips Bone" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FusionNudeHHHips Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHHips Size</Data>
+            <Data name="CBBE-HH-FemFeetHips Size" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FusionNudeHHHips Upper Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHHips Upper Width</Data>
+            <Data name="CBBE-HH-FemFeetHips Upper Width" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FusionNudeHHBum Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBum Size</Data>
+            <Data name="CBBE-HH-FemFeetBum Size" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FusionNudeHHBum Crack" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBum Crack</Data>
+            <Data name="CBBE-HH-FemFeetBum Crack" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FusionNudeHHBum Shape 1" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBum Shape 1</Data>
+            <Data name="CBBE-HH-FemFeetBum Shape 1" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FusionNudeHHBum Shape 2" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBum Shape 2</Data>
+            <Data name="CBBE-HH-FemFeetBum Shape 2" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FusionNudeHHBum Small" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBum Small</Data>
+            <Data name="CBBE-HH-FemFeetBum Small" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHBum Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBum Chubby</Data>
+            <Data name="CBBE-HH-FemFeetBum Chubby" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FusionNudeHHBum Round" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBum Round</Data>
+            <Data name="CBBE-HH-FemFeetBum Round" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FusionNudeHHBum Apple" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBum Apple</Data>
+            <Data name="ShoesBum Apple" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBum Apple</Data>
+            <Data name="CBBE-HH-FemFeetBum Apple" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FusionNudeHHCalf Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHCalf Size</Data>
+            <Data name="ShoesCalf Size" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesCalf Size</Data>
+            <Data name="ShoesMetalCalf Size" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalCalf Size</Data>
+            <Data name="CBBE-HH-FemFeetCalf Size" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FusionNudeHHCalf Small" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHCalf Small</Data>
+            <Data name="ShoesCalf Small" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesCalf Small</Data>
+            <Data name="ShoesMetalCalf Small" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalCalf Small</Data>
+            <Data name="CBBE-HH-FemFeetCalf Small" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHLegs Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHLegs Chubby</Data>
+            <Data name="ShoesLegs Chubby" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesLegs Chubby</Data>
+            <Data name="ShoesMetalLegs Chubby" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalLegs Chubby</Data>
+            <Data name="CBBE-HH-FemFeetLegs Chubby" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FusionNudeHHLegs Shape" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHLegs Shape</Data>
+            <Data name="ShoesLegs Shape" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesLegs Shape</Data>
+            <Data name="ShoesMetalLegs Shape" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalLegs Shape</Data>
+            <Data name="CBBE-HH-FemFeetLegs Shape" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FusionNudeHHLegs Thin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHLegs Thin</Data>
+            <Data name="ShoesLegs Thin" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesLegs Thin</Data>
+            <Data name="ShoesMetalLegs Thin" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalLegs Thin</Data>
+            <Data name="CBBE-HH-FemFeetLegs Thin" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FusionNudeHHThighs Slim" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHThighs Slim</Data>
+            <Data name="ShoesThighs Slim" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesThighs Slim</Data>
+            <Data name="ShoesMetalThighs Slim" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalThighs Slim</Data>
+            <Data name="CBBE-HH-FemFeetThighs Slim" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FusionNudeHHThighs Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHThighs Size</Data>
+            <Data name="ShoesThighs Size" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesThighs Size</Data>
+            <Data name="ShoesMetalThighs Size" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalThighs Size</Data>
+            <Data name="CBBE-HH-FemFeetThighs Size" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FusionNudeHHAnkle Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHAnkle Size</Data>
+            <Data name="ShoesAnkle Size" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesAnkle Size</Data>
+            <Data name="ShoesMetalAnkle Size" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalAnkle Size</Data>
+            <Data name="CBBE-HH-FemFeetAnkle Size" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHArms Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHArms Chubby</Data>
+            <Data name="CBBE-HH-FemFeetArms Chubby" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FusionNudeHHShoulder Smooth" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHShoulder Smooth</Data>
+            <Data name="CBBE-HH-FemFeetShoulder Smooth" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FusionNudeHHShoulder Tweak" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHShoulder Tweak</Data>
+            <Data name="CBBE-HH-FemFeetShoulder Tweak" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FusionNudeHHArms Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHArms Size</Data>
+            <Data name="CBBE-HH-FemFeetArms Size" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FusionNudeHHArmpit Ajustment" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHArmpit Ajustment</Data>
+            <Data name="CBBE-HH-FemFeetArmpit Ajustment" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FusionNudeHHForearms Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHForearms Size</Data>
+            <Data name="CBBE-HH-FemFeetForearms Size" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FusionNudeHHTorso Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHTorso Size</Data>
+            <Data name="CBBE-HH-FemFeetTorso Size" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FusionNudeHHSturnum Depth" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHSturnum Depth</Data>
+            <Data name="ShoesSturnum Depth" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesSturnum Depth</Data>
+            <Data name="ShoesMetalSturnum Depth" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalSturnum Depth</Data>
+            <Data name="CBBE-HH-FemFeetSturnum Depth" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FusionNudeHHSturnum Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHSturnum Height</Data>
+            <Data name="ShoesSturnum Height" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesSturnum Height</Data>
+            <Data name="ShoesMetalSturnum Height" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalSturnum Height</Data>
+            <Data name="CBBE-HH-FemFeetSturnum Height" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FusionNudeHHGroin Position" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHGroin Position</Data>
+            <Data name="ShoesGroin Position" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesGroin Position</Data>
+            <Data name="ShoesMetalGroin Position" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalGroin Position</Data>
+            <Data name="CBBE-HH-FemFeetGroin Position" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FusionNudeHHGroin Back" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHGroin Back</Data>
+            <Data name="ShoesGroin Back" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesGroin Back</Data>
+            <Data name="ShoesMetalGroin Back" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalGroin Back</Data>
+            <Data name="CBBE-HH-FemFeetGroin Back" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Minora Flat" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHLabia Minora Flat</Data>
+            <Data name="CBBE-HH-FemFeetLabia Minora Flat" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Minora Longer" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHLabia Minora Longer</Data>
+            <Data name="CBBE-HH-FemFeetLabia Minora Longer" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="FusionNudeHHClitoras Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHClitoras Size</Data>
+            <Data name="CBBE-HH-FemFeetClitoras Size" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="FusionNudeHHClitoras Long" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHClitoras Long</Data>
+            <Data name="CBBE-HH-FemFeetClitoras Long" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Majora Long" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHLabia Majora Long</Data>
+            <Data name="CBBE-HH-FemFeetLabia Majora Long" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Majora Wide" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHLabia Majora Wide</Data>
+            <Data name="CBBE-HH-FemFeetLabia Majora Wide" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Majora Inner" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHLabia Majora Inner</Data>
+            <Data name="ShoesLabia Majora Inner" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesLabia Majora Inner</Data>
+            <Data name="ShoesMetalLabia Majora Inner" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalLabia Majora Inner</Data>
+            <Data name="CBBE-HH-FemFeetLabia Majora Inner" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FusionNudeHHAbDefinition" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHAbDefinition</Data>
+            <Data name="ShoesAbDefinition" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesAbDefinition</Data>
+            <Data name="ShoesMetalAbDefinition" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalAbDefinition</Data>
+            <Data name="CBBE-HH-FemFeetAbDefinition" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FusionNudeHHBody Toning" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBody Toning</Data>
+            <Data name="ShoesBody Toning" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBody Toning</Data>
+            <Data name="ShoesMetalBody Toning" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalBody Toning</Data>
+            <Data name="CBBE-HH-FemFeetBody Toning" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FusionNudeHHTigerSanBB" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHTigerSanBB</Data>
+            <Data name="ShoesTigerSanBB" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesTigerSanBB</Data>
+            <Data name="ShoesMetalTigerSanBB" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalTigerSanBB</Data>
+            <Data name="CBBE-HH-FemFeetTigerSanBB" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FusionNudeHHXunAbs" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHXunAbs</Data>
+            <Data name="CBBE-HH-FemFeetXunAbs" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FusionNudeHHFFB Fitness 2" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHFFB Fitness 2</Data>
+            <Data name="CBBE-HH-FemFeetFFB Fitness 2" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FusionNudeHHAthletic" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHAthletic</Data>
+            <Data name="ShoesAthletic" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesAthletic</Data>
+            <Data name="ShoesMetalAthletic" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalAthletic</Data>
+            <Data name="CBBE-HH-FemFeetAthletic" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FusionNudeHHSeveNBase Bombshell" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHSeveNBase Bombshell</Data>
+            <Data name="ShoesSeveNBase Bombshell" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesSeveNBase Bombshell</Data>
+            <Data name="ShoesMetalSeveNBase Bombshell" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalSeveNBase Bombshell</Data>
+            <Data name="CBBE-HH-FemFeetSeveNBase Bombshell" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FusionNudeHHKnee Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHKnee Height</Data>
+            <Data name="ShoesKnee Height" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesKnee Height</Data>
+            <Data name="ShoesMetalKnee Height" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalKnee Height</Data>
+            <Data name="CBBE-HH-FemFeetKnee Height" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FusionNudeHHShoulder Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHShoulder Width</Data>
+            <Data name="CBBE-HH-FemFeetShoulder Width" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FusionNudeHHHighHeels" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHHighHeels</Data>
+            <Data name="ShoesHighHeels" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesHighHeels</Data>
+            <Data name="ShoesMetalHighHeels" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalHighHeels</Data>
+            <Data name="CBBE-HH-FemFeetHighHeels" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FusionNudeHHBodyFat" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBodyFat</Data>
+            <Data name="ShoesBodyFat" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBodyFat</Data>
+            <Data name="ShoesMetalBodyFat" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalBodyFat</Data>
+            <Data name="CBBE-HH-FemFeetBodyFat" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FusionNudeHHLegThin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHLegThin</Data>
+            <Data name="ShoesLegThin" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesLegThin</Data>
+            <Data name="ShoesMetalLegThin" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalLegThin</Data>
+            <Data name="CBBE-HH-FemFeetLegThin" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FusionNudeHHHipsNarrow" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHHipsNarrow</Data>
+            <Data name="ShoesHipsNarrow" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesHipsNarrow</Data>
+            <Data name="ShoesMetalHipsNarrow" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalHipsNarrow</Data>
+            <Data name="CBBE-HH-FemFeetHipsNarrow" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FusionNudeHHButtGravity" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHButtGravity</Data>
+            <Data name="ShoesButtGravity" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesButtGravity</Data>
+            <Data name="ShoesMetalButtGravity" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalButtGravity</Data>
+            <Data name="CBBE-HH-FemFeetButtGravity" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FusionNudeHHButtThin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHButtThin</Data>
+            <Data name="ShoesButtThin" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesButtThin</Data>
+            <Data name="ShoesMetalButtThin" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalButtThin</Data>
+            <Data name="CBBE-HH-FemFeetButtThin" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FusionNudeHHHipsForward" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHHipsForward</Data>
+            <Data name="ShoesHipsForward" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesHipsForward</Data>
+            <Data name="ShoesMetalHipsForward" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalHipsForward</Data>
+            <Data name="CBBE-HH-FemFeetHipsForward" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FusionNudeHHHipRotateForward" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHHipRotateForward</Data>
+            <Data name="ShoesHipRotateForward" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesHipRotateForward</Data>
+            <Data name="ShoesMetalHipRotateForward" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalHipRotateForward</Data>
+            <Data name="CBBE-HH-FemFeetHipRotateForward" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FusionNudeHHBreastArmpitin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBreastArmpitin</Data>
+            <Data name="ShoesBreastArmpitin" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBreastArmpitin</Data>
+            <Data name="ShoesMetalBreastArmpitin" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalBreastArmpitin</Data>
+            <Data name="CBBE-HH-FemFeetBreastArmpitin" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FusionNudeHHBreastArmpitWide" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBreastArmpitWide</Data>
+            <Data name="ShoesBreastArmpitWide" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBreastArmpitWide</Data>
+            <Data name="ShoesMetalBreastArmpitWide" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalBreastArmpitWide</Data>
+            <Data name="CBBE-HH-FemFeetBreastArmpitWide" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FusionNudeHHBreastCurve" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBreastCurve</Data>
+            <Data name="ShoesBreastCurve" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBreastCurve</Data>
+            <Data name="ShoesMetalBreastCurve" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalBreastCurve</Data>
+            <Data name="CBBE-HH-FemFeetBreastCurve" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FusionNudeHHBreastHeight2" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBreastHeight2</Data>
+            <Data name="ShoesBreastHeight2" target="Shoes" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesBreastHeight2</Data>
+            <Data name="ShoesMetalBreastHeight2" target="ShoesMetal" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\ShoesMetalBreastHeight2</Data>
+            <Data name="CBBE-HH-FemFeetBreastHeight2" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FusionNudeHHBreastConcave" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHBreastConcave</Data>
+            <Data name="CBBE-HH-FemFeetBreastConcave" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetBreastConcave</Data>
+        </Slider>
+        <Slider name="Zap-Feet" invert="false" default="100" hidden="true" zap="true">
+            <Data name="FusionNudeHHZap-Feet" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\FusionNudeHHZap-Feet</Data>
+        </Slider>
+        <Slider name="Zap-CBBE" invert="false" default="100" hidden="true" zap="true">
+            <Data name="CBBE-HH-FemFeetZap-CBBE" target="CBBE-HH-FemFeet" local="true">Vtaw Wardrobe 7 Roman Shoes FG.osd\CBBE-HH-FemFeetZap-CBBE</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

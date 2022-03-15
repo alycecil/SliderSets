@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Viodoe">
+        <DataFolder>Viodoe</DataFolder>
+        <SourceFile>Viodoe.nif</SourceFile>
+        <OutputPath>meshes\Strapon</OutputPath>
+        <OutputFile GenWeights="false">Viodoe</OutputFile>
+        <Shape target="Viodoe:0">Viodoe:0</Shape>
+        <Slider name="CrotchBack" invert="false" default="0">
+            <Data name="Viodoe:0CrotchBack" target="Viodoe:0" local="true">Viodoe.osd\Viodoe:0CrotchBack</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="Viodoe:0HipBack" target="Viodoe:0" local="true">Viodoe.osd\Viodoe:0HipBack</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="Viodoe:07B Lower" target="Viodoe:0" local="true">Viodoe.osd\Viodoe:07B Lower</Data>
+        </Slider>
+        <Slider name="Erection Up" invert="false" default="0">
+            <Data name="Viodoe:0Erection Up" target="Viodoe:0" local="true">Viodoe.osd\Viodoe:0Erection Up</Data>
+        </Slider>
+        <Slider name="Erection Down" invert="false" default="0">
+            <Data name="Viodoe:0Erection Down" target="Viodoe:0" local="true">Viodoe.osd\Viodoe:0Erection Down</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

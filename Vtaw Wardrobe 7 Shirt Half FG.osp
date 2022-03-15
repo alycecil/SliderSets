@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Shirt Half FG">
+        <DataFolder>Vtaw Wardrobe 7 Shirt Half FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Shirt Half FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\Shirt</OutputPath>
+        <OutputFile GenWeights="false">ShirtHalf</OutputFile>
+        <Shape target="FusionGirl" DataFolder="FusionGirl">FusionGirl</Shape>
+        <Shape target="Metal">Metal</Shape>
+        <Shape target="Metal2">Metal2</Shape>
+        <Shape target="Shirt half">Shirt half</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FusionGirlBelly Pregnant" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Pregnant</Data>
+            <Data name="MetalBelly Pregnant" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBelly Pregnant</Data>
+            <Data name="Shirt halfBelly Pregnant" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FusionGirlBelly Big" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Big</Data>
+            <Data name="MetalBelly Big" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBelly Big</Data>
+            <Data name="Shirt halfBelly Big" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FusionGirlBelly Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Size</Data>
+            <Data name="MetalBelly Size" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBelly Size</Data>
+            <Data name="Shirt halfBelly Size" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FusionGirlBelly Tuck" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBelly Tuck</Data>
+            <Data name="MetalBelly Tuck" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBelly Tuck</Data>
+            <Data name="Shirt halfBelly Tuck" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FusionGirlBoobs Yuge" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Yuge</Data>
+            <Data name="MetalBoobs Yuge" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBoobs Yuge</Data>
+            <Data name="Shirt halfBoobs Yuge" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FusionGirlBoobs Big" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Big</Data>
+            <Data name="MetalBoobs Big" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBoobs Big</Data>
+            <Data name="Shirt halfBoobs Big" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FusionGirlBoobs Cleavage" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Cleavage</Data>
+            <Data name="MetalBoobs Cleavage" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBoobs Cleavage</Data>
+            <Data name="Shirt halfBoobs Cleavage" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FusionGirlBoobs Flat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Flat</Data>
+            <Data name="MetalBoobs Flat" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBoobs Flat</Data>
+            <Data name="Shirt halfBoobs Flat" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FusionGirlBoobs Gravity" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Gravity</Data>
+            <Data name="MetalBoobs Gravity" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBoobs Gravity</Data>
+            <Data name="Shirt halfBoobs Gravity" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FusionGirlBoobs Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Height</Data>
+            <Data name="MetalBoobs Height" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBoobs Height</Data>
+            <Data name="Shirt halfBoobs Height" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FusionGirlBoobs Mellons" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Mellons</Data>
+            <Data name="MetalBoobs Mellons" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBoobs Mellons</Data>
+            <Data name="Shirt halfBoobs Mellons" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FusionGirlBoobs Perky" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Perky</Data>
+            <Data name="MetalBoobs Perky" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBoobs Perky</Data>
+            <Data name="Shirt halfBoobs Perky" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FusionGirlBoobs Push Up" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Push Up</Data>
+            <Data name="MetalBoobs Push Up" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBoobs Push Up</Data>
+            <Data name="Shirt halfBoobs Push Up" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FusionGirlBoobs Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Small</Data>
+            <Data name="MetalBoobs Small" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBoobs Small</Data>
+            <Data name="Shirt halfBoobs Small" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FusionGirlBoobs Together" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Together</Data>
+            <Data name="MetalBoobs Together" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBoobs Together</Data>
+            <Data name="Shirt halfBoobs Together" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FusionGirlBoobs Top Slope" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Top Slope</Data>
+            <Data name="MetalBoobs Top Slope" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBoobs Top Slope</Data>
+            <Data name="Shirt halfBoobs Top Slope" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FusionGirlBoobs Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Width</Data>
+            <Data name="MetalBoobs Width" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBoobs Width</Data>
+            <Data name="Shirt halfBoobs Width" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FusionGirlBoobs Tiny" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBoobs Tiny</Data>
+            <Data name="MetalBoobs Tiny" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBoobs Tiny</Data>
+            <Data name="Shirt halfBoobs Tiny" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="FusionGirlNipples Length" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Length</Data>
+            <Data name="Shirt halfNipples Length" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="FusionGirlNipples Areola" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Areola</Data>
+            <Data name="MetalNipples Areola" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalNipples Areola</Data>
+            <Data name="Shirt halfNipples Areola" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FusionGirlNipples Distance" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Distance</Data>
+            <Data name="MetalNipples Distance" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalNipples Distance</Data>
+            <Data name="Shirt halfNipples Distance" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FusionGirlNipples Down" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Down</Data>
+            <Data name="MetalNipples Down" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalNipples Down</Data>
+            <Data name="Shirt halfNipples Down" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="FusionGirlNipples Gone" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Gone</Data>
+            <Data name="Shirt halfNipples Gone" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="FusionGirlNipples Shape" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Shape</Data>
+            <Data name="Shirt halfNipples Shape" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="FusionGirlNipples Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Size</Data>
+            <Data name="Shirt halfNipples Size" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FusionGirlNipples Perkiness" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Perkiness</Data>
+            <Data name="MetalNipples Perkiness" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalNipples Perkiness</Data>
+            <Data name="Shirt halfNipples Perkiness" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FusionGirlNipples Puffy" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Puffy</Data>
+            <Data name="Shirt halfNipples Puffy" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FusionGirlNipples Up" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Up</Data>
+            <Data name="MetalNipples Up" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalNipples Up</Data>
+            <Data name="Shirt halfNipples Up" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfNipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="FusionGirlNipples Tip" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlNipples Tip</Data>
+            <Data name="Shirt halfNipples Tip" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfNipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FusionGirlChest Depth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlChest Depth</Data>
+            <Data name="MetalChest Depth" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalChest Depth</Data>
+            <Data name="Shirt halfChest Depth" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FusionGirlChest Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlChest Width</Data>
+            <Data name="Shirt halfChest Width" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FusionGirlWaist Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Chubby</Data>
+            <Data name="MetalWaist Chubby" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalWaist Chubby</Data>
+            <Data name="Shirt halfWaist Chubby" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FusionGirlWaist Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Size</Data>
+            <Data name="MetalWaist Size" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalWaist Size</Data>
+            <Data name="Shirt halfWaist Size" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfWaist Size</Data>
+            <Data name="Metal2Waist Size" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Metal2Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FusionGirlWaist Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Height</Data>
+            <Data name="MetalWaist Height" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalWaist Height</Data>
+            <Data name="Shirt halfWaist Height" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FusionGirlWaist Line" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlWaist Line</Data>
+            <Data name="Shirt halfWaist Line" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FusionGirlBack Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBack Size</Data>
+            <Data name="Shirt halfBack Size" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FusionGirlBack Arch" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBack Arch</Data>
+            <Data name="Shirt halfBack Arch" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FusionGirlHips Bone" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Bone</Data>
+            <Data name="MetalHips Bone" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalHips Bone</Data>
+            <Data name="Shirt halfHips Bone" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FusionGirlHips Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Size</Data>
+            <Data name="MetalHips Size" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalHips Size</Data>
+            <Data name="Shirt halfHips Size" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FusionGirlHips Upper Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHips Upper Width</Data>
+            <Data name="Shirt halfHips Upper Width" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FusionGirlBum Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Size</Data>
+            <Data name="Shirt halfBum Size" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FusionGirlBum Crack" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Crack</Data>
+            <Data name="Shirt halfBum Crack" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 1" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Shape 1</Data>
+            <Data name="Shirt halfBum Shape 1" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Shape 2</Data>
+            <Data name="MetalBum Shape 2" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBum Shape 2</Data>
+            <Data name="Shirt halfBum Shape 2" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FusionGirlBum Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Small</Data>
+            <Data name="MetalBum Small" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBum Small</Data>
+            <Data name="Shirt halfBum Small" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FusionGirlBum Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Chubby</Data>
+            <Data name="MetalBum Chubby" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBum Chubby</Data>
+            <Data name="Shirt halfBum Chubby" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FusionGirlBum Round" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Round</Data>
+            <Data name="Shirt halfBum Round" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FusionGirlBum Apple" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBum Apple</Data>
+            <Data name="MetalBum Apple" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBum Apple</Data>
+            <Data name="Shirt halfBum Apple" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FusionGirlCalf Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FusionGirlCalf Small" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FusionGirlLegs Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Chubby</Data>
+            <Data name="MetalLegs Chubby" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalLegs Chubby</Data>
+            <Data name="Shirt halfLegs Chubby" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FusionGirlLegs Shape" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Shape</Data>
+            <Data name="Shirt halfLegs Shape" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FusionGirlLegs Thin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegs Thin</Data>
+            <Data name="Shirt halfLegs Thin" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FusionGirlThighs Slim" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlThighs Slim</Data>
+            <Data name="MetalThighs Slim" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalThighs Slim</Data>
+            <Data name="Shirt halfThighs Slim" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FusionGirlThighs Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlThighs Size</Data>
+            <Data name="MetalThighs Size" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalThighs Size</Data>
+            <Data name="Shirt halfThighs Size" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FusionGirlAnkle Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FusionGirlArms Chubby" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArms Chubby</Data>
+            <Data name="MetalArms Chubby" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalArms Chubby</Data>
+            <Data name="Shirt halfArms Chubby" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfArms Chubby</Data>
+            <Data name="Metal2Arms Chubby" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Metal2Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FusionGirlShoulder Smooth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Smooth</Data>
+            <Data name="MetalShoulder Smooth" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalShoulder Smooth</Data>
+            <Data name="Shirt halfShoulder Smooth" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FusionGirlShoulder Tweak" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Tweak</Data>
+            <Data name="MetalShoulder Tweak" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalShoulder Tweak</Data>
+            <Data name="Shirt halfShoulder Tweak" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FusionGirlArms Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArms Size</Data>
+            <Data name="MetalArms Size" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalArms Size</Data>
+            <Data name="Shirt halfArms Size" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfArms Size</Data>
+            <Data name="Metal2Arms Size" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Metal2Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FusionGirlArmpit Ajustment" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlArmpit Ajustment</Data>
+            <Data name="MetalArmpit Ajustment" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalArmpit Ajustment</Data>
+            <Data name="Shirt halfArmpit Ajustment" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FusionGirlForearms Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlForearms Size</Data>
+            <Data name="Shirt halfForearms Size" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfForearms Size</Data>
+            <Data name="Metal2Forearms Size" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Metal2Forearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FusionGirlTorso Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlTorso Size</Data>
+            <Data name="MetalTorso Size" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalTorso Size</Data>
+            <Data name="Shirt halfTorso Size" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FusionGirlSturnum Depth" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSturnum Depth</Data>
+            <Data name="MetalSturnum Depth" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalSturnum Depth</Data>
+            <Data name="Shirt halfSturnum Depth" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FusionGirlSturnum Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSturnum Height</Data>
+            <Data name="MetalSturnum Height" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalSturnum Height</Data>
+            <Data name="Shirt halfSturnum Height" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FusionGirlGroin Position" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlGroin Position</Data>
+            <Data name="MetalGroin Position" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalGroin Position</Data>
+            <Data name="Shirt halfGroin Position" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FusionGirlGroin Back" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlGroin Back</Data>
+            <Data name="MetalGroin Back" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalGroin Back</Data>
+            <Data name="Shirt halfGroin Back" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Flat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Longer" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="FusionGirlClitoras Size" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="FusionGirlClitoras Long" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Long" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Wide" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Wide</Data>
+            <Data name="Shirt halfLabia Majora Wide" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Inner" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLabia Majora Inner</Data>
+            <Data name="Shirt halfLabia Majora Inner" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FusionGirlAbDefinition" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAbDefinition</Data>
+            <Data name="MetalAbDefinition" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalAbDefinition</Data>
+            <Data name="Shirt halfAbDefinition" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FusionGirlBody Toning" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBody Toning</Data>
+            <Data name="MetalBody Toning" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBody Toning</Data>
+            <Data name="Shirt halfBody Toning" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBody Toning</Data>
+            <Data name="Metal2Body Toning" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Metal2Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FusionGirlTigerSanBB" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlTigerSanBB</Data>
+            <Data name="MetalTigerSanBB" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalTigerSanBB</Data>
+            <Data name="Shirt halfTigerSanBB" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfTigerSanBB</Data>
+            <Data name="Metal2TigerSanBB" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Metal2TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FusionGirlXunAbs" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlXunAbs</Data>
+            <Data name="MetalXunAbs" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalXunAbs</Data>
+            <Data name="Shirt halfXunAbs" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FusionGirlFFB Fitness 2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlFFB Fitness 2</Data>
+            <Data name="MetalFFB Fitness 2" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalFFB Fitness 2</Data>
+            <Data name="Shirt halfFFB Fitness 2" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FusionGirlAthletic" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlAthletic</Data>
+            <Data name="MetalAthletic" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalAthletic</Data>
+            <Data name="Shirt halfAthletic" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FusionGirlSeveNBase Bombshell" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlSeveNBase Bombshell</Data>
+            <Data name="MetalSeveNBase Bombshell" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalSeveNBase Bombshell</Data>
+            <Data name="Shirt halfSeveNBase Bombshell" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfSeveNBase Bombshell</Data>
+            <Data name="Metal2SeveNBase Bombshell" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Metal2SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FusionGirlKnee Height" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FusionGirlShoulder Width" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlShoulder Width</Data>
+            <Data name="Shirt halfShoulder Width" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FusionGirlHighHeels" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FusionGirlBodyFat" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBodyFat</Data>
+            <Data name="MetalBodyFat" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBodyFat</Data>
+            <Data name="Shirt halfBodyFat" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBodyFat</Data>
+            <Data name="Metal2BodyFat" target="Metal2" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Metal2BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FusionGirlLegThin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlLegThin</Data>
+            <Data name="MetalLegThin" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalLegThin</Data>
+            <Data name="Shirt halfLegThin" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FusionGirlHipsNarrow" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipsNarrow</Data>
+            <Data name="Shirt halfHipsNarrow" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FusionGirlButtGravity" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlButtGravity</Data>
+            <Data name="Shirt halfButtGravity" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FusionGirlButtThin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlButtThin</Data>
+            <Data name="Shirt halfButtThin" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FusionGirlHipsForward" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipsForward</Data>
+            <Data name="MetalHipsForward" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalHipsForward</Data>
+            <Data name="Shirt halfHipsForward" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FusionGirlHipRotateForward" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlHipRotateForward</Data>
+            <Data name="MetalHipRotateForward" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalHipRotateForward</Data>
+            <Data name="Shirt halfHipRotateForward" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitin" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastArmpitin</Data>
+            <Data name="MetalBreastArmpitin" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBreastArmpitin</Data>
+            <Data name="Shirt halfBreastArmpitin" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitWide" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastArmpitWide</Data>
+            <Data name="MetalBreastArmpitWide" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBreastArmpitWide</Data>
+            <Data name="Shirt halfBreastArmpitWide" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FusionGirlBreastCurve" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastCurve</Data>
+            <Data name="MetalBreastCurve" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBreastCurve</Data>
+            <Data name="Shirt halfBreastCurve" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FusionGirlBreastHeight2" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastHeight2</Data>
+            <Data name="MetalBreastHeight2" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBreastHeight2</Data>
+            <Data name="Shirt halfBreastHeight2" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FusionGirlBreastConcave" target="FusionGirl">FusionGirl-Nude.osd\FusionGirlBreastConcave</Data>
+            <Data name="MetalBreastConcave" target="Metal" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\MetalBreastConcave</Data>
+            <Data name="Shirt halfBreastConcave" target="Shirt half" local="true">Vtaw Wardrobe 7 Shirt Half FG.osd\Shirt halfBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

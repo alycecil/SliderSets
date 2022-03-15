@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="_Amputee Rags">
+        <DataFolder>Amputee</DataFolder>
+        <SourceFile>_Amputee Rags.nif</SourceFile>
+        <OutputPath>Meshes\Clothes\Amputee</OutputPath>
+        <OutputFile GenWeights="false">AmputeeRags</OutputFile>
+        <Shape target="Charred_Arm_Armwrap">Charred_Arm_Armwrap</Shape>
+        <Shape target="Charred_BarbedWire_2">Charred_BarbedWire_2</Shape>
+        <Shape target="FusionGirl">FusionGirl</Shape>
+        <Shape target="Rags_0">Rags_0</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="Rags_0Belly Pregnant" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Belly Pregnant</Data>
+            <Data name="FusionGirlBelly Pregnant" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="Rags_0Belly Big" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Belly Big</Data>
+            <Data name="FusionGirlBelly Big" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="Rags_0Belly Size" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Belly Size</Data>
+            <Data name="FusionGirlBelly Size" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="Rags_0Belly Tuck" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Belly Tuck</Data>
+            <Data name="FusionGirlBelly Tuck" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="Rags_0Boobs Yuge" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Boobs Yuge</Data>
+            <Data name="FusionGirlBoobs Yuge" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="Rags_0Boobs Big" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Boobs Big</Data>
+            <Data name="FusionGirlBoobs Big" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="Rags_0Boobs Cleavage" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Boobs Cleavage</Data>
+            <Data name="FusionGirlBoobs Cleavage" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="Rags_0Boobs Flat" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Boobs Flat</Data>
+            <Data name="FusionGirlBoobs Flat" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="Rags_0Boobs Gravity" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Boobs Gravity</Data>
+            <Data name="FusionGirlBoobs Gravity" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="Rags_0Boobs Height" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Boobs Height</Data>
+            <Data name="FusionGirlBoobs Height" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="Rags_0Boobs Mellons" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Boobs Mellons</Data>
+            <Data name="FusionGirlBoobs Mellons" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="Rags_0Boobs Perky" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Boobs Perky</Data>
+            <Data name="FusionGirlBoobs Perky" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="Rags_0Boobs Push Up" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Boobs Push Up</Data>
+            <Data name="FusionGirlBoobs Push Up" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="Rags_0Boobs Small" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Boobs Small</Data>
+            <Data name="FusionGirlBoobs Small" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="Rags_0Boobs Together" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Boobs Together</Data>
+            <Data name="FusionGirlBoobs Together" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="Rags_0Boobs Top Slope" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Boobs Top Slope</Data>
+            <Data name="FusionGirlBoobs Top Slope" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="Rags_0Boobs Width" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Boobs Width</Data>
+            <Data name="FusionGirlBoobs Width" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="Rags_0Boobs Tiny" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Boobs Tiny</Data>
+            <Data name="FusionGirlBoobs Tiny" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="Rags_0Nipples Distance" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Nipples Distance</Data>
+            <Data name="FusionGirlNipples Distance" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="Rags_0Nipples Down" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Nipples Down</Data>
+            <Data name="FusionGirlNipples Down" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="Rags_0Nipples Perkiness" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Nipples Perkiness</Data>
+            <Data name="FusionGirlNipples Perkiness" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="Rags_0Nipples Puffy" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Nipples Puffy</Data>
+            <Data name="FusionGirlNipples Puffy" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="Rags_0Nipples Up" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Nipples Up</Data>
+            <Data name="FusionGirlNipples Up" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="Rags_0Chest Depth" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Chest Depth</Data>
+            <Data name="FusionGirlChest Depth" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="Rags_0Chest Width" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Chest Width</Data>
+            <Data name="FusionGirlChest Width" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="Rags_0Waist Chubby" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Waist Chubby</Data>
+            <Data name="FusionGirlWaist Chubby" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="Rags_0Waist Size" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Waist Size</Data>
+            <Data name="FusionGirlWaist Size" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="Rags_0Waist Height" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Waist Height</Data>
+            <Data name="FusionGirlWaist Height" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="Rags_0Waist Line" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Waist Line</Data>
+            <Data name="FusionGirlWaist Line" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="Rags_0Back Size" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Back Size</Data>
+            <Data name="FusionGirlBack Size" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="Rags_0Back Arch" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Back Arch</Data>
+            <Data name="FusionGirlBack Arch" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="Rags_0Hips Bone" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Hips Bone</Data>
+            <Data name="FusionGirlHips Bone" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="Rags_0Hips Size" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Hips Size</Data>
+            <Data name="FusionGirlHips Size" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="Rags_0Hips Upper Width" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Hips Upper Width</Data>
+            <Data name="FusionGirlHips Upper Width" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="Rags_0Bum Size" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Bum Size</Data>
+            <Data name="FusionGirlBum Size" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="Rags_0Bum Crack" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Bum Crack</Data>
+            <Data name="FusionGirlBum Crack" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="Rags_0Bum Shape 1" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Bum Shape 1</Data>
+            <Data name="FusionGirlBum Shape 1" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="Rags_0Bum Shape 2" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Bum Shape 2</Data>
+            <Data name="FusionGirlBum Shape 2" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="Rags_0Bum Small" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Bum Small</Data>
+            <Data name="FusionGirlBum Small" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="Rags_0Bum Chubby" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Bum Chubby</Data>
+            <Data name="FusionGirlBum Chubby" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="Rags_0Bum Round" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Bum Round</Data>
+            <Data name="FusionGirlBum Round" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="Rags_0Bum Apple" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Bum Apple</Data>
+            <Data name="FusionGirlBum Apple" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="Rags_0Calf Size" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Calf Size</Data>
+            <Data name="FusionGirlCalf Size" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="Rags_0Calf Small" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Calf Small</Data>
+            <Data name="FusionGirlCalf Small" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="Rags_0Legs Chubby" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Legs Chubby</Data>
+            <Data name="FusionGirlLegs Chubby" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="Rags_0Legs Shape" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Legs Shape</Data>
+            <Data name="FusionGirlLegs Shape" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="Rags_0Legs Thin" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Legs Thin</Data>
+            <Data name="FusionGirlLegs Thin" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="Rags_0Thighs Slim" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Thighs Slim</Data>
+            <Data name="FusionGirlThighs Slim" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="Rags_0Thighs Size" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Thighs Size</Data>
+            <Data name="FusionGirlThighs Size" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="Rags_0Ankle Size" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Ankle Size</Data>
+            <Data name="FusionGirlAnkle Size" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="Rags_0Arms Chubby" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Arms Chubby</Data>
+            <Data name="FusionGirlArms Chubby" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="Rags_0Shoulder Smooth" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Shoulder Smooth</Data>
+            <Data name="FusionGirlShoulder Smooth" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="Rags_0Shoulder Tweak" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Shoulder Tweak</Data>
+            <Data name="FusionGirlShoulder Tweak" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="Rags_0Arms Size" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Arms Size</Data>
+            <Data name="FusionGirlArms Size" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="Rags_0Armpit Ajustment" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Armpit Ajustment</Data>
+            <Data name="FusionGirlArmpit Ajustment" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="Rags_0Forearms Size" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Forearms Size</Data>
+            <Data name="FusionGirlForearms Size" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="Rags_0Torso Size" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Torso Size</Data>
+            <Data name="FusionGirlTorso Size" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="Rags_0Sturnum Depth" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Sturnum Depth</Data>
+            <Data name="FusionGirlSturnum Depth" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="Rags_0Sturnum Height" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Sturnum Height</Data>
+            <Data name="FusionGirlSturnum Height" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="Rags_0Groin Position" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Groin Position</Data>
+            <Data name="FusionGirlGroin Position" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="Rags_0Groin Back" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Groin Back</Data>
+            <Data name="FusionGirlGroin Back" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="Rags_0AbDefinition" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0AbDefinition</Data>
+            <Data name="FusionGirlAbDefinition" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="Rags_0Body Toning" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Body Toning</Data>
+            <Data name="FusionGirlBody Toning" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="Rags_0TigerSanBB" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0TigerSanBB</Data>
+            <Data name="FusionGirlTigerSanBB" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="Rags_0XunAbs" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0XunAbs</Data>
+            <Data name="FusionGirlXunAbs" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="Rags_0FFB Fitness 2" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0FFB Fitness 2</Data>
+            <Data name="FusionGirlFFB Fitness 2" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="Rags_0Athletic" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Athletic</Data>
+            <Data name="FusionGirlAthletic" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="Rags_0SeveNBase Bombshell" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0SeveNBase Bombshell</Data>
+            <Data name="FusionGirlSeveNBase Bombshell" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="Rags_0Knee Height" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Knee Height</Data>
+            <Data name="FusionGirlKnee Height" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Rags_0Shoulder Width" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0Shoulder Width</Data>
+            <Data name="FusionGirlShoulder Width" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="Rags_0HighHeels" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0HighHeels</Data>
+            <Data name="FusionGirlHighHeels" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="Rags_0BodyFat" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0BodyFat</Data>
+            <Data name="FusionGirlBodyFat" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="Rags_0LegThin" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0LegThin</Data>
+            <Data name="FusionGirlLegThin" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="Rags_0HipsNarrow" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0HipsNarrow</Data>
+            <Data name="FusionGirlHipsNarrow" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="Rags_0ButtGravity" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0ButtGravity</Data>
+            <Data name="FusionGirlButtGravity" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="Rags_0ButtThin" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0ButtThin</Data>
+            <Data name="FusionGirlButtThin" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="Rags_0HipsForward" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0HipsForward</Data>
+            <Data name="FusionGirlHipsForward" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="Rags_0HipRotateForward" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0HipRotateForward</Data>
+            <Data name="FusionGirlHipRotateForward" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="Rags_0BreastArmpitin" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0BreastArmpitin</Data>
+            <Data name="FusionGirlBreastArmpitin" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="Rags_0BreastArmpitWide" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0BreastArmpitWide</Data>
+            <Data name="FusionGirlBreastArmpitWide" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="Rags_0BreastCurve" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0BreastCurve</Data>
+            <Data name="FusionGirlBreastCurve" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="Rags_0BreastHeight2" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0BreastHeight2</Data>
+            <Data name="FusionGirlBreastHeight2" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="Rags_0BreastConcave" target="Rags_0" local="true">_Amputee Rags.osd\Rags_0BreastConcave</Data>
+            <Data name="FusionGirlBreastConcave" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlBreastConcave</Data>
+        </Slider>
+        <Slider name="FG Zap!" invert="false" default="100" hidden="true" zap="true">
+            <Data name="FusionGirlFG Zap!" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirlFG Zap!</Data>
+        </Slider>
+        <Slider name="1" invert="false" default="0" zap="true">
+            <Data name="FusionGirl1" target="FusionGirl" local="true">_Amputee Rags.osd\FusionGirl1</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BodyTalk3-FH-COARLeg">
+        <DataFolder>BodyTalk3-FarHarbor</DataFolder>
+        <SourceFile>BodyTalk3-FH-COARLeg.nif</SourceFile>
+        <OutputPath>meshes\DLC03\Armor\CombatArmor</OutputPath>
+        <OutputFile GenWeights="false">MOutfit_CoA_R_Leg</OutputFile>
+        <Shape target="MOutfit_CoA_R_Leg:0">MOutfit_CoA_R_Leg:0</Shape>
+        <Slider name="BTBiceps" invert="false" default="100">
+            <Data name="MOutfit_CoA_R_Leg:0BTBiceps" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTBiceps</Data>
+        </Slider>
+        <Slider name="BTShoulders" invert="false" default="100">
+            <Data name="MOutfit_CoA_R_Leg:0BTShoulders" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTShoulders</Data>
+        </Slider>
+        <Slider name="BTTraps" invert="false" default="100">
+            <Data name="MOutfit_CoA_R_Leg:0BTTraps" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTTraps</Data>
+        </Slider>
+        <Slider name="BTHips-In" invert="false" default="100">
+            <Data name="MOutfit_CoA_R_Leg:0BTHips-In" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTHips-In</Data>
+        </Slider>
+        <Slider name="BTButt" invert="false" default="100">
+            <Data name="MOutfit_CoA_R_Leg:0BTButt" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTButt</Data>
+        </Slider>
+        <Slider name="BTThigh" invert="false" default="100">
+            <Data name="MOutfit_CoA_R_Leg:0BTThigh" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTThigh</Data>
+        </Slider>
+        <Slider name="BTCalves" invert="false" default="100">
+            <Data name="MOutfit_CoA_R_Leg:0BTCalves" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTCalves</Data>
+        </Slider>
+        <Slider name="BTFootSize" invert="false" default="100">
+            <Data name="MOutfit_CoA_R_Leg:0BTFootSize" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTFootSize</Data>
+        </Slider>
+        <Slider name="BTStomachFat" invert="false" default="100">
+            <Data name="MOutfit_CoA_R_Leg:0BTStomachFat" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTStomachFat</Data>
+        </Slider>
+        <Slider name="BTToeSmaller" invert="false" default="100">
+            <Data name="MOutfit_CoA_R_Leg:0BTToeSmaller" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTToeSmaller</Data>
+        </Slider>
+        <Slider name="BTAbDefinition" invert="false" default="100">
+            <Data name="MOutfit_CoA_R_Leg:0BTAbDefinition" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTAbDefinition</Data>
+        </Slider>
+        <Slider name="BTForearms" invert="false" default="0">
+            <Data name="MOutfit_CoA_R_Leg:0BTForearms" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTForearms</Data>
+        </Slider>
+        <Slider name="BTARYAYDA" invert="false" default="0">
+            <Data name="MOutfit_CoA_R_Leg:0BTARYAYDA" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTARYAYDA</Data>
+        </Slider>
+        <Slider name="BTAryaydaMoreMuscular" invert="false" default="0">
+            <Data name="MOutfit_CoA_R_Leg:0BTAryaydaMoreMuscular" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTAryaydaMoreMuscular</Data>
+        </Slider>
+        <Slider name="BTAMShoulderTweaks" invert="false" default="0">
+            <Data name="MOutfit_CoA_R_Leg:0BTAMShoulderTweaks" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTAMShoulderTweaks</Data>
+        </Slider>
+        <Slider name="BTKneeAdust" invert="false" default="0">
+            <Data name="MOutfit_CoA_R_Leg:0BTKneeAdust" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTKneeAdust</Data>
+        </Slider>
+        <Slider name="BTGrayson" invert="false" default="0">
+            <Data name="MOutfit_CoA_R_Leg:0BTGrayson" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTGrayson</Data>
+        </Slider>
+        <Slider name="BTFlyGrayson" invert="false" default="0">
+            <Data name="MOutfit_CoA_R_Leg:0BTFlyGrayson" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTFlyGrayson</Data>
+        </Slider>
+        <Slider name="TigerSanBBMale" invert="false" default="0">
+            <Data name="MOutfit_CoA_R_Leg:0TigerSanBBMale" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0TigerSanBBMale</Data>
+        </Slider>
+        <Slider name="BTTHinCalf" invert="false" default="0">
+            <Data name="MOutfit_CoA_R_Leg:0BTTHinCalf" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTTHinCalf</Data>
+        </Slider>
+        <Slider name="BTShinSize" invert="false" default="0">
+            <Data name="MOutfit_CoA_R_Leg:0BTShinSize" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTShinSize</Data>
+        </Slider>
+        <Slider name="BTChubbyLeg" invert="false" default="0">
+            <Data name="MOutfit_CoA_R_Leg:0BTChubbyLeg" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0BTChubbyLeg</Data>
+        </Slider>
+        <Slider name="ThinThigh" invert="false" default="0">
+            <Data name="MOutfit_CoA_R_Leg:0ThinThigh" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0ThinThigh</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="MOutfit_CoA_R_Leg:0Hips" target="MOutfit_CoA_R_Leg:0" local="true">BodyTalk3-FH-COARLeg.osd\MOutfit_CoA_R_Leg:0Hips</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

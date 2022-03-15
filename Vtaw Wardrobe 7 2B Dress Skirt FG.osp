@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 2B Dress Skirt FG">
+        <DataFolder>Vtaw Wardrobe 7 2B Dress Skirt FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 2B Dress Skirt FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\2BDress</OutputPath>
+        <OutputFile GenWeights="false">2BDressSkirt</OutputFile>
+        <Shape target="Skirt">Skirt</Shape>
+        <Shape target="SkirtBelt">SkirtBelt</Shape>
+        <Shape target="SkirtLaces">SkirtLaces</Shape>
+        <Shape target="SkirtMetal">SkirtMetal</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="SkirtLacesBelly Pregnant" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesBelly Pregnant</Data>
+            <Data name="SkirtMetalBelly Pregnant" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalBelly Pregnant</Data>
+            <Data name="SkirtBeltBelly Pregnant" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBelly Pregnant</Data>
+            <Data name="SkirtBelly Pregnant" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="SkirtLacesBelly Big" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesBelly Big</Data>
+            <Data name="SkirtMetalBelly Big" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalBelly Big</Data>
+            <Data name="SkirtBeltBelly Big" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBelly Big</Data>
+            <Data name="SkirtBelly Big" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="SkirtLacesBelly Size" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesBelly Size</Data>
+            <Data name="SkirtMetalBelly Size" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalBelly Size</Data>
+            <Data name="SkirtBeltBelly Size" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBelly Size</Data>
+            <Data name="SkirtBelly Size" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="SkirtBelly Tuck" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Yuge" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBoobs Yuge</Data>
+            <Data name="SkirtBoobs Yuge" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Big" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBoobs Big</Data>
+            <Data name="SkirtBoobs Big" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Cleavage" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Flat" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Gravity" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBoobs Gravity</Data>
+            <Data name="SkirtBoobs Gravity" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Height" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBoobs Height</Data>
+            <Data name="SkirtBoobs Height" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Mellons" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBoobs Mellons</Data>
+            <Data name="SkirtBoobs Mellons" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Perky" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBoobs Perky</Data>
+            <Data name="SkirtBoobs Perky" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Push Up" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBoobs Push Up</Data>
+            <Data name="SkirtBoobs Push Up" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Together" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBoobs Together</Data>
+            <Data name="SkirtBoobs Together" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Top Slope" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBoobs Top Slope</Data>
+            <Data name="SkirtBoobs Top Slope" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Width" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="SkirtBeltBoobs Tiny" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBoobs Tiny</Data>
+            <Data name="SkirtBoobs Tiny" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="SkirtBeltNipples Down" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltNipples Down</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="SkirtBeltChest Depth" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltChest Depth</Data>
+            <Data name="SkirtChest Depth" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="SkirtLacesChest Width" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesChest Width</Data>
+            <Data name="SkirtMetalChest Width" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalChest Width</Data>
+            <Data name="SkirtBeltChest Width" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltChest Width</Data>
+            <Data name="SkirtChest Width" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="SkirtLacesWaist Chubby" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesWaist Chubby</Data>
+            <Data name="SkirtMetalWaist Chubby" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalWaist Chubby</Data>
+            <Data name="SkirtBeltWaist Chubby" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltWaist Chubby</Data>
+            <Data name="SkirtWaist Chubby" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="SkirtLacesWaist Size" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesWaist Size</Data>
+            <Data name="SkirtMetalWaist Size" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalWaist Size</Data>
+            <Data name="SkirtBeltWaist Size" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltWaist Size</Data>
+            <Data name="SkirtWaist Size" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="SkirtLacesWaist Height" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesWaist Height</Data>
+            <Data name="SkirtMetalWaist Height" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalWaist Height</Data>
+            <Data name="SkirtBeltWaist Height" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltWaist Height</Data>
+            <Data name="SkirtWaist Height" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="SkirtLacesWaist Line" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesWaist Line</Data>
+            <Data name="SkirtMetalWaist Line" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalWaist Line</Data>
+            <Data name="SkirtBeltWaist Line" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltWaist Line</Data>
+            <Data name="SkirtWaist Line" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="SkirtLacesBack Size" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesBack Size</Data>
+            <Data name="SkirtMetalBack Size" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalBack Size</Data>
+            <Data name="SkirtBeltBack Size" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBack Size</Data>
+            <Data name="SkirtBack Size" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="SkirtLacesBack Arch" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesBack Arch</Data>
+            <Data name="SkirtMetalBack Arch" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalBack Arch</Data>
+            <Data name="SkirtBeltBack Arch" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBack Arch</Data>
+            <Data name="SkirtBack Arch" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="SkirtHips Bone" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="SkirtHips Size" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="SkirtLacesHips Upper Width" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesHips Upper Width</Data>
+            <Data name="SkirtBeltHips Upper Width" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltHips Upper Width</Data>
+            <Data name="SkirtHips Upper Width" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="SkirtLacesBum Size" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesBum Size</Data>
+            <Data name="SkirtMetalBum Size" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalBum Size</Data>
+            <Data name="SkirtBeltBum Size" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBum Size</Data>
+            <Data name="SkirtBum Size" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="SkirtBum Crack" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="SkirtBum Shape 1" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="SkirtLacesBum Shape 2" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesBum Shape 2</Data>
+            <Data name="SkirtMetalBum Shape 2" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalBum Shape 2</Data>
+            <Data name="SkirtBeltBum Shape 2" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBum Shape 2</Data>
+            <Data name="SkirtBum Shape 2" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="SkirtLacesBum Small" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesBum Small</Data>
+            <Data name="SkirtMetalBum Small" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalBum Small</Data>
+            <Data name="SkirtBeltBum Small" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBum Small</Data>
+            <Data name="SkirtBum Small" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="SkirtLacesBum Chubby" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesBum Chubby</Data>
+            <Data name="SkirtMetalBum Chubby" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalBum Chubby</Data>
+            <Data name="SkirtBeltBum Chubby" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBum Chubby</Data>
+            <Data name="SkirtBum Chubby" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="SkirtLacesBum Round" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesBum Round</Data>
+            <Data name="SkirtBeltBum Round" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBum Round</Data>
+            <Data name="SkirtBum Round" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="SkirtLacesBum Apple" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesBum Apple</Data>
+            <Data name="SkirtMetalBum Apple" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalBum Apple</Data>
+            <Data name="SkirtBeltBum Apple" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBum Apple</Data>
+            <Data name="SkirtBum Apple" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="SkirtCalf Size" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="SkirtCalf Small" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="SkirtLacesLegs Chubby" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesLegs Chubby</Data>
+            <Data name="SkirtMetalLegs Chubby" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalLegs Chubby</Data>
+            <Data name="SkirtBeltLegs Chubby" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltLegs Chubby</Data>
+            <Data name="SkirtLegs Chubby" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="SkirtLegs Shape" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="SkirtLegs Thin" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="SkirtBeltThighs Slim" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltThighs Slim</Data>
+            <Data name="SkirtThighs Slim" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="SkirtThighs Size" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="SkirtAnkle Size" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtAnkle Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="SkirtLacesTorso Size" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesTorso Size</Data>
+            <Data name="SkirtMetalTorso Size" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalTorso Size</Data>
+            <Data name="SkirtBeltTorso Size" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltTorso Size</Data>
+            <Data name="SkirtTorso Size" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="SkirtBeltSturnum Depth" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltSturnum Depth</Data>
+            <Data name="SkirtSturnum Depth" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="SkirtBeltSturnum Height" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltSturnum Height</Data>
+            <Data name="SkirtSturnum Height" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="SkirtBeltGroin Position" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltGroin Position</Data>
+            <Data name="SkirtGroin Position" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="SkirtBeltGroin Back" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltGroin Back</Data>
+            <Data name="SkirtGroin Back" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="SkirtBeltAbDefinition" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltAbDefinition</Data>
+            <Data name="SkirtAbDefinition" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="SkirtLacesBody Toning" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesBody Toning</Data>
+            <Data name="SkirtMetalBody Toning" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalBody Toning</Data>
+            <Data name="SkirtBeltBody Toning" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBody Toning</Data>
+            <Data name="SkirtBody Toning" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="SkirtLacesTigerSanBB" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesTigerSanBB</Data>
+            <Data name="SkirtMetalTigerSanBB" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalTigerSanBB</Data>
+            <Data name="SkirtBeltTigerSanBB" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltTigerSanBB</Data>
+            <Data name="SkirtTigerSanBB" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="SkirtBeltXunAbs" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltXunAbs</Data>
+            <Data name="SkirtXunAbs" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="SkirtLacesFFB Fitness 2" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesFFB Fitness 2</Data>
+            <Data name="SkirtMetalFFB Fitness 2" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalFFB Fitness 2</Data>
+            <Data name="SkirtBeltFFB Fitness 2" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltFFB Fitness 2</Data>
+            <Data name="SkirtFFB Fitness 2" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="SkirtLacesAthletic" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesAthletic</Data>
+            <Data name="SkirtMetalAthletic" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalAthletic</Data>
+            <Data name="SkirtBeltAthletic" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltAthletic</Data>
+            <Data name="SkirtAthletic" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="SkirtLacesSeveNBase Bombshell" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesSeveNBase Bombshell</Data>
+            <Data name="SkirtMetalSeveNBase Bombshell" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalSeveNBase Bombshell</Data>
+            <Data name="SkirtBeltSeveNBase Bombshell" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltSeveNBase Bombshell</Data>
+            <Data name="SkirtSeveNBase Bombshell" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="SkirtKnee Height" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="SkirtBeltShoulder Width" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltShoulder Width</Data>
+            <Data name="SkirtShoulder Width" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="SkirtHighHeels" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="SkirtLacesBodyFat" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesBodyFat</Data>
+            <Data name="SkirtMetalBodyFat" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalBodyFat</Data>
+            <Data name="SkirtBeltBodyFat" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBodyFat</Data>
+            <Data name="SkirtBodyFat" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="SkirtLegThin" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="SkirtHipsNarrow" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="SkirtButtGravity" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="SkirtLacesButtThin" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesButtThin</Data>
+            <Data name="SkirtMetalButtThin" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalButtThin</Data>
+            <Data name="SkirtBeltButtThin" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltButtThin</Data>
+            <Data name="SkirtButtThin" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="SkirtHipsForward" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="SkirtLacesHipRotateForward" target="SkirtLaces" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtLacesHipRotateForward</Data>
+            <Data name="SkirtMetalHipRotateForward" target="SkirtMetal" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtMetalHipRotateForward</Data>
+            <Data name="SkirtBeltHipRotateForward" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltHipRotateForward</Data>
+            <Data name="SkirtHipRotateForward" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="SkirtBreastArmpitin" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="SkirtBreastArmpitWide" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="SkirtBreastCurve" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="SkirtBeltBreastHeight2" target="SkirtBelt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBeltBreastHeight2</Data>
+            <Data name="SkirtBreastHeight2" target="Skirt" local="true">Vtaw Wardrobe 7 2B Dress Skirt FG.osd\SkirtBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

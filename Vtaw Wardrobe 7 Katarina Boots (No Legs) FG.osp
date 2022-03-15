@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Katarina Boots (No Legs) FG">
+        <DataFolder>Vtaw Wardrobe 7 Katarina Boots (No Legs) FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\Katarina</OutputPath>
+        <OutputFile GenWeights="false">KatarinaBootsNoLegs</OutputFile>
+        <Shape target="Boots">Boots</Shape>
+        <Shape target="FusionNudeHH" DataFolder="VtawWardrobe7">FusionNudeHH</Shape>
+        <Shape target="Metal_Boots_">Metal_Boots_</Shape>
+        <Shape target="Metal_Boots_2">Metal_Boots_2</Shape>
+        <Shape target="Metal_Boots_3">Metal_Boots_3</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Pregnant" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Big" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FusionNudeHHBelly Tuck" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Yuge" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBoobs Yuge</Data>
+            <Data name="BootsBoobs Yuge" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBoobs Yuge</Data>
+            <Data name="Metal_Boots_Boobs Yuge" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Boobs Yuge</Data>
+            <Data name="Metal_Boots_2Boobs Yuge" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Big" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBoobs Big</Data>
+            <Data name="BootsBoobs Big" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBoobs Big</Data>
+            <Data name="Metal_Boots_Boobs Big" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Boobs Big</Data>
+            <Data name="Metal_Boots_2Boobs Big" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Cleavage" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Flat" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Gravity" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBoobs Gravity</Data>
+            <Data name="BootsBoobs Gravity" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBoobs Gravity</Data>
+            <Data name="Metal_Boots_Boobs Gravity" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Boobs Gravity</Data>
+            <Data name="Metal_Boots_2Boobs Gravity" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Mellons" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBoobs Mellons</Data>
+            <Data name="BootsBoobs Mellons" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBoobs Mellons</Data>
+            <Data name="Metal_Boots_Boobs Mellons" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Boobs Mellons</Data>
+            <Data name="Metal_Boots_2Boobs Mellons" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Perky" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBoobs Perky</Data>
+            <Data name="BootsBoobs Perky" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBoobs Perky</Data>
+            <Data name="Metal_Boots_Boobs Perky" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Boobs Perky</Data>
+            <Data name="Metal_Boots_2Boobs Perky" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Push Up" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBoobs Push Up</Data>
+            <Data name="BootsBoobs Push Up" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBoobs Push Up</Data>
+            <Data name="Metal_Boots_Boobs Push Up" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Boobs Push Up</Data>
+            <Data name="Metal_Boots_2Boobs Push Up" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Small" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Together" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Top Slope" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBoobs Top Slope</Data>
+            <Data name="BootsBoobs Top Slope" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBoobs Top Slope</Data>
+            <Data name="Metal_Boots_Boobs Top Slope" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Boobs Top Slope</Data>
+            <Data name="Metal_Boots_2Boobs Top Slope" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FusionNudeHHBoobs Tiny" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBoobs Tiny</Data>
+            <Data name="BootsBoobs Tiny" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBoobs Tiny</Data>
+            <Data name="Metal_Boots_Boobs Tiny" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Boobs Tiny</Data>
+            <Data name="Metal_Boots_2Boobs Tiny" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Length" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Areola" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Distance" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Down" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Gone" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHNipples Gone</Data>
+            <Data name="BootsNipples Gone" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsNipples Gone</Data>
+            <Data name="Metal_Boots_2Nipples Gone" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Nipples Gone</Data>
+            <Data name="Metal_Boots_3Nipples Gone" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3Nipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Shape" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Perkiness" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Puffy" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Up" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHNipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="FusionNudeHHNipples Tip" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHNipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FusionNudeHHChest Depth" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FusionNudeHHChest Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FusionNudeHHWaist Line" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FusionNudeHHBack Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FusionNudeHHBack Arch" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FusionNudeHHHips Bone" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FusionNudeHHHips Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FusionNudeHHHips Upper Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FusionNudeHHBum Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FusionNudeHHBum Crack" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FusionNudeHHBum Shape 1" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FusionNudeHHBum Shape 2" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FusionNudeHHBum Small" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHBum Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FusionNudeHHBum Round" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FusionNudeHHBum Apple" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBum Apple</Data>
+            <Data name="BootsBum Apple" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FusionNudeHHCalf Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHCalf Size</Data>
+            <Data name="BootsCalf Size" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsCalf Size</Data>
+            <Data name="Metal_Boots_Calf Size" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Calf Size</Data>
+            <Data name="Metal_Boots_2Calf Size" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Calf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FusionNudeHHCalf Small" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHCalf Small</Data>
+            <Data name="BootsCalf Small" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsCalf Small</Data>
+            <Data name="Metal_Boots_Calf Small" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Calf Small</Data>
+            <Data name="Metal_Boots_2Calf Small" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Calf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHLegs Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHLegs Chubby</Data>
+            <Data name="BootsLegs Chubby" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsLegs Chubby</Data>
+            <Data name="Metal_Boots_Legs Chubby" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Legs Chubby</Data>
+            <Data name="Metal_Boots_2Legs Chubby" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FusionNudeHHLegs Shape" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHLegs Shape</Data>
+            <Data name="BootsLegs Shape" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsLegs Shape</Data>
+            <Data name="Metal_Boots_Legs Shape" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Legs Shape</Data>
+            <Data name="Metal_Boots_2Legs Shape" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FusionNudeHHLegs Thin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHLegs Thin</Data>
+            <Data name="BootsLegs Thin" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsLegs Thin</Data>
+            <Data name="Metal_Boots_Legs Thin" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Legs Thin</Data>
+            <Data name="Metal_Boots_2Legs Thin" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FusionNudeHHThighs Slim" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHThighs Slim</Data>
+            <Data name="BootsThighs Slim" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsThighs Slim</Data>
+            <Data name="Metal_Boots_Thighs Slim" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Thighs Slim</Data>
+            <Data name="Metal_Boots_2Thighs Slim" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FusionNudeHHThighs Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHThighs Size</Data>
+            <Data name="BootsThighs Size" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsThighs Size</Data>
+            <Data name="Metal_Boots_Thighs Size" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Thighs Size</Data>
+            <Data name="Metal_Boots_2Thighs Size" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Thighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FusionNudeHHAnkle Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHAnkle Size</Data>
+            <Data name="BootsAnkle Size" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsAnkle Size</Data>
+            <Data name="Metal_Boots_Ankle Size" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Ankle Size</Data>
+            <Data name="Metal_Boots_2Ankle Size" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Ankle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FusionNudeHHArms Chubby" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FusionNudeHHShoulder Smooth" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FusionNudeHHShoulder Tweak" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FusionNudeHHArms Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FusionNudeHHArmpit Ajustment" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FusionNudeHHForearms Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FusionNudeHHTorso Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FusionNudeHHSturnum Depth" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHSturnum Depth</Data>
+            <Data name="BootsSturnum Depth" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsSturnum Depth</Data>
+            <Data name="Metal_Boots_Sturnum Depth" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Sturnum Depth</Data>
+            <Data name="Metal_Boots_2Sturnum Depth" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FusionNudeHHSturnum Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHSturnum Height</Data>
+            <Data name="BootsSturnum Height" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsSturnum Height</Data>
+            <Data name="Metal_Boots_Sturnum Height" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Sturnum Height</Data>
+            <Data name="Metal_Boots_2Sturnum Height" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FusionNudeHHGroin Position" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHGroin Position</Data>
+            <Data name="BootsGroin Position" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsGroin Position</Data>
+            <Data name="Metal_Boots_Groin Position" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Groin Position</Data>
+            <Data name="Metal_Boots_2Groin Position" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FusionNudeHHGroin Back" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHGroin Back</Data>
+            <Data name="BootsGroin Back" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsGroin Back</Data>
+            <Data name="Metal_Boots_Groin Back" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Groin Back</Data>
+            <Data name="Metal_Boots_2Groin Back" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Groin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Minora Flat" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Minora Longer" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="FusionNudeHHClitoras Size" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="FusionNudeHHClitoras Long" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Majora Long" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Majora Wide" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="FusionNudeHHLabia Majora Inner" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHLabia Majora Inner</Data>
+            <Data name="BootsLabia Majora Inner" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsLabia Majora Inner</Data>
+            <Data name="Metal_Boots_2Labia Majora Inner" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Labia Majora Inner</Data>
+            <Data name="Metal_Boots_3Labia Majora Inner" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3Labia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FusionNudeHHAbDefinition" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHAbDefinition</Data>
+            <Data name="BootsAbDefinition" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsAbDefinition</Data>
+            <Data name="Metal_Boots_2AbDefinition" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2AbDefinition</Data>
+            <Data name="Metal_Boots_3AbDefinition" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FusionNudeHHBody Toning" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBody Toning</Data>
+            <Data name="BootsBody Toning" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBody Toning</Data>
+            <Data name="Metal_Boots_Body Toning" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Body Toning</Data>
+            <Data name="Metal_Boots_2Body Toning" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Body Toning</Data>
+            <Data name="Metal_Boots_3Body Toning" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FusionNudeHHTigerSanBB" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHTigerSanBB</Data>
+            <Data name="BootsTigerSanBB" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsTigerSanBB</Data>
+            <Data name="Metal_Boots_TigerSanBB" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_TigerSanBB</Data>
+            <Data name="Metal_Boots_2TigerSanBB" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2TigerSanBB</Data>
+            <Data name="Metal_Boots_3TigerSanBB" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FusionNudeHHXunAbs" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FusionNudeHHFFB Fitness 2" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FusionNudeHHAthletic" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHAthletic</Data>
+            <Data name="BootsAthletic" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsAthletic</Data>
+            <Data name="Metal_Boots_Athletic" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Athletic</Data>
+            <Data name="Metal_Boots_2Athletic" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Athletic</Data>
+            <Data name="Metal_Boots_3Athletic" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FusionNudeHHSeveNBase Bombshell" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHSeveNBase Bombshell</Data>
+            <Data name="BootsSeveNBase Bombshell" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsSeveNBase Bombshell</Data>
+            <Data name="Metal_Boots_SeveNBase Bombshell" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_SeveNBase Bombshell</Data>
+            <Data name="Metal_Boots_2SeveNBase Bombshell" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2SeveNBase Bombshell</Data>
+            <Data name="Metal_Boots_3SeveNBase Bombshell" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FusionNudeHHKnee Height" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHKnee Height</Data>
+            <Data name="BootsKnee Height" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsKnee Height</Data>
+            <Data name="Metal_Boots_Knee Height" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_Knee Height</Data>
+            <Data name="Metal_Boots_2Knee Height" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2Knee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FusionNudeHHShoulder Width" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FusionNudeHHHighHeels" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHHighHeels</Data>
+            <Data name="BootsHighHeels" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsHighHeels</Data>
+            <Data name="Metal_Boots_2HighHeels" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2HighHeels</Data>
+            <Data name="Metal_Boots_3HighHeels" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3HighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FusionNudeHHBodyFat" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBodyFat</Data>
+            <Data name="BootsBodyFat" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBodyFat</Data>
+            <Data name="Metal_Boots_BodyFat" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_BodyFat</Data>
+            <Data name="Metal_Boots_2BodyFat" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2BodyFat</Data>
+            <Data name="Metal_Boots_3BodyFat" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FusionNudeHHLegThin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHLegThin</Data>
+            <Data name="BootsLegThin" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsLegThin</Data>
+            <Data name="Metal_Boots_LegThin" target="Metal_Boots_" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_LegThin</Data>
+            <Data name="Metal_Boots_2LegThin" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2LegThin</Data>
+            <Data name="Metal_Boots_3LegThin" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FusionNudeHHHipsNarrow" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHHipsNarrow</Data>
+            <Data name="BootsHipsNarrow" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsHipsNarrow</Data>
+            <Data name="Metal_Boots_2HipsNarrow" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2HipsNarrow</Data>
+            <Data name="Metal_Boots_3HipsNarrow" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FusionNudeHHButtGravity" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHButtGravity</Data>
+            <Data name="BootsButtGravity" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsButtGravity</Data>
+            <Data name="Metal_Boots_2ButtGravity" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2ButtGravity</Data>
+            <Data name="Metal_Boots_3ButtGravity" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FusionNudeHHButtThin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHButtThin</Data>
+            <Data name="BootsButtThin" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsButtThin</Data>
+            <Data name="Metal_Boots_2ButtThin" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2ButtThin</Data>
+            <Data name="Metal_Boots_3ButtThin" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FusionNudeHHHipsForward" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHHipsForward</Data>
+            <Data name="BootsHipsForward" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsHipsForward</Data>
+            <Data name="Metal_Boots_2HipsForward" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2HipsForward</Data>
+            <Data name="Metal_Boots_3HipsForward" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FusionNudeHHHipRotateForward" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHHipRotateForward</Data>
+            <Data name="BootsHipRotateForward" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsHipRotateForward</Data>
+            <Data name="Metal_Boots_2HipRotateForward" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2HipRotateForward</Data>
+            <Data name="Metal_Boots_3HipRotateForward" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FusionNudeHHBreastArmpitin" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBreastArmpitin</Data>
+            <Data name="BootsBreastArmpitin" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBreastArmpitin</Data>
+            <Data name="Metal_Boots_2BreastArmpitin" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2BreastArmpitin</Data>
+            <Data name="Metal_Boots_3BreastArmpitin" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FusionNudeHHBreastArmpitWide" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBreastArmpitWide</Data>
+            <Data name="BootsBreastArmpitWide" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBreastArmpitWide</Data>
+            <Data name="Metal_Boots_2BreastArmpitWide" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2BreastArmpitWide</Data>
+            <Data name="Metal_Boots_3BreastArmpitWide" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FusionNudeHHBreastCurve" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBreastCurve</Data>
+            <Data name="BootsBreastCurve" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBreastCurve</Data>
+            <Data name="Metal_Boots_2BreastCurve" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2BreastCurve</Data>
+            <Data name="Metal_Boots_3BreastCurve" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FusionNudeHHBreastHeight2" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBreastHeight2</Data>
+            <Data name="BootsBreastHeight2" target="Boots" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\BootsBreastHeight2</Data>
+            <Data name="Metal_Boots_2BreastHeight2" target="Metal_Boots_2" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_2BreastHeight2</Data>
+            <Data name="Metal_Boots_3BreastHeight2" target="Metal_Boots_3" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\Metal_Boots_3BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FusionNudeHHBreastConcave" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHBreastConcave</Data>
+        </Slider>
+        <Slider name="Zap-Feet" invert="false" default="100" hidden="true" zap="true">
+            <Data name="FusionNudeHHZap-Feet" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHZap-Feet</Data>
+        </Slider>
+        <Slider name="Zap-Legs" invert="false" default="100" hidden="true" zap="true">
+            <Data name="FusionNudeHHZap-Legs" target="FusionNudeHH" local="true">Vtaw Wardrobe 7 Katarina Boots (No Legs) FG.osd\FusionNudeHHZap-Legs</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

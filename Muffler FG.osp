@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Muffler FG">
+        <DataFolder>Muffler FG</DataFolder>
+        <SourceFile>Muffler FG.nif</SourceFile>
+        <OutputPath>Meshes\wtaw\wardrobe\muffler</OutputPath>
+        <OutputFile GenWeights="false">muffler</OutputFile>
+        <Shape target="muffler">muffler</Shape>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="mufflerBelly Big" target="muffler" local="true">Muffler FG.osd\mufflerBelly Big</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="mufflerBoobs Yuge" target="muffler" local="true">Muffler FG.osd\mufflerBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="mufflerBoobs Big" target="muffler" local="true">Muffler FG.osd\mufflerBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="mufflerBoobs Cleavage" target="muffler" local="true">Muffler FG.osd\mufflerBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="mufflerBoobs Flat" target="muffler" local="true">Muffler FG.osd\mufflerBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="mufflerBoobs Gravity" target="muffler" local="true">Muffler FG.osd\mufflerBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="mufflerBoobs Height" target="muffler" local="true">Muffler FG.osd\mufflerBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="mufflerBoobs Mellons" target="muffler" local="true">Muffler FG.osd\mufflerBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="mufflerBoobs Perky" target="muffler" local="true">Muffler FG.osd\mufflerBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="mufflerBoobs Push Up" target="muffler" local="true">Muffler FG.osd\mufflerBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="mufflerBoobs Small" target="muffler" local="true">Muffler FG.osd\mufflerBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="mufflerBoobs Together" target="muffler" local="true">Muffler FG.osd\mufflerBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="mufflerBoobs Top Slope" target="muffler" local="true">Muffler FG.osd\mufflerBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="mufflerBoobs Width" target="muffler" local="true">Muffler FG.osd\mufflerBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="mufflerBoobs Tiny" target="muffler" local="true">Muffler FG.osd\mufflerBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="mufflerNipples Distance" target="muffler" local="true">Muffler FG.osd\mufflerNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="mufflerNipples Down" target="muffler" local="true">Muffler FG.osd\mufflerNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="mufflerNipples Perkiness" target="muffler" local="true">Muffler FG.osd\mufflerNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="mufflerNipples Up" target="muffler" local="true">Muffler FG.osd\mufflerNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="mufflerChest Depth" target="muffler" local="true">Muffler FG.osd\mufflerChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="mufflerChest Width" target="muffler" local="true">Muffler FG.osd\mufflerChest Width</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="mufflerWaist Size" target="muffler" local="true">Muffler FG.osd\mufflerWaist Size</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="mufflerBack Size" target="muffler" local="true">Muffler FG.osd\mufflerBack Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="mufflerArms Chubby" target="muffler" local="true">Muffler FG.osd\mufflerArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="mufflerShoulder Smooth" target="muffler" local="true">Muffler FG.osd\mufflerShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="mufflerShoulder Tweak" target="muffler" local="true">Muffler FG.osd\mufflerShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="mufflerArms Size" target="muffler" local="true">Muffler FG.osd\mufflerArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="mufflerArmpit Ajustment" target="muffler" local="true">Muffler FG.osd\mufflerArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="mufflerTorso Size" target="muffler" local="true">Muffler FG.osd\mufflerTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="mufflerSturnum Depth" target="muffler" local="true">Muffler FG.osd\mufflerSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="mufflerSturnum Height" target="muffler" local="true">Muffler FG.osd\mufflerSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="mufflerGroin Position" target="muffler" local="true">Muffler FG.osd\mufflerGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="mufflerGroin Back" target="muffler" local="true">Muffler FG.osd\mufflerGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="mufflerBody Toning" target="muffler" local="true">Muffler FG.osd\mufflerBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="mufflerTigerSanBB" target="muffler" local="true">Muffler FG.osd\mufflerTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="mufflerAthletic" target="muffler" local="true">Muffler FG.osd\mufflerAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="mufflerSeveNBase Bombshell" target="muffler" local="true">Muffler FG.osd\mufflerSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="mufflerShoulder Width" target="muffler" local="true">Muffler FG.osd\mufflerShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="mufflerBodyFat" target="muffler" local="true">Muffler FG.osd\mufflerBodyFat</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="mufflerBreastArmpitin" target="muffler" local="true">Muffler FG.osd\mufflerBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="mufflerBreastArmpitWide" target="muffler" local="true">Muffler FG.osd\mufflerBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="mufflerBreastCurve" target="muffler" local="true">Muffler FG.osd\mufflerBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="mufflerBreastHeight2" target="muffler" local="true">Muffler FG.osd\mufflerBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="mufflerBreastConcave" target="muffler" local="true">Muffler FG.osd\mufflerBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

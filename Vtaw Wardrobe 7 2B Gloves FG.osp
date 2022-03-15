@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 2B Gloves FG">
+        <DataFolder>Vtaw Wardrobe 7 2B Gloves FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 2B Gloves FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\2B</OutputPath>
+        <OutputFile GenWeights="false">2BGloves</OutputFile>
+        <Shape target="Gaunt">Gaunt</Shape>
+        <Shape target="Gloves">Gloves</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="GauntBoobs Yuge" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="GauntBoobs Big" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="GauntBoobs Gravity" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="GauntBoobs Mellons" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="GauntBoobs Perky" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="GauntBoobs Push Up" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="GauntBoobs Top Slope" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="GauntBoobs Tiny" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="GauntWaist Size" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntWaist Size</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="GauntBack Size" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntBack Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="GauntArms Chubby" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntArms Chubby</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="GauntArms Size" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntArms Size</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="GauntForearms Size" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="GauntTorso Size" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="GauntSturnum Depth" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="GauntSturnum Height" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="GauntGroin Position" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="GauntGroin Back" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntGroin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="GauntBody Toning" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="GauntTigerSanBB" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="GauntAthletic" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="GauntSeveNBase Bombshell" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="GauntShoulder Width" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="GauntBodyFat" target="Gaunt" local="true">Vtaw Wardrobe 7 2B Gloves FG.osd\GauntBodyFat</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

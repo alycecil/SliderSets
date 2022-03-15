@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Bodysuit No Arms V6 FG">
+        <DataFolder>Vtaw Wardrobe 5 Bodysuit No Arms V6 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Bodysuit</OutputPath>
+        <OutputFile GenWeights="false">BodysuitNoAV6</OutputFile>
+        <Shape target="v6">v6</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="v6Belly Pregnant" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="v6Belly Big" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="v6Belly Size" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Belly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="v6Belly Tuck" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Belly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="v6Boobs Yuge" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="v6Boobs Big" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="v6Boobs Cleavage" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Boobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="v6Boobs Flat" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Boobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="v6Boobs Gravity" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="v6Boobs Height" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Boobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="v6Boobs Mellons" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="v6Boobs Perky" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="v6Boobs Push Up" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="v6Boobs Small" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Boobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="v6Boobs Together" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Boobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="v6Boobs Top Slope" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="v6Boobs Width" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Boobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="v6Boobs Tiny" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="v6Nipples Distance" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Nipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="v6Nipples Down" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Nipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="v6Nipples Perkiness" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Nipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="v6Nipples Puffy" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Nipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="v6Nipples Up" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Nipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="v6Chest Depth" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Chest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="v6Chest Width" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="v6Waist Chubby" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="v6Waist Size" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="v6Waist Height" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="v6Waist Line" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="v6Back Size" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="v6Back Arch" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="v6Hips Bone" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Hips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="v6Hips Size" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Hips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="v6Hips Upper Width" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="v6Bum Size" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="v6Bum Crack" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="v6Bum Shape 1" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="v6Bum Shape 2" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="v6Bum Small" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="v6Bum Chubby" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="v6Bum Round" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="v6Bum Apple" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Bum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="v6Calf Size" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Calf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="v6Calf Small" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Calf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="v6Legs Chubby" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="v6Legs Shape" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="v6Legs Thin" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="v6Thighs Slim" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="v6Thighs Size" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Thighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="v6Ankle Size" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Ankle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="v6Arms Chubby" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="v6Shoulder Smooth" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="v6Shoulder Tweak" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Shoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="v6Arms Size" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="v6Armpit Ajustment" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="v6Torso Size" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="v6Sturnum Depth" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="v6Sturnum Height" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="v6Groin Position" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="v6Groin Back" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="v6AbDefinition" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="v6Body Toning" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="v6TigerSanBB" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="v6XunAbs" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="v6FFB Fitness 2" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="v6Athletic" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="v6SeveNBase Bombshell" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="v6Knee Height" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Knee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="v6Shoulder Width" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6Shoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="v6HighHeels" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6HighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="v6BodyFat" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="v6LegThin" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="v6HipsNarrow" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="v6ButtGravity" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="v6ButtThin" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="v6HipsForward" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="v6HipRotateForward" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6HipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="v6BreastArmpitin" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="v6BreastArmpitWide" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="v6BreastCurve" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6BreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="v6BreastHeight2" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6BreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="v6BreastConcave" target="v6" local="true">Vtaw Wardrobe 5 Bodysuit No Arms V6 FG.osd\v6BreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

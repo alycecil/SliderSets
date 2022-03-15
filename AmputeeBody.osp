@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="AmputeeBody">
+        <DataFolder>AmputeeBody</DataFolder>
+        <SourceFile>AmputeeBody.nif</SourceFile>
+        <OutputPath>Meshes\Actors\Character\AmputeeBody\RighArmAmputee</OutputPath>
+        <OutputFile GenWeights="false">FemaleBody</OutputFile>
+        <Shape target="Body" DataFolder="AmputeeBody">Body</Shape>
+        <Shape target="Charred_Arm_Armwrap" DataFolder="FusionGirl">Charred_Arm_Armwrap</Shape>
+        <Shape target="Charred_BarbedWire_2">Charred_BarbedWire_2</Shape>
+        <Shape target="Fusion_vagina">Fusion_vagina</Shape>
+        <Shape target="JaneBodVag">JaneBodVag</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="BodyBelly Pregnant" target="Body" local="true">AmputeeBody.osd\BodyBelly Pregnant</Data>
+            <Data name="Fusion_vaginaBelly Pregnant" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBelly Pregnant</Data>
+            <Data name="JaneBodVagBelly Pregnant" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="BodyBelly Big" target="Body" local="true">AmputeeBody.osd\BodyBelly Big</Data>
+            <Data name="JaneBodVagBelly Big" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="BodyBelly Size" target="Body" local="true">AmputeeBody.osd\BodyBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="BodyBelly Tuck" target="Body" local="true">AmputeeBody.osd\BodyBelly Tuck</Data>
+            <Data name="JaneBodVagBelly Tuck" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="BodyBoobs Yuge" target="Body" local="true">AmputeeBody.osd\BodyBoobs Yuge</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Yuge" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapBoobs Yuge</Data>
+            <Data name="Charred_BarbedWire_2Boobs Yuge" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Boobs Yuge</Data>
+            <Data name="Fusion_vaginaBoobs Yuge" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBoobs Yuge</Data>
+            <Data name="JaneBodVagBoobs Yuge" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="BodyBoobs Big" target="Body" local="true">AmputeeBody.osd\BodyBoobs Big</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Big" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapBoobs Big</Data>
+            <Data name="Charred_BarbedWire_2Boobs Big" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Boobs Big</Data>
+            <Data name="Fusion_vaginaBoobs Big" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBoobs Big</Data>
+            <Data name="JaneBodVagBoobs Big" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="BodyBoobs Cleavage" target="Body" local="true">AmputeeBody.osd\BodyBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="BodyBoobs Flat" target="Body" local="true">AmputeeBody.osd\BodyBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="BodyBoobs Gravity" target="Body" local="true">AmputeeBody.osd\BodyBoobs Gravity</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Gravity" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapBoobs Gravity</Data>
+            <Data name="Charred_BarbedWire_2Boobs Gravity" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Boobs Gravity</Data>
+            <Data name="Fusion_vaginaBoobs Gravity" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBoobs Gravity</Data>
+            <Data name="JaneBodVagBoobs Gravity" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="BodyBoobs Height" target="Body" local="true">AmputeeBody.osd\BodyBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="BodyBoobs Mellons" target="Body" local="true">AmputeeBody.osd\BodyBoobs Mellons</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Mellons" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapBoobs Mellons</Data>
+            <Data name="Charred_BarbedWire_2Boobs Mellons" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Boobs Mellons</Data>
+            <Data name="Fusion_vaginaBoobs Mellons" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBoobs Mellons</Data>
+            <Data name="JaneBodVagBoobs Mellons" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="BodyBoobs Perky" target="Body" local="true">AmputeeBody.osd\BodyBoobs Perky</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Perky" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapBoobs Perky</Data>
+            <Data name="Charred_BarbedWire_2Boobs Perky" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Boobs Perky</Data>
+            <Data name="Fusion_vaginaBoobs Perky" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBoobs Perky</Data>
+            <Data name="JaneBodVagBoobs Perky" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="BodyBoobs Push Up" target="Body" local="true">AmputeeBody.osd\BodyBoobs Push Up</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Push Up" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapBoobs Push Up</Data>
+            <Data name="Charred_BarbedWire_2Boobs Push Up" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Boobs Push Up</Data>
+            <Data name="Fusion_vaginaBoobs Push Up" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBoobs Push Up</Data>
+            <Data name="JaneBodVagBoobs Push Up" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="BodyBoobs Small" target="Body" local="true">AmputeeBody.osd\BodyBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="BodyBoobs Together" target="Body" local="true">AmputeeBody.osd\BodyBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="BodyBoobs Top Slope" target="Body" local="true">AmputeeBody.osd\BodyBoobs Top Slope</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Top Slope" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapBoobs Top Slope</Data>
+            <Data name="Charred_BarbedWire_2Boobs Top Slope" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Boobs Top Slope</Data>
+            <Data name="Fusion_vaginaBoobs Top Slope" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBoobs Top Slope</Data>
+            <Data name="JaneBodVagBoobs Top Slope" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="BodyBoobs Width" target="Body" local="true">AmputeeBody.osd\BodyBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="BodyBoobs Tiny" target="Body" local="true">AmputeeBody.osd\BodyBoobs Tiny</Data>
+            <Data name="Charred_Arm_ArmwrapBoobs Tiny" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapBoobs Tiny</Data>
+            <Data name="Charred_BarbedWire_2Boobs Tiny" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Boobs Tiny</Data>
+            <Data name="Fusion_vaginaBoobs Tiny" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBoobs Tiny</Data>
+            <Data name="JaneBodVagBoobs Tiny" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="BodyNipples Length" target="Body" local="true">AmputeeBody.osd\BodyNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="BodyNipples Areola" target="Body" local="true">AmputeeBody.osd\BodyNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="BodyNipples Distance" target="Body" local="true">AmputeeBody.osd\BodyNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="BodyNipples Down" target="Body" local="true">AmputeeBody.osd\BodyNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="BodyNipples Gone" target="Body" local="true">AmputeeBody.osd\BodyNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="BodyNipples Shape" target="Body" local="true">AmputeeBody.osd\BodyNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="BodyNipples Size" target="Body" local="true">AmputeeBody.osd\BodyNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="BodyNipples Perkiness" target="Body" local="true">AmputeeBody.osd\BodyNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="BodyNipples Puffy" target="Body" local="true">AmputeeBody.osd\BodyNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="BodyNipples Up" target="Body" local="true">AmputeeBody.osd\BodyNipples Up</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="BodyNipples Tip" target="Body" local="true">AmputeeBody.osd\BodyNipples Tip</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="BodyChest Depth" target="Body" local="true">AmputeeBody.osd\BodyChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="BodyChest Width" target="Body" local="true">AmputeeBody.osd\BodyChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="BodyWaist Chubby" target="Body" local="true">AmputeeBody.osd\BodyWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="BodyWaist Size" target="Body" local="true">AmputeeBody.osd\BodyWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="BodyWaist Height" target="Body" local="true">AmputeeBody.osd\BodyWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="BodyWaist Line" target="Body" local="true">AmputeeBody.osd\BodyWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="BodyBack Size" target="Body" local="true">AmputeeBody.osd\BodyBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="BodyBack Arch" target="Body" local="true">AmputeeBody.osd\BodyBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="BodyHips Bone" target="Body" local="true">AmputeeBody.osd\BodyHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="BodyHips Size" target="Body" local="true">AmputeeBody.osd\BodyHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="BodyHips Upper Width" target="Body" local="true">AmputeeBody.osd\BodyHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="BodyBum Size" target="Body" local="true">AmputeeBody.osd\BodyBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="BodyBum Crack" target="Body" local="true">AmputeeBody.osd\BodyBum Crack</Data>
+            <Data name="Fusion_vaginaBum Crack" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBum Crack</Data>
+            <Data name="JaneBodVagBum Crack" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="BodyBum Shape 1" target="Body" local="true">AmputeeBody.osd\BodyBum Shape 1</Data>
+            <Data name="Fusion_vaginaBum Shape 1" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBum Shape 1</Data>
+            <Data name="JaneBodVagBum Shape 1" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="BodyBum Shape 2" target="Body" local="true">AmputeeBody.osd\BodyBum Shape 2</Data>
+            <Data name="Fusion_vaginaBum Shape 2" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBum Shape 2</Data>
+            <Data name="JaneBodVagBum Shape 2" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="BodyBum Small" target="Body" local="true">AmputeeBody.osd\BodyBum Small</Data>
+            <Data name="Fusion_vaginaBum Small" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBum Small</Data>
+            <Data name="JaneBodVagBum Small" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="BodyBum Chubby" target="Body" local="true">AmputeeBody.osd\BodyBum Chubby</Data>
+            <Data name="Fusion_vaginaBum Chubby" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBum Chubby</Data>
+            <Data name="JaneBodVagBum Chubby" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="BodyBum Round" target="Body" local="true">AmputeeBody.osd\BodyBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="BodyBum Apple" target="Body" local="true">AmputeeBody.osd\BodyBum Apple</Data>
+            <Data name="Fusion_vaginaBum Apple" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBum Apple</Data>
+            <Data name="JaneBodVagBum Apple" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="BodyCalf Size" target="Body" local="true">AmputeeBody.osd\BodyCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="BodyCalf Small" target="Body" local="true">AmputeeBody.osd\BodyCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="BodyLegs Chubby" target="Body" local="true">AmputeeBody.osd\BodyLegs Chubby</Data>
+            <Data name="Fusion_vaginaLegs Chubby" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaLegs Chubby</Data>
+            <Data name="JaneBodVagLegs Chubby" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="BodyLegs Shape" target="Body" local="true">AmputeeBody.osd\BodyLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="BodyLegs Thin" target="Body" local="true">AmputeeBody.osd\BodyLegs Thin</Data>
+            <Data name="JaneBodVagLegs Thin" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="BodyThighs Slim" target="Body" local="true">AmputeeBody.osd\BodyThighs Slim</Data>
+            <Data name="JaneBodVagThighs Slim" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="BodyThighs Size" target="Body" local="true">AmputeeBody.osd\BodyThighs Size</Data>
+            <Data name="Fusion_vaginaThighs Size" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaThighs Size</Data>
+            <Data name="JaneBodVagThighs Size" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="BodyAnkle Size" target="Body" local="true">AmputeeBody.osd\BodyAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="BodyArms Chubby" target="Body" local="true">AmputeeBody.osd\BodyArms Chubby</Data>
+            <Data name="Charred_Arm_ArmwrapArms Chubby" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapArms Chubby</Data>
+            <Data name="Charred_BarbedWire_2Arms Chubby" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="BodyShoulder Smooth" target="Body" local="true">AmputeeBody.osd\BodyShoulder Smooth</Data>
+            <Data name="Charred_Arm_ArmwrapShoulder Smooth" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapShoulder Smooth</Data>
+            <Data name="Charred_BarbedWire_2Shoulder Smooth" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="BodyShoulder Tweak" target="Body" local="true">AmputeeBody.osd\BodyShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="BodyArms Size" target="Body" local="true">AmputeeBody.osd\BodyArms Size</Data>
+            <Data name="Charred_Arm_ArmwrapArms Size" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapArms Size</Data>
+            <Data name="Charred_BarbedWire_2Arms Size" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="BodyArmpit Ajustment" target="Body" local="true">AmputeeBody.osd\BodyArmpit Ajustment</Data>
+            <Data name="Charred_Arm_ArmwrapArmpit Ajustment" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapArmpit Ajustment</Data>
+            <Data name="Charred_BarbedWire_2Armpit Ajustment" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="BodyForearms Size" target="Body" local="true">AmputeeBody.osd\BodyForearms Size</Data>
+            <Data name="Charred_Arm_ArmwrapForearms Size" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapForearms Size</Data>
+            <Data name="Charred_BarbedWire_2Forearms Size" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Forearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="BodyTorso Size" target="Body" local="true">AmputeeBody.osd\BodyTorso Size</Data>
+            <Data name="Charred_Arm_ArmwrapTorso Size" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapTorso Size</Data>
+            <Data name="Charred_BarbedWire_2Torso Size" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Torso Size</Data>
+            <Data name="JaneBodVagTorso Size" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="BodySturnum Depth" target="Body" local="true">AmputeeBody.osd\BodySturnum Depth</Data>
+            <Data name="Charred_Arm_ArmwrapSturnum Depth" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapSturnum Depth</Data>
+            <Data name="Charred_BarbedWire_2Sturnum Depth" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Sturnum Depth</Data>
+            <Data name="Fusion_vaginaSturnum Depth" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaSturnum Depth</Data>
+            <Data name="JaneBodVagSturnum Depth" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="BodySturnum Height" target="Body" local="true">AmputeeBody.osd\BodySturnum Height</Data>
+            <Data name="Charred_Arm_ArmwrapSturnum Height" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapSturnum Height</Data>
+            <Data name="Charred_BarbedWire_2Sturnum Height" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Sturnum Height</Data>
+            <Data name="Fusion_vaginaSturnum Height" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaSturnum Height</Data>
+            <Data name="JaneBodVagSturnum Height" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="BodyGroin Position" target="Body" local="true">AmputeeBody.osd\BodyGroin Position</Data>
+            <Data name="Charred_Arm_ArmwrapGroin Position" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapGroin Position</Data>
+            <Data name="Charred_BarbedWire_2Groin Position" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Groin Position</Data>
+            <Data name="Fusion_vaginaGroin Position" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaGroin Position</Data>
+            <Data name="JaneBodVagGroin Position" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="BodyGroin Back" target="Body" local="true">AmputeeBody.osd\BodyGroin Back</Data>
+            <Data name="Charred_Arm_ArmwrapGroin Back" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapGroin Back</Data>
+            <Data name="Charred_BarbedWire_2Groin Back" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Groin Back</Data>
+            <Data name="Fusion_vaginaGroin Back" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaGroin Back</Data>
+            <Data name="JaneBodVagGroin Back" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="BodyLabia Minora Flat" target="Body" local="true">AmputeeBody.osd\BodyLabia Minora Flat</Data>
+            <Data name="Fusion_vaginaLabia Minora Flat" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaLabia Minora Flat</Data>
+            <Data name="JaneBodVagLabia Minora Flat" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="BodyLabia Minora Longer" target="Body" local="true">AmputeeBody.osd\BodyLabia Minora Longer</Data>
+            <Data name="Fusion_vaginaLabia Minora Longer" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaLabia Minora Longer</Data>
+            <Data name="JaneBodVagLabia Minora Longer" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="BodyClitoras Size" target="Body" local="true">AmputeeBody.osd\BodyClitoras Size</Data>
+            <Data name="Fusion_vaginaClitoras Size" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaClitoras Size</Data>
+            <Data name="JaneBodVagClitoras Size" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="BodyClitoras Long" target="Body" local="true">AmputeeBody.osd\BodyClitoras Long</Data>
+            <Data name="Fusion_vaginaClitoras Long" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaClitoras Long</Data>
+            <Data name="JaneBodVagClitoras Long" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="BodyLabia Majora Long" target="Body" local="true">AmputeeBody.osd\BodyLabia Majora Long</Data>
+            <Data name="Fusion_vaginaLabia Majora Long" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaLabia Majora Long</Data>
+            <Data name="JaneBodVagLabia Majora Long" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="BodyLabia Majora Wide" target="Body" local="true">AmputeeBody.osd\BodyLabia Majora Wide</Data>
+            <Data name="Fusion_vaginaLabia Majora Wide" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaLabia Majora Wide</Data>
+            <Data name="JaneBodVagLabia Majora Wide" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="BodyLabia Majora Inner" target="Body" local="true">AmputeeBody.osd\BodyLabia Majora Inner</Data>
+            <Data name="Fusion_vaginaLabia Majora Inner" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaLabia Majora Inner</Data>
+            <Data name="JaneBodVagLabia Majora Inner" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="BodyAbDefinition" target="Body" local="true">AmputeeBody.osd\BodyAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="BodyBody Toning" target="Body" local="true">AmputeeBody.osd\BodyBody Toning</Data>
+            <Data name="Charred_Arm_ArmwrapBody Toning" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapBody Toning</Data>
+            <Data name="Charred_BarbedWire_2Body Toning" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Body Toning</Data>
+            <Data name="Fusion_vaginaBody Toning" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBody Toning</Data>
+            <Data name="JaneBodVagBody Toning" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="BodyTigerSanBB" target="Body" local="true">AmputeeBody.osd\BodyTigerSanBB</Data>
+            <Data name="Charred_Arm_ArmwrapTigerSanBB" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapTigerSanBB</Data>
+            <Data name="Charred_BarbedWire_2TigerSanBB" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2TigerSanBB</Data>
+            <Data name="Fusion_vaginaTigerSanBB" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaTigerSanBB</Data>
+            <Data name="JaneBodVagTigerSanBB" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="BodyXunAbs" target="Body" local="true">AmputeeBody.osd\BodyXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="BodyFFB Fitness 2" target="Body" local="true">AmputeeBody.osd\BodyFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="BodyAthletic" target="Body" local="true">AmputeeBody.osd\BodyAthletic</Data>
+            <Data name="Charred_Arm_ArmwrapAthletic" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapAthletic</Data>
+            <Data name="Charred_BarbedWire_2Athletic" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Athletic</Data>
+            <Data name="Fusion_vaginaAthletic" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaAthletic</Data>
+            <Data name="JaneBodVagAthletic" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="BodySeveNBase Bombshell" target="Body" local="true">AmputeeBody.osd\BodySeveNBase Bombshell</Data>
+            <Data name="Charred_Arm_ArmwrapSeveNBase Bombshell" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapSeveNBase Bombshell</Data>
+            <Data name="Charred_BarbedWire_2SeveNBase Bombshell" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2SeveNBase Bombshell</Data>
+            <Data name="Fusion_vaginaSeveNBase Bombshell" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaSeveNBase Bombshell</Data>
+            <Data name="JaneBodVagSeveNBase Bombshell" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="BodyKnee Height" target="Body" local="true">AmputeeBody.osd\BodyKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="BodyShoulder Width" target="Body" local="true">AmputeeBody.osd\BodyShoulder Width</Data>
+            <Data name="Charred_Arm_ArmwrapShoulder Width" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapShoulder Width</Data>
+            <Data name="Charred_BarbedWire_2Shoulder Width" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2Shoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="BodyHighHeels" target="Body" local="true">AmputeeBody.osd\BodyHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="BodyBodyFat" target="Body" local="true">AmputeeBody.osd\BodyBodyFat</Data>
+            <Data name="Charred_Arm_ArmwrapBodyFat" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapBodyFat</Data>
+            <Data name="Charred_BarbedWire_2BodyFat" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2BodyFat</Data>
+            <Data name="Fusion_vaginaBodyFat" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaBodyFat</Data>
+            <Data name="JaneBodVagBodyFat" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="BodyLegThin" target="Body" local="true">AmputeeBody.osd\BodyLegThin</Data>
+            <Data name="Fusion_vaginaLegThin" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaLegThin</Data>
+            <Data name="JaneBodVagLegThin" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="BodyHipsNarrow" target="Body" local="true">AmputeeBody.osd\BodyHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="BodyButtGravity" target="Body" local="true">AmputeeBody.osd\BodyButtGravity</Data>
+            <Data name="Fusion_vaginaButtGravity" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaButtGravity</Data>
+            <Data name="JaneBodVagButtGravity" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="BodyButtThin" target="Body" local="true">AmputeeBody.osd\BodyButtThin</Data>
+            <Data name="Fusion_vaginaButtThin" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaButtThin</Data>
+            <Data name="JaneBodVagButtThin" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="BodyHipsForward" target="Body" local="true">AmputeeBody.osd\BodyHipsForward</Data>
+            <Data name="Fusion_vaginaHipsForward" target="Fusion_vagina" local="true">AmputeeBody.osd\Fusion_vaginaHipsForward</Data>
+            <Data name="JaneBodVagHipsForward" target="JaneBodVag" local="true">AmputeeBody.osd\JaneBodVagHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="BodyHipRotateForward" target="Body" local="true">AmputeeBody.osd\BodyHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="BodyBreastArmpitin" target="Body" local="true">AmputeeBody.osd\BodyBreastArmpitin</Data>
+            <Data name="Charred_Arm_ArmwrapBreastArmpitin" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapBreastArmpitin</Data>
+            <Data name="Charred_BarbedWire_2BreastArmpitin" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2BreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="BodyBreastArmpitWide" target="Body" local="true">AmputeeBody.osd\BodyBreastArmpitWide</Data>
+            <Data name="Charred_Arm_ArmwrapBreastArmpitWide" target="Charred_Arm_Armwrap" local="true">AmputeeBody.osd\Charred_Arm_ArmwrapBreastArmpitWide</Data>
+            <Data name="Charred_BarbedWire_2BreastArmpitWide" target="Charred_BarbedWire_2" local="true">AmputeeBody.osd\Charred_BarbedWire_2BreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="BodyBreastCurve" target="Body" local="true">AmputeeBody.osd\BodyBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="BodyBreastHeight2" target="Body" local="true">AmputeeBody.osd\BodyBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="BodyBreastConcave" target="Body" local="true">AmputeeBody.osd\BodyBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

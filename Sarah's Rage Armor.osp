@@ -1,0 +1,634 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Sarah&apos;s Rage Armor">
+        <DataFolder>Sarah's Rage Armor</DataFolder>
+        <SourceFile>Armor.nif</SourceFile>
+        <OutputPath>meshes\armor\sarahRageArmor</OutputPath>
+        <OutputFile GenWeights="false">armor</OutputFile>
+        <Shape target="CBBE" DataFolder="CBBE">CBBE</Shape>
+        <Shape target="armor_new" LockNormals="true">armor_new</Shape>
+        <Shape target="bullets_new" LockNormals="true">bullets_new</Shape>
+        <Shape target="medls_new" LockNormals="true">medls_new</Shape>
+        <Shape target="shoulder_new" LockNormals="true">shoulder_new</Shape>
+        <Slider name="Breasts" invert="false" default="0">
+            <Data name="CBBEBreasts" target="CBBE">CBBEBody.osd\CBBEBreasts</Data>
+            <Data name="armor_newBreasts" target="armor_new" local="true">Armor.osd\armor_newBreasts</Data>
+            <Data name="medls_newBreasts" target="medls_new" local="true">Armor.osd\medls_newBreasts</Data>
+            <Data name="shoulder_newBreasts" target="shoulder_new" local="true">Armor.osd\shoulder_newBreasts</Data>
+        </Slider>
+        <Slider name="BreastsCleavage" invert="false" default="0">
+            <Data name="CBBEBreastsCleavage" target="CBBE">CBBEBody.osd\CBBEBreastsCleavage</Data>
+            <Data name="armor_newBreastsCleavage" target="armor_new" local="true">Armor.osd\armor_newBreastsCleavage</Data>
+            <Data name="medls_newBreastsCleavage" target="medls_new" local="true">Armor.osd\medls_newBreastsCleavage</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" default="0">
+            <Data name="CBBEBreastsGone" target="CBBE">CBBEBody.osd\CBBEBreastsGone</Data>
+            <Data name="armor_newBreastsGone" target="armor_new" local="true">Armor.osd\armor_newBreastsGone</Data>
+            <Data name="medls_newBreastsGone" target="medls_new" local="true">Armor.osd\medls_newBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" default="0">
+            <Data name="CBBEBreastsNewSH" target="CBBE">CBBEBody.osd\CBBEBreastsNewSH</Data>
+            <Data name="armor_newBreastsNewSH" target="armor_new" local="true">Armor.osd\armor_newBreastsNewSH</Data>
+            <Data name="medls_newBreastsNewSH" target="medls_new" local="true">Armor.osd\medls_newBreastsNewSH</Data>
+            <Data name="shoulder_newBreastsNewSH" target="shoulder_new" local="true">Armor.osd\shoulder_newBreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="CBBEBreastsSmall" target="CBBE">CBBEBody.osd\CBBEBreastsSmall</Data>
+            <Data name="armor_newBreastsSmall" target="armor_new" local="true">Armor.osd\armor_newBreastsSmall</Data>
+            <Data name="medls_newBreastsSmall" target="medls_new" local="true">Armor.osd\medls_newBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="CBBEBreastsSmall2" target="CBBE">CBBEBody.osd\CBBEBreastsSmall2</Data>
+            <Data name="armor_newBreastsSmall2" target="armor_new" local="true">Armor.osd\armor_newBreastsSmall2</Data>
+            <Data name="medls_newBreastsSmall2" target="medls_new" local="true">Armor.osd\medls_newBreastsSmall2</Data>
+            <Data name="shoulder_newBreastsSmall2" target="shoulder_new" local="true">Armor.osd\shoulder_newBreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" default="0">
+            <Data name="CBBEBreastsTogether" target="CBBE">CBBEBody.osd\CBBEBreastsTogether</Data>
+            <Data name="armor_newBreastsTogether" target="armor_new" local="true">Armor.osd\armor_newBreastsTogether</Data>
+            <Data name="medls_newBreastsTogether" target="medls_new" local="true">Armor.osd\medls_newBreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" default="0">
+            <Data name="CBBEBreastTopSlope" target="CBBE">CBBEBody.osd\CBBEBreastTopSlope</Data>
+            <Data name="armor_newBreastTopSlope" target="armor_new" local="true">Armor.osd\armor_newBreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="CBBEBreastWidth" target="CBBE">CBBEBody.osd\CBBEBreastWidth</Data>
+            <Data name="armor_newBreastWidth" target="armor_new" local="true">Armor.osd\armor_newBreastWidth</Data>
+            <Data name="shoulder_newBreastWidth" target="shoulder_new" local="true">Armor.osd\shoulder_newBreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="CBBEButt" target="CBBE">CBBEBody.osd\CBBEButt</Data>
+            <Data name="armor_newButt" target="armor_new" local="true">Armor.osd\armor_newButt</Data>
+            <Data name="bullets_newButt" target="bullets_new" local="true">Armor.osd\bullets_newButt</Data>
+            <Data name="medls_newButt" target="medls_new" local="true">Armor.osd\medls_newButt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="CBBEButtCrack" target="CBBE">CBBEBody.osd\CBBEButtCrack</Data>
+            <Data name="armor_newButtCrack" target="armor_new" local="true">Armor.osd\armor_newButtCrack</Data>
+            <Data name="bullets_newButtCrack" target="bullets_new" local="true">Armor.osd\bullets_newButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="CBBEButtNew" target="CBBE">CBBEBody.osd\CBBEButtNew</Data>
+            <Data name="armor_newButtNew" target="armor_new" local="true">Armor.osd\armor_newButtNew</Data>
+            <Data name="bullets_newButtNew" target="bullets_new" local="true">Armor.osd\bullets_newButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="CBBEButtShape2" target="CBBE">CBBEBody.osd\CBBEButtShape2</Data>
+            <Data name="armor_newButtShape2" target="armor_new" local="true">Armor.osd\armor_newButtShape2</Data>
+            <Data name="bullets_newButtShape2" target="bullets_new" local="true">Armor.osd\bullets_newButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="CBBEButtSmall" target="CBBE">CBBEBody.osd\CBBEButtSmall</Data>
+            <Data name="armor_newButtSmall" target="armor_new" local="true">Armor.osd\armor_newButtSmall</Data>
+            <Data name="bullets_newButtSmall" target="bullets_new" local="true">Armor.osd\bullets_newButtSmall</Data>
+            <Data name="medls_newButtSmall" target="medls_new" local="true">Armor.osd\medls_newButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" default="0">
+            <Data name="CBBECalfSize" target="CBBE">CBBEBody.osd\CBBECalfSize</Data>
+            <Data name="armor_newCalfSize" target="armor_new" local="true">Armor.osd\armor_newCalfSize</Data>
+            <Data name="medls_newCalfSize" target="medls_new" local="true">Armor.osd\medls_newCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" default="0">
+            <Data name="CBBECalfSmooth" target="CBBE">CBBEBody.osd\CBBECalfSmooth</Data>
+            <Data name="armor_newCalfSmooth" target="armor_new" local="true">Armor.osd\armor_newCalfSmooth</Data>
+            <Data name="medls_newCalfSmooth" target="medls_new" local="true">Armor.osd\medls_newCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="CBBEChestDepth" target="CBBE">CBBEBody.osd\CBBEChestDepth</Data>
+            <Data name="armor_newChestDepth" target="armor_new" local="true">Armor.osd\armor_newChestDepth</Data>
+            <Data name="bullets_newChestDepth" target="bullets_new" local="true">Armor.osd\bullets_newChestDepth</Data>
+            <Data name="medls_newChestDepth" target="medls_new" local="true">Armor.osd\medls_newChestDepth</Data>
+            <Data name="shoulder_newChestDepth" target="shoulder_new" local="true">Armor.osd\shoulder_newChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="CBBEChestWidth" target="CBBE">CBBEBody.osd\CBBEChestWidth</Data>
+            <Data name="armor_newChestWidth" target="armor_new" local="true">Armor.osd\armor_newChestWidth</Data>
+            <Data name="bullets_newChestWidth" target="bullets_new" local="true">Armor.osd\bullets_newChestWidth</Data>
+            <Data name="medls_newChestWidth" target="medls_new" local="true">Armor.osd\medls_newChestWidth</Data>
+            <Data name="shoulder_newChestWidth" target="shoulder_new" local="true">Armor.osd\shoulder_newChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="CBBEChubbyArms" target="CBBE">CBBEBody.osd\CBBEChubbyArms</Data>
+            <Data name="armor_newChubbyArms" target="armor_new" local="true">Armor.osd\armor_newChubbyArms</Data>
+            <Data name="shoulder_newChubbyArms" target="shoulder_new" local="true">Armor.osd\shoulder_newChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="CBBEChubbyButt" target="CBBE">CBBEBody.osd\CBBEChubbyButt</Data>
+            <Data name="armor_newChubbyButt" target="armor_new" local="true">Armor.osd\armor_newChubbyButt</Data>
+            <Data name="bullets_newChubbyButt" target="bullets_new" local="true">Armor.osd\bullets_newChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="CBBEChubbyLegs" target="CBBE">CBBEBody.osd\CBBEChubbyLegs</Data>
+            <Data name="armor_newChubbyLegs" target="armor_new" local="true">Armor.osd\armor_newChubbyLegs</Data>
+            <Data name="bullets_newChubbyLegs" target="bullets_new" local="true">Armor.osd\bullets_newChubbyLegs</Data>
+            <Data name="medls_newChubbyLegs" target="medls_new" local="true">Armor.osd\medls_newChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="CBBEChubbyWaist" target="CBBE">CBBEBody.osd\CBBEChubbyWaist</Data>
+            <Data name="armor_newChubbyWaist" target="armor_new" local="true">Armor.osd\armor_newChubbyWaist</Data>
+            <Data name="bullets_newChubbyWaist" target="bullets_new" local="true">Armor.osd\bullets_newChubbyWaist</Data>
+            <Data name="medls_newChubbyWaist" target="medls_new" local="true">Armor.osd\medls_newChubbyWaist</Data>
+            <Data name="shoulder_newChubbyWaist" target="shoulder_new" local="true">Armor.osd\shoulder_newChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" default="0">
+            <Data name="CBBECrotchBack" target="CBBE">CBBEBody.osd\CBBECrotchBack</Data>
+            <Data name="armor_newCrotchBack" target="armor_new" local="true">Armor.osd\armor_newCrotchBack</Data>
+            <Data name="bullets_newCrotchBack" target="bullets_new" local="true">Armor.osd\bullets_newCrotchBack</Data>
+            <Data name="medls_newCrotchBack" target="medls_new" local="true">Armor.osd\medls_newCrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="CBBEDoubleMelon" target="CBBE">CBBEBody.osd\CBBEDoubleMelon</Data>
+            <Data name="armor_newDoubleMelon" target="armor_new" local="true">Armor.osd\armor_newDoubleMelon</Data>
+            <Data name="medls_newDoubleMelon" target="medls_new" local="true">Armor.osd\medls_newDoubleMelon</Data>
+            <Data name="shoulder_newDoubleMelon" target="shoulder_new" local="true">Armor.osd\shoulder_newDoubleMelon</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" default="0">
+            <Data name="CBBEGroin" target="CBBE">CBBEBody.osd\CBBEGroin</Data>
+            <Data name="armor_newGroin" target="armor_new" local="true">Armor.osd\armor_newGroin</Data>
+            <Data name="bullets_newGroin" target="bullets_new" local="true">Armor.osd\bullets_newGroin</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="CBBEHipBack" target="CBBE">CBBEBody.osd\CBBEHipBack</Data>
+            <Data name="armor_newHipBack" target="armor_new" local="true">Armor.osd\armor_newHipBack</Data>
+            <Data name="bullets_newHipBack" target="bullets_new" local="true">Armor.osd\bullets_newHipBack</Data>
+            <Data name="medls_newHipBack" target="medls_new" local="true">Armor.osd\medls_newHipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="CBBEHipBone" target="CBBE">CBBEBody.osd\CBBEHipBone</Data>
+            <Data name="armor_newHipBone" target="armor_new" local="true">Armor.osd\armor_newHipBone</Data>
+            <Data name="bullets_newHipBone" target="bullets_new" local="true">Armor.osd\bullets_newHipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="CBBEHips" target="CBBE">CBBEBody.osd\CBBEHips</Data>
+            <Data name="armor_newHips" target="armor_new" local="true">Armor.osd\armor_newHips</Data>
+            <Data name="bullets_newHips" target="bullets_new" local="true">Armor.osd\bullets_newHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="CBBEHipUpperWidth" target="CBBE">CBBEBody.osd\CBBEHipUpperWidth</Data>
+            <Data name="armor_newHipUpperWidth" target="armor_new" local="true">Armor.osd\armor_newHipUpperWidth</Data>
+            <Data name="bullets_newHipUpperWidth" target="bullets_new" local="true">Armor.osd\bullets_newHipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" default="0">
+            <Data name="CBBEKneeHeight" target="CBBE">CBBEBody.osd\CBBEKneeHeight</Data>
+            <Data name="armor_newKneeHeight" target="armor_new" local="true">Armor.osd\armor_newKneeHeight</Data>
+            <Data name="medls_newKneeHeight" target="medls_new" local="true">Armor.osd\medls_newKneeHeight</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="CBBELegShape" target="CBBE">CBBEBody.osd\CBBELegShape</Data>
+            <Data name="armor_newLegShape" target="armor_new" local="true">Armor.osd\armor_newLegShape</Data>
+            <Data name="medls_newLegShape" target="medls_new" local="true">Armor.osd\medls_newLegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="CBBELegsThin" target="CBBE">CBBEBody.osd\CBBELegsThin</Data>
+            <Data name="armor_newLegsThin" target="armor_new" local="true">Armor.osd\armor_newLegsThin</Data>
+            <Data name="bullets_newLegsThin" target="bullets_new" local="true">Armor.osd\bullets_newLegsThin</Data>
+            <Data name="medls_newLegsThin" target="medls_new" local="true">Armor.osd\medls_newLegsThin</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="CBBEPregnancyBelly" target="CBBE">CBBEBody.osd\CBBEPregnancyBelly</Data>
+            <Data name="armor_newPregnancyBelly" target="armor_new" local="true">Armor.osd\armor_newPregnancyBelly</Data>
+            <Data name="bullets_newPregnancyBelly" target="bullets_new" local="true">Armor.osd\bullets_newPregnancyBelly</Data>
+            <Data name="medls_newPregnancyBelly" target="medls_new" local="true">Armor.osd\medls_newPregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="CBBEPushUp" target="CBBE">CBBEBody.osd\CBBEPushUp</Data>
+            <Data name="armor_newPushUp" target="armor_new" local="true">Armor.osd\armor_newPushUp</Data>
+            <Data name="medls_newPushUp" target="medls_new" local="true">Armor.osd\medls_newPushUp</Data>
+            <Data name="shoulder_newPushUp" target="shoulder_new" local="true">Armor.osd\shoulder_newPushUp</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="CBBERoundAss" target="CBBE">CBBEBody.osd\CBBERoundAss</Data>
+            <Data name="armor_newRoundAss" target="armor_new" local="true">Armor.osd\armor_newRoundAss</Data>
+            <Data name="bullets_newRoundAss" target="bullets_new" local="true">Armor.osd\bullets_newRoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="CBBEShoulderSmooth" target="CBBE">CBBEBody.osd\CBBEShoulderSmooth</Data>
+            <Data name="armor_newShoulderSmooth" target="armor_new" local="true">Armor.osd\armor_newShoulderSmooth</Data>
+            <Data name="shoulder_newShoulderSmooth" target="shoulder_new" local="true">Armor.osd\shoulder_newShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="CBBEShoulderTweak" target="CBBE">CBBEBody.osd\CBBEShoulderTweak</Data>
+            <Data name="armor_newShoulderTweak" target="armor_new" local="true">Armor.osd\armor_newShoulderTweak</Data>
+            <Data name="shoulder_newShoulderTweak" target="shoulder_new" local="true">Armor.osd\shoulder_newShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="CBBEShoulderWidth" target="CBBE">CBBEBody.osd\CBBEShoulderWidth</Data>
+            <Data name="armor_newShoulderWidth" target="armor_new" local="true">Armor.osd\armor_newShoulderWidth</Data>
+            <Data name="shoulder_newShoulderWidth" target="shoulder_new" local="true">Armor.osd\shoulder_newShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="CBBESlimThighs" target="CBBE">CBBEBody.osd\CBBESlimThighs</Data>
+            <Data name="armor_newSlimThighs" target="armor_new" local="true">Armor.osd\armor_newSlimThighs</Data>
+            <Data name="bullets_newSlimThighs" target="bullets_new" local="true">Armor.osd\bullets_newSlimThighs</Data>
+            <Data name="medls_newSlimThighs" target="medls_new" local="true">Armor.osd\medls_newSlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" default="0">
+            <Data name="CBBESternumDepth" target="CBBE">CBBEBody.osd\CBBESternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" default="0">
+            <Data name="CBBESternumHeight" target="CBBE">CBBEBody.osd\CBBESternumHeight</Data>
+            <Data name="armor_newSternumHeight" target="armor_new" local="true">Armor.osd\armor_newSternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="CBBEThighs" target="CBBE">CBBEBody.osd\CBBEThighs</Data>
+            <Data name="armor_newThighs" target="armor_new" local="true">Armor.osd\armor_newThighs</Data>
+            <Data name="bullets_newThighs" target="bullets_new" local="true">Armor.osd\bullets_newThighs</Data>
+            <Data name="medls_newThighs" target="medls_new" local="true">Armor.osd\medls_newThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="CBBETummyTuck" target="CBBE">CBBEBody.osd\CBBETummyTuck</Data>
+            <Data name="armor_newTummyTuck" target="armor_new" local="true">Armor.osd\armor_newTummyTuck</Data>
+            <Data name="bullets_newTummyTuck" target="bullets_new" local="true">Armor.osd\bullets_newTummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="CBBEVanillaFo4" target="CBBE">CBBEBody.osd\CBBEVanillaFo4</Data>
+            <Data name="armor_newVanillaFo4" target="armor_new" local="true">Armor.osd\armor_newVanillaFo4</Data>
+            <Data name="bullets_newVanillaFo4" target="bullets_new" local="true">Armor.osd\bullets_newVanillaFo4</Data>
+            <Data name="medls_newVanillaFo4" target="medls_new" local="true">Armor.osd\medls_newVanillaFo4</Data>
+            <Data name="shoulder_newVanillaFo4" target="shoulder_new" local="true">Armor.osd\shoulder_newVanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="CBBEWaist" target="CBBE">CBBEBody.osd\CBBEWaist</Data>
+            <Data name="armor_newWaist" target="armor_new" local="true">Armor.osd\armor_newWaist</Data>
+            <Data name="bullets_newWaist" target="bullets_new" local="true">Armor.osd\bullets_newWaist</Data>
+            <Data name="medls_newWaist" target="medls_new" local="true">Armor.osd\medls_newWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="CBBEWaistHeight" target="CBBE">CBBEBody.osd\CBBEWaistHeight</Data>
+            <Data name="armor_newWaistHeight" target="armor_new" local="true">Armor.osd\armor_newWaistHeight</Data>
+            <Data name="bullets_newWaistHeight" target="bullets_new" local="true">Armor.osd\bullets_newWaistHeight</Data>
+            <Data name="medls_newWaistHeight" target="medls_new" local="true">Armor.osd\medls_newWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="CBBEWideWaistLine" target="CBBE">CBBEBody.osd\CBBEWideWaistLine</Data>
+            <Data name="armor_newWideWaistLine" target="armor_new" local="true">Armor.osd\armor_newWideWaistLine</Data>
+            <Data name="bullets_newWideWaistLine" target="bullets_new" local="true">Armor.osd\bullets_newWideWaistLine</Data>
+            <Data name="medls_newWideWaistLine" target="medls_new" local="true">Armor.osd\medls_newWideWaistLine</Data>
+        </Slider>
+        <Slider name="Ankles" invert="false" default="0">
+            <Data name="CBBEAnkles" target="CBBE">CBBEBody.osd\CBBEAnkles</Data>
+            <Data name="armor_newAnkles" target="armor_new" local="true">Armor.osd\armor_newAnkles</Data>
+            <Data name="medls_newAnkles" target="medls_new" local="true">Armor.osd\medls_newAnkles</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="CBBEAppleCheeks" target="CBBE">CBBEBody.osd\CBBEAppleCheeks</Data>
+            <Data name="armor_newAppleCheeks" target="armor_new" local="true">Armor.osd\armor_newAppleCheeks</Data>
+            <Data name="bullets_newAppleCheeks" target="bullets_new" local="true">Armor.osd\bullets_newAppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="CBBEArms" target="CBBE">CBBEBody.osd\CBBEArms</Data>
+            <Data name="armor_newArms" target="armor_new" local="true">Armor.osd\armor_newArms</Data>
+            <Data name="shoulder_newArms" target="shoulder_new" local="true">Armor.osd\shoulder_newArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="CBBEBack" target="CBBE">CBBEBody.osd\CBBEBack</Data>
+            <Data name="armor_newBack" target="armor_new" local="true">Armor.osd\armor_newBack</Data>
+            <Data name="bullets_newBack" target="bullets_new" local="true">Armor.osd\bullets_newBack</Data>
+            <Data name="shoulder_newBack" target="shoulder_new" local="true">Armor.osd\shoulder_newBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="CBBEBackArch" target="CBBE">CBBEBody.osd\CBBEBackArch</Data>
+            <Data name="armor_newBackArch" target="armor_new" local="true">Armor.osd\armor_newBackArch</Data>
+            <Data name="bullets_newBackArch" target="bullets_new" local="true">Armor.osd\bullets_newBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="CBBEBelly" target="CBBE">CBBEBody.osd\CBBEBelly</Data>
+            <Data name="armor_newBelly" target="armor_new" local="true">Armor.osd\armor_newBelly</Data>
+            <Data name="bullets_newBelly" target="bullets_new" local="true">Armor.osd\bullets_newBelly</Data>
+            <Data name="medls_newBelly" target="medls_new" local="true">Armor.osd\medls_newBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="CBBEBigBelly" target="CBBE">CBBEBody.osd\CBBEBigBelly</Data>
+            <Data name="armor_newBigBelly" target="armor_new" local="true">Armor.osd\armor_newBigBelly</Data>
+            <Data name="bullets_newBigBelly" target="bullets_new" local="true">Armor.osd\bullets_newBigBelly</Data>
+            <Data name="medls_newBigBelly" target="medls_new" local="true">Armor.osd\medls_newBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="CBBEBigButt" target="CBBE">CBBEBody.osd\CBBEBigButt</Data>
+            <Data name="armor_newBigButt" target="armor_new" local="true">Armor.osd\armor_newBigButt</Data>
+            <Data name="bullets_newBigButt" target="bullets_new" local="true">Armor.osd\bullets_newBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="CBBEBigTorso" target="CBBE">CBBEBody.osd\CBBEBigTorso</Data>
+            <Data name="armor_newBigTorso" target="armor_new" local="true">Armor.osd\armor_newBigTorso</Data>
+            <Data name="bullets_newBigTorso" target="bullets_new" local="true">Armor.osd\bullets_newBigTorso</Data>
+            <Data name="medls_newBigTorso" target="medls_new" local="true">Armor.osd\medls_newBigTorso</Data>
+            <Data name="shoulder_newBigTorso" target="shoulder_new" local="true">Armor.osd\shoulder_newBigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="CBBEBreastCenter" target="CBBE">CBBEBody.osd\CBBEBreastCenter</Data>
+            <Data name="armor_newBreastCenter" target="armor_new" local="true">Armor.osd\armor_newBreastCenter</Data>
+            <Data name="medls_newBreastCenter" target="medls_new" local="true">Armor.osd\medls_newBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" default="0">
+            <Data name="CBBEBreastCenterBig" target="CBBE">CBBEBody.osd\CBBEBreastCenterBig</Data>
+            <Data name="armor_newBreastCenterBig" target="armor_new" local="true">Armor.osd\armor_newBreastCenterBig</Data>
+            <Data name="medls_newBreastCenterBig" target="medls_new" local="true">Armor.osd\medls_newBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="CBBEBreastFantasy" target="CBBE">CBBEBody.osd\CBBEBreastFantasy</Data>
+            <Data name="armor_newBreastFantasy" target="armor_new" local="true">Armor.osd\armor_newBreastFantasy</Data>
+            <Data name="medls_newBreastFantasy" target="medls_new" local="true">Armor.osd\medls_newBreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="CBBEBreastFlatness2" target="CBBE">CBBEBody.osd\CBBEBreastFlatness2</Data>
+            <Data name="armor_newBreastFlatness2" target="armor_new" local="true">Armor.osd\armor_newBreastFlatness2</Data>
+            <Data name="medls_newBreastFlatness2" target="medls_new" local="true">Armor.osd\medls_newBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="CBBEBreastGravity2" target="CBBE">CBBEBody.osd\CBBEBreastGravity2</Data>
+            <Data name="armor_newBreastGravity2" target="armor_new" local="true">Armor.osd\armor_newBreastGravity2</Data>
+            <Data name="medls_newBreastGravity2" target="medls_new" local="true">Armor.osd\medls_newBreastGravity2</Data>
+            <Data name="shoulder_newBreastGravity2" target="shoulder_new" local="true">Armor.osd\shoulder_newBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="CBBEBreastHeight" target="CBBE">CBBEBody.osd\CBBEBreastHeight</Data>
+            <Data name="armor_newBreastHeight" target="armor_new" local="true">Armor.osd\armor_newBreastHeight</Data>
+            <Data name="medls_newBreastHeight" target="medls_new" local="true">Armor.osd\medls_newBreastHeight</Data>
+            <Data name="shoulder_newBreastHeight" target="shoulder_new" local="true">Armor.osd\shoulder_newBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="CBBEBreastPerkiness" target="CBBE">CBBEBody.osd\CBBEBreastPerkiness</Data>
+            <Data name="armor_newBreastPerkiness" target="armor_new" local="true">Armor.osd\armor_newBreastPerkiness</Data>
+            <Data name="medls_newBreastPerkiness" target="medls_new" local="true">Armor.osd\medls_newBreastPerkiness</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="CBBEArmpitHeight" target="CBBE">CBBEBody.osd\CBBEArmpitHeight</Data>
+            <Data name="armor_newArmpitHeight" target="armor_new" local="true">Armor.osd\armor_newArmpitHeight</Data>
+            <Data name="shoulder_newArmpitHeight" target="shoulder_new" local="true">Armor.osd\shoulder_newArmpitHeight</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" default="0">
+            <Data name="CBBEForearmSize" target="CBBE">CBBEBody.osd\CBBEForearmSize</Data>
+            <Data name="armor_newForearmSize" target="armor_new" local="true">Armor.osd\armor_newForearmSize</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="CBBE7B Upper" target="CBBE">CBBEBody.osd\CBBE7B Upper</Data>
+            <Data name="armor_new7B Upper" target="armor_new" local="true">Armor.osd\armor_new7B Upper</Data>
+            <Data name="medls_new7B Upper" target="medls_new" local="true">Armor.osd\medls_new7B Upper</Data>
+            <Data name="shoulder_new7B Upper" target="shoulder_new" local="true">Armor.osd\shoulder_new7B Upper</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="CBBE7B Lower" target="CBBE">CBBEBody.osd\CBBE7B Lower</Data>
+            <Data name="armor_new7B Lower" target="armor_new" local="true">Armor.osd\armor_new7B Lower</Data>
+            <Data name="bullets_new7B Lower" target="bullets_new" local="true">Armor.osd\bullets_new7B Lower</Data>
+            <Data name="medls_new7B Lower" target="medls_new" local="true">Armor.osd\medls_new7B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="CBBEMuscularChest" target="CBBE">CBBEBody.osd\CBBEMuscularChest</Data>
+            <Data name="armor_newMuscularChest" target="armor_new" local="true">Armor.osd\armor_newMuscularChest</Data>
+            <Data name="bullets_newMuscularChest" target="bullets_new" local="true">Armor.osd\bullets_newMuscularChest</Data>
+            <Data name="medls_newMuscularChest" target="medls_new" local="true">Armor.osd\medls_newMuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="CBBEMuscularArms" target="CBBE">CBBEBody.osd\CBBEMuscularArms</Data>
+            <Data name="armor_newMuscularArms" target="armor_new" local="true">Armor.osd\armor_newMuscularArms</Data>
+            <Data name="shoulder_newMuscularArms" target="shoulder_new" local="true">Armor.osd\shoulder_newMuscularArms</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="CBBEMuscularButt" target="CBBE">CBBEBody.osd\CBBEMuscularButt</Data>
+            <Data name="armor_newMuscularButt" target="armor_new" local="true">Armor.osd\armor_newMuscularButt</Data>
+            <Data name="bullets_newMuscularButt" target="bullets_new" local="true">Armor.osd\bullets_newMuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="CBBEMuscularLegs" target="CBBE">CBBEBody.osd\CBBEMuscularLegs</Data>
+            <Data name="armor_newMuscularLegs" target="armor_new" local="true">Armor.osd\armor_newMuscularLegs</Data>
+            <Data name="bullets_newMuscularLegs" target="bullets_new" local="true">Armor.osd\bullets_newMuscularLegs</Data>
+            <Data name="medls_newMuscularLegs" target="medls_new" local="true">Armor.osd\medls_newMuscularLegs</Data>
+        </Slider>
+        <Slider name="FeetFeminine" invert="false" default="0">
+            <Data name="CBBEFeetFeminine" target="CBBE">CBBEBody.osd\CBBEFeetFeminine</Data>
+            <Data name="armor_newFeetFeminine" target="armor_new" local="true">Armor.osd\armor_newFeetFeminine</Data>
+            <Data name="medls_newFeetFeminine" target="medls_new" local="true">Armor.osd\medls_newFeetFeminine</Data>
+        </Slider>
+        <Slider name="BodyZap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="CBBEBodyZap" target="CBBE" local="true">Armor.osd\CBBEBodyZap</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Sarah&apos;s Rage Gloves">
+        <DataFolder>Sarah's Rage Armor</DataFolder>
+        <SourceFile>Gloves.nif</SourceFile>
+        <OutputPath>meshes\armor\sarahRageArmor</OutputPath>
+        <OutputFile GenWeights="false">gloves</OutputFile>
+        <Shape target="Hands">Hands</Shape>
+        <Shape target="glove_L">glove_L</Shape>
+        <Shape target="glove_R">glove_R</Shape>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="glove_RBreastsSmall2" target="glove_R" local="true">Gloves.osd\glove_RBreastsSmall2</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="glove_RChestDepth" target="glove_R" local="true">Gloves.osd\glove_RChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="glove_RChestWidth" target="glove_R" local="true">Gloves.osd\glove_RChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="glove_RChubbyArms" target="glove_R" local="true">Gloves.osd\glove_RChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="glove_RChubbyWaist" target="glove_R" local="true">Gloves.osd\glove_RChubbyWaist</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="glove_RShoulderWidth" target="glove_R" local="true">Gloves.osd\glove_RShoulderWidth</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="glove_RVanillaFo4" target="glove_R" local="true">Gloves.osd\glove_RVanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="glove_RWaist" target="glove_R" local="true">Gloves.osd\glove_RWaist</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="glove_RArms" target="glove_R" local="true">Gloves.osd\glove_RArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="glove_RBack" target="glove_R" local="true">Gloves.osd\glove_RBack</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="glove_RBigTorso" target="glove_R" local="true">Gloves.osd\glove_RBigTorso</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="glove_RArmpitHeight" target="glove_R" local="true">Gloves.osd\glove_RArmpitHeight</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" default="0">
+            <Data name="glove_RForearmSize" target="glove_R" local="true">Gloves.osd\glove_RForearmSize</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="glove_R7B Upper" target="glove_R" local="true">Gloves.osd\glove_R7B Upper</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="glove_RMuscularArms" target="glove_R" local="true">Gloves.osd\glove_RMuscularArms</Data>
+        </Slider>
+        <Slider name="HandsZap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="HandsHandsZap" target="Hands" local="true">Gloves.osd\HandsHandsZap</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Sarah&apos;s Rage Gloves (Double)">
+        <DataFolder>Sarah's Rage Armor</DataFolder>
+        <SourceFile>Gloves (Double).nif</SourceFile>
+        <OutputPath>meshes\armor\sarahRageArmor</OutputPath>
+        <OutputFile GenWeights="false">gloves_L_Double</OutputFile>
+        <Shape target="Hands" DataFolder="Sarah&apos;s Rage Armor">Hands</Shape>
+        <Shape target="glove_L">glove_L</Shape>
+        <Shape target="glove_R">glove_R</Shape>
+        <Slider name="HandsZap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="HandsHandsZap" target="Hands" local="true">Gloves (Double).osd\HandsHandsZap</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Sarah&apos;s Rage Gloves (Left)">
+        <DataFolder>Sarah's Rage Armor</DataFolder>
+        <SourceFile>Gloves (Left).nif</SourceFile>
+        <OutputPath>meshes\armor\sarahRageArmor</OutputPath>
+        <OutputFile GenWeights="false">gloves_L_Single</OutputFile>
+        <Shape target="Hands" DataFolder="Sarah&apos;s Rage Armor">Hands</Shape>
+        <Shape target="glove_L">glove_L</Shape>
+        <Slider name="HandsZap" invert="false" default="100" hidden="true" zap="true">
+            <Data name="HandsHandsZap" target="Hands" local="true">Gloves (Left).osd\HandsHandsZap</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Sarah&apos;s Rage Scarf">
+        <DataFolder>Sarah's Rage Armor</DataFolder>
+        <SourceFile>Scarf.nif</SourceFile>
+        <OutputPath>meshes\armor\sarahRageArmor</OutputPath>
+        <OutputFile GenWeights="false">scarf</OutputFile>
+        <Shape target="medl">medl</Shape>
+        <Shape target="nkl">nkl</Shape>
+        <Shape target="scarf">scarf</Shape>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="nklChestDepth" target="nkl" local="true">Scarf.osd\nklChestDepth</Data>
+            <Data name="scarfChestDepth" target="scarf" local="true">Scarf.osd\scarfChestDepth</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="nklDoubleMelon" target="nkl" local="true">Scarf.osd\nklDoubleMelon</Data>
+            <Data name="scarfDoubleMelon" target="scarf" local="true">Scarf.osd\scarfDoubleMelon</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="nklPushUp" target="nkl" local="true">Scarf.osd\nklPushUp</Data>
+            <Data name="scarfPushUp" target="scarf" local="true">Scarf.osd\scarfPushUp</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="nklShoulderSmooth" target="nkl" local="true">Scarf.osd\nklShoulderSmooth</Data>
+            <Data name="scarfShoulderSmooth" target="scarf" local="true">Scarf.osd\scarfShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="scarfShoulderTweak" target="scarf" local="true">Scarf.osd\scarfShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="scarfShoulderWidth" target="scarf" local="true">Scarf.osd\scarfShoulderWidth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" default="0">
+            <Data name="nklSternumHeight" target="nkl" local="true">Scarf.osd\nklSternumHeight</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="nklVanillaFo4" target="nkl" local="true">Scarf.osd\nklVanillaFo4</Data>
+            <Data name="scarfVanillaFo4" target="scarf" local="true">Scarf.osd\scarfVanillaFo4</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="scarfArms" target="scarf" local="true">Scarf.osd\scarfArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="scarfBack" target="scarf" local="true">Scarf.osd\scarfBack</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="nklBigTorso" target="nkl" local="true">Scarf.osd\nklBigTorso</Data>
+            <Data name="scarfBigTorso" target="scarf" local="true">Scarf.osd\scarfBigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="nklBreastCenter" target="nkl" local="true">Scarf.osd\nklBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" default="0">
+            <Data name="nklBreastCenterBig" target="nkl" local="true">Scarf.osd\nklBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="nklBreastFantasy" target="nkl" local="true">Scarf.osd\nklBreastFantasy</Data>
+            <Data name="scarfBreastFantasy" target="scarf" local="true">Scarf.osd\scarfBreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="nklBreastFlatness2" target="nkl" local="true">Scarf.osd\nklBreastFlatness2</Data>
+            <Data name="scarfBreastFlatness2" target="scarf" local="true">Scarf.osd\scarfBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="nklBreastGravity2" target="nkl" local="true">Scarf.osd\nklBreastGravity2</Data>
+            <Data name="scarfBreastGravity2" target="scarf" local="true">Scarf.osd\scarfBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="nklBreastHeight" target="nkl" local="true">Scarf.osd\nklBreastHeight</Data>
+            <Data name="scarfBreastHeight" target="scarf" local="true">Scarf.osd\scarfBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="nklBreastPerkiness" target="nkl" local="true">Scarf.osd\nklBreastPerkiness</Data>
+            <Data name="scarfBreastPerkiness" target="scarf" local="true">Scarf.osd\scarfBreastPerkiness</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="nkl7B Upper" target="nkl" local="true">Scarf.osd\nkl7B Upper</Data>
+            <Data name="scarf7B Upper" target="scarf" local="true">Scarf.osd\scarf7B Upper</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="scarfMuscularChest" target="scarf" local="true">Scarf.osd\scarfMuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="scarfMuscularArms" target="scarf" local="true">Scarf.osd\scarfMuscularArms</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Sarah&apos;s Rage Scarf (No Necklace)">
+        <DataFolder>Sarah's Rage Armor</DataFolder>
+        <SourceFile>ScarfNoNecklace.nif</SourceFile>
+        <OutputPath>meshes\armor\sarahRageArmor</OutputPath>
+        <OutputFile GenWeights="false">scarf_noNKL</OutputFile>
+        <Shape target="medl">medl</Shape>
+        <Shape target="scarf">scarf</Shape>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="scarfChestDepth" target="scarf" local="true">ScarfNoNecklace.osd\scarfChestDepth</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="scarfDoubleMelon" target="scarf" local="true">ScarfNoNecklace.osd\scarfDoubleMelon</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="scarfPushUp" target="scarf" local="true">ScarfNoNecklace.osd\scarfPushUp</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="scarfShoulderSmooth" target="scarf" local="true">ScarfNoNecklace.osd\scarfShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="scarfShoulderTweak" target="scarf" local="true">ScarfNoNecklace.osd\scarfShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="scarfShoulderWidth" target="scarf" local="true">ScarfNoNecklace.osd\scarfShoulderWidth</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="scarfVanillaFo4" target="scarf" local="true">ScarfNoNecklace.osd\scarfVanillaFo4</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="scarfArms" target="scarf" local="true">ScarfNoNecklace.osd\scarfArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="scarfBack" target="scarf" local="true">ScarfNoNecklace.osd\scarfBack</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="scarfBigTorso" target="scarf" local="true">ScarfNoNecklace.osd\scarfBigTorso</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="scarfBreastFantasy" target="scarf" local="true">ScarfNoNecklace.osd\scarfBreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="scarfBreastFlatness2" target="scarf" local="true">ScarfNoNecklace.osd\scarfBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="scarfBreastGravity2" target="scarf" local="true">ScarfNoNecklace.osd\scarfBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="scarfBreastHeight" target="scarf" local="true">ScarfNoNecklace.osd\scarfBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="scarfBreastPerkiness" target="scarf" local="true">ScarfNoNecklace.osd\scarfBreastPerkiness</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="scarf7B Upper" target="scarf" local="true">ScarfNoNecklace.osd\scarf7B Upper</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="scarfMuscularChest" target="scarf" local="true">ScarfNoNecklace.osd\scarfMuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="scarfMuscularArms" target="scarf" local="true">ScarfNoNecklace.osd\scarfMuscularArms</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

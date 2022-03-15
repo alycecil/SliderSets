@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Nico Dress V3 FG">
+        <DataFolder>Vtaw Wardrobe 6 Nico Dress V3 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Nico Dress V3 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\NicoDress</OutputPath>
+        <OutputFile GenWeights="false">NicoDressV3</OutputFile>
+        <Shape target="dress">dress</Shape>
+        <Shape target="dress2">dress2</Shape>
+        <Shape target="metal">metal</Shape>
+        <Shape target="zip">zip</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="dressBelly Pregnant" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBelly Pregnant</Data>
+            <Data name="zipBelly Pregnant" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="dressBelly Big" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBelly Big</Data>
+            <Data name="zipBelly Big" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="dressBelly Size" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBelly Size</Data>
+            <Data name="zipBelly Size" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="dressBelly Tuck" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="dressBoobs Yuge" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBoobs Yuge</Data>
+            <Data name="metalBoobs Yuge" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalBoobs Yuge</Data>
+            <Data name="dress2Boobs Yuge" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Boobs Yuge</Data>
+            <Data name="zipBoobs Yuge" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="dressBoobs Big" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBoobs Big</Data>
+            <Data name="metalBoobs Big" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalBoobs Big</Data>
+            <Data name="dress2Boobs Big" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Boobs Big</Data>
+            <Data name="zipBoobs Big" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="dressBoobs Cleavage" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBoobs Cleavage</Data>
+            <Data name="zipBoobs Cleavage" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="dressBoobs Flat" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBoobs Flat</Data>
+            <Data name="zipBoobs Flat" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="dressBoobs Gravity" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBoobs Gravity</Data>
+            <Data name="metalBoobs Gravity" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalBoobs Gravity</Data>
+            <Data name="dress2Boobs Gravity" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Boobs Gravity</Data>
+            <Data name="zipBoobs Gravity" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="dressBoobs Height" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBoobs Height</Data>
+            <Data name="zipBoobs Height" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="dressBoobs Mellons" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBoobs Mellons</Data>
+            <Data name="metalBoobs Mellons" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalBoobs Mellons</Data>
+            <Data name="dress2Boobs Mellons" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Boobs Mellons</Data>
+            <Data name="zipBoobs Mellons" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="dressBoobs Perky" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBoobs Perky</Data>
+            <Data name="metalBoobs Perky" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalBoobs Perky</Data>
+            <Data name="dress2Boobs Perky" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Boobs Perky</Data>
+            <Data name="zipBoobs Perky" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="dressBoobs Push Up" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBoobs Push Up</Data>
+            <Data name="metalBoobs Push Up" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalBoobs Push Up</Data>
+            <Data name="dress2Boobs Push Up" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Boobs Push Up</Data>
+            <Data name="zipBoobs Push Up" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="dressBoobs Small" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBoobs Small</Data>
+            <Data name="zipBoobs Small" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="dressBoobs Together" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBoobs Together</Data>
+            <Data name="zipBoobs Together" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="dressBoobs Top Slope" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBoobs Top Slope</Data>
+            <Data name="metalBoobs Top Slope" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalBoobs Top Slope</Data>
+            <Data name="dress2Boobs Top Slope" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Boobs Top Slope</Data>
+            <Data name="zipBoobs Top Slope" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="dressBoobs Width" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBoobs Width</Data>
+            <Data name="zipBoobs Width" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="dressBoobs Tiny" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBoobs Tiny</Data>
+            <Data name="metalBoobs Tiny" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalBoobs Tiny</Data>
+            <Data name="dress2Boobs Tiny" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Boobs Tiny</Data>
+            <Data name="zipBoobs Tiny" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="dressNipples Distance" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressNipples Distance</Data>
+            <Data name="zipNipples Distance" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="dressNipples Down" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressNipples Down</Data>
+            <Data name="zipNipples Down" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="dressNipples Perkiness" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="dressNipples Puffy" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="dressNipples Up" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressNipples Up</Data>
+            <Data name="zipNipples Up" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="dressChest Depth" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressChest Depth</Data>
+            <Data name="zipChest Depth" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="dressChest Width" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="dressWaist Chubby" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressWaist Chubby</Data>
+            <Data name="zipWaist Chubby" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="dressWaist Size" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressWaist Size</Data>
+            <Data name="zipWaist Size" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="dressWaist Height" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressWaist Height</Data>
+            <Data name="zipWaist Height" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="dressWaist Line" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="dressBack Size" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="dressBack Arch" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="dressHips Bone" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="dressHips Size" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="dressHips Upper Width" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="dressBum Size" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="dressBum Crack" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="dressBum Shape 1" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="dressBum Shape 2" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="dressBum Small" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="dressBum Chubby" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="dressBum Round" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="dressBum Apple" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="dressLegs Chubby" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="dressLegs Shape" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="dressLegs Thin" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="dressThighs Slim" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="dressThighs Size" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressThighs Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="dressArms Chubby" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressArms Chubby</Data>
+            <Data name="metalArms Chubby" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalArms Chubby</Data>
+            <Data name="dress2Arms Chubby" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Arms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="dressShoulder Smooth" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressShoulder Smooth</Data>
+            <Data name="metalShoulder Smooth" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalShoulder Smooth</Data>
+            <Data name="dress2Shoulder Smooth" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Shoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="dressShoulder Tweak" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressShoulder Tweak</Data>
+            <Data name="metalShoulder Tweak" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalShoulder Tweak</Data>
+            <Data name="dress2Shoulder Tweak" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Shoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="dressArms Size" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressArms Size</Data>
+            <Data name="metalArms Size" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalArms Size</Data>
+            <Data name="dress2Arms Size" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Arms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="dressArmpit Ajustment" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressArmpit Ajustment</Data>
+            <Data name="metalArmpit Ajustment" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalArmpit Ajustment</Data>
+            <Data name="dress2Armpit Ajustment" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Armpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="dressForearms Size" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="dressTorso Size" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressTorso Size</Data>
+            <Data name="metalTorso Size" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalTorso Size</Data>
+            <Data name="dress2Torso Size" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Torso Size</Data>
+            <Data name="zipTorso Size" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="dressSturnum Depth" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressSturnum Depth</Data>
+            <Data name="metalSturnum Depth" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalSturnum Depth</Data>
+            <Data name="dress2Sturnum Depth" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Sturnum Depth</Data>
+            <Data name="zipSturnum Depth" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="dressSturnum Height" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressSturnum Height</Data>
+            <Data name="metalSturnum Height" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalSturnum Height</Data>
+            <Data name="dress2Sturnum Height" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Sturnum Height</Data>
+            <Data name="zipSturnum Height" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="dressGroin Position" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressGroin Position</Data>
+            <Data name="metalGroin Position" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalGroin Position</Data>
+            <Data name="dress2Groin Position" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="dressGroin Back" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressGroin Back</Data>
+            <Data name="metalGroin Back" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalGroin Back</Data>
+            <Data name="dress2Groin Back" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="dressAbDefinition" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressAbDefinition</Data>
+            <Data name="zipAbDefinition" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="dressBody Toning" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBody Toning</Data>
+            <Data name="metalBody Toning" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalBody Toning</Data>
+            <Data name="dress2Body Toning" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Body Toning</Data>
+            <Data name="zipBody Toning" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="dressTigerSanBB" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressTigerSanBB</Data>
+            <Data name="metalTigerSanBB" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalTigerSanBB</Data>
+            <Data name="dress2TigerSanBB" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2TigerSanBB</Data>
+            <Data name="zipTigerSanBB" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="dressXunAbs" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressXunAbs</Data>
+            <Data name="zipXunAbs" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="dressFFB Fitness 2" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressFFB Fitness 2</Data>
+            <Data name="zipFFB Fitness 2" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="dressAthletic" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressAthletic</Data>
+            <Data name="metalAthletic" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalAthletic</Data>
+            <Data name="dress2Athletic" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Athletic</Data>
+            <Data name="zipAthletic" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="dressSeveNBase Bombshell" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressSeveNBase Bombshell</Data>
+            <Data name="metalSeveNBase Bombshell" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalSeveNBase Bombshell</Data>
+            <Data name="dress2SeveNBase Bombshell" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2SeveNBase Bombshell</Data>
+            <Data name="zipSeveNBase Bombshell" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="dressShoulder Width" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressShoulder Width</Data>
+            <Data name="metalShoulder Width" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalShoulder Width</Data>
+            <Data name="dress2Shoulder Width" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2Shoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="dressBodyFat" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBodyFat</Data>
+            <Data name="metalBodyFat" target="metal" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\metalBodyFat</Data>
+            <Data name="dress2BodyFat" target="dress2" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dress2BodyFat</Data>
+            <Data name="zipBodyFat" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="dressLegThin" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="dressHipsNarrow" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="dressButtGravity" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="dressButtThin" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="dressHipsForward" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="dressHipRotateForward" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="dressBreastArmpitin" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="dressBreastArmpitWide" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="dressBreastCurve" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBreastCurve</Data>
+            <Data name="zipBreastCurve" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="dressBreastHeight2" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBreastHeight2</Data>
+            <Data name="zipBreastHeight2" target="zip" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\zipBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="dressBreastConcave" target="dress" local="true">Vtaw Wardrobe 6 Nico Dress V3 FG.osd\dressBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Micro Bikini String FG">
+        <DataFolder>Vtaw Wardrobe 7 Micro Bikini String FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Micro Bikini String FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\MicroBikini</OutputPath>
+        <OutputFile GenWeights="false">MicroBikiniString</OutputFile>
+        <Shape target="panty">panty</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="pantyBelly Pregnant" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="pantyBelly Big" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="pantyBelly Size" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="pantyBelly Tuck" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="pantyBoobs Yuge" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="pantyBoobs Big" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="pantyBoobs Gravity" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="pantyBoobs Mellons" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="pantyBoobs Perky" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="pantyBoobs Push Up" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="pantyBoobs Top Slope" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="pantyBoobs Tiny" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="pantyChest Width" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="pantyWaist Chubby" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="pantyWaist Size" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="pantyWaist Height" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="pantyWaist Line" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="pantyBack Size" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="pantyBack Arch" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="pantyHips Bone" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="pantyHips Size" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="pantyHips Upper Width" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="pantyBum Size" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="pantyBum Crack" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="pantyBum Shape 1" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="pantyBum Shape 2" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="pantyBum Small" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="pantyBum Chubby" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="pantyBum Round" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="pantyBum Apple" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="pantyLegs Chubby" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="pantyLegs Shape" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="pantyLegs Thin" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="pantyThighs Slim" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="pantyThighs Size" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="pantyTorso Size" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="pantySturnum Depth" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantySturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="pantySturnum Height" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantySturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="pantyGroin Position" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="pantyGroin Back" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyGroin Back</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="pantyLabia Minora Flat" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="pantyLabia Minora Longer" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="pantyClitoras Size" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyClitoras Size</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="pantyLabia Majora Long" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="pantyLabia Majora Wide" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="pantyLabia Majora Inner" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyLabia Majora Inner</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="pantyAbDefinition" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="pantyBody Toning" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="pantyTigerSanBB" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="pantyXunAbs" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="pantyFFB Fitness 2" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="pantyAthletic" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="pantySeveNBase Bombshell" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantySeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="pantyShoulder Width" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="pantyBodyFat" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="pantyLegThin" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="pantyHipsNarrow" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="pantyButtGravity" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="pantyButtThin" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="pantyHipsForward" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="pantyHipRotateForward" target="panty" local="true">Vtaw Wardrobe 7 Micro Bikini String FG.osd\pantyHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

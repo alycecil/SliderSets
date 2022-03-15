@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Belt legs FG">
+        <DataFolder>Vtaw Belt legs FG</DataFolder>
+        <SourceFile>Vtaw Belt legs FG.nif</SourceFile>
+        <OutputPath>meshes\wtaw\wardrobe\Belt</OutputPath>
+        <OutputFile GenWeights="false">beltleg</OutputFile>
+        <Shape target="bag3.000">bag3.000</Shape>
+        <Shape target="bag3.003">bag3.003</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="bag3.000Boobs Yuge" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Boobs Yuge</Data>
+            <Data name="bag3.003Boobs Yuge" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="bag3.000Boobs Big" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Boobs Big</Data>
+            <Data name="bag3.003Boobs Big" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="bag3.000Boobs Gravity" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Boobs Gravity</Data>
+            <Data name="bag3.003Boobs Gravity" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="bag3.000Boobs Mellons" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Boobs Mellons</Data>
+            <Data name="bag3.003Boobs Mellons" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="bag3.000Boobs Perky" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Boobs Perky</Data>
+            <Data name="bag3.003Boobs Perky" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="bag3.000Boobs Push Up" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Boobs Push Up</Data>
+            <Data name="bag3.003Boobs Push Up" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="bag3.000Boobs Top Slope" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Boobs Top Slope</Data>
+            <Data name="bag3.003Boobs Top Slope" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="bag3.000Boobs Tiny" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Boobs Tiny</Data>
+            <Data name="bag3.003Boobs Tiny" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="bag3.000Hips Size" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Hips Size</Data>
+            <Data name="bag3.003Hips Size" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Hips Size</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="bag3.000Bum Size" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Bum Size</Data>
+            <Data name="bag3.003Bum Size" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="bag3.003Bum Shape 1" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="bag3.000Bum Shape 2" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Bum Shape 2</Data>
+            <Data name="bag3.003Bum Shape 2" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="bag3.000Bum Small" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Bum Small</Data>
+            <Data name="bag3.003Bum Small" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="bag3.000Bum Chubby" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Bum Chubby</Data>
+            <Data name="bag3.003Bum Chubby" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Bum Chubby</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="bag3.000Legs Chubby" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Legs Chubby</Data>
+            <Data name="bag3.003Legs Chubby" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="bag3.000Legs Shape" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Legs Shape</Data>
+            <Data name="bag3.003Legs Shape" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="bag3.000Legs Thin" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Legs Thin</Data>
+            <Data name="bag3.003Legs Thin" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="bag3.000Thighs Slim" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Thighs Slim</Data>
+            <Data name="bag3.003Thighs Slim" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="bag3.000Thighs Size" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Thighs Size</Data>
+            <Data name="bag3.003Thighs Size" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Thighs Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="bag3.000Sturnum Depth" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Sturnum Depth</Data>
+            <Data name="bag3.003Sturnum Depth" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="bag3.000Sturnum Height" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Sturnum Height</Data>
+            <Data name="bag3.003Sturnum Height" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="bag3.000Groin Position" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Groin Position</Data>
+            <Data name="bag3.003Groin Position" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="bag3.000Groin Back" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Groin Back</Data>
+            <Data name="bag3.003Groin Back" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Groin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="bag3.000Body Toning" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Body Toning</Data>
+            <Data name="bag3.003Body Toning" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="bag3.000TigerSanBB" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000TigerSanBB</Data>
+            <Data name="bag3.003TigerSanBB" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003TigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="bag3.000Athletic" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Athletic</Data>
+            <Data name="bag3.003Athletic" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="bag3.000SeveNBase Bombshell" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000SeveNBase Bombshell</Data>
+            <Data name="bag3.003SeveNBase Bombshell" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="bag3.000Knee Height" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000Knee Height</Data>
+            <Data name="bag3.003Knee Height" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003Knee Height</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="bag3.000BodyFat" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000BodyFat</Data>
+            <Data name="bag3.003BodyFat" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="bag3.000LegThin" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000LegThin</Data>
+            <Data name="bag3.003LegThin" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="bag3.000HipsNarrow" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="bag3.000ButtGravity" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000ButtGravity</Data>
+            <Data name="bag3.003ButtGravity" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="bag3.000ButtThin" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000ButtThin</Data>
+            <Data name="bag3.003ButtThin" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="bag3.000HipsForward" target="bag3.000" local="true">Vtaw Belt legs FG.osd\bag3.000HipsForward</Data>
+            <Data name="bag3.003HipsForward" target="bag3.003" local="true">Vtaw Belt legs FG.osd\bag3.003HipsForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

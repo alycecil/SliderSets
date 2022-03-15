@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Raider harness FG">
+        <DataFolder>Vtaw Raider harness FG</DataFolder>
+        <SourceFile>Vtaw Raider harness FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe4\harn</OutputPath>
+        <OutputFile GenWeights="false">harntop</OutputFile>
+        <Shape target="bag">bag</Shape>
+        <Shape target="mid">mid</Shape>
+        <Shape target="top">top</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="midBelly Pregnant" target="mid" local="true">Vtaw Raider harness FG.osd\midBelly Pregnant</Data>
+            <Data name="bagBelly Pregnant" target="bag" local="true">Vtaw Raider harness FG.osd\bagBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="topBelly Big" target="top" local="true">Vtaw Raider harness FG.osd\topBelly Big</Data>
+            <Data name="midBelly Big" target="mid" local="true">Vtaw Raider harness FG.osd\midBelly Big</Data>
+            <Data name="bagBelly Big" target="bag" local="true">Vtaw Raider harness FG.osd\bagBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="midBelly Size" target="mid" local="true">Vtaw Raider harness FG.osd\midBelly Size</Data>
+            <Data name="bagBelly Size" target="bag" local="true">Vtaw Raider harness FG.osd\bagBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="bagBelly Tuck" target="bag" local="true">Vtaw Raider harness FG.osd\bagBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="topBoobs Yuge" target="top" local="true">Vtaw Raider harness FG.osd\topBoobs Yuge</Data>
+            <Data name="midBoobs Yuge" target="mid" local="true">Vtaw Raider harness FG.osd\midBoobs Yuge</Data>
+            <Data name="bagBoobs Yuge" target="bag" local="true">Vtaw Raider harness FG.osd\bagBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="topBoobs Big" target="top" local="true">Vtaw Raider harness FG.osd\topBoobs Big</Data>
+            <Data name="midBoobs Big" target="mid" local="true">Vtaw Raider harness FG.osd\midBoobs Big</Data>
+            <Data name="bagBoobs Big" target="bag" local="true">Vtaw Raider harness FG.osd\bagBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="topBoobs Cleavage" target="top" local="true">Vtaw Raider harness FG.osd\topBoobs Cleavage</Data>
+            <Data name="midBoobs Cleavage" target="mid" local="true">Vtaw Raider harness FG.osd\midBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="topBoobs Flat" target="top" local="true">Vtaw Raider harness FG.osd\topBoobs Flat</Data>
+            <Data name="midBoobs Flat" target="mid" local="true">Vtaw Raider harness FG.osd\midBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="topBoobs Gravity" target="top" local="true">Vtaw Raider harness FG.osd\topBoobs Gravity</Data>
+            <Data name="midBoobs Gravity" target="mid" local="true">Vtaw Raider harness FG.osd\midBoobs Gravity</Data>
+            <Data name="bagBoobs Gravity" target="bag" local="true">Vtaw Raider harness FG.osd\bagBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="topBoobs Height" target="top" local="true">Vtaw Raider harness FG.osd\topBoobs Height</Data>
+            <Data name="midBoobs Height" target="mid" local="true">Vtaw Raider harness FG.osd\midBoobs Height</Data>
+            <Data name="bagBoobs Height" target="bag" local="true">Vtaw Raider harness FG.osd\bagBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="topBoobs Mellons" target="top" local="true">Vtaw Raider harness FG.osd\topBoobs Mellons</Data>
+            <Data name="midBoobs Mellons" target="mid" local="true">Vtaw Raider harness FG.osd\midBoobs Mellons</Data>
+            <Data name="bagBoobs Mellons" target="bag" local="true">Vtaw Raider harness FG.osd\bagBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="topBoobs Perky" target="top" local="true">Vtaw Raider harness FG.osd\topBoobs Perky</Data>
+            <Data name="midBoobs Perky" target="mid" local="true">Vtaw Raider harness FG.osd\midBoobs Perky</Data>
+            <Data name="bagBoobs Perky" target="bag" local="true">Vtaw Raider harness FG.osd\bagBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="topBoobs Push Up" target="top" local="true">Vtaw Raider harness FG.osd\topBoobs Push Up</Data>
+            <Data name="midBoobs Push Up" target="mid" local="true">Vtaw Raider harness FG.osd\midBoobs Push Up</Data>
+            <Data name="bagBoobs Push Up" target="bag" local="true">Vtaw Raider harness FG.osd\bagBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="topBoobs Small" target="top" local="true">Vtaw Raider harness FG.osd\topBoobs Small</Data>
+            <Data name="midBoobs Small" target="mid" local="true">Vtaw Raider harness FG.osd\midBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="topBoobs Together" target="top" local="true">Vtaw Raider harness FG.osd\topBoobs Together</Data>
+            <Data name="midBoobs Together" target="mid" local="true">Vtaw Raider harness FG.osd\midBoobs Together</Data>
+            <Data name="bagBoobs Together" target="bag" local="true">Vtaw Raider harness FG.osd\bagBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="topBoobs Top Slope" target="top" local="true">Vtaw Raider harness FG.osd\topBoobs Top Slope</Data>
+            <Data name="midBoobs Top Slope" target="mid" local="true">Vtaw Raider harness FG.osd\midBoobs Top Slope</Data>
+            <Data name="bagBoobs Top Slope" target="bag" local="true">Vtaw Raider harness FG.osd\bagBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="topBoobs Width" target="top" local="true">Vtaw Raider harness FG.osd\topBoobs Width</Data>
+            <Data name="midBoobs Width" target="mid" local="true">Vtaw Raider harness FG.osd\midBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="topBoobs Tiny" target="top" local="true">Vtaw Raider harness FG.osd\topBoobs Tiny</Data>
+            <Data name="midBoobs Tiny" target="mid" local="true">Vtaw Raider harness FG.osd\midBoobs Tiny</Data>
+            <Data name="bagBoobs Tiny" target="bag" local="true">Vtaw Raider harness FG.osd\bagBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="topNipples Distance" target="top" local="true">Vtaw Raider harness FG.osd\topNipples Distance</Data>
+            <Data name="midNipples Distance" target="mid" local="true">Vtaw Raider harness FG.osd\midNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="topNipples Down" target="top" local="true">Vtaw Raider harness FG.osd\topNipples Down</Data>
+            <Data name="midNipples Down" target="mid" local="true">Vtaw Raider harness FG.osd\midNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="topNipples Perkiness" target="top" local="true">Vtaw Raider harness FG.osd\topNipples Perkiness</Data>
+            <Data name="midNipples Perkiness" target="mid" local="true">Vtaw Raider harness FG.osd\midNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="topNipples Up" target="top" local="true">Vtaw Raider harness FG.osd\topNipples Up</Data>
+            <Data name="midNipples Up" target="mid" local="true">Vtaw Raider harness FG.osd\midNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="topChest Depth" target="top" local="true">Vtaw Raider harness FG.osd\topChest Depth</Data>
+            <Data name="midChest Depth" target="mid" local="true">Vtaw Raider harness FG.osd\midChest Depth</Data>
+            <Data name="bagChest Depth" target="bag" local="true">Vtaw Raider harness FG.osd\bagChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="topChest Width" target="top" local="true">Vtaw Raider harness FG.osd\topChest Width</Data>
+            <Data name="midChest Width" target="mid" local="true">Vtaw Raider harness FG.osd\midChest Width</Data>
+            <Data name="bagChest Width" target="bag" local="true">Vtaw Raider harness FG.osd\bagChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="topWaist Chubby" target="top" local="true">Vtaw Raider harness FG.osd\topWaist Chubby</Data>
+            <Data name="midWaist Chubby" target="mid" local="true">Vtaw Raider harness FG.osd\midWaist Chubby</Data>
+            <Data name="bagWaist Chubby" target="bag" local="true">Vtaw Raider harness FG.osd\bagWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="topWaist Size" target="top" local="true">Vtaw Raider harness FG.osd\topWaist Size</Data>
+            <Data name="midWaist Size" target="mid" local="true">Vtaw Raider harness FG.osd\midWaist Size</Data>
+            <Data name="bagWaist Size" target="bag" local="true">Vtaw Raider harness FG.osd\bagWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="midWaist Height" target="mid" local="true">Vtaw Raider harness FG.osd\midWaist Height</Data>
+            <Data name="bagWaist Height" target="bag" local="true">Vtaw Raider harness FG.osd\bagWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="midWaist Line" target="mid" local="true">Vtaw Raider harness FG.osd\midWaist Line</Data>
+            <Data name="bagWaist Line" target="bag" local="true">Vtaw Raider harness FG.osd\bagWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="topBack Size" target="top" local="true">Vtaw Raider harness FG.osd\topBack Size</Data>
+            <Data name="midBack Size" target="mid" local="true">Vtaw Raider harness FG.osd\midBack Size</Data>
+            <Data name="bagBack Size" target="bag" local="true">Vtaw Raider harness FG.osd\bagBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="midBack Arch" target="mid" local="true">Vtaw Raider harness FG.osd\midBack Arch</Data>
+            <Data name="bagBack Arch" target="bag" local="true">Vtaw Raider harness FG.osd\bagBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="midHips Bone" target="mid" local="true">Vtaw Raider harness FG.osd\midHips Bone</Data>
+            <Data name="bagHips Bone" target="bag" local="true">Vtaw Raider harness FG.osd\bagHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="bagHips Size" target="bag" local="true">Vtaw Raider harness FG.osd\bagHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="midHips Upper Width" target="mid" local="true">Vtaw Raider harness FG.osd\midHips Upper Width</Data>
+            <Data name="bagHips Upper Width" target="bag" local="true">Vtaw Raider harness FG.osd\bagHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="midBum Size" target="mid" local="true">Vtaw Raider harness FG.osd\midBum Size</Data>
+            <Data name="bagBum Size" target="bag" local="true">Vtaw Raider harness FG.osd\bagBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="bagBum Crack" target="bag" local="true">Vtaw Raider harness FG.osd\bagBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="midBum Shape 1" target="mid" local="true">Vtaw Raider harness FG.osd\midBum Shape 1</Data>
+            <Data name="bagBum Shape 1" target="bag" local="true">Vtaw Raider harness FG.osd\bagBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="midBum Shape 2" target="mid" local="true">Vtaw Raider harness FG.osd\midBum Shape 2</Data>
+            <Data name="bagBum Shape 2" target="bag" local="true">Vtaw Raider harness FG.osd\bagBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="midBum Small" target="mid" local="true">Vtaw Raider harness FG.osd\midBum Small</Data>
+            <Data name="bagBum Small" target="bag" local="true">Vtaw Raider harness FG.osd\bagBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="midBum Chubby" target="mid" local="true">Vtaw Raider harness FG.osd\midBum Chubby</Data>
+            <Data name="bagBum Chubby" target="bag" local="true">Vtaw Raider harness FG.osd\bagBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="bagBum Round" target="bag" local="true">Vtaw Raider harness FG.osd\bagBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="midBum Apple" target="mid" local="true">Vtaw Raider harness FG.osd\midBum Apple</Data>
+            <Data name="bagBum Apple" target="bag" local="true">Vtaw Raider harness FG.osd\bagBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="topLegs Chubby" target="top" local="true">Vtaw Raider harness FG.osd\topLegs Chubby</Data>
+            <Data name="midLegs Chubby" target="mid" local="true">Vtaw Raider harness FG.osd\midLegs Chubby</Data>
+            <Data name="bagLegs Chubby" target="bag" local="true">Vtaw Raider harness FG.osd\bagLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="bagLegs Shape" target="bag" local="true">Vtaw Raider harness FG.osd\bagLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="bagLegs Thin" target="bag" local="true">Vtaw Raider harness FG.osd\bagLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="bagThighs Slim" target="bag" local="true">Vtaw Raider harness FG.osd\bagThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="bagThighs Size" target="bag" local="true">Vtaw Raider harness FG.osd\bagThighs Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="topArms Chubby" target="top" local="true">Vtaw Raider harness FG.osd\topArms Chubby</Data>
+            <Data name="midArms Chubby" target="mid" local="true">Vtaw Raider harness FG.osd\midArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="topShoulder Smooth" target="top" local="true">Vtaw Raider harness FG.osd\topShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="topShoulder Tweak" target="top" local="true">Vtaw Raider harness FG.osd\topShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="topArms Size" target="top" local="true">Vtaw Raider harness FG.osd\topArms Size</Data>
+            <Data name="midArms Size" target="mid" local="true">Vtaw Raider harness FG.osd\midArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="topArmpit Ajustment" target="top" local="true">Vtaw Raider harness FG.osd\topArmpit Ajustment</Data>
+            <Data name="midArmpit Ajustment" target="mid" local="true">Vtaw Raider harness FG.osd\midArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="topTorso Size" target="top" local="true">Vtaw Raider harness FG.osd\topTorso Size</Data>
+            <Data name="midTorso Size" target="mid" local="true">Vtaw Raider harness FG.osd\midTorso Size</Data>
+            <Data name="bagTorso Size" target="bag" local="true">Vtaw Raider harness FG.osd\bagTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="topSturnum Depth" target="top" local="true">Vtaw Raider harness FG.osd\topSturnum Depth</Data>
+            <Data name="midSturnum Depth" target="mid" local="true">Vtaw Raider harness FG.osd\midSturnum Depth</Data>
+            <Data name="bagSturnum Depth" target="bag" local="true">Vtaw Raider harness FG.osd\bagSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="topSturnum Height" target="top" local="true">Vtaw Raider harness FG.osd\topSturnum Height</Data>
+            <Data name="midSturnum Height" target="mid" local="true">Vtaw Raider harness FG.osd\midSturnum Height</Data>
+            <Data name="bagSturnum Height" target="bag" local="true">Vtaw Raider harness FG.osd\bagSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="topGroin Position" target="top" local="true">Vtaw Raider harness FG.osd\topGroin Position</Data>
+            <Data name="midGroin Position" target="mid" local="true">Vtaw Raider harness FG.osd\midGroin Position</Data>
+            <Data name="bagGroin Position" target="bag" local="true">Vtaw Raider harness FG.osd\bagGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="topGroin Back" target="top" local="true">Vtaw Raider harness FG.osd\topGroin Back</Data>
+            <Data name="midGroin Back" target="mid" local="true">Vtaw Raider harness FG.osd\midGroin Back</Data>
+            <Data name="bagGroin Back" target="bag" local="true">Vtaw Raider harness FG.osd\bagGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="midAbDefinition" target="mid" local="true">Vtaw Raider harness FG.osd\midAbDefinition</Data>
+            <Data name="bagAbDefinition" target="bag" local="true">Vtaw Raider harness FG.osd\bagAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="topBody Toning" target="top" local="true">Vtaw Raider harness FG.osd\topBody Toning</Data>
+            <Data name="midBody Toning" target="mid" local="true">Vtaw Raider harness FG.osd\midBody Toning</Data>
+            <Data name="bagBody Toning" target="bag" local="true">Vtaw Raider harness FG.osd\bagBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="topTigerSanBB" target="top" local="true">Vtaw Raider harness FG.osd\topTigerSanBB</Data>
+            <Data name="midTigerSanBB" target="mid" local="true">Vtaw Raider harness FG.osd\midTigerSanBB</Data>
+            <Data name="bagTigerSanBB" target="bag" local="true">Vtaw Raider harness FG.osd\bagTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="midXunAbs" target="mid" local="true">Vtaw Raider harness FG.osd\midXunAbs</Data>
+            <Data name="bagXunAbs" target="bag" local="true">Vtaw Raider harness FG.osd\bagXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="topFFB Fitness 2" target="top" local="true">Vtaw Raider harness FG.osd\topFFB Fitness 2</Data>
+            <Data name="midFFB Fitness 2" target="mid" local="true">Vtaw Raider harness FG.osd\midFFB Fitness 2</Data>
+            <Data name="bagFFB Fitness 2" target="bag" local="true">Vtaw Raider harness FG.osd\bagFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="topAthletic" target="top" local="true">Vtaw Raider harness FG.osd\topAthletic</Data>
+            <Data name="midAthletic" target="mid" local="true">Vtaw Raider harness FG.osd\midAthletic</Data>
+            <Data name="bagAthletic" target="bag" local="true">Vtaw Raider harness FG.osd\bagAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="topSeveNBase Bombshell" target="top" local="true">Vtaw Raider harness FG.osd\topSeveNBase Bombshell</Data>
+            <Data name="midSeveNBase Bombshell" target="mid" local="true">Vtaw Raider harness FG.osd\midSeveNBase Bombshell</Data>
+            <Data name="bagSeveNBase Bombshell" target="bag" local="true">Vtaw Raider harness FG.osd\bagSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="topShoulder Width" target="top" local="true">Vtaw Raider harness FG.osd\topShoulder Width</Data>
+            <Data name="midShoulder Width" target="mid" local="true">Vtaw Raider harness FG.osd\midShoulder Width</Data>
+            <Data name="bagShoulder Width" target="bag" local="true">Vtaw Raider harness FG.osd\bagShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="topBodyFat" target="top" local="true">Vtaw Raider harness FG.osd\topBodyFat</Data>
+            <Data name="midBodyFat" target="mid" local="true">Vtaw Raider harness FG.osd\midBodyFat</Data>
+            <Data name="bagBodyFat" target="bag" local="true">Vtaw Raider harness FG.osd\bagBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="bagLegThin" target="bag" local="true">Vtaw Raider harness FG.osd\bagLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="midHipsNarrow" target="mid" local="true">Vtaw Raider harness FG.osd\midHipsNarrow</Data>
+            <Data name="bagHipsNarrow" target="bag" local="true">Vtaw Raider harness FG.osd\bagHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="midButtThin" target="mid" local="true">Vtaw Raider harness FG.osd\midButtThin</Data>
+            <Data name="bagButtThin" target="bag" local="true">Vtaw Raider harness FG.osd\bagButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="bagHipsForward" target="bag" local="true">Vtaw Raider harness FG.osd\bagHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="midHipRotateForward" target="mid" local="true">Vtaw Raider harness FG.osd\midHipRotateForward</Data>
+            <Data name="bagHipRotateForward" target="bag" local="true">Vtaw Raider harness FG.osd\bagHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="topBreastArmpitin" target="top" local="true">Vtaw Raider harness FG.osd\topBreastArmpitin</Data>
+            <Data name="midBreastArmpitin" target="mid" local="true">Vtaw Raider harness FG.osd\midBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="topBreastArmpitWide" target="top" local="true">Vtaw Raider harness FG.osd\topBreastArmpitWide</Data>
+            <Data name="midBreastArmpitWide" target="mid" local="true">Vtaw Raider harness FG.osd\midBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="topBreastCurve" target="top" local="true">Vtaw Raider harness FG.osd\topBreastCurve</Data>
+            <Data name="midBreastCurve" target="mid" local="true">Vtaw Raider harness FG.osd\midBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="topBreastHeight2" target="top" local="true">Vtaw Raider harness FG.osd\topBreastHeight2</Data>
+            <Data name="midBreastHeight2" target="mid" local="true">Vtaw Raider harness FG.osd\midBreastHeight2</Data>
+            <Data name="bagBreastHeight2" target="bag" local="true">Vtaw Raider harness FG.osd\bagBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="topBreastConcave" target="top" local="true">Vtaw Raider harness FG.osd\topBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

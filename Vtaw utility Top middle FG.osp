@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw utility Top middle FG">
+        <DataFolder>Vtaw utility Top middle FG</DataFolder>
+        <SourceFile>Vtaw utility Top middle FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\utility1</OutputPath>
+        <OutputFile GenWeights="false">topmid</OutputFile>
+        <Shape target="topmesh">topmesh</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="topmeshBelly Pregnant" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="topmeshBelly Big" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="topmeshBelly Size" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBelly Size</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="topmeshBoobs Yuge" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="topmeshBoobs Big" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="topmeshBoobs Cleavage" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="topmeshBoobs Flat" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="topmeshBoobs Gravity" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="topmeshBoobs Height" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="topmeshBoobs Mellons" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="topmeshBoobs Perky" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="topmeshBoobs Push Up" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="topmeshBoobs Small" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="topmeshBoobs Together" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="topmeshBoobs Top Slope" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="topmeshBoobs Width" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="topmeshBoobs Tiny" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="topmeshNipples Distance" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="topmeshNipples Down" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="topmeshNipples Perkiness" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="topmeshNipples Puffy" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="topmeshNipples Up" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="topmeshChest Depth" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshChest Depth</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="topmeshWaist Chubby" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="topmeshWaist Size" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="topmeshWaist Height" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshWaist Height</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="topmeshTorso Size" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="topmeshSturnum Depth" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="topmeshSturnum Height" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshSturnum Height</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="topmeshAbDefinition" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="topmeshBody Toning" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="topmeshTigerSanBB" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="topmeshXunAbs" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="topmeshFFB Fitness 2" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="topmeshAthletic" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="topmeshSeveNBase Bombshell" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="topmeshBodyFat" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBodyFat</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="topmeshHipRotateForward" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="topmeshBreastArmpitin" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="topmeshBreastArmpitWide" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="topmeshBreastCurve" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="topmeshBreastHeight2" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="topmeshBreastConcave" target="topmesh" local="true">Vtaw utility Top middle FG.osd\topmeshBreastConcave</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

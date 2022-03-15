@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 Adventurer BeltV2 FG">
+        <DataFolder>Vtaw Wardrobe 5 Adventurer BeltV2 FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 Adventurer BeltV2 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Adventurer</OutputPath>
+        <OutputFile GenWeights="false">ADBeltV2</OutputFile>
+        <Shape target="main">main</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="mainBelly Pregnant" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="mainBelly Big" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="mainBelly Size" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="mainBelly Tuck" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="mainBoobs Yuge" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="mainBoobs Big" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="mainBoobs Gravity" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="mainBoobs Mellons" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="mainBoobs Perky" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="mainBoobs Push Up" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="mainBoobs Top Slope" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="mainBoobs Tiny" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="mainChest Depth" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="mainChest Width" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="mainWaist Chubby" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="mainWaist Size" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="mainWaist Height" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="mainWaist Line" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="mainBack Size" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="mainBack Arch" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="mainHips Bone" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="mainHips Size" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="mainHips Upper Width" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="mainBum Size" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="mainBum Crack" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="mainBum Shape 1" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="mainBum Shape 2" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="mainBum Small" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="mainBum Chubby" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="mainBum Round" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="mainBum Apple" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="mainLegs Chubby" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainLegs Chubby</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="mainThighs Slim" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="mainThighs Size" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="mainTorso Size" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="mainSturnum Depth" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="mainSturnum Height" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="mainGroin Position" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="mainGroin Back" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="mainAbDefinition" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="mainBody Toning" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="mainTigerSanBB" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="mainXunAbs" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="mainFFB Fitness 2" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="mainAthletic" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="mainSeveNBase Bombshell" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="mainShoulder Width" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="mainBodyFat" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="mainLegThin" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="mainHipsNarrow" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="mainButtThin" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="mainHipsForward" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="mainHipRotateForward" target="main" local="true">Vtaw Wardrobe 5 Adventurer BeltV2 FG.osd\mainHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

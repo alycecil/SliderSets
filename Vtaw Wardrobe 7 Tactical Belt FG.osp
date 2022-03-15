@@ -1,0 +1,844 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Tactical Belt FG">
+        <DataFolder>Vtaw Wardrobe 7 Tactical Belt FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Tactical Belt FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\TacticalBelt</OutputPath>
+        <OutputFile GenWeights="false">TacticalBelt</OutputFile>
+        <Shape target="Ammo">Ammo</Shape>
+        <Shape target="Bag Metal">Bag Metal</Shape>
+        <Shape target="Bag4">Bag4</Shape>
+        <Shape target="Bags2">Bags2</Shape>
+        <Shape target="Bags2 Metal">Bags2 Metal</Shape>
+        <Shape target="Belt">Belt</Shape>
+        <Shape target="Belt 2">Belt 2</Shape>
+        <Shape target="Belt Back Metal">Belt Back Metal</Shape>
+        <Shape target="Belt3">Belt3</Shape>
+        <Shape target="Gun">Gun</Shape>
+        <Shape target="GunHolster">GunHolster</Shape>
+        <Shape target="GunHolster Ammo">GunHolster Ammo</Shape>
+        <Shape target="GunHolster Metal">GunHolster Metal</Shape>
+        <Shape target="Leg Metal1">Leg Metal1</Shape>
+        <Shape target="Nade">Nade</Shape>
+        <Shape target="Straps">Straps</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="Bags2Belly Pregnant" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Belly Pregnant</Data>
+            <Data name="Bags2 MetalBelly Pregnant" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBelly Pregnant</Data>
+            <Data name="NadeBelly Pregnant" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBelly Pregnant</Data>
+            <Data name="BeltBelly Pregnant" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBelly Pregnant</Data>
+            <Data name="Leg Metal1Belly Pregnant" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Belly Pregnant</Data>
+            <Data name="StrapsBelly Pregnant" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBelly Pregnant</Data>
+            <Data name="Belt 2Belly Pregnant" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Belly Pregnant</Data>
+            <Data name="AmmoBelly Pregnant" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="Bags2Belly Big" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Belly Big</Data>
+            <Data name="Bags2 MetalBelly Big" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBelly Big</Data>
+            <Data name="NadeBelly Big" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBelly Big</Data>
+            <Data name="BeltBelly Big" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBelly Big</Data>
+            <Data name="Leg Metal1Belly Big" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Belly Big</Data>
+            <Data name="StrapsBelly Big" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBelly Big</Data>
+            <Data name="Belt 2Belly Big" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Belly Big</Data>
+            <Data name="AmmoBelly Big" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="Bags2Belly Size" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Belly Size</Data>
+            <Data name="Bags2 MetalBelly Size" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBelly Size</Data>
+            <Data name="NadeBelly Size" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBelly Size</Data>
+            <Data name="BeltBelly Size" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBelly Size</Data>
+            <Data name="Leg Metal1Belly Size" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Belly Size</Data>
+            <Data name="StrapsBelly Size" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBelly Size</Data>
+            <Data name="Belt 2Belly Size" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Belly Size</Data>
+            <Data name="AmmoBelly Size" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="Bags2Belly Tuck" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Belly Tuck</Data>
+            <Data name="NadeBelly Tuck" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBelly Tuck</Data>
+            <Data name="BeltBelly Tuck" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBelly Tuck</Data>
+            <Data name="Leg Metal1Belly Tuck" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Belly Tuck</Data>
+            <Data name="StrapsBelly Tuck" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBelly Tuck</Data>
+            <Data name="Belt 2Belly Tuck" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Belly Tuck</Data>
+            <Data name="AmmoBelly Tuck" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="GunBoobs Yuge" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBoobs Yuge</Data>
+            <Data name="Bags2Boobs Yuge" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Boobs Yuge</Data>
+            <Data name="Bags2 MetalBoobs Yuge" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBoobs Yuge</Data>
+            <Data name="NadeBoobs Yuge" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBoobs Yuge</Data>
+            <Data name="GunHolsterBoobs Yuge" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBoobs Yuge</Data>
+            <Data name="BeltBoobs Yuge" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBoobs Yuge</Data>
+            <Data name="Leg Metal1Boobs Yuge" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Boobs Yuge</Data>
+            <Data name="StrapsBoobs Yuge" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBoobs Yuge</Data>
+            <Data name="Belt 2Boobs Yuge" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Boobs Yuge</Data>
+            <Data name="Bag4Boobs Yuge" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Boobs Yuge</Data>
+            <Data name="AmmoBoobs Yuge" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="GunBoobs Big" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBoobs Big</Data>
+            <Data name="Bags2Boobs Big" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Boobs Big</Data>
+            <Data name="Bags2 MetalBoobs Big" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBoobs Big</Data>
+            <Data name="NadeBoobs Big" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBoobs Big</Data>
+            <Data name="GunHolsterBoobs Big" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBoobs Big</Data>
+            <Data name="BeltBoobs Big" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBoobs Big</Data>
+            <Data name="Leg Metal1Boobs Big" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Boobs Big</Data>
+            <Data name="StrapsBoobs Big" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBoobs Big</Data>
+            <Data name="Belt 2Boobs Big" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Boobs Big</Data>
+            <Data name="Bag4Boobs Big" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Boobs Big</Data>
+            <Data name="AmmoBoobs Big" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="GunBoobs Gravity" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBoobs Gravity</Data>
+            <Data name="Bags2Boobs Gravity" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Boobs Gravity</Data>
+            <Data name="Bags2 MetalBoobs Gravity" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBoobs Gravity</Data>
+            <Data name="NadeBoobs Gravity" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBoobs Gravity</Data>
+            <Data name="GunHolsterBoobs Gravity" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBoobs Gravity</Data>
+            <Data name="BeltBoobs Gravity" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBoobs Gravity</Data>
+            <Data name="Leg Metal1Boobs Gravity" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Boobs Gravity</Data>
+            <Data name="StrapsBoobs Gravity" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBoobs Gravity</Data>
+            <Data name="Belt 2Boobs Gravity" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Boobs Gravity</Data>
+            <Data name="Bag4Boobs Gravity" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Boobs Gravity</Data>
+            <Data name="AmmoBoobs Gravity" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="GunBoobs Mellons" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBoobs Mellons</Data>
+            <Data name="Bags2Boobs Mellons" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Boobs Mellons</Data>
+            <Data name="Bags2 MetalBoobs Mellons" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBoobs Mellons</Data>
+            <Data name="NadeBoobs Mellons" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBoobs Mellons</Data>
+            <Data name="GunHolsterBoobs Mellons" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBoobs Mellons</Data>
+            <Data name="BeltBoobs Mellons" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBoobs Mellons</Data>
+            <Data name="Leg Metal1Boobs Mellons" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Boobs Mellons</Data>
+            <Data name="StrapsBoobs Mellons" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBoobs Mellons</Data>
+            <Data name="Belt 2Boobs Mellons" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Boobs Mellons</Data>
+            <Data name="Bag4Boobs Mellons" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Boobs Mellons</Data>
+            <Data name="AmmoBoobs Mellons" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="GunBoobs Perky" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBoobs Perky</Data>
+            <Data name="Bags2Boobs Perky" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Boobs Perky</Data>
+            <Data name="Bags2 MetalBoobs Perky" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBoobs Perky</Data>
+            <Data name="NadeBoobs Perky" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBoobs Perky</Data>
+            <Data name="GunHolsterBoobs Perky" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBoobs Perky</Data>
+            <Data name="BeltBoobs Perky" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBoobs Perky</Data>
+            <Data name="Leg Metal1Boobs Perky" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Boobs Perky</Data>
+            <Data name="StrapsBoobs Perky" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBoobs Perky</Data>
+            <Data name="Belt 2Boobs Perky" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Boobs Perky</Data>
+            <Data name="Bag4Boobs Perky" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Boobs Perky</Data>
+            <Data name="AmmoBoobs Perky" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="GunBoobs Push Up" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBoobs Push Up</Data>
+            <Data name="Bags2Boobs Push Up" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Boobs Push Up</Data>
+            <Data name="Bags2 MetalBoobs Push Up" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBoobs Push Up</Data>
+            <Data name="NadeBoobs Push Up" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBoobs Push Up</Data>
+            <Data name="GunHolsterBoobs Push Up" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBoobs Push Up</Data>
+            <Data name="BeltBoobs Push Up" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBoobs Push Up</Data>
+            <Data name="Leg Metal1Boobs Push Up" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Boobs Push Up</Data>
+            <Data name="StrapsBoobs Push Up" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBoobs Push Up</Data>
+            <Data name="Belt 2Boobs Push Up" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Boobs Push Up</Data>
+            <Data name="Bag4Boobs Push Up" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Boobs Push Up</Data>
+            <Data name="AmmoBoobs Push Up" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="GunBoobs Top Slope" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBoobs Top Slope</Data>
+            <Data name="Bags2Boobs Top Slope" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Boobs Top Slope</Data>
+            <Data name="Bags2 MetalBoobs Top Slope" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBoobs Top Slope</Data>
+            <Data name="NadeBoobs Top Slope" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBoobs Top Slope</Data>
+            <Data name="GunHolsterBoobs Top Slope" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBoobs Top Slope</Data>
+            <Data name="BeltBoobs Top Slope" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBoobs Top Slope</Data>
+            <Data name="Leg Metal1Boobs Top Slope" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Boobs Top Slope</Data>
+            <Data name="StrapsBoobs Top Slope" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBoobs Top Slope</Data>
+            <Data name="Belt 2Boobs Top Slope" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Boobs Top Slope</Data>
+            <Data name="Bag4Boobs Top Slope" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Boobs Top Slope</Data>
+            <Data name="AmmoBoobs Top Slope" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="GunBoobs Tiny" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBoobs Tiny</Data>
+            <Data name="Bags2Boobs Tiny" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Boobs Tiny</Data>
+            <Data name="Bags2 MetalBoobs Tiny" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBoobs Tiny</Data>
+            <Data name="NadeBoobs Tiny" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBoobs Tiny</Data>
+            <Data name="GunHolsterBoobs Tiny" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBoobs Tiny</Data>
+            <Data name="BeltBoobs Tiny" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBoobs Tiny</Data>
+            <Data name="Leg Metal1Boobs Tiny" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Boobs Tiny</Data>
+            <Data name="StrapsBoobs Tiny" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBoobs Tiny</Data>
+            <Data name="Belt 2Boobs Tiny" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Boobs Tiny</Data>
+            <Data name="Bag4Boobs Tiny" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Boobs Tiny</Data>
+            <Data name="AmmoBoobs Tiny" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="Bags2Chest Width" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Chest Width</Data>
+            <Data name="Bags2 MetalChest Width" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalChest Width</Data>
+            <Data name="NadeChest Width" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeChest Width</Data>
+            <Data name="BeltChest Width" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltChest Width</Data>
+            <Data name="Belt Back MetalChest Width" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalChest Width</Data>
+            <Data name="Leg Metal1Chest Width" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Chest Width</Data>
+            <Data name="StrapsChest Width" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsChest Width</Data>
+            <Data name="Belt 2Chest Width" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Chest Width</Data>
+            <Data name="AmmoChest Width" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="Bags2Waist Chubby" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Waist Chubby</Data>
+            <Data name="Bags2 MetalWaist Chubby" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalWaist Chubby</Data>
+            <Data name="NadeWaist Chubby" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeWaist Chubby</Data>
+            <Data name="BeltWaist Chubby" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltWaist Chubby</Data>
+            <Data name="Belt Back MetalWaist Chubby" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalWaist Chubby</Data>
+            <Data name="Leg Metal1Waist Chubby" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Waist Chubby</Data>
+            <Data name="StrapsWaist Chubby" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsWaist Chubby</Data>
+            <Data name="Belt 2Waist Chubby" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Waist Chubby</Data>
+            <Data name="AmmoWaist Chubby" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="Bags2Waist Size" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Waist Size</Data>
+            <Data name="Bags2 MetalWaist Size" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalWaist Size</Data>
+            <Data name="NadeWaist Size" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeWaist Size</Data>
+            <Data name="BeltWaist Size" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltWaist Size</Data>
+            <Data name="Belt Back MetalWaist Size" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalWaist Size</Data>
+            <Data name="Leg Metal1Waist Size" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Waist Size</Data>
+            <Data name="StrapsWaist Size" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsWaist Size</Data>
+            <Data name="Belt 2Waist Size" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Waist Size</Data>
+            <Data name="AmmoWaist Size" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="Bags2Waist Height" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Waist Height</Data>
+            <Data name="Bags2 MetalWaist Height" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalWaist Height</Data>
+            <Data name="NadeWaist Height" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeWaist Height</Data>
+            <Data name="BeltWaist Height" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltWaist Height</Data>
+            <Data name="Belt Back MetalWaist Height" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalWaist Height</Data>
+            <Data name="Leg Metal1Waist Height" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Waist Height</Data>
+            <Data name="StrapsWaist Height" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsWaist Height</Data>
+            <Data name="Belt 2Waist Height" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Waist Height</Data>
+            <Data name="AmmoWaist Height" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="Bags2Waist Line" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Waist Line</Data>
+            <Data name="Bags2 MetalWaist Line" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalWaist Line</Data>
+            <Data name="NadeWaist Line" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeWaist Line</Data>
+            <Data name="BeltWaist Line" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltWaist Line</Data>
+            <Data name="Leg Metal1Waist Line" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Waist Line</Data>
+            <Data name="Belt 2Waist Line" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Waist Line</Data>
+            <Data name="AmmoWaist Line" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="Bags2Back Size" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Back Size</Data>
+            <Data name="Bags2 MetalBack Size" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBack Size</Data>
+            <Data name="NadeBack Size" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBack Size</Data>
+            <Data name="BeltBack Size" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBack Size</Data>
+            <Data name="Belt Back MetalBack Size" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalBack Size</Data>
+            <Data name="Leg Metal1Back Size" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Back Size</Data>
+            <Data name="StrapsBack Size" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBack Size</Data>
+            <Data name="Belt 2Back Size" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Back Size</Data>
+            <Data name="AmmoBack Size" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="Bags2Back Arch" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Back Arch</Data>
+            <Data name="Bags2 MetalBack Arch" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBack Arch</Data>
+            <Data name="BeltBack Arch" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBack Arch</Data>
+            <Data name="Belt Back MetalBack Arch" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalBack Arch</Data>
+            <Data name="Belt 2Back Arch" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Back Arch</Data>
+            <Data name="AmmoBack Arch" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="GunHips Bone" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHips Bone</Data>
+            <Data name="Bags2Hips Bone" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Hips Bone</Data>
+            <Data name="Bags2 MetalHips Bone" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalHips Bone</Data>
+            <Data name="NadeHips Bone" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeHips Bone</Data>
+            <Data name="GunHolsterHips Bone" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterHips Bone</Data>
+            <Data name="BeltHips Bone" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltHips Bone</Data>
+            <Data name="Belt Back MetalHips Bone" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalHips Bone</Data>
+            <Data name="Leg Metal1Hips Bone" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Hips Bone</Data>
+            <Data name="StrapsHips Bone" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsHips Bone</Data>
+            <Data name="Belt 2Hips Bone" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Hips Bone</Data>
+            <Data name="Bag MetalHips Bone" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalHips Bone</Data>
+            <Data name="Bag4Hips Bone" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Hips Bone</Data>
+            <Data name="AmmoHips Bone" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="GunHips Size" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHips Size</Data>
+            <Data name="Bags2Hips Size" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Hips Size</Data>
+            <Data name="Bags2 MetalHips Size" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalHips Size</Data>
+            <Data name="NadeHips Size" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeHips Size</Data>
+            <Data name="GunHolsterHips Size" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterHips Size</Data>
+            <Data name="BeltHips Size" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltHips Size</Data>
+            <Data name="Belt Back MetalHips Size" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalHips Size</Data>
+            <Data name="Leg Metal1Hips Size" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Hips Size</Data>
+            <Data name="GunHolster MetalHips Size" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalHips Size</Data>
+            <Data name="StrapsHips Size" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsHips Size</Data>
+            <Data name="GunHolster AmmoHips Size" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoHips Size</Data>
+            <Data name="Belt 2Hips Size" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Hips Size</Data>
+            <Data name="Belt3Hips Size" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Hips Size</Data>
+            <Data name="Bag MetalHips Size" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalHips Size</Data>
+            <Data name="Bag4Hips Size" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Hips Size</Data>
+            <Data name="AmmoHips Size" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="Bags2Hips Upper Width" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Hips Upper Width</Data>
+            <Data name="Bags2 MetalHips Upper Width" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalHips Upper Width</Data>
+            <Data name="NadeHips Upper Width" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeHips Upper Width</Data>
+            <Data name="BeltHips Upper Width" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltHips Upper Width</Data>
+            <Data name="Belt Back MetalHips Upper Width" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalHips Upper Width</Data>
+            <Data name="Leg Metal1Hips Upper Width" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Hips Upper Width</Data>
+            <Data name="StrapsHips Upper Width" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsHips Upper Width</Data>
+            <Data name="Belt 2Hips Upper Width" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Hips Upper Width</Data>
+            <Data name="AmmoHips Upper Width" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="GunBum Size" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBum Size</Data>
+            <Data name="Bags2Bum Size" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Bum Size</Data>
+            <Data name="Bags2 MetalBum Size" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBum Size</Data>
+            <Data name="NadeBum Size" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBum Size</Data>
+            <Data name="GunHolsterBum Size" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBum Size</Data>
+            <Data name="BeltBum Size" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBum Size</Data>
+            <Data name="Belt Back MetalBum Size" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalBum Size</Data>
+            <Data name="Leg Metal1Bum Size" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Bum Size</Data>
+            <Data name="GunHolster MetalBum Size" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalBum Size</Data>
+            <Data name="StrapsBum Size" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBum Size</Data>
+            <Data name="GunHolster AmmoBum Size" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoBum Size</Data>
+            <Data name="Belt 2Bum Size" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Bum Size</Data>
+            <Data name="Belt3Bum Size" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Bum Size</Data>
+            <Data name="Bag MetalBum Size" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalBum Size</Data>
+            <Data name="Bag4Bum Size" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Bum Size</Data>
+            <Data name="AmmoBum Size" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="Bags2Bum Crack" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Bum Crack</Data>
+            <Data name="Bags2 MetalBum Crack" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBum Crack</Data>
+            <Data name="BeltBum Crack" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBum Crack</Data>
+            <Data name="Belt Back MetalBum Crack" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalBum Crack</Data>
+            <Data name="AmmoBum Crack" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="GunBum Shape 1" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBum Shape 1</Data>
+            <Data name="Bags2Bum Shape 1" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Bum Shape 1</Data>
+            <Data name="Bags2 MetalBum Shape 1" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBum Shape 1</Data>
+            <Data name="BeltBum Shape 1" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBum Shape 1</Data>
+            <Data name="Belt Back MetalBum Shape 1" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalBum Shape 1</Data>
+            <Data name="Leg Metal1Bum Shape 1" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Bum Shape 1</Data>
+            <Data name="StrapsBum Shape 1" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBum Shape 1</Data>
+            <Data name="Belt 2Bum Shape 1" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Bum Shape 1</Data>
+            <Data name="Bag MetalBum Shape 1" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalBum Shape 1</Data>
+            <Data name="Bag4Bum Shape 1" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Bum Shape 1</Data>
+            <Data name="AmmoBum Shape 1" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="GunBum Shape 2" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBum Shape 2</Data>
+            <Data name="Bags2Bum Shape 2" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Bum Shape 2</Data>
+            <Data name="Bags2 MetalBum Shape 2" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBum Shape 2</Data>
+            <Data name="NadeBum Shape 2" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBum Shape 2</Data>
+            <Data name="GunHolsterBum Shape 2" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBum Shape 2</Data>
+            <Data name="BeltBum Shape 2" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBum Shape 2</Data>
+            <Data name="Belt Back MetalBum Shape 2" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalBum Shape 2</Data>
+            <Data name="Leg Metal1Bum Shape 2" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Bum Shape 2</Data>
+            <Data name="GunHolster MetalBum Shape 2" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalBum Shape 2</Data>
+            <Data name="StrapsBum Shape 2" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBum Shape 2</Data>
+            <Data name="GunHolster AmmoBum Shape 2" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoBum Shape 2</Data>
+            <Data name="Belt 2Bum Shape 2" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Bum Shape 2</Data>
+            <Data name="Belt3Bum Shape 2" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Bum Shape 2</Data>
+            <Data name="Bag MetalBum Shape 2" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalBum Shape 2</Data>
+            <Data name="Bag4Bum Shape 2" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Bum Shape 2</Data>
+            <Data name="AmmoBum Shape 2" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="GunBum Small" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBum Small</Data>
+            <Data name="Bags2Bum Small" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Bum Small</Data>
+            <Data name="Bags2 MetalBum Small" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBum Small</Data>
+            <Data name="NadeBum Small" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBum Small</Data>
+            <Data name="GunHolsterBum Small" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBum Small</Data>
+            <Data name="BeltBum Small" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBum Small</Data>
+            <Data name="Belt Back MetalBum Small" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalBum Small</Data>
+            <Data name="Leg Metal1Bum Small" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Bum Small</Data>
+            <Data name="GunHolster MetalBum Small" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalBum Small</Data>
+            <Data name="StrapsBum Small" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBum Small</Data>
+            <Data name="GunHolster AmmoBum Small" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoBum Small</Data>
+            <Data name="Belt 2Bum Small" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Bum Small</Data>
+            <Data name="Belt3Bum Small" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Bum Small</Data>
+            <Data name="Bag MetalBum Small" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalBum Small</Data>
+            <Data name="Bag4Bum Small" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Bum Small</Data>
+            <Data name="AmmoBum Small" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="GunBum Chubby" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBum Chubby</Data>
+            <Data name="Bags2Bum Chubby" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Bum Chubby</Data>
+            <Data name="Bags2 MetalBum Chubby" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBum Chubby</Data>
+            <Data name="NadeBum Chubby" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBum Chubby</Data>
+            <Data name="GunHolsterBum Chubby" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBum Chubby</Data>
+            <Data name="BeltBum Chubby" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBum Chubby</Data>
+            <Data name="Belt Back MetalBum Chubby" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalBum Chubby</Data>
+            <Data name="Leg Metal1Bum Chubby" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Bum Chubby</Data>
+            <Data name="GunHolster MetalBum Chubby" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalBum Chubby</Data>
+            <Data name="StrapsBum Chubby" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBum Chubby</Data>
+            <Data name="GunHolster AmmoBum Chubby" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoBum Chubby</Data>
+            <Data name="Belt 2Bum Chubby" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Bum Chubby</Data>
+            <Data name="Belt3Bum Chubby" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Bum Chubby</Data>
+            <Data name="Bag MetalBum Chubby" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalBum Chubby</Data>
+            <Data name="Bag4Bum Chubby" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Bum Chubby</Data>
+            <Data name="AmmoBum Chubby" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="GunBum Round" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBum Round</Data>
+            <Data name="Bags2Bum Round" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Bum Round</Data>
+            <Data name="Bags2 MetalBum Round" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBum Round</Data>
+            <Data name="BeltBum Round" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBum Round</Data>
+            <Data name="Belt Back MetalBum Round" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalBum Round</Data>
+            <Data name="Leg Metal1Bum Round" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Bum Round</Data>
+            <Data name="Belt 2Bum Round" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Bum Round</Data>
+            <Data name="AmmoBum Round" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="GunBum Apple" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBum Apple</Data>
+            <Data name="Bags2Bum Apple" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Bum Apple</Data>
+            <Data name="Bags2 MetalBum Apple" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBum Apple</Data>
+            <Data name="NadeBum Apple" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBum Apple</Data>
+            <Data name="GunHolsterBum Apple" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBum Apple</Data>
+            <Data name="BeltBum Apple" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBum Apple</Data>
+            <Data name="Belt Back MetalBum Apple" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalBum Apple</Data>
+            <Data name="Leg Metal1Bum Apple" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Bum Apple</Data>
+            <Data name="StrapsBum Apple" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBum Apple</Data>
+            <Data name="Belt 2Bum Apple" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Bum Apple</Data>
+            <Data name="Bag MetalBum Apple" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalBum Apple</Data>
+            <Data name="Bag4Bum Apple" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Bum Apple</Data>
+            <Data name="AmmoBum Apple" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="GunLegs Chubby" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunLegs Chubby</Data>
+            <Data name="Bags2Legs Chubby" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Legs Chubby</Data>
+            <Data name="Bags2 MetalLegs Chubby" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalLegs Chubby</Data>
+            <Data name="NadeLegs Chubby" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeLegs Chubby</Data>
+            <Data name="GunHolsterLegs Chubby" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterLegs Chubby</Data>
+            <Data name="BeltLegs Chubby" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltLegs Chubby</Data>
+            <Data name="Belt Back MetalLegs Chubby" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalLegs Chubby</Data>
+            <Data name="Leg Metal1Legs Chubby" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Legs Chubby</Data>
+            <Data name="GunHolster MetalLegs Chubby" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalLegs Chubby</Data>
+            <Data name="StrapsLegs Chubby" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsLegs Chubby</Data>
+            <Data name="GunHolster AmmoLegs Chubby" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoLegs Chubby</Data>
+            <Data name="Belt 2Legs Chubby" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Legs Chubby</Data>
+            <Data name="Belt3Legs Chubby" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Legs Chubby</Data>
+            <Data name="Bag MetalLegs Chubby" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalLegs Chubby</Data>
+            <Data name="Bag4Legs Chubby" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Legs Chubby</Data>
+            <Data name="AmmoLegs Chubby" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="GunLegs Shape" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunLegs Shape</Data>
+            <Data name="Bags2Legs Shape" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Legs Shape</Data>
+            <Data name="Bags2 MetalLegs Shape" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalLegs Shape</Data>
+            <Data name="NadeLegs Shape" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeLegs Shape</Data>
+            <Data name="GunHolsterLegs Shape" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterLegs Shape</Data>
+            <Data name="Belt Back MetalLegs Shape" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalLegs Shape</Data>
+            <Data name="Leg Metal1Legs Shape" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Legs Shape</Data>
+            <Data name="GunHolster MetalLegs Shape" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalLegs Shape</Data>
+            <Data name="StrapsLegs Shape" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsLegs Shape</Data>
+            <Data name="GunHolster AmmoLegs Shape" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoLegs Shape</Data>
+            <Data name="Belt3Legs Shape" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Legs Shape</Data>
+            <Data name="Bag MetalLegs Shape" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalLegs Shape</Data>
+            <Data name="Bag4Legs Shape" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="GunLegs Thin" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunLegs Thin</Data>
+            <Data name="Bags2Legs Thin" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Legs Thin</Data>
+            <Data name="Bags2 MetalLegs Thin" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalLegs Thin</Data>
+            <Data name="NadeLegs Thin" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeLegs Thin</Data>
+            <Data name="GunHolsterLegs Thin" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterLegs Thin</Data>
+            <Data name="Belt Back MetalLegs Thin" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalLegs Thin</Data>
+            <Data name="Leg Metal1Legs Thin" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Legs Thin</Data>
+            <Data name="GunHolster MetalLegs Thin" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalLegs Thin</Data>
+            <Data name="StrapsLegs Thin" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsLegs Thin</Data>
+            <Data name="GunHolster AmmoLegs Thin" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoLegs Thin</Data>
+            <Data name="Belt3Legs Thin" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Legs Thin</Data>
+            <Data name="Bag MetalLegs Thin" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalLegs Thin</Data>
+            <Data name="Bag4Legs Thin" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="GunThighs Slim" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunThighs Slim</Data>
+            <Data name="Bags2Thighs Slim" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Thighs Slim</Data>
+            <Data name="Bags2 MetalThighs Slim" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalThighs Slim</Data>
+            <Data name="NadeThighs Slim" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeThighs Slim</Data>
+            <Data name="GunHolsterThighs Slim" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterThighs Slim</Data>
+            <Data name="BeltThighs Slim" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltThighs Slim</Data>
+            <Data name="Belt Back MetalThighs Slim" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalThighs Slim</Data>
+            <Data name="Leg Metal1Thighs Slim" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Thighs Slim</Data>
+            <Data name="GunHolster MetalThighs Slim" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalThighs Slim</Data>
+            <Data name="StrapsThighs Slim" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsThighs Slim</Data>
+            <Data name="GunHolster AmmoThighs Slim" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoThighs Slim</Data>
+            <Data name="Belt 2Thighs Slim" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Thighs Slim</Data>
+            <Data name="Belt3Thighs Slim" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Thighs Slim</Data>
+            <Data name="Bag MetalThighs Slim" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalThighs Slim</Data>
+            <Data name="Bag4Thighs Slim" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Thighs Slim</Data>
+            <Data name="AmmoThighs Slim" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="GunThighs Size" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunThighs Size</Data>
+            <Data name="Bags2Thighs Size" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Thighs Size</Data>
+            <Data name="Bags2 MetalThighs Size" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalThighs Size</Data>
+            <Data name="NadeThighs Size" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeThighs Size</Data>
+            <Data name="GunHolsterThighs Size" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterThighs Size</Data>
+            <Data name="BeltThighs Size" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltThighs Size</Data>
+            <Data name="Belt Back MetalThighs Size" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalThighs Size</Data>
+            <Data name="Leg Metal1Thighs Size" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Thighs Size</Data>
+            <Data name="GunHolster MetalThighs Size" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalThighs Size</Data>
+            <Data name="StrapsThighs Size" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsThighs Size</Data>
+            <Data name="GunHolster AmmoThighs Size" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoThighs Size</Data>
+            <Data name="Belt 2Thighs Size" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Thighs Size</Data>
+            <Data name="Belt3Thighs Size" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Thighs Size</Data>
+            <Data name="Bag MetalThighs Size" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalThighs Size</Data>
+            <Data name="Bag4Thighs Size" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Thighs Size</Data>
+            <Data name="AmmoThighs Size" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="GunTorso Size" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunTorso Size</Data>
+            <Data name="Bags2Torso Size" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Torso Size</Data>
+            <Data name="Bags2 MetalTorso Size" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalTorso Size</Data>
+            <Data name="NadeTorso Size" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeTorso Size</Data>
+            <Data name="BeltTorso Size" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltTorso Size</Data>
+            <Data name="Belt Back MetalTorso Size" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalTorso Size</Data>
+            <Data name="Leg Metal1Torso Size" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Torso Size</Data>
+            <Data name="StrapsTorso Size" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsTorso Size</Data>
+            <Data name="Belt 2Torso Size" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Torso Size</Data>
+            <Data name="Bag4Torso Size" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Torso Size</Data>
+            <Data name="AmmoTorso Size" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="GunSturnum Depth" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunSturnum Depth</Data>
+            <Data name="Bags2Sturnum Depth" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Sturnum Depth</Data>
+            <Data name="Bags2 MetalSturnum Depth" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalSturnum Depth</Data>
+            <Data name="NadeSturnum Depth" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeSturnum Depth</Data>
+            <Data name="GunHolsterSturnum Depth" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterSturnum Depth</Data>
+            <Data name="BeltSturnum Depth" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltSturnum Depth</Data>
+            <Data name="Leg Metal1Sturnum Depth" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Sturnum Depth</Data>
+            <Data name="StrapsSturnum Depth" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsSturnum Depth</Data>
+            <Data name="Belt 2Sturnum Depth" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Sturnum Depth</Data>
+            <Data name="Bag4Sturnum Depth" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Sturnum Depth</Data>
+            <Data name="AmmoSturnum Depth" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="GunSturnum Height" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunSturnum Height</Data>
+            <Data name="Bags2Sturnum Height" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Sturnum Height</Data>
+            <Data name="Bags2 MetalSturnum Height" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalSturnum Height</Data>
+            <Data name="NadeSturnum Height" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeSturnum Height</Data>
+            <Data name="GunHolsterSturnum Height" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterSturnum Height</Data>
+            <Data name="BeltSturnum Height" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltSturnum Height</Data>
+            <Data name="Leg Metal1Sturnum Height" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Sturnum Height</Data>
+            <Data name="StrapsSturnum Height" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsSturnum Height</Data>
+            <Data name="Belt 2Sturnum Height" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Sturnum Height</Data>
+            <Data name="Bag4Sturnum Height" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Sturnum Height</Data>
+            <Data name="AmmoSturnum Height" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="GunGroin Position" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunGroin Position</Data>
+            <Data name="Bags2Groin Position" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Groin Position</Data>
+            <Data name="Bags2 MetalGroin Position" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalGroin Position</Data>
+            <Data name="NadeGroin Position" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeGroin Position</Data>
+            <Data name="GunHolsterGroin Position" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterGroin Position</Data>
+            <Data name="BeltGroin Position" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltGroin Position</Data>
+            <Data name="Leg Metal1Groin Position" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Groin Position</Data>
+            <Data name="StrapsGroin Position" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsGroin Position</Data>
+            <Data name="Belt 2Groin Position" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Groin Position</Data>
+            <Data name="Bag4Groin Position" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Groin Position</Data>
+            <Data name="AmmoGroin Position" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="GunGroin Back" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunGroin Back</Data>
+            <Data name="Bags2Groin Back" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Groin Back</Data>
+            <Data name="Bags2 MetalGroin Back" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalGroin Back</Data>
+            <Data name="NadeGroin Back" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeGroin Back</Data>
+            <Data name="GunHolsterGroin Back" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterGroin Back</Data>
+            <Data name="BeltGroin Back" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltGroin Back</Data>
+            <Data name="Leg Metal1Groin Back" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Groin Back</Data>
+            <Data name="StrapsGroin Back" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsGroin Back</Data>
+            <Data name="GunHolster AmmoGroin Back" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoGroin Back</Data>
+            <Data name="Belt 2Groin Back" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Groin Back</Data>
+            <Data name="Belt3Groin Back" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Groin Back</Data>
+            <Data name="Bag MetalGroin Back" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalGroin Back</Data>
+            <Data name="Bag4Groin Back" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Groin Back</Data>
+            <Data name="AmmoGroin Back" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="Bags2AbDefinition" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2AbDefinition</Data>
+            <Data name="Bags2 MetalAbDefinition" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalAbDefinition</Data>
+            <Data name="NadeAbDefinition" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeAbDefinition</Data>
+            <Data name="BeltAbDefinition" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltAbDefinition</Data>
+            <Data name="Leg Metal1AbDefinition" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1AbDefinition</Data>
+            <Data name="StrapsAbDefinition" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsAbDefinition</Data>
+            <Data name="Belt 2AbDefinition" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2AbDefinition</Data>
+            <Data name="AmmoAbDefinition" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="GunBody Toning" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBody Toning</Data>
+            <Data name="Bags2Body Toning" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Body Toning</Data>
+            <Data name="Bags2 MetalBody Toning" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBody Toning</Data>
+            <Data name="NadeBody Toning" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBody Toning</Data>
+            <Data name="GunHolsterBody Toning" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBody Toning</Data>
+            <Data name="BeltBody Toning" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBody Toning</Data>
+            <Data name="Belt Back MetalBody Toning" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalBody Toning</Data>
+            <Data name="Leg Metal1Body Toning" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Body Toning</Data>
+            <Data name="GunHolster MetalBody Toning" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalBody Toning</Data>
+            <Data name="StrapsBody Toning" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBody Toning</Data>
+            <Data name="GunHolster AmmoBody Toning" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoBody Toning</Data>
+            <Data name="Belt 2Body Toning" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Body Toning</Data>
+            <Data name="Belt3Body Toning" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Body Toning</Data>
+            <Data name="Bag MetalBody Toning" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalBody Toning</Data>
+            <Data name="Bag4Body Toning" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Body Toning</Data>
+            <Data name="AmmoBody Toning" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="GunTigerSanBB" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunTigerSanBB</Data>
+            <Data name="Bags2TigerSanBB" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2TigerSanBB</Data>
+            <Data name="Bags2 MetalTigerSanBB" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalTigerSanBB</Data>
+            <Data name="NadeTigerSanBB" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeTigerSanBB</Data>
+            <Data name="GunHolsterTigerSanBB" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterTigerSanBB</Data>
+            <Data name="BeltTigerSanBB" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltTigerSanBB</Data>
+            <Data name="Belt Back MetalTigerSanBB" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalTigerSanBB</Data>
+            <Data name="Leg Metal1TigerSanBB" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1TigerSanBB</Data>
+            <Data name="GunHolster MetalTigerSanBB" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalTigerSanBB</Data>
+            <Data name="StrapsTigerSanBB" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsTigerSanBB</Data>
+            <Data name="GunHolster AmmoTigerSanBB" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoTigerSanBB</Data>
+            <Data name="Belt 2TigerSanBB" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2TigerSanBB</Data>
+            <Data name="Belt3TigerSanBB" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3TigerSanBB</Data>
+            <Data name="Bag MetalTigerSanBB" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalTigerSanBB</Data>
+            <Data name="Bag4TigerSanBB" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4TigerSanBB</Data>
+            <Data name="AmmoTigerSanBB" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="Bags2XunAbs" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2XunAbs</Data>
+            <Data name="NadeXunAbs" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeXunAbs</Data>
+            <Data name="BeltXunAbs" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltXunAbs</Data>
+            <Data name="Leg Metal1XunAbs" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1XunAbs</Data>
+            <Data name="StrapsXunAbs" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsXunAbs</Data>
+            <Data name="Belt 2XunAbs" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2XunAbs</Data>
+            <Data name="AmmoXunAbs" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="Bags2FFB Fitness 2" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2FFB Fitness 2</Data>
+            <Data name="Bags2 MetalFFB Fitness 2" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalFFB Fitness 2</Data>
+            <Data name="NadeFFB Fitness 2" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeFFB Fitness 2</Data>
+            <Data name="BeltFFB Fitness 2" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltFFB Fitness 2</Data>
+            <Data name="Belt Back MetalFFB Fitness 2" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalFFB Fitness 2</Data>
+            <Data name="Leg Metal1FFB Fitness 2" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1FFB Fitness 2</Data>
+            <Data name="StrapsFFB Fitness 2" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsFFB Fitness 2</Data>
+            <Data name="Belt 2FFB Fitness 2" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2FFB Fitness 2</Data>
+            <Data name="AmmoFFB Fitness 2" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="GunAthletic" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunAthletic</Data>
+            <Data name="Bags2Athletic" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Athletic</Data>
+            <Data name="Bags2 MetalAthletic" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalAthletic</Data>
+            <Data name="NadeAthletic" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeAthletic</Data>
+            <Data name="GunHolsterAthletic" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterAthletic</Data>
+            <Data name="BeltAthletic" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltAthletic</Data>
+            <Data name="Belt Back MetalAthletic" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalAthletic</Data>
+            <Data name="Leg Metal1Athletic" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Athletic</Data>
+            <Data name="GunHolster MetalAthletic" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalAthletic</Data>
+            <Data name="StrapsAthletic" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsAthletic</Data>
+            <Data name="GunHolster AmmoAthletic" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoAthletic</Data>
+            <Data name="Belt 2Athletic" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Athletic</Data>
+            <Data name="Belt3Athletic" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Athletic</Data>
+            <Data name="Bag MetalAthletic" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalAthletic</Data>
+            <Data name="Bag4Athletic" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Athletic</Data>
+            <Data name="AmmoAthletic" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="GunSeveNBase Bombshell" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunSeveNBase Bombshell</Data>
+            <Data name="Bags2SeveNBase Bombshell" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2SeveNBase Bombshell</Data>
+            <Data name="Bags2 MetalSeveNBase Bombshell" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalSeveNBase Bombshell</Data>
+            <Data name="NadeSeveNBase Bombshell" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeSeveNBase Bombshell</Data>
+            <Data name="GunHolsterSeveNBase Bombshell" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterSeveNBase Bombshell</Data>
+            <Data name="BeltSeveNBase Bombshell" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltSeveNBase Bombshell</Data>
+            <Data name="Belt Back MetalSeveNBase Bombshell" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalSeveNBase Bombshell</Data>
+            <Data name="Leg Metal1SeveNBase Bombshell" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1SeveNBase Bombshell</Data>
+            <Data name="GunHolster MetalSeveNBase Bombshell" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalSeveNBase Bombshell</Data>
+            <Data name="StrapsSeveNBase Bombshell" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsSeveNBase Bombshell</Data>
+            <Data name="GunHolster AmmoSeveNBase Bombshell" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoSeveNBase Bombshell</Data>
+            <Data name="Belt 2SeveNBase Bombshell" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2SeveNBase Bombshell</Data>
+            <Data name="Belt3SeveNBase Bombshell" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3SeveNBase Bombshell</Data>
+            <Data name="Bag MetalSeveNBase Bombshell" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalSeveNBase Bombshell</Data>
+            <Data name="Bag4SeveNBase Bombshell" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4SeveNBase Bombshell</Data>
+            <Data name="AmmoSeveNBase Bombshell" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="GunKnee Height" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunKnee Height</Data>
+            <Data name="GunHolsterKnee Height" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterKnee Height</Data>
+            <Data name="Leg Metal1Knee Height" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Knee Height</Data>
+            <Data name="GunHolster MetalKnee Height" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalKnee Height</Data>
+            <Data name="StrapsKnee Height" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsKnee Height</Data>
+            <Data name="GunHolster AmmoKnee Height" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoKnee Height</Data>
+            <Data name="Belt3Knee Height" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Knee Height</Data>
+            <Data name="Bag4Knee Height" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Knee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="Bags2Shoulder Width" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2Shoulder Width</Data>
+            <Data name="Bags2 MetalShoulder Width" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalShoulder Width</Data>
+            <Data name="BeltShoulder Width" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltShoulder Width</Data>
+            <Data name="Belt Back MetalShoulder Width" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalShoulder Width</Data>
+            <Data name="Leg Metal1Shoulder Width" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1Shoulder Width</Data>
+            <Data name="Belt 2Shoulder Width" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2Shoulder Width</Data>
+            <Data name="AmmoShoulder Width" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="GunBodyFat" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunBodyFat</Data>
+            <Data name="Bags2BodyFat" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2BodyFat</Data>
+            <Data name="Bags2 MetalBodyFat" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalBodyFat</Data>
+            <Data name="NadeBodyFat" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeBodyFat</Data>
+            <Data name="GunHolsterBodyFat" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterBodyFat</Data>
+            <Data name="BeltBodyFat" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltBodyFat</Data>
+            <Data name="Belt Back MetalBodyFat" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalBodyFat</Data>
+            <Data name="Leg Metal1BodyFat" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1BodyFat</Data>
+            <Data name="GunHolster MetalBodyFat" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalBodyFat</Data>
+            <Data name="StrapsBodyFat" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsBodyFat</Data>
+            <Data name="GunHolster AmmoBodyFat" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoBodyFat</Data>
+            <Data name="Belt 2BodyFat" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2BodyFat</Data>
+            <Data name="Belt3BodyFat" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3BodyFat</Data>
+            <Data name="Bag MetalBodyFat" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalBodyFat</Data>
+            <Data name="Bag4BodyFat" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4BodyFat</Data>
+            <Data name="AmmoBodyFat" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="GunLegThin" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunLegThin</Data>
+            <Data name="Bags2LegThin" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2LegThin</Data>
+            <Data name="Bags2 MetalLegThin" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalLegThin</Data>
+            <Data name="NadeLegThin" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeLegThin</Data>
+            <Data name="GunHolsterLegThin" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterLegThin</Data>
+            <Data name="BeltLegThin" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltLegThin</Data>
+            <Data name="Belt Back MetalLegThin" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalLegThin</Data>
+            <Data name="Leg Metal1LegThin" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1LegThin</Data>
+            <Data name="GunHolster MetalLegThin" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalLegThin</Data>
+            <Data name="StrapsLegThin" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsLegThin</Data>
+            <Data name="GunHolster AmmoLegThin" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoLegThin</Data>
+            <Data name="Belt 2LegThin" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2LegThin</Data>
+            <Data name="Belt3LegThin" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3LegThin</Data>
+            <Data name="Bag MetalLegThin" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalLegThin</Data>
+            <Data name="Bag4LegThin" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4LegThin</Data>
+            <Data name="AmmoLegThin" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="GunHipsNarrow" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHipsNarrow</Data>
+            <Data name="Bags2HipsNarrow" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2HipsNarrow</Data>
+            <Data name="Bags2 MetalHipsNarrow" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalHipsNarrow</Data>
+            <Data name="NadeHipsNarrow" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeHipsNarrow</Data>
+            <Data name="GunHolsterHipsNarrow" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterHipsNarrow</Data>
+            <Data name="BeltHipsNarrow" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltHipsNarrow</Data>
+            <Data name="Belt Back MetalHipsNarrow" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalHipsNarrow</Data>
+            <Data name="Leg Metal1HipsNarrow" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1HipsNarrow</Data>
+            <Data name="GunHolster MetalHipsNarrow" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalHipsNarrow</Data>
+            <Data name="StrapsHipsNarrow" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsHipsNarrow</Data>
+            <Data name="GunHolster AmmoHipsNarrow" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoHipsNarrow</Data>
+            <Data name="Belt 2HipsNarrow" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2HipsNarrow</Data>
+            <Data name="Belt3HipsNarrow" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3HipsNarrow</Data>
+            <Data name="Bag MetalHipsNarrow" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalHipsNarrow</Data>
+            <Data name="Bag4HipsNarrow" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4HipsNarrow</Data>
+            <Data name="AmmoHipsNarrow" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="GunButtGravity" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunButtGravity</Data>
+            <Data name="GunHolsterButtGravity" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterButtGravity</Data>
+            <Data name="StrapsButtGravity" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsButtGravity</Data>
+            <Data name="Bag MetalButtGravity" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalButtGravity</Data>
+            <Data name="Bag4ButtGravity" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="GunButtThin" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunButtThin</Data>
+            <Data name="Bags2ButtThin" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2ButtThin</Data>
+            <Data name="Bags2 MetalButtThin" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalButtThin</Data>
+            <Data name="GunHolsterButtThin" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterButtThin</Data>
+            <Data name="BeltButtThin" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltButtThin</Data>
+            <Data name="Belt Back MetalButtThin" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalButtThin</Data>
+            <Data name="Leg Metal1ButtThin" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1ButtThin</Data>
+            <Data name="GunHolster MetalButtThin" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalButtThin</Data>
+            <Data name="StrapsButtThin" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsButtThin</Data>
+            <Data name="GunHolster AmmoButtThin" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoButtThin</Data>
+            <Data name="Belt 2ButtThin" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2ButtThin</Data>
+            <Data name="Belt3ButtThin" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3ButtThin</Data>
+            <Data name="Bag MetalButtThin" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalButtThin</Data>
+            <Data name="Bag4ButtThin" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4ButtThin</Data>
+            <Data name="AmmoButtThin" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="GunHipsForward" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHipsForward</Data>
+            <Data name="Bags2HipsForward" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2HipsForward</Data>
+            <Data name="Bags2 MetalHipsForward" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalHipsForward</Data>
+            <Data name="NadeHipsForward" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeHipsForward</Data>
+            <Data name="GunHolsterHipsForward" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterHipsForward</Data>
+            <Data name="BeltHipsForward" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltHipsForward</Data>
+            <Data name="Belt Back MetalHipsForward" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalHipsForward</Data>
+            <Data name="Leg Metal1HipsForward" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1HipsForward</Data>
+            <Data name="GunHolster MetalHipsForward" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalHipsForward</Data>
+            <Data name="StrapsHipsForward" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsHipsForward</Data>
+            <Data name="GunHolster AmmoHipsForward" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoHipsForward</Data>
+            <Data name="Belt 2HipsForward" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2HipsForward</Data>
+            <Data name="Belt3HipsForward" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3HipsForward</Data>
+            <Data name="Bag MetalHipsForward" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalHipsForward</Data>
+            <Data name="Bag4HipsForward" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4HipsForward</Data>
+            <Data name="AmmoHipsForward" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="Bags2HipRotateForward" target="Bags2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2HipRotateForward</Data>
+            <Data name="Bags2 MetalHipRotateForward" target="Bags2 Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bags2 MetalHipRotateForward</Data>
+            <Data name="NadeHipRotateForward" target="Nade" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\NadeHipRotateForward</Data>
+            <Data name="BeltHipRotateForward" target="Belt" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\BeltHipRotateForward</Data>
+            <Data name="Belt Back MetalHipRotateForward" target="Belt Back Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt Back MetalHipRotateForward</Data>
+            <Data name="Leg Metal1HipRotateForward" target="Leg Metal1" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Leg Metal1HipRotateForward</Data>
+            <Data name="StrapsHipRotateForward" target="Straps" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\StrapsHipRotateForward</Data>
+            <Data name="Belt 2HipRotateForward" target="Belt 2" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt 2HipRotateForward</Data>
+            <Data name="AmmoHipRotateForward" target="Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\AmmoHipRotateForward</Data>
+        </Slider>
+        <Slider name="Legs Gun&amp;Bag" invert="false" default="0" zap="true">
+            <Data name="GunLegs Gun&amp;Bag" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunLegs Gun&amp;Bag</Data>
+            <Data name="GunHolsterLegs Gun&amp;Bag" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterLegs Gun&amp;Bag</Data>
+            <Data name="GunHolster MetalLegs Gun&amp;Bag" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalLegs Gun&amp;Bag</Data>
+            <Data name="GunHolster AmmoLegs Gun&amp;Bag" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoLegs Gun&amp;Bag</Data>
+            <Data name="Belt3Legs Gun&amp;Bag" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Legs Gun&amp;Bag</Data>
+            <Data name="Bag MetalLegs Gun&amp;Bag" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalLegs Gun&amp;Bag</Data>
+            <Data name="Bag4Legs Gun&amp;Bag" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Legs Gun&amp;Bag</Data>
+        </Slider>
+        <Slider name="Legs Gun&amp;Bag" invert="false" default="0" zap="true">
+            <Data name="GunLegs Gun&amp;Bag" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunLegs Gun&amp;Bag</Data>
+            <Data name="GunHolsterLegs Gun&amp;Bag" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterLegs Gun&amp;Bag</Data>
+            <Data name="GunHolster MetalLegs Gun&amp;Bag" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalLegs Gun&amp;Bag</Data>
+            <Data name="GunHolster AmmoLegs Gun&amp;Bag" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoLegs Gun&amp;Bag</Data>
+            <Data name="Belt3Legs Gun&amp;Bag" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Legs Gun&amp;Bag</Data>
+            <Data name="Bag MetalLegs Gun&amp;Bag" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalLegs Gun&amp;Bag</Data>
+            <Data name="Bag4Legs Gun&amp;Bag" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Legs Gun&amp;Bag</Data>
+        </Slider>
+        <Slider name="Legs Gun&amp;Bag" invert="false" default="0" zap="true">
+            <Data name="GunLegs Gun&amp;Bag" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunLegs Gun&amp;Bag</Data>
+            <Data name="GunHolsterLegs Gun&amp;Bag" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterLegs Gun&amp;Bag</Data>
+            <Data name="GunHolster MetalLegs Gun&amp;Bag" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalLegs Gun&amp;Bag</Data>
+            <Data name="GunHolster AmmoLegs Gun&amp;Bag" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoLegs Gun&amp;Bag</Data>
+            <Data name="Belt3Legs Gun&amp;Bag" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Legs Gun&amp;Bag</Data>
+            <Data name="Bag MetalLegs Gun&amp;Bag" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalLegs Gun&amp;Bag</Data>
+            <Data name="Bag4Legs Gun&amp;Bag" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Legs Gun&amp;Bag</Data>
+        </Slider>
+        <Slider name="Legs Gun&amp;Bag" invert="false" default="0" zap="true">
+            <Data name="GunLegs Gun&amp;Bag" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunLegs Gun&amp;Bag</Data>
+            <Data name="GunHolsterLegs Gun&amp;Bag" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterLegs Gun&amp;Bag</Data>
+            <Data name="GunHolster MetalLegs Gun&amp;Bag" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalLegs Gun&amp;Bag</Data>
+            <Data name="GunHolster AmmoLegs Gun&amp;Bag" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoLegs Gun&amp;Bag</Data>
+            <Data name="Belt3Legs Gun&amp;Bag" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Legs Gun&amp;Bag</Data>
+            <Data name="Bag MetalLegs Gun&amp;Bag" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalLegs Gun&amp;Bag</Data>
+            <Data name="Bag4Legs Gun&amp;Bag" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Legs Gun&amp;Bag</Data>
+        </Slider>
+        <Slider name="Legs Gun&amp;Bag" invert="false" default="0" zap="true">
+            <Data name="GunLegs Gun&amp;Bag" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunLegs Gun&amp;Bag</Data>
+            <Data name="GunHolsterLegs Gun&amp;Bag" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterLegs Gun&amp;Bag</Data>
+            <Data name="GunHolster MetalLegs Gun&amp;Bag" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalLegs Gun&amp;Bag</Data>
+            <Data name="GunHolster AmmoLegs Gun&amp;Bag" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoLegs Gun&amp;Bag</Data>
+            <Data name="Belt3Legs Gun&amp;Bag" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Legs Gun&amp;Bag</Data>
+            <Data name="Bag MetalLegs Gun&amp;Bag" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalLegs Gun&amp;Bag</Data>
+            <Data name="Bag4Legs Gun&amp;Bag" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Legs Gun&amp;Bag</Data>
+        </Slider>
+        <Slider name="Legs Gun&amp;Bag" invert="false" default="0" zap="true">
+            <Data name="GunLegs Gun&amp;Bag" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunLegs Gun&amp;Bag</Data>
+            <Data name="GunHolsterLegs Gun&amp;Bag" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterLegs Gun&amp;Bag</Data>
+            <Data name="GunHolster MetalLegs Gun&amp;Bag" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalLegs Gun&amp;Bag</Data>
+            <Data name="GunHolster AmmoLegs Gun&amp;Bag" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoLegs Gun&amp;Bag</Data>
+            <Data name="Belt3Legs Gun&amp;Bag" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Legs Gun&amp;Bag</Data>
+            <Data name="Bag MetalLegs Gun&amp;Bag" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalLegs Gun&amp;Bag</Data>
+            <Data name="Bag4Legs Gun&amp;Bag" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Legs Gun&amp;Bag</Data>
+        </Slider>
+        <Slider name="Legs Gun&amp;Bag" invert="false" default="0" zap="true">
+            <Data name="GunLegs Gun&amp;Bag" target="Gun" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunLegs Gun&amp;Bag</Data>
+            <Data name="GunHolsterLegs Gun&amp;Bag" target="GunHolster" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolsterLegs Gun&amp;Bag</Data>
+            <Data name="GunHolster MetalLegs Gun&amp;Bag" target="GunHolster Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster MetalLegs Gun&amp;Bag</Data>
+            <Data name="GunHolster AmmoLegs Gun&amp;Bag" target="GunHolster Ammo" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\GunHolster AmmoLegs Gun&amp;Bag</Data>
+            <Data name="Belt3Legs Gun&amp;Bag" target="Belt3" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Belt3Legs Gun&amp;Bag</Data>
+            <Data name="Bag MetalLegs Gun&amp;Bag" target="Bag Metal" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag MetalLegs Gun&amp;Bag</Data>
+            <Data name="Bag4Legs Gun&amp;Bag" target="Bag4" local="true">Vtaw Wardrobe 7 Tactical Belt FG.osd\Bag4Legs Gun&amp;Bag</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,508 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Courser X-92 Power Suit">
+        <DataFolder>Courser X-92 Power Suit</DataFolder>
+        <SourceFile>Courser X-92 Power Suit.nif</SourceFile>
+        <OutputPath>Meshes\DX\CourserPowerSuit\Suit</OutputPath>
+        <OutputFile GenWeights="false">Suit</OutputFile>
+        <Shape target="Belts">Belts</Shape>
+        <Shape target="Boots">Boots</Shape>
+        <Shape target="CBBE" DataFolder="CBBE">CBBE</Shape>
+        <Shape target="Glow">Glow</Shape>
+        <Shape target="Suit">Suit</Shape>
+        <Slider name="Breasts" invert="false" default="0">
+            <Data name="CBBEBreasts" target="CBBE">CBBEBody.osd\CBBEBreasts</Data>
+            <Data name="SuitBreasts" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreasts</Data>
+            <Data name="GlowBreasts" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreasts</Data>
+            <Data name="BeltsBreasts" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreasts</Data>
+        </Slider>
+        <Slider name="BreastsCleavage" invert="false" default="0">
+            <Data name="CBBEBreastsCleavage" target="CBBE">CBBEBody.osd\CBBEBreastsCleavage</Data>
+            <Data name="SuitBreastsCleavage" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastsCleavage</Data>
+            <Data name="GlowBreastsCleavage" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastsCleavage</Data>
+            <Data name="BeltsBreastsCleavage" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastsCleavage</Data>
+        </Slider>
+        <Slider name="BreastsGone" invert="false" default="0">
+            <Data name="CBBEBreastsGone" target="CBBE">CBBEBody.osd\CBBEBreastsGone</Data>
+            <Data name="SuitBreastsGone" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastsGone</Data>
+            <Data name="GlowBreastsGone" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastsGone</Data>
+            <Data name="BeltsBreastsGone" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastsGone</Data>
+        </Slider>
+        <Slider name="BreastsNewSH" invert="false" default="0">
+            <Data name="CBBEBreastsNewSH" target="CBBE">CBBEBody.osd\CBBEBreastsNewSH</Data>
+            <Data name="SuitBreastsNewSH" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastsNewSH</Data>
+            <Data name="GlowBreastsNewSH" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastsNewSH</Data>
+            <Data name="BeltsBreastsNewSH" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastsNewSH</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="false" default="0">
+            <Data name="CBBEBreastsSmall" target="CBBE">CBBEBody.osd\CBBEBreastsSmall</Data>
+            <Data name="SuitBreastsSmall" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastsSmall</Data>
+            <Data name="GlowBreastsSmall" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastsSmall</Data>
+            <Data name="BeltsBreastsSmall" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSmall2" invert="false" default="0">
+            <Data name="CBBEBreastsSmall2" target="CBBE">CBBEBody.osd\CBBEBreastsSmall2</Data>
+            <Data name="SuitBreastsSmall2" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastsSmall2</Data>
+            <Data name="GlowBreastsSmall2" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastsSmall2</Data>
+            <Data name="BeltsBreastsSmall2" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastsSmall2</Data>
+        </Slider>
+        <Slider name="BreastsTogether" invert="false" default="0">
+            <Data name="CBBEBreastsTogether" target="CBBE">CBBEBody.osd\CBBEBreastsTogether</Data>
+            <Data name="SuitBreastsTogether" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastsTogether</Data>
+            <Data name="GlowBreastsTogether" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastsTogether</Data>
+            <Data name="BeltsBreastsTogether" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastsTogether</Data>
+        </Slider>
+        <Slider name="BreastTopSlope" invert="false" default="0">
+            <Data name="CBBEBreastTopSlope" target="CBBE">CBBEBody.osd\CBBEBreastTopSlope</Data>
+            <Data name="SuitBreastTopSlope" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastTopSlope</Data>
+            <Data name="GlowBreastTopSlope" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastTopSlope</Data>
+            <Data name="BeltsBreastTopSlope" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastTopSlope</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="CBBEBreastWidth" target="CBBE">CBBEBody.osd\CBBEBreastWidth</Data>
+            <Data name="SuitBreastWidth" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastWidth</Data>
+            <Data name="GlowBreastWidth" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastWidth</Data>
+            <Data name="BeltsBreastWidth" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastWidth</Data>
+        </Slider>
+        <Slider name="Butt" invert="false" default="0">
+            <Data name="CBBEButt" target="CBBE">CBBEBody.osd\CBBEButt</Data>
+            <Data name="SuitButt" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitButt</Data>
+            <Data name="GlowButt" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowButt</Data>
+            <Data name="BeltsButt" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsButt</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="false" default="0">
+            <Data name="CBBEButtCrack" target="CBBE">CBBEBody.osd\CBBEButtCrack</Data>
+            <Data name="SuitButtCrack" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitButtCrack</Data>
+            <Data name="GlowButtCrack" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowButtCrack</Data>
+            <Data name="BeltsButtCrack" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsButtCrack</Data>
+        </Slider>
+        <Slider name="ButtNew" invert="false" default="0">
+            <Data name="CBBEButtNew" target="CBBE">CBBEBody.osd\CBBEButtNew</Data>
+            <Data name="SuitButtNew" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitButtNew</Data>
+            <Data name="GlowButtNew" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowButtNew</Data>
+            <Data name="BeltsButtNew" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsButtNew</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="CBBEButtShape2" target="CBBE">CBBEBody.osd\CBBEButtShape2</Data>
+            <Data name="SuitButtShape2" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitButtShape2</Data>
+            <Data name="GlowButtShape2" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowButtShape2</Data>
+            <Data name="BeltsButtShape2" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsButtShape2</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="false" default="0">
+            <Data name="CBBEButtSmall" target="CBBE">CBBEBody.osd\CBBEButtSmall</Data>
+            <Data name="SuitButtSmall" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitButtSmall</Data>
+            <Data name="GlowButtSmall" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowButtSmall</Data>
+            <Data name="BeltsButtSmall" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsButtSmall</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" default="0">
+            <Data name="CBBECalfSize" target="CBBE">CBBEBody.osd\CBBECalfSize</Data>
+            <Data name="SuitCalfSize" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitCalfSize</Data>
+            <Data name="GlowCalfSize" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowCalfSize</Data>
+            <Data name="BeltsCalfSize" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsCalfSize</Data>
+            <Data name="BootsCalfSize" target="Boots" local="true">Courser X-92 Power Suit.osd\BootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" default="0">
+            <Data name="CBBECalfSmooth" target="CBBE">CBBEBody.osd\CBBECalfSmooth</Data>
+            <Data name="SuitCalfSmooth" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitCalfSmooth</Data>
+            <Data name="GlowCalfSmooth" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowCalfSmooth</Data>
+            <Data name="BeltsCalfSmooth" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsCalfSmooth</Data>
+            <Data name="BootsCalfSmooth" target="Boots" local="true">Courser X-92 Power Suit.osd\BootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="ChestDepth" invert="false" default="0">
+            <Data name="CBBEChestDepth" target="CBBE">CBBEBody.osd\CBBEChestDepth</Data>
+            <Data name="SuitChestDepth" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitChestDepth</Data>
+            <Data name="GlowChestDepth" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowChestDepth</Data>
+            <Data name="BeltsChestDepth" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsChestDepth</Data>
+        </Slider>
+        <Slider name="ChestWidth" invert="false" default="0">
+            <Data name="CBBEChestWidth" target="CBBE">CBBEBody.osd\CBBEChestWidth</Data>
+            <Data name="SuitChestWidth" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitChestWidth</Data>
+            <Data name="GlowChestWidth" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowChestWidth</Data>
+            <Data name="BeltsChestWidth" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsChestWidth</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="CBBEChubbyArms" target="CBBE">CBBEBody.osd\CBBEChubbyArms</Data>
+            <Data name="SuitChubbyArms" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitChubbyArms</Data>
+            <Data name="GlowChubbyArms" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowChubbyArms</Data>
+            <Data name="BeltsChubbyArms" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsChubbyArms</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="CBBEChubbyButt" target="CBBE">CBBEBody.osd\CBBEChubbyButt</Data>
+            <Data name="SuitChubbyButt" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitChubbyButt</Data>
+            <Data name="GlowChubbyButt" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowChubbyButt</Data>
+            <Data name="BeltsChubbyButt" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsChubbyButt</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="CBBEChubbyLegs" target="CBBE">CBBEBody.osd\CBBEChubbyLegs</Data>
+            <Data name="SuitChubbyLegs" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitChubbyLegs</Data>
+            <Data name="GlowChubbyLegs" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowChubbyLegs</Data>
+            <Data name="BeltsChubbyLegs" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsChubbyLegs</Data>
+            <Data name="BootsChubbyLegs" target="Boots" local="true">Courser X-92 Power Suit.osd\BootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="CBBEChubbyWaist" target="CBBE">CBBEBody.osd\CBBEChubbyWaist</Data>
+            <Data name="SuitChubbyWaist" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitChubbyWaist</Data>
+            <Data name="GlowChubbyWaist" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowChubbyWaist</Data>
+            <Data name="BeltsChubbyWaist" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsChubbyWaist</Data>
+        </Slider>
+        <Slider name="CrotchBack" invert="false" default="0">
+            <Data name="CBBECrotchBack" target="CBBE">CBBEBody.osd\CBBECrotchBack</Data>
+            <Data name="SuitCrotchBack" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitCrotchBack</Data>
+            <Data name="GlowCrotchBack" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowCrotchBack</Data>
+            <Data name="BeltsCrotchBack" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsCrotchBack</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="CBBEDoubleMelon" target="CBBE">CBBEBody.osd\CBBEDoubleMelon</Data>
+            <Data name="SuitDoubleMelon" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitDoubleMelon</Data>
+            <Data name="GlowDoubleMelon" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowDoubleMelon</Data>
+            <Data name="BeltsDoubleMelon" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsDoubleMelon</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" default="0">
+            <Data name="CBBEGroin" target="CBBE">CBBEBody.osd\CBBEGroin</Data>
+            <Data name="SuitGroin" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitGroin</Data>
+            <Data name="GlowGroin" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowGroin</Data>
+            <Data name="BeltsGroin" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsGroin</Data>
+        </Slider>
+        <Slider name="HipBack" invert="false" default="0">
+            <Data name="CBBEHipBack" target="CBBE">CBBEBody.osd\CBBEHipBack</Data>
+            <Data name="SuitHipBack" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitHipBack</Data>
+            <Data name="GlowHipBack" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowHipBack</Data>
+            <Data name="BeltsHipBack" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsHipBack</Data>
+        </Slider>
+        <Slider name="HipBone" invert="false" default="0">
+            <Data name="CBBEHipBone" target="CBBE">CBBEBody.osd\CBBEHipBone</Data>
+            <Data name="SuitHipBone" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitHipBone</Data>
+            <Data name="GlowHipBone" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowHipBone</Data>
+            <Data name="BeltsHipBone" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsHipBone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="CBBEHips" target="CBBE">CBBEBody.osd\CBBEHips</Data>
+            <Data name="SuitHips" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitHips</Data>
+            <Data name="GlowHips" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowHips</Data>
+            <Data name="BeltsHips" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsHips</Data>
+        </Slider>
+        <Slider name="HipUpperWidth" invert="false" default="0">
+            <Data name="CBBEHipUpperWidth" target="CBBE">CBBEBody.osd\CBBEHipUpperWidth</Data>
+            <Data name="SuitHipUpperWidth" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitHipUpperWidth</Data>
+            <Data name="GlowHipUpperWidth" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowHipUpperWidth</Data>
+            <Data name="BeltsHipUpperWidth" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsHipUpperWidth</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" default="0">
+            <Data name="CBBEKneeHeight" target="CBBE">CBBEBody.osd\CBBEKneeHeight</Data>
+            <Data name="SuitKneeHeight" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitKneeHeight</Data>
+            <Data name="GlowKneeHeight" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowKneeHeight</Data>
+            <Data name="BeltsKneeHeight" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsKneeHeight</Data>
+            <Data name="BootsKneeHeight" target="Boots" local="true">Courser X-92 Power Suit.osd\BootsKneeHeight</Data>
+        </Slider>
+        <Slider name="LegShape" invert="false" default="0">
+            <Data name="CBBELegShape" target="CBBE">CBBEBody.osd\CBBELegShape</Data>
+            <Data name="SuitLegShape" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitLegShape</Data>
+            <Data name="GlowLegShape" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowLegShape</Data>
+            <Data name="BeltsLegShape" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsLegShape</Data>
+            <Data name="BootsLegShape" target="Boots" local="true">Courser X-92 Power Suit.osd\BootsLegShape</Data>
+        </Slider>
+        <Slider name="LegsThin" invert="false" default="0">
+            <Data name="CBBELegsThin" target="CBBE">CBBEBody.osd\CBBELegsThin</Data>
+            <Data name="SuitLegsThin" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitLegsThin</Data>
+            <Data name="GlowLegsThin" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowLegsThin</Data>
+            <Data name="BeltsLegsThin" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsLegsThin</Data>
+            <Data name="BootsLegsThin" target="Boots" local="true">Courser X-92 Power Suit.osd\BootsLegsThin</Data>
+        </Slider>
+        <Slider name="NipBGone" invert="false" default="0">
+            <Data name="CBBENipBGone" target="CBBE">CBBEBody.osd\CBBENipBGone</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" default="0">
+            <Data name="CBBENippleAreola" target="CBBE">CBBEBody.osd\CBBENippleAreola</Data>
+            <Data name="BeltsNippleAreola" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="false" default="0">
+            <Data name="CBBENippleDistance" target="CBBE">CBBEBody.osd\CBBENippleDistance</Data>
+            <Data name="SuitNippleDistance" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitNippleDistance</Data>
+            <Data name="GlowNippleDistance" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowNippleDistance</Data>
+            <Data name="BeltsNippleDistance" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsNippleDistance</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="CBBENippleDown" target="CBBE">CBBEBody.osd\CBBENippleDown</Data>
+            <Data name="SuitNippleDown" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitNippleDown</Data>
+            <Data name="GlowNippleDown" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowNippleDown</Data>
+            <Data name="BeltsNippleDown" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsNippleDown</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" default="0">
+            <Data name="CBBENippleLength" target="CBBE">CBBEBody.osd\CBBENippleLength</Data>
+            <Data name="SuitNippleLength" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitNippleLength</Data>
+            <Data name="GlowNippleLength" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowNippleLength</Data>
+        </Slider>
+        <Slider name="NipplePerk2" invert="false" default="0">
+            <Data name="CBBENipplePerk2" target="CBBE">CBBEBody.osd\CBBENipplePerk2</Data>
+            <Data name="SuitNipplePerk2" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitNipplePerk2</Data>
+            <Data name="GlowNipplePerk2" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowNipplePerk2</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" default="0">
+            <Data name="CBBENipplePerkiness" target="CBBE">CBBEBody.osd\CBBENipplePerkiness</Data>
+            <Data name="SuitNipplePerkiness" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitNipplePerkiness</Data>
+            <Data name="GlowNipplePerkiness" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowNipplePerkiness</Data>
+            <Data name="BeltsNipplePerkiness" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="false" default="0">
+            <Data name="CBBENippleSize" target="CBBE">CBBEBody.osd\CBBENippleSize</Data>
+            <Data name="SuitNippleSize" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitNippleSize</Data>
+            <Data name="GlowNippleSize" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowNippleSize</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" default="0">
+            <Data name="CBBENippleTip" target="CBBE">CBBEBody.osd\CBBENippleTip</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="CBBENippleUp" target="CBBE">CBBEBody.osd\CBBENippleUp</Data>
+            <Data name="SuitNippleUp" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitNippleUp</Data>
+            <Data name="GlowNippleUp" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowNippleUp</Data>
+            <Data name="BeltsNippleUp" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsNippleUp</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="CBBEPregnancyBelly" target="CBBE">CBBEBody.osd\CBBEPregnancyBelly</Data>
+            <Data name="SuitPregnancyBelly" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitPregnancyBelly</Data>
+            <Data name="GlowPregnancyBelly" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowPregnancyBelly</Data>
+            <Data name="BeltsPregnancyBelly" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsPregnancyBelly</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="CBBEPushUp" target="CBBE">CBBEBody.osd\CBBEPushUp</Data>
+            <Data name="SuitPushUp" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitPushUp</Data>
+            <Data name="GlowPushUp" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowPushUp</Data>
+            <Data name="BeltsPushUp" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsPushUp</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="CBBERoundAss" target="CBBE">CBBEBody.osd\CBBERoundAss</Data>
+            <Data name="SuitRoundAss" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitRoundAss</Data>
+            <Data name="GlowRoundAss" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowRoundAss</Data>
+            <Data name="BeltsRoundAss" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsRoundAss</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="CBBEShoulderSmooth" target="CBBE">CBBEBody.osd\CBBEShoulderSmooth</Data>
+            <Data name="SuitShoulderSmooth" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitShoulderSmooth</Data>
+            <Data name="GlowShoulderSmooth" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowShoulderSmooth</Data>
+            <Data name="BeltsShoulderSmooth" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" default="0">
+            <Data name="CBBEShoulderTweak" target="CBBE">CBBEBody.osd\CBBEShoulderTweak</Data>
+            <Data name="SuitShoulderTweak" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitShoulderTweak</Data>
+            <Data name="GlowShoulderTweak" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowShoulderTweak</Data>
+            <Data name="BeltsShoulderTweak" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsShoulderTweak</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="false" default="0">
+            <Data name="CBBEShoulderWidth" target="CBBE">CBBEBody.osd\CBBEShoulderWidth</Data>
+            <Data name="SuitShoulderWidth" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitShoulderWidth</Data>
+            <Data name="GlowShoulderWidth" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowShoulderWidth</Data>
+            <Data name="BeltsShoulderWidth" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsShoulderWidth</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="CBBESlimThighs" target="CBBE">CBBEBody.osd\CBBESlimThighs</Data>
+            <Data name="SuitSlimThighs" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitSlimThighs</Data>
+            <Data name="GlowSlimThighs" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowSlimThighs</Data>
+            <Data name="BeltsSlimThighs" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsSlimThighs</Data>
+            <Data name="BootsSlimThighs" target="Boots" local="true">Courser X-92 Power Suit.osd\BootsSlimThighs</Data>
+        </Slider>
+        <Slider name="SternumDepth" invert="false" default="0">
+            <Data name="CBBESternumDepth" target="CBBE">CBBEBody.osd\CBBESternumDepth</Data>
+            <Data name="SuitSternumDepth" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitSternumDepth</Data>
+            <Data name="GlowSternumDepth" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowSternumDepth</Data>
+            <Data name="BeltsSternumDepth" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsSternumDepth</Data>
+        </Slider>
+        <Slider name="SternumHeight" invert="false" default="0">
+            <Data name="CBBESternumHeight" target="CBBE">CBBEBody.osd\CBBESternumHeight</Data>
+            <Data name="SuitSternumHeight" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitSternumHeight</Data>
+            <Data name="GlowSternumHeight" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowSternumHeight</Data>
+            <Data name="BeltsSternumHeight" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsSternumHeight</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="CBBEThighs" target="CBBE">CBBEBody.osd\CBBEThighs</Data>
+            <Data name="SuitThighs" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitThighs</Data>
+            <Data name="GlowThighs" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowThighs</Data>
+            <Data name="BeltsThighs" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsThighs</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" default="0">
+            <Data name="CBBETummyTuck" target="CBBE">CBBEBody.osd\CBBETummyTuck</Data>
+            <Data name="SuitTummyTuck" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitTummyTuck</Data>
+            <Data name="GlowTummyTuck" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowTummyTuck</Data>
+            <Data name="BeltsTummyTuck" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsTummyTuck</Data>
+        </Slider>
+        <Slider name="VanillaFo4" invert="false" default="0">
+            <Data name="CBBEVanillaFo4" target="CBBE">CBBEBody.osd\CBBEVanillaFo4</Data>
+            <Data name="SuitVanillaFo4" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitVanillaFo4</Data>
+            <Data name="GlowVanillaFo4" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowVanillaFo4</Data>
+            <Data name="BeltsVanillaFo4" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsVanillaFo4</Data>
+            <Data name="BootsVanillaFo4" target="Boots" local="true">Courser X-92 Power Suit.osd\BootsVanillaFo4</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="CBBEWaist" target="CBBE">CBBEBody.osd\CBBEWaist</Data>
+            <Data name="SuitWaist" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitWaist</Data>
+            <Data name="GlowWaist" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowWaist</Data>
+            <Data name="BeltsWaist" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsWaist</Data>
+        </Slider>
+        <Slider name="WaistHeight" invert="false" default="0">
+            <Data name="CBBEWaistHeight" target="CBBE">CBBEBody.osd\CBBEWaistHeight</Data>
+            <Data name="SuitWaistHeight" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitWaistHeight</Data>
+            <Data name="GlowWaistHeight" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowWaistHeight</Data>
+            <Data name="BeltsWaistHeight" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsWaistHeight</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" default="0">
+            <Data name="CBBEWideWaistLine" target="CBBE">CBBEBody.osd\CBBEWideWaistLine</Data>
+            <Data name="SuitWideWaistLine" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitWideWaistLine</Data>
+            <Data name="GlowWideWaistLine" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowWideWaistLine</Data>
+            <Data name="BeltsWideWaistLine" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsWideWaistLine</Data>
+        </Slider>
+        <Slider name="Ankles" invert="false" default="0">
+            <Data name="CBBEAnkles" target="CBBE">CBBEBody.osd\CBBEAnkles</Data>
+            <Data name="SuitAnkles" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitAnkles</Data>
+            <Data name="GlowAnkles" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowAnkles</Data>
+            <Data name="BeltsAnkles" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsAnkles</Data>
+            <Data name="BootsAnkles" target="Boots" local="true">Courser X-92 Power Suit.osd\BootsAnkles</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="CBBEAppleCheeks" target="CBBE">CBBEBody.osd\CBBEAppleCheeks</Data>
+            <Data name="SuitAppleCheeks" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitAppleCheeks</Data>
+            <Data name="GlowAppleCheeks" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowAppleCheeks</Data>
+            <Data name="BeltsAppleCheeks" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsAppleCheeks</Data>
+        </Slider>
+        <Slider name="Arms" invert="false" default="0">
+            <Data name="CBBEArms" target="CBBE">CBBEBody.osd\CBBEArms</Data>
+            <Data name="SuitArms" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitArms</Data>
+            <Data name="GlowArms" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowArms</Data>
+            <Data name="BeltsArms" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsArms</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="CBBEBack" target="CBBE">CBBEBody.osd\CBBEBack</Data>
+            <Data name="SuitBack" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBack</Data>
+            <Data name="GlowBack" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBack</Data>
+            <Data name="BeltsBack" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBack</Data>
+        </Slider>
+        <Slider name="BackArch" invert="false" default="0">
+            <Data name="CBBEBackArch" target="CBBE">CBBEBody.osd\CBBEBackArch</Data>
+            <Data name="SuitBackArch" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBackArch</Data>
+            <Data name="GlowBackArch" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBackArch</Data>
+            <Data name="BeltsBackArch" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBackArch</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" default="0">
+            <Data name="CBBEBelly" target="CBBE">CBBEBody.osd\CBBEBelly</Data>
+            <Data name="SuitBelly" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBelly</Data>
+            <Data name="GlowBelly" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBelly</Data>
+            <Data name="BeltsBelly" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" default="0">
+            <Data name="CBBEBigBelly" target="CBBE">CBBEBody.osd\CBBEBigBelly</Data>
+            <Data name="SuitBigBelly" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBigBelly</Data>
+            <Data name="GlowBigBelly" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBigBelly</Data>
+            <Data name="BeltsBigBelly" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBigBelly</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="CBBEBigButt" target="CBBE">CBBEBody.osd\CBBEBigButt</Data>
+            <Data name="SuitBigButt" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBigButt</Data>
+            <Data name="GlowBigButt" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBigButt</Data>
+            <Data name="BeltsBigButt" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBigButt</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="CBBEBigTorso" target="CBBE">CBBEBody.osd\CBBEBigTorso</Data>
+            <Data name="SuitBigTorso" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBigTorso</Data>
+            <Data name="GlowBigTorso" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBigTorso</Data>
+            <Data name="BeltsBigTorso" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBigTorso</Data>
+        </Slider>
+        <Slider name="BreastCenter" invert="false" default="0">
+            <Data name="CBBEBreastCenter" target="CBBE">CBBEBody.osd\CBBEBreastCenter</Data>
+            <Data name="SuitBreastCenter" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastCenter</Data>
+            <Data name="GlowBreastCenter" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastCenter</Data>
+            <Data name="BeltsBreastCenter" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastCenter</Data>
+        </Slider>
+        <Slider name="BreastCenterBig" invert="false" default="0">
+            <Data name="CBBEBreastCenterBig" target="CBBE">CBBEBody.osd\CBBEBreastCenterBig</Data>
+            <Data name="SuitBreastCenterBig" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastCenterBig</Data>
+            <Data name="GlowBreastCenterBig" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastCenterBig</Data>
+            <Data name="BeltsBreastCenterBig" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastCenterBig</Data>
+        </Slider>
+        <Slider name="BreastFantasy" invert="false" default="0">
+            <Data name="CBBEBreastFantasy" target="CBBE">CBBEBody.osd\CBBEBreastFantasy</Data>
+            <Data name="SuitBreastFantasy" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastFantasy</Data>
+            <Data name="GlowBreastFantasy" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastFantasy</Data>
+            <Data name="BeltsBreastFantasy" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness2" invert="false" default="0">
+            <Data name="CBBEBreastFlatness2" target="CBBE">CBBEBody.osd\CBBEBreastFlatness2</Data>
+            <Data name="SuitBreastFlatness2" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastFlatness2</Data>
+            <Data name="GlowBreastFlatness2" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastFlatness2</Data>
+            <Data name="BeltsBreastFlatness2" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastFlatness2</Data>
+        </Slider>
+        <Slider name="BreastGravity2" invert="false" default="0">
+            <Data name="CBBEBreastGravity2" target="CBBE">CBBEBody.osd\CBBEBreastGravity2</Data>
+            <Data name="SuitBreastGravity2" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastGravity2</Data>
+            <Data name="GlowBreastGravity2" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastGravity2</Data>
+            <Data name="BeltsBreastGravity2" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastGravity2</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="CBBEBreastHeight" target="CBBE">CBBEBody.osd\CBBEBreastHeight</Data>
+            <Data name="SuitBreastHeight" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastHeight</Data>
+            <Data name="GlowBreastHeight" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastHeight</Data>
+            <Data name="BeltsBreastHeight" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="CBBEBreastPerkiness" target="CBBE">CBBEBody.osd\CBBEBreastPerkiness</Data>
+            <Data name="SuitBreastPerkiness" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitBreastPerkiness</Data>
+            <Data name="GlowBreastPerkiness" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowBreastPerkiness</Data>
+            <Data name="BeltsBreastPerkiness" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsBreastPerkiness</Data>
+        </Slider>
+        <Slider name="ArmpitHeight" invert="false" default="0">
+            <Data name="CBBEArmpitHeight" target="CBBE">CBBEBody.osd\CBBEArmpitHeight</Data>
+            <Data name="SuitArmpitHeight" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitArmpitHeight</Data>
+            <Data name="GlowArmpitHeight" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowArmpitHeight</Data>
+            <Data name="BeltsArmpitHeight" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsArmpitHeight</Data>
+        </Slider>
+        <Slider name="ForearmSize" invert="false" default="0">
+            <Data name="CBBEForearmSize" target="CBBE">CBBEBody.osd\CBBEForearmSize</Data>
+            <Data name="SuitForearmSize" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitForearmSize</Data>
+            <Data name="GlowForearmSize" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowForearmSize</Data>
+            <Data name="BeltsForearmSize" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsForearmSize</Data>
+        </Slider>
+        <Slider name="NippleShape" invert="false" default="0">
+            <Data name="CBBENippleShape" target="CBBE">CBBEBody.osd\CBBENippleShape</Data>
+        </Slider>
+        <Slider name="NippleTwistUp" invert="false" default="0">
+            <Data name="CBBENippleTwistUp" target="CBBE">CBBEBody.osd\CBBENippleTwistUp</Data>
+        </Slider>
+        <Slider name="7B Upper" invert="false" default="0">
+            <Data name="CBBE7B Upper" target="CBBE">CBBEBody.osd\CBBE7B Upper</Data>
+            <Data name="Suit7B Upper" target="Suit" local="true">Courser X-92 Power Suit.osd\Suit7B Upper</Data>
+            <Data name="Glow7B Upper" target="Glow" local="true">Courser X-92 Power Suit.osd\Glow7B Upper</Data>
+            <Data name="Belts7B Upper" target="Belts" local="true">Courser X-92 Power Suit.osd\Belts7B Upper</Data>
+        </Slider>
+        <Slider name="7B Lower" invert="false" default="0">
+            <Data name="CBBE7B Lower" target="CBBE">CBBEBody.osd\CBBE7B Lower</Data>
+            <Data name="Suit7B Lower" target="Suit" local="true">Courser X-92 Power Suit.osd\Suit7B Lower</Data>
+            <Data name="Glow7B Lower" target="Glow" local="true">Courser X-92 Power Suit.osd\Glow7B Lower</Data>
+            <Data name="Belts7B Lower" target="Belts" local="true">Courser X-92 Power Suit.osd\Belts7B Lower</Data>
+            <Data name="Boots7B Lower" target="Boots" local="true">Courser X-92 Power Suit.osd\Boots7B Lower</Data>
+        </Slider>
+        <Slider name="MuscularChest" invert="false" default="0">
+            <Data name="CBBEMuscularChest" target="CBBE">CBBEBody.osd\CBBEMuscularChest</Data>
+            <Data name="SuitMuscularChest" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitMuscularChest</Data>
+            <Data name="GlowMuscularChest" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowMuscularChest</Data>
+            <Data name="BeltsMuscularChest" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsMuscularChest</Data>
+        </Slider>
+        <Slider name="MuscularArms" invert="false" default="0">
+            <Data name="CBBEMuscularArms" target="CBBE">CBBEBody.osd\CBBEMuscularArms</Data>
+            <Data name="SuitMuscularArms" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitMuscularArms</Data>
+            <Data name="GlowMuscularArms" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowMuscularArms</Data>
+            <Data name="BeltsMuscularArms" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsMuscularArms</Data>
+        </Slider>
+        <Slider name="MuscularButt" invert="false" default="0">
+            <Data name="CBBEMuscularButt" target="CBBE">CBBEBody.osd\CBBEMuscularButt</Data>
+            <Data name="SuitMuscularButt" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitMuscularButt</Data>
+            <Data name="GlowMuscularButt" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowMuscularButt</Data>
+            <Data name="BeltsMuscularButt" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsMuscularButt</Data>
+        </Slider>
+        <Slider name="MuscularLegs" invert="false" default="0">
+            <Data name="CBBEMuscularLegs" target="CBBE">CBBEBody.osd\CBBEMuscularLegs</Data>
+            <Data name="SuitMuscularLegs" target="Suit" local="true">Courser X-92 Power Suit.osd\SuitMuscularLegs</Data>
+            <Data name="GlowMuscularLegs" target="Glow" local="true">Courser X-92 Power Suit.osd\GlowMuscularLegs</Data>
+            <Data name="BeltsMuscularLegs" target="Belts" local="true">Courser X-92 Power Suit.osd\BeltsMuscularLegs</Data>
+            <Data name="BootsMuscularLegs" target="Boots" local="true">Courser X-92 Power Suit.osd\BootsMuscularLegs</Data>
+        </Slider>
+        <Slider name="Remove Body" invert="false" default="100" hidden="true" zap="true">
+            <Data name="CBBERemove Body" target="CBBE" local="true">Courser X-92 Power Suit.osd\CBBERemove Body</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

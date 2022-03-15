@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 6 Leggings FG">
+        <DataFolder>Vtaw Wardrobe 6 Leggings FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 6 Leggings FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe6\Leggings</OutputPath>
+        <OutputFile GenWeights="false">Leggings</OutputFile>
+        <Shape target="leggings">leggings</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="leggingsBelly Pregnant" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="leggingsBelly Big" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="leggingsBelly Size" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="leggingsBelly Tuck" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="leggingsBoobs Yuge" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="leggingsBoobs Big" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="leggingsBoobs Gravity" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="leggingsBoobs Mellons" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="leggingsBoobs Perky" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="leggingsBoobs Push Up" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="leggingsBoobs Top Slope" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="leggingsBoobs Tiny" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="leggingsChest Width" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="leggingsWaist Chubby" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="leggingsWaist Size" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="leggingsWaist Height" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="leggingsWaist Line" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="leggingsBack Size" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="leggingsBack Arch" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="leggingsHips Bone" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="leggingsHips Size" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="leggingsHips Upper Width" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="leggingsBum Size" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="leggingsBum Crack" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="leggingsBum Shape 1" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="leggingsBum Shape 2" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="leggingsBum Small" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="leggingsBum Chubby" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="leggingsBum Round" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="leggingsBum Apple" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="leggingsCalf Size" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="leggingsCalf Small" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="leggingsLegs Chubby" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="leggingsLegs Shape" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="leggingsLegs Thin" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="leggingsThighs Slim" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="leggingsThighs Size" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="leggingsAnkle Size" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsAnkle Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="leggingsTorso Size" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="leggingsSturnum Depth" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="leggingsSturnum Height" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="leggingsGroin Position" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="leggingsGroin Back" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="leggingsAbDefinition" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="leggingsBody Toning" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="leggingsTigerSanBB" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="leggingsXunAbs" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="leggingsFFB Fitness 2" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="leggingsAthletic" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="leggingsSeveNBase Bombshell" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="leggingsKnee Height" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="leggingsShoulder Width" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="leggingsHighHeels" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="leggingsBodyFat" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="leggingsLegThin" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="leggingsHipsNarrow" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="leggingsButtGravity" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="leggingsButtThin" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="leggingsHipsForward" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="leggingsHipRotateForward" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="leggingsBreastArmpitin" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="leggingsBreastArmpitWide" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="leggingsBreastCurve" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="leggingsBreastHeight2" target="leggings" local="true">Vtaw Wardrobe 6 Leggings FG.osd\leggingsBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

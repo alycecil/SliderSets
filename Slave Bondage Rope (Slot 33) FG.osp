@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Slave Bondage Rope (Slot 33) FG">
+        <DataFolder>Slave Bondage Rope (Slot 33) FG</DataFolder>
+        <SourceFile>Slave Bondage Rope (Slot 33) FG.nif</SourceFile>
+        <OutputPath>meshes\kharneth\bondagerope</OutputPath>
+        <OutputFile GenWeights="false">rope33</OutputFile>
+        <Shape target="FusionGirl" DataFolder="FusionGirl">FusionGirl</Shape>
+        <Shape target="defaultMat">defaultMat</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="FusionGirlBelly Pregnant" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBelly Pregnant</Data>
+            <Data name="defaultMatBelly Pregnant" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="FusionGirlBelly Big" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBelly Big</Data>
+            <Data name="defaultMatBelly Big" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="FusionGirlBelly Size" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBelly Size</Data>
+            <Data name="defaultMatBelly Size" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="FusionGirlBelly Tuck" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBelly Tuck</Data>
+            <Data name="defaultMatBelly Tuck" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="FusionGirlBoobs Yuge" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBoobs Yuge</Data>
+            <Data name="defaultMatBoobs Yuge" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="FusionGirlBoobs Big" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBoobs Big</Data>
+            <Data name="defaultMatBoobs Big" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Cleavage" invert="false" default="0">
+            <Data name="FusionGirlBoobs Cleavage" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBoobs Cleavage</Data>
+            <Data name="defaultMatBoobs Cleavage" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBoobs Cleavage</Data>
+        </Slider>
+        <Slider name="Boobs Flat" invert="false" default="0">
+            <Data name="FusionGirlBoobs Flat" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBoobs Flat</Data>
+            <Data name="defaultMatBoobs Flat" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBoobs Flat</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="FusionGirlBoobs Gravity" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBoobs Gravity</Data>
+            <Data name="defaultMatBoobs Gravity" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Height" invert="false" default="0">
+            <Data name="FusionGirlBoobs Height" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBoobs Height</Data>
+            <Data name="defaultMatBoobs Height" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBoobs Height</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="FusionGirlBoobs Mellons" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBoobs Mellons</Data>
+            <Data name="defaultMatBoobs Mellons" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="FusionGirlBoobs Perky" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBoobs Perky</Data>
+            <Data name="defaultMatBoobs Perky" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="FusionGirlBoobs Push Up" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBoobs Push Up</Data>
+            <Data name="defaultMatBoobs Push Up" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Small" invert="false" default="0">
+            <Data name="FusionGirlBoobs Small" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBoobs Small</Data>
+            <Data name="defaultMatBoobs Small" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBoobs Small</Data>
+        </Slider>
+        <Slider name="Boobs Together" invert="false" default="0">
+            <Data name="FusionGirlBoobs Together" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBoobs Together</Data>
+            <Data name="defaultMatBoobs Together" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBoobs Together</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="FusionGirlBoobs Top Slope" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBoobs Top Slope</Data>
+            <Data name="defaultMatBoobs Top Slope" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Width" invert="false" default="0">
+            <Data name="FusionGirlBoobs Width" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBoobs Width</Data>
+            <Data name="defaultMatBoobs Width" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBoobs Width</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="FusionGirlBoobs Tiny" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBoobs Tiny</Data>
+            <Data name="defaultMatBoobs Tiny" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Nipples Distance" invert="false" default="0">
+            <Data name="FusionGirlNipples Distance" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlNipples Distance</Data>
+            <Data name="defaultMatNipples Distance" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatNipples Distance</Data>
+        </Slider>
+        <Slider name="Nipples Down" invert="false" default="0">
+            <Data name="FusionGirlNipples Down" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlNipples Down</Data>
+            <Data name="defaultMatNipples Down" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatNipples Down</Data>
+        </Slider>
+        <Slider name="Nipples Perkiness" invert="false" default="0">
+            <Data name="FusionGirlNipples Perkiness" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlNipples Perkiness</Data>
+            <Data name="defaultMatNipples Perkiness" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatNipples Perkiness</Data>
+        </Slider>
+        <Slider name="Nipples Puffy" invert="false" default="0">
+            <Data name="FusionGirlNipples Puffy" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlNipples Puffy</Data>
+        </Slider>
+        <Slider name="Nipples Up" invert="false" default="0">
+            <Data name="FusionGirlNipples Up" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlNipples Up</Data>
+            <Data name="defaultMatNipples Up" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatNipples Up</Data>
+        </Slider>
+        <Slider name="Chest Depth" invert="false" default="0">
+            <Data name="FusionGirlChest Depth" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlChest Depth</Data>
+            <Data name="defaultMatChest Depth" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatChest Depth</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="FusionGirlChest Width" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlChest Width</Data>
+            <Data name="defaultMatChest Width" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="FusionGirlWaist Chubby" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlWaist Chubby</Data>
+            <Data name="defaultMatWaist Chubby" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="FusionGirlWaist Size" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlWaist Size</Data>
+            <Data name="defaultMatWaist Size" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="FusionGirlWaist Height" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlWaist Height</Data>
+            <Data name="defaultMatWaist Height" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="FusionGirlWaist Line" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlWaist Line</Data>
+            <Data name="defaultMatWaist Line" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="FusionGirlBack Size" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBack Size</Data>
+            <Data name="defaultMatBack Size" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="FusionGirlBack Arch" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBack Arch</Data>
+            <Data name="defaultMatBack Arch" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="FusionGirlHips Bone" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlHips Bone</Data>
+            <Data name="defaultMatHips Bone" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="FusionGirlHips Size" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlHips Size</Data>
+            <Data name="defaultMatHips Size" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="FusionGirlHips Upper Width" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlHips Upper Width</Data>
+            <Data name="defaultMatHips Upper Width" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="FusionGirlBum Size" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBum Size</Data>
+            <Data name="defaultMatBum Size" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="FusionGirlBum Crack" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBum Crack</Data>
+            <Data name="defaultMatBum Crack" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 1" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBum Shape 1</Data>
+            <Data name="defaultMatBum Shape 1" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="FusionGirlBum Shape 2" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBum Shape 2</Data>
+            <Data name="defaultMatBum Shape 2" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="FusionGirlBum Small" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBum Small</Data>
+            <Data name="defaultMatBum Small" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="FusionGirlBum Chubby" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBum Chubby</Data>
+            <Data name="defaultMatBum Chubby" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="FusionGirlBum Round" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBum Round</Data>
+            <Data name="defaultMatBum Round" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="FusionGirlBum Apple" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBum Apple</Data>
+            <Data name="defaultMatBum Apple" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="FusionGirlCalf Size" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="FusionGirlCalf Small" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="FusionGirlLegs Chubby" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlLegs Chubby</Data>
+            <Data name="defaultMatLegs Chubby" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="FusionGirlLegs Shape" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlLegs Shape</Data>
+            <Data name="defaultMatLegs Shape" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="FusionGirlLegs Thin" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlLegs Thin</Data>
+            <Data name="defaultMatLegs Thin" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="FusionGirlThighs Slim" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlThighs Slim</Data>
+            <Data name="defaultMatThighs Slim" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="FusionGirlThighs Size" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlThighs Size</Data>
+            <Data name="defaultMatThighs Size" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="FusionGirlAnkle Size" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlAnkle Size</Data>
+        </Slider>
+        <Slider name="Arms Chubby" invert="false" default="0">
+            <Data name="FusionGirlArms Chubby" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlArms Chubby</Data>
+            <Data name="defaultMatArms Chubby" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatArms Chubby</Data>
+        </Slider>
+        <Slider name="Shoulder Smooth" invert="false" default="0">
+            <Data name="FusionGirlShoulder Smooth" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlShoulder Smooth</Data>
+            <Data name="defaultMatShoulder Smooth" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatShoulder Smooth</Data>
+        </Slider>
+        <Slider name="Shoulder Tweak" invert="false" default="0">
+            <Data name="FusionGirlShoulder Tweak" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlShoulder Tweak</Data>
+            <Data name="defaultMatShoulder Tweak" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatShoulder Tweak</Data>
+        </Slider>
+        <Slider name="Arms Size" invert="false" default="0">
+            <Data name="FusionGirlArms Size" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlArms Size</Data>
+            <Data name="defaultMatArms Size" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatArms Size</Data>
+        </Slider>
+        <Slider name="Armpit Ajustment" invert="false" default="0">
+            <Data name="FusionGirlArmpit Ajustment" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlArmpit Ajustment</Data>
+            <Data name="defaultMatArmpit Ajustment" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatArmpit Ajustment</Data>
+        </Slider>
+        <Slider name="Forearms Size" invert="false" default="0">
+            <Data name="FusionGirlForearms Size" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlForearms Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="FusionGirlTorso Size" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlTorso Size</Data>
+            <Data name="defaultMatTorso Size" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatTorso Size</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="FusionGirlGroin Position" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlGroin Position</Data>
+            <Data name="defaultMatGroin Position" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="FusionGirlGroin Back" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlGroin Back</Data>
+            <Data name="defaultMatGroin Back" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="FusionGirlAbDefinition" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlAbDefinition</Data>
+            <Data name="defaultMatAbDefinition" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="FusionGirlBody Toning" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBody Toning</Data>
+            <Data name="defaultMatBody Toning" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="FusionGirlTigerSanBB" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlTigerSanBB</Data>
+            <Data name="defaultMatTigerSanBB" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="FusionGirlXunAbs" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlXunAbs</Data>
+            <Data name="defaultMatXunAbs" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="FusionGirlFFB Fitness 2" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlFFB Fitness 2</Data>
+            <Data name="defaultMatFFB Fitness 2" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="FusionGirlAthletic" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlAthletic</Data>
+            <Data name="defaultMatAthletic" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="FusionGirlSeveNBase Bombshell" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlSeveNBase Bombshell</Data>
+            <Data name="defaultMatSeveNBase Bombshell" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="FusionGirlKnee Height" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlKnee Height</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="FusionGirlShoulder Width" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlShoulder Width</Data>
+            <Data name="defaultMatShoulder Width" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatShoulder Width</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="FusionGirlHighHeels" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="FusionGirlBodyFat" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBodyFat</Data>
+            <Data name="defaultMatBodyFat" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="FusionGirlLegThin" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlLegThin</Data>
+            <Data name="defaultMatLegThin" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="FusionGirlHipsNarrow" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlHipsNarrow</Data>
+            <Data name="defaultMatHipsNarrow" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="FusionGirlButtGravity" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlButtGravity</Data>
+            <Data name="defaultMatButtGravity" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="FusionGirlButtThin" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlButtThin</Data>
+            <Data name="defaultMatButtThin" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="FusionGirlHipsForward" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlHipsForward</Data>
+            <Data name="defaultMatHipsForward" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="FusionGirlHipRotateForward" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlHipRotateForward</Data>
+            <Data name="defaultMatHipRotateForward" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitin" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBreastArmpitin</Data>
+            <Data name="defaultMatBreastArmpitin" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="FusionGirlBreastArmpitWide" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBreastArmpitWide</Data>
+            <Data name="defaultMatBreastArmpitWide" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="FusionGirlBreastCurve" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBreastCurve</Data>
+            <Data name="defaultMatBreastCurve" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="FusionGirlBreastHeight2" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBreastHeight2</Data>
+            <Data name="defaultMatBreastHeight2" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBreastHeight2</Data>
+        </Slider>
+        <Slider name="BreastConcave" invert="false" default="0">
+            <Data name="FusionGirlBreastConcave" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlBreastConcave</Data>
+            <Data name="defaultMatBreastConcave" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatBreastConcave</Data>
+        </Slider>
+        <Slider name="Nipples Length" invert="false" default="0">
+            <Data name="FusionGirlNipples Length" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlNipples Length</Data>
+        </Slider>
+        <Slider name="Nipples Areola" invert="false" default="0">
+            <Data name="FusionGirlNipples Areola" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlNipples Areola</Data>
+        </Slider>
+        <Slider name="Nipples Gone" invert="false" default="0">
+            <Data name="FusionGirlNipples Gone" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlNipples Gone</Data>
+        </Slider>
+        <Slider name="Nipples Shape" invert="false" default="0">
+            <Data name="FusionGirlNipples Shape" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlNipples Shape</Data>
+        </Slider>
+        <Slider name="Nipples Size" invert="false" default="0">
+            <Data name="FusionGirlNipples Size" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlNipples Size</Data>
+        </Slider>
+        <Slider name="Nipples Tip" invert="false" default="0">
+            <Data name="FusionGirlNipples Tip" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlNipples Tip</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="FusionGirlSturnum Depth" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="FusionGirlSturnum Height" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlSturnum Height</Data>
+        </Slider>
+        <Slider name="Labia Minora Flat" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Flat" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlLabia Minora Flat</Data>
+        </Slider>
+        <Slider name="Labia Minora Longer" invert="false" default="0">
+            <Data name="FusionGirlLabia Minora Longer" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlLabia Minora Longer</Data>
+            <Data name="defaultMatLabia Minora Longer" target="defaultMat" local="true">Slave Bondage Rope (Slot 33) FG.osd\defaultMatLabia Minora Longer</Data>
+        </Slider>
+        <Slider name="Clitoras Size" invert="false" default="0">
+            <Data name="FusionGirlClitoras Size" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlClitoras Size</Data>
+        </Slider>
+        <Slider name="Clitoras Long" invert="false" default="0">
+            <Data name="FusionGirlClitoras Long" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlClitoras Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Long" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Long" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlLabia Majora Long</Data>
+        </Slider>
+        <Slider name="Labia Majora Wide" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Wide" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlLabia Majora Wide</Data>
+        </Slider>
+        <Slider name="Labia Majora Inner" invert="false" default="0">
+            <Data name="FusionGirlLabia Majora Inner" target="FusionGirl" local="true">Slave Bondage Rope (Slot 33) FG.osd\FusionGirlLabia Majora Inner</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

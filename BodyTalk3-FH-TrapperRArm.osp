@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BodyTalk3-FH-TrapperRArm">
+        <DataFolder>BodyTalk3-FarHarbor</DataFolder>
+        <SourceFile>BodyTalk3-FH-TrapperRArm.nif</SourceFile>
+        <OutputPath>meshes\DLC03\Armor\TrapperA</OutputPath>
+        <OutputFile GenWeights="false">Moutfit_RightArm</OutputFile>
+        <Shape target="Moutfit_RightArm:0">Moutfit_RightArm:0</Shape>
+        <Slider name="BTBiceps" invert="false" default="100">
+            <Data name="Moutfit_RightArm:0BTBiceps" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0BTBiceps</Data>
+        </Slider>
+        <Slider name="BTShoulders" invert="false" default="100">
+            <Data name="Moutfit_RightArm:0BTShoulders" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0BTShoulders</Data>
+        </Slider>
+        <Slider name="BTPectorals" invert="false" default="100">
+            <Data name="Moutfit_RightArm:0BTPectorals" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0BTPectorals</Data>
+        </Slider>
+        <Slider name="BTRibcage" invert="false" default="100">
+            <Data name="Moutfit_RightArm:0BTRibcage" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0BTRibcage</Data>
+        </Slider>
+        <Slider name="BTTraps" invert="false" default="100">
+            <Data name="Moutfit_RightArm:0BTTraps" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0BTTraps</Data>
+        </Slider>
+        <Slider name="BTBack" invert="false" default="100">
+            <Data name="Moutfit_RightArm:0BTBack" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0BTBack</Data>
+        </Slider>
+        <Slider name="BTStomachFat" invert="false" default="100">
+            <Data name="Moutfit_RightArm:0BTStomachFat" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0BTStomachFat</Data>
+        </Slider>
+        <Slider name="BTForearms" invert="false" default="0">
+            <Data name="Moutfit_RightArm:0BTForearms" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0BTForearms</Data>
+        </Slider>
+        <Slider name="BTARYAYDA" invert="false" default="0">
+            <Data name="Moutfit_RightArm:0BTARYAYDA" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0BTARYAYDA</Data>
+        </Slider>
+        <Slider name="BTAryaydaMoreMuscular" invert="false" default="0">
+            <Data name="Moutfit_RightArm:0BTAryaydaMoreMuscular" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0BTAryaydaMoreMuscular</Data>
+        </Slider>
+        <Slider name="BTAMShoulderTweaks" invert="false" default="0">
+            <Data name="Moutfit_RightArm:0BTAMShoulderTweaks" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0BTAMShoulderTweaks</Data>
+        </Slider>
+        <Slider name="BTElbowAdjust" invert="false" default="0">
+            <Data name="Moutfit_RightArm:0BTElbowAdjust" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0BTElbowAdjust</Data>
+        </Slider>
+        <Slider name="TigerSanBBMale" invert="false" default="0">
+            <Data name="Moutfit_RightArm:0TigerSanBBMale" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0TigerSanBBMale</Data>
+        </Slider>
+        <Slider name="BTThinArm" invert="false" default="0">
+            <Data name="Moutfit_RightArm:0BTThinArm" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0BTThinArm</Data>
+        </Slider>
+        <Slider name="BTChubbyArm" invert="false" default="0">
+            <Data name="Moutfit_RightArm:0BTChubbyArm" target="Moutfit_RightArm:0" local="true">BodyTalk3-FH-TrapperRArm.osd\Moutfit_RightArm:0BTChubbyArm</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

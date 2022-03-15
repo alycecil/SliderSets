@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw utility Belt Harness V2 FG">
+        <DataFolder>Vtaw utility Belt Harness V2 FG</DataFolder>
+        <SourceFile>Vtaw utility Belt Harness V2 FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\utility1</OutputPath>
+        <OutputFile GenWeights="false">BeltV2</OutputFile>
+        <Shape target="belt4">belt4</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="belt4Belly Pregnant" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="belt4Belly Big" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="belt4Belly Size" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Belly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="belt4Belly Tuck" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Belly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="belt4Boobs Yuge" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="belt4Boobs Big" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="belt4Boobs Gravity" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="belt4Boobs Mellons" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="belt4Boobs Perky" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="belt4Boobs Push Up" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="belt4Boobs Top Slope" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="belt4Boobs Tiny" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="belt4Chest Width" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="belt4Waist Chubby" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="belt4Waist Size" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="belt4Waist Height" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="belt4Waist Line" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="belt4Back Size" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="belt4Back Arch" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="belt4Hips Bone" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Hips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="belt4Hips Size" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Hips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="belt4Hips Upper Width" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="belt4Bum Size" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="belt4Bum Crack" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="belt4Bum Shape 1" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="belt4Bum Shape 2" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="belt4Bum Small" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="belt4Bum Chubby" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="belt4Bum Round" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="belt4Bum Apple" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Bum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="belt4Legs Chubby" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="belt4Legs Shape" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Legs Shape</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="belt4Thighs Slim" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="belt4Thighs Size" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Thighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="belt4Torso Size" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="belt4Sturnum Depth" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="belt4Sturnum Height" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="belt4Groin Position" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="belt4Groin Back" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="belt4AbDefinition" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="belt4Body Toning" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="belt4TigerSanBB" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="belt4XunAbs" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="belt4FFB Fitness 2" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="belt4Athletic" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="belt4SeveNBase Bombshell" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="belt4Shoulder Width" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4Shoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="belt4BodyFat" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="belt4LegThin" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="belt4HipsNarrow" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="belt4ButtThin" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="belt4HipsForward" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="belt4HipRotateForward" target="belt4" local="true">Vtaw utility Belt Harness V2 FG.osd\belt4HipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

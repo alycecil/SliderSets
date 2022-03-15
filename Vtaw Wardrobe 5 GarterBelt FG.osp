@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 5 GarterBelt FG">
+        <DataFolder>Vtaw Wardrobe 5 GarterBelt FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 5 GarterBelt FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe5\Lingerie</OutputPath>
+        <OutputFile GenWeights="false">gart</OutputFile>
+        <Shape target="gart2">gart2</Shape>
+        <Shape target="gartMetal">gartMetal</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="gartMetalBelly Pregnant" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBelly Pregnant</Data>
+            <Data name="gart2Belly Pregnant" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Belly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="gartMetalBelly Big" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBelly Big</Data>
+            <Data name="gart2Belly Big" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Belly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="gartMetalBelly Size" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBelly Size</Data>
+            <Data name="gart2Belly Size" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Belly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="gartMetalBelly Tuck" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBelly Tuck</Data>
+            <Data name="gart2Belly Tuck" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Belly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="gartMetalBoobs Yuge" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBoobs Yuge</Data>
+            <Data name="gart2Boobs Yuge" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="gartMetalBoobs Big" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBoobs Big</Data>
+            <Data name="gart2Boobs Big" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="gartMetalBoobs Gravity" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBoobs Gravity</Data>
+            <Data name="gart2Boobs Gravity" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="gartMetalBoobs Mellons" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBoobs Mellons</Data>
+            <Data name="gart2Boobs Mellons" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="gartMetalBoobs Perky" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBoobs Perky</Data>
+            <Data name="gart2Boobs Perky" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="gartMetalBoobs Push Up" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBoobs Push Up</Data>
+            <Data name="gart2Boobs Push Up" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="gartMetalBoobs Top Slope" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBoobs Top Slope</Data>
+            <Data name="gart2Boobs Top Slope" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="gartMetalBoobs Tiny" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBoobs Tiny</Data>
+            <Data name="gart2Boobs Tiny" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="gart2Chest Width" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Chest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="gartMetalWaist Chubby" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalWaist Chubby</Data>
+            <Data name="gart2Waist Chubby" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Waist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="gartMetalWaist Size" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalWaist Size</Data>
+            <Data name="gart2Waist Size" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Waist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="gart2Waist Height" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Waist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="gart2Waist Line" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Waist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="gartMetalBack Size" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBack Size</Data>
+            <Data name="gart2Back Size" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Back Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="gartMetalBack Arch" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBack Arch</Data>
+            <Data name="gart2Back Arch" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Back Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="gartMetalHips Bone" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalHips Bone</Data>
+            <Data name="gart2Hips Bone" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Hips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="gartMetalHips Size" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalHips Size</Data>
+            <Data name="gart2Hips Size" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Hips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="gart2Hips Upper Width" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Hips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="gartMetalBum Size" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBum Size</Data>
+            <Data name="gart2Bum Size" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Bum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="gartMetalBum Crack" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBum Crack</Data>
+            <Data name="gart2Bum Crack" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Bum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="gartMetalBum Shape 1" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBum Shape 1</Data>
+            <Data name="gart2Bum Shape 1" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Bum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="gartMetalBum Shape 2" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBum Shape 2</Data>
+            <Data name="gart2Bum Shape 2" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Bum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="gartMetalBum Small" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBum Small</Data>
+            <Data name="gart2Bum Small" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Bum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="gartMetalBum Chubby" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBum Chubby</Data>
+            <Data name="gart2Bum Chubby" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Bum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="gartMetalBum Round" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBum Round</Data>
+            <Data name="gart2Bum Round" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Bum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="gartMetalBum Apple" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBum Apple</Data>
+            <Data name="gart2Bum Apple" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Bum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="gartMetalLegs Chubby" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalLegs Chubby</Data>
+            <Data name="gart2Legs Chubby" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="gartMetalLegs Shape" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalLegs Shape</Data>
+            <Data name="gart2Legs Shape" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="gartMetalLegs Thin" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalLegs Thin</Data>
+            <Data name="gart2Legs Thin" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="gartMetalThighs Slim" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalThighs Slim</Data>
+            <Data name="gart2Thighs Slim" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="gartMetalThighs Size" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalThighs Size</Data>
+            <Data name="gart2Thighs Size" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Thighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="gartMetalTorso Size" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalTorso Size</Data>
+            <Data name="gart2Torso Size" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Torso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="gartMetalSturnum Depth" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalSturnum Depth</Data>
+            <Data name="gart2Sturnum Depth" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="gartMetalSturnum Height" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalSturnum Height</Data>
+            <Data name="gart2Sturnum Height" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="gartMetalGroin Position" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalGroin Position</Data>
+            <Data name="gart2Groin Position" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="gartMetalGroin Back" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalGroin Back</Data>
+            <Data name="gart2Groin Back" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Groin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="gart2AbDefinition" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2AbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="gartMetalBody Toning" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBody Toning</Data>
+            <Data name="gart2Body Toning" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="gartMetalTigerSanBB" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalTigerSanBB</Data>
+            <Data name="gart2TigerSanBB" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2TigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="gart2XunAbs" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2XunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="gartMetalFFB Fitness 2" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalFFB Fitness 2</Data>
+            <Data name="gart2FFB Fitness 2" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2FFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="gartMetalAthletic" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalAthletic</Data>
+            <Data name="gart2Athletic" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="gartMetalSeveNBase Bombshell" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalSeveNBase Bombshell</Data>
+            <Data name="gart2SeveNBase Bombshell" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="gart2Shoulder Width" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2Shoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="gartMetalBodyFat" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalBodyFat</Data>
+            <Data name="gart2BodyFat" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="gartMetalLegThin" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalLegThin</Data>
+            <Data name="gart2LegThin" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2LegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="gartMetalHipsNarrow" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalHipsNarrow</Data>
+            <Data name="gart2HipsNarrow" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2HipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="gart2ButtGravity" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2ButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="gartMetalButtThin" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalButtThin</Data>
+            <Data name="gart2ButtThin" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2ButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="gartMetalHipsForward" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalHipsForward</Data>
+            <Data name="gart2HipsForward" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2HipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="gartMetalHipRotateForward" target="gartMetal" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gartMetalHipRotateForward</Data>
+            <Data name="gart2HipRotateForward" target="gart2" local="true">Vtaw Wardrobe 5 GarterBelt FG.osd\gart2HipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

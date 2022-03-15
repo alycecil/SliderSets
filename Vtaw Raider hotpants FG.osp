@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Raider hotpants FG">
+        <DataFolder>Vtaw Raider hotpants FG</DataFolder>
+        <SourceFile>Vtaw Raider hotpants FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe4\hotpants</OutputPath>
+        <OutputFile GenWeights="false">hotpants</OutputFile>
+        <Shape target="hotpants">hotpants</Shape>
+        <Slider name="Belly Pregnant" invert="false" default="0">
+            <Data name="hotpantsBelly Pregnant" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBelly Pregnant</Data>
+        </Slider>
+        <Slider name="Belly Big" invert="false" default="0">
+            <Data name="hotpantsBelly Big" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBelly Big</Data>
+        </Slider>
+        <Slider name="Belly Size" invert="false" default="0">
+            <Data name="hotpantsBelly Size" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBelly Size</Data>
+        </Slider>
+        <Slider name="Belly Tuck" invert="false" default="0">
+            <Data name="hotpantsBelly Tuck" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBelly Tuck</Data>
+        </Slider>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="hotpantsBoobs Yuge" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="hotpantsBoobs Big" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="hotpantsBoobs Gravity" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="hotpantsBoobs Mellons" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="hotpantsBoobs Perky" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="hotpantsBoobs Push Up" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="hotpantsBoobs Top Slope" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="hotpantsBoobs Tiny" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Chest Width" invert="false" default="0">
+            <Data name="hotpantsChest Width" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsChest Width</Data>
+        </Slider>
+        <Slider name="Waist Chubby" invert="false" default="0">
+            <Data name="hotpantsWaist Chubby" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsWaist Chubby</Data>
+        </Slider>
+        <Slider name="Waist Size" invert="false" default="0">
+            <Data name="hotpantsWaist Size" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsWaist Size</Data>
+        </Slider>
+        <Slider name="Waist Height" invert="false" default="0">
+            <Data name="hotpantsWaist Height" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsWaist Height</Data>
+        </Slider>
+        <Slider name="Waist Line" invert="false" default="0">
+            <Data name="hotpantsWaist Line" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsWaist Line</Data>
+        </Slider>
+        <Slider name="Back Size" invert="false" default="0">
+            <Data name="hotpantsBack Size" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBack Size</Data>
+        </Slider>
+        <Slider name="Back Arch" invert="false" default="0">
+            <Data name="hotpantsBack Arch" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBack Arch</Data>
+        </Slider>
+        <Slider name="Hips Bone" invert="false" default="0">
+            <Data name="hotpantsHips Bone" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsHips Bone</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="hotpantsHips Size" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsHips Size</Data>
+        </Slider>
+        <Slider name="Hips Upper Width" invert="false" default="0">
+            <Data name="hotpantsHips Upper Width" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsHips Upper Width</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="hotpantsBum Size" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBum Size</Data>
+        </Slider>
+        <Slider name="Bum Crack" invert="false" default="0">
+            <Data name="hotpantsBum Crack" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBum Crack</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="hotpantsBum Shape 1" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="hotpantsBum Shape 2" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="hotpantsBum Small" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="hotpantsBum Chubby" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="hotpantsBum Round" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="hotpantsBum Apple" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBum Apple</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="hotpantsLegs Chubby" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="hotpantsLegs Shape" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="hotpantsLegs Thin" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="hotpantsThighs Slim" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="hotpantsThighs Size" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsThighs Size</Data>
+        </Slider>
+        <Slider name="Torso Size" invert="false" default="0">
+            <Data name="hotpantsTorso Size" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsTorso Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="hotpantsSturnum Depth" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="hotpantsSturnum Height" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="hotpantsGroin Position" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="hotpantsGroin Back" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="hotpantsAbDefinition" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="hotpantsBody Toning" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="hotpantsTigerSanBB" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsTigerSanBB</Data>
+        </Slider>
+        <Slider name="XunAbs" invert="false" default="0">
+            <Data name="hotpantsXunAbs" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsXunAbs</Data>
+        </Slider>
+        <Slider name="FFB Fitness 2" invert="false" default="0">
+            <Data name="hotpantsFFB Fitness 2" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsFFB Fitness 2</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="hotpantsAthletic" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="hotpantsSeveNBase Bombshell" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Shoulder Width" invert="false" default="0">
+            <Data name="hotpantsShoulder Width" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsShoulder Width</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="hotpantsBodyFat" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="hotpantsLegThin" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="hotpantsHipsNarrow" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="hotpantsButtGravity" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="hotpantsButtThin" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="hotpantsHipsForward" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="hotpantsHipRotateForward" target="hotpants" local="true">Vtaw Raider hotpants FG.osd\hotpantsHipRotateForward</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

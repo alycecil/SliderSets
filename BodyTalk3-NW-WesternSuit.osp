@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="BodyTalk3-NW-WesternSuit">
+        <DataFolder>BodyTalk3-NukaWorld</DataFolder>
+        <SourceFile>BodyTalk3-NW-WesternSuit.nif</SourceFile>
+        <OutputPath>meshes\DLC04\Clothes\Western</OutputPath>
+        <OutputFile GenWeights="false">WesternSuit01_m</OutputFile>
+        <Shape target="BaseMaleBodyOutfit:0" DataFolder="BodyTalk3">BaseMaleBodyOutfit:0</Shape>
+        <Shape target="WesternSuit01_m:0">WesternSuit01_m:0</Shape>
+        <Slider name="BTBiceps" invert="false" default="100">
+            <Data name="BaseMaleBodyOutfit:0BTBiceps" target="BaseMaleBodyOutfit:0" local="true">BodyTalk3-NW-WesternSuit.osd\BaseMaleBodyOutfit:0BTBiceps</Data>
+            <Data name="WesternSuit01_m:0BTBiceps" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTBiceps</Data>
+        </Slider>
+        <Slider name="BTShoulders" invert="false" default="100">
+            <Data name="BaseMaleBodyOutfit:0BTShoulders" target="BaseMaleBodyOutfit:0" local="true">BodyTalk3-NW-WesternSuit.osd\BaseMaleBodyOutfit:0BTShoulders</Data>
+            <Data name="WesternSuit01_m:0BTShoulders" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTShoulders</Data>
+        </Slider>
+        <Slider name="BTWaist-In" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTWaist-In" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTWaist-In</Data>
+        </Slider>
+        <Slider name="BTPectorals" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTPectorals" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTPectorals</Data>
+        </Slider>
+        <Slider name="BTRibcage" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTRibcage" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTRibcage</Data>
+        </Slider>
+        <Slider name="BTTraps" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTTraps" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTTraps</Data>
+        </Slider>
+        <Slider name="BTHips-In" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTHips-In" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTHips-In</Data>
+        </Slider>
+        <Slider name="BTStomach" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTStomach" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTStomach</Data>
+        </Slider>
+        <Slider name="BTChest" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTChest" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTChest</Data>
+        </Slider>
+        <Slider name="BTButt" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTButt" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTButt</Data>
+        </Slider>
+        <Slider name="BTThigh" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTThigh" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTThigh</Data>
+        </Slider>
+        <Slider name="BTCalves" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTCalves" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTCalves</Data>
+        </Slider>
+        <Slider name="BTBack" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTBack" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTBack</Data>
+        </Slider>
+        <Slider name="BTWaist-Smoothing" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTWaist-Smoothing" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTWaist-Smoothing</Data>
+        </Slider>
+        <Slider name="BTNippleSize" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTNippleSize" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTNippleSize</Data>
+        </Slider>
+        <Slider name="BTButtWidth" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTButtWidth" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTButtWidth</Data>
+        </Slider>
+        <Slider name="BTFootSize" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTFootSize" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTFootSize</Data>
+        </Slider>
+        <Slider name="BTStomachSmooth" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTStomachSmooth" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTStomachSmooth</Data>
+        </Slider>
+        <Slider name="BTStomachFat" invert="false" default="100">
+            <Data name="BaseMaleBodyOutfit:0BTStomachFat" target="BaseMaleBodyOutfit:0" local="true">BodyTalk3-NW-WesternSuit.osd\BaseMaleBodyOutfit:0BTStomachFat</Data>
+            <Data name="WesternSuit01_m:0BTStomachFat" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTStomachFat</Data>
+        </Slider>
+        <Slider name="BTChestSmoothing" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTChestSmoothing" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTChestSmoothing</Data>
+        </Slider>
+        <Slider name="BTToeSmaller" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTToeSmaller" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTToeSmaller</Data>
+        </Slider>
+        <Slider name="BTBackArch" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTBackArch" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTBackArch</Data>
+        </Slider>
+        <Slider name="BTAbDefinition" invert="false" default="100">
+            <Data name="WesternSuit01_m:0BTAbDefinition" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTAbDefinition</Data>
+        </Slider>
+        <Slider name="BTForearms" invert="false" default="0">
+            <Data name="BaseMaleBodyOutfit:0BTForearms" target="BaseMaleBodyOutfit:0" local="true">BodyTalk3-NW-WesternSuit.osd\BaseMaleBodyOutfit:0BTForearms</Data>
+            <Data name="WesternSuit01_m:0BTForearms" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTForearms</Data>
+        </Slider>
+        <Slider name="BTARYAYDA" invert="false" default="0">
+            <Data name="BaseMaleBodyOutfit:0BTARYAYDA" target="BaseMaleBodyOutfit:0" local="true">BodyTalk3-NW-WesternSuit.osd\BaseMaleBodyOutfit:0BTARYAYDA</Data>
+            <Data name="WesternSuit01_m:0BTARYAYDA" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTARYAYDA</Data>
+        </Slider>
+        <Slider name="BTAryaydaMoreMuscular" invert="false" default="0">
+            <Data name="BaseMaleBodyOutfit:0BTAryaydaMoreMuscular" target="BaseMaleBodyOutfit:0" local="true">BodyTalk3-NW-WesternSuit.osd\BaseMaleBodyOutfit:0BTAryaydaMoreMuscular</Data>
+            <Data name="WesternSuit01_m:0BTAryaydaMoreMuscular" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTAryaydaMoreMuscular</Data>
+        </Slider>
+        <Slider name="BTAMShoulderTweaks" invert="false" default="0">
+            <Data name="WesternSuit01_m:0BTAMShoulderTweaks" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTAMShoulderTweaks</Data>
+        </Slider>
+        <Slider name="BTAMPecAdjust" invert="false" default="0">
+            <Data name="WesternSuit01_m:0BTAMPecAdjust" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTAMPecAdjust</Data>
+        </Slider>
+        <Slider name="BTAMWaistAdust" invert="false" default="0">
+            <Data name="WesternSuit01_m:0BTAMWaistAdust" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTAMWaistAdust</Data>
+        </Slider>
+        <Slider name="BTAMBackAdjust" invert="false" default="0">
+            <Data name="WesternSuit01_m:0BTAMBackAdjust" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTAMBackAdjust</Data>
+        </Slider>
+        <Slider name="BTElbowAdjust" invert="false" default="0">
+            <Data name="BaseMaleBodyOutfit:0BTElbowAdjust" target="BaseMaleBodyOutfit:0" local="true">BodyTalk3-NW-WesternSuit.osd\BaseMaleBodyOutfit:0BTElbowAdjust</Data>
+            <Data name="WesternSuit01_m:0BTElbowAdjust" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTElbowAdjust</Data>
+        </Slider>
+        <Slider name="BTKneeAdust" invert="false" default="0">
+            <Data name="WesternSuit01_m:0BTKneeAdust" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTKneeAdust</Data>
+        </Slider>
+        <Slider name="BTGrayson" invert="false" default="0">
+            <Data name="WesternSuit01_m:0BTGrayson" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTGrayson</Data>
+        </Slider>
+        <Slider name="BTFlyGrayson" invert="false" default="0">
+            <Data name="WesternSuit01_m:0BTFlyGrayson" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTFlyGrayson</Data>
+        </Slider>
+        <Slider name="AryaydaMuscleSlider" invert="false" default="0">
+            <Data name="WesternSuit01_m:0AryaydaMuscleSlider" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0AryaydaMuscleSlider</Data>
+        </Slider>
+        <Slider name="TigerSanBBMale" invert="false" default="0">
+            <Data name="BaseMaleBodyOutfit:0TigerSanBBMale" target="BaseMaleBodyOutfit:0" local="true">BodyTalk3-NW-WesternSuit.osd\BaseMaleBodyOutfit:0TigerSanBBMale</Data>
+            <Data name="WesternSuit01_m:0TigerSanBBMale" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0TigerSanBBMale</Data>
+        </Slider>
+        <Slider name="BTTHinCalf" invert="false" default="0">
+            <Data name="WesternSuit01_m:0BTTHinCalf" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTTHinCalf</Data>
+        </Slider>
+        <Slider name="BTThinArm" invert="false" default="0">
+            <Data name="BaseMaleBodyOutfit:0BTThinArm" target="BaseMaleBodyOutfit:0" local="true">BodyTalk3-NW-WesternSuit.osd\BaseMaleBodyOutfit:0BTThinArm</Data>
+            <Data name="WesternSuit01_m:0BTThinArm" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTThinArm</Data>
+        </Slider>
+        <Slider name="BTShinSize" invert="false" default="0">
+            <Data name="WesternSuit01_m:0BTShinSize" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTShinSize</Data>
+        </Slider>
+        <Slider name="BTChubbyArm" invert="false" default="0">
+            <Data name="BaseMaleBodyOutfit:0BTChubbyArm" target="BaseMaleBodyOutfit:0" local="true">BodyTalk3-NW-WesternSuit.osd\BaseMaleBodyOutfit:0BTChubbyArm</Data>
+            <Data name="WesternSuit01_m:0BTChubbyArm" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTChubbyArm</Data>
+        </Slider>
+        <Slider name="BTChubbyLeg" invert="false" default="0">
+            <Data name="WesternSuit01_m:0BTChubbyLeg" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BTChubbyLeg</Data>
+        </Slider>
+        <Slider name="ThinThigh" invert="false" default="0">
+            <Data name="WesternSuit01_m:0ThinThigh" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0ThinThigh</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="WesternSuit01_m:0Hips" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0Hips</Data>
+        </Slider>
+        <Slider name="BT2AdonisBelt" invert="false" default="0">
+            <Data name="WesternSuit01_m:0BT2AdonisBelt" target="WesternSuit01_m:0" local="true">BodyTalk3-NW-WesternSuit.osd\WesternSuit01_m:0BT2AdonisBelt</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

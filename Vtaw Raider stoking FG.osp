@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Raider stoking FG">
+        <DataFolder>Vtaw Raider stoking FG</DataFolder>
+        <SourceFile>Vtaw Raider stoking FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe4\stoking</OutputPath>
+        <OutputFile GenWeights="false">stock</OutputFile>
+        <Shape target="stock">stock</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="stockBoobs Yuge" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBoobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="stockBoobs Big" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBoobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="stockBoobs Gravity" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBoobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="stockBoobs Mellons" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBoobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="stockBoobs Perky" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBoobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="stockBoobs Push Up" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBoobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="stockBoobs Top Slope" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBoobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="stockBoobs Tiny" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBoobs Tiny</Data>
+        </Slider>
+        <Slider name="Hips Size" invert="false" default="0">
+            <Data name="stockHips Size" target="stock" local="true">Vtaw Raider stoking FG.osd\stockHips Size</Data>
+        </Slider>
+        <Slider name="Bum Size" invert="false" default="0">
+            <Data name="stockBum Size" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBum Size</Data>
+        </Slider>
+        <Slider name="Bum Shape 1" invert="false" default="0">
+            <Data name="stockBum Shape 1" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBum Shape 1</Data>
+        </Slider>
+        <Slider name="Bum Shape 2" invert="false" default="0">
+            <Data name="stockBum Shape 2" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBum Shape 2</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="stockBum Small" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBum Small</Data>
+        </Slider>
+        <Slider name="Bum Chubby" invert="false" default="0">
+            <Data name="stockBum Chubby" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBum Chubby</Data>
+        </Slider>
+        <Slider name="Bum Round" invert="false" default="0">
+            <Data name="stockBum Round" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBum Round</Data>
+        </Slider>
+        <Slider name="Bum Apple" invert="false" default="0">
+            <Data name="stockBum Apple" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBum Apple</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="stockCalf Size" target="stock" local="true">Vtaw Raider stoking FG.osd\stockCalf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="stockCalf Small" target="stock" local="true">Vtaw Raider stoking FG.osd\stockCalf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="stockLegs Chubby" target="stock" local="true">Vtaw Raider stoking FG.osd\stockLegs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="stockLegs Shape" target="stock" local="true">Vtaw Raider stoking FG.osd\stockLegs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="stockLegs Thin" target="stock" local="true">Vtaw Raider stoking FG.osd\stockLegs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="stockThighs Slim" target="stock" local="true">Vtaw Raider stoking FG.osd\stockThighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="stockThighs Size" target="stock" local="true">Vtaw Raider stoking FG.osd\stockThighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="stockAnkle Size" target="stock" local="true">Vtaw Raider stoking FG.osd\stockAnkle Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="stockSturnum Depth" target="stock" local="true">Vtaw Raider stoking FG.osd\stockSturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="stockSturnum Height" target="stock" local="true">Vtaw Raider stoking FG.osd\stockSturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="stockGroin Position" target="stock" local="true">Vtaw Raider stoking FG.osd\stockGroin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="stockGroin Back" target="stock" local="true">Vtaw Raider stoking FG.osd\stockGroin Back</Data>
+        </Slider>
+        <Slider name="AbDefinition" invert="false" default="0">
+            <Data name="stockAbDefinition" target="stock" local="true">Vtaw Raider stoking FG.osd\stockAbDefinition</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="stockBody Toning" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBody Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="stockTigerSanBB" target="stock" local="true">Vtaw Raider stoking FG.osd\stockTigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="stockAthletic" target="stock" local="true">Vtaw Raider stoking FG.osd\stockAthletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="stockSeveNBase Bombshell" target="stock" local="true">Vtaw Raider stoking FG.osd\stockSeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="stockKnee Height" target="stock" local="true">Vtaw Raider stoking FG.osd\stockKnee Height</Data>
+        </Slider>
+        <Slider name="HighHeels" invert="false" default="0" hidden="true">
+            <Data name="stockHighHeels" target="stock" local="true">Vtaw Raider stoking FG.osd\stockHighHeels</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="stockBodyFat" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="stockLegThin" target="stock" local="true">Vtaw Raider stoking FG.osd\stockLegThin</Data>
+        </Slider>
+        <Slider name="HipsNarrow" invert="false" default="0">
+            <Data name="stockHipsNarrow" target="stock" local="true">Vtaw Raider stoking FG.osd\stockHipsNarrow</Data>
+        </Slider>
+        <Slider name="ButtGravity" invert="false" default="0">
+            <Data name="stockButtGravity" target="stock" local="true">Vtaw Raider stoking FG.osd\stockButtGravity</Data>
+        </Slider>
+        <Slider name="ButtThin" invert="false" default="0">
+            <Data name="stockButtThin" target="stock" local="true">Vtaw Raider stoking FG.osd\stockButtThin</Data>
+        </Slider>
+        <Slider name="HipsForward" invert="false" default="0">
+            <Data name="stockHipsForward" target="stock" local="true">Vtaw Raider stoking FG.osd\stockHipsForward</Data>
+        </Slider>
+        <Slider name="HipRotateForward" invert="false" default="0">
+            <Data name="stockHipRotateForward" target="stock" local="true">Vtaw Raider stoking FG.osd\stockHipRotateForward</Data>
+        </Slider>
+        <Slider name="BreastArmpitin" invert="false" default="0">
+            <Data name="stockBreastArmpitin" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBreastArmpitin</Data>
+        </Slider>
+        <Slider name="BreastArmpitWide" invert="false" default="0">
+            <Data name="stockBreastArmpitWide" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBreastArmpitWide</Data>
+        </Slider>
+        <Slider name="BreastCurve" invert="false" default="0">
+            <Data name="stockBreastCurve" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBreastCurve</Data>
+        </Slider>
+        <Slider name="BreastHeight2" invert="false" default="0">
+            <Data name="stockBreastHeight2" target="stock" local="true">Vtaw Raider stoking FG.osd\stockBreastHeight2</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

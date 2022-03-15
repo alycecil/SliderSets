@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="Vtaw Wardrobe 7 Tactical Knee Pads FG">
+        <DataFolder>Vtaw Wardrobe 7 Tactical Knee Pads FG</DataFolder>
+        <SourceFile>Vtaw Wardrobe 7 Tactical Knee Pads FG.nif</SourceFile>
+        <OutputPath>meshes\vtaw\wardrobe7\TacticalKneePads</OutputPath>
+        <OutputFile GenWeights="false">TacticalKneePads</OutputFile>
+        <Shape target="KneePads">KneePads</Shape>
+        <Shape target="KneePads Metal">KneePads Metal</Shape>
+        <Shape target="KneePads Metal2">KneePads Metal2</Shape>
+        <Shape target="KneePads Straps">KneePads Straps</Shape>
+        <Slider name="Boobs Yuge" invert="false" default="0">
+            <Data name="KneePadsBoobs Yuge" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsBoobs Yuge</Data>
+            <Data name="KneePads MetalBoobs Yuge" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalBoobs Yuge</Data>
+            <Data name="KneePads StrapsBoobs Yuge" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsBoobs Yuge</Data>
+            <Data name="KneePads Metal2Boobs Yuge" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Boobs Yuge</Data>
+        </Slider>
+        <Slider name="Boobs Big" invert="false" default="0">
+            <Data name="KneePadsBoobs Big" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsBoobs Big</Data>
+            <Data name="KneePads MetalBoobs Big" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalBoobs Big</Data>
+            <Data name="KneePads StrapsBoobs Big" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsBoobs Big</Data>
+            <Data name="KneePads Metal2Boobs Big" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Boobs Big</Data>
+        </Slider>
+        <Slider name="Boobs Gravity" invert="false" default="0">
+            <Data name="KneePadsBoobs Gravity" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsBoobs Gravity</Data>
+            <Data name="KneePads MetalBoobs Gravity" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalBoobs Gravity</Data>
+            <Data name="KneePads StrapsBoobs Gravity" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsBoobs Gravity</Data>
+            <Data name="KneePads Metal2Boobs Gravity" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Boobs Gravity</Data>
+        </Slider>
+        <Slider name="Boobs Mellons" invert="false" default="0">
+            <Data name="KneePadsBoobs Mellons" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsBoobs Mellons</Data>
+            <Data name="KneePads MetalBoobs Mellons" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalBoobs Mellons</Data>
+            <Data name="KneePads StrapsBoobs Mellons" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsBoobs Mellons</Data>
+            <Data name="KneePads Metal2Boobs Mellons" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Boobs Mellons</Data>
+        </Slider>
+        <Slider name="Boobs Perky" invert="false" default="0">
+            <Data name="KneePadsBoobs Perky" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsBoobs Perky</Data>
+            <Data name="KneePads MetalBoobs Perky" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalBoobs Perky</Data>
+            <Data name="KneePads StrapsBoobs Perky" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsBoobs Perky</Data>
+            <Data name="KneePads Metal2Boobs Perky" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Boobs Perky</Data>
+        </Slider>
+        <Slider name="Boobs Push Up" invert="false" default="0">
+            <Data name="KneePadsBoobs Push Up" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsBoobs Push Up</Data>
+            <Data name="KneePads MetalBoobs Push Up" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalBoobs Push Up</Data>
+            <Data name="KneePads StrapsBoobs Push Up" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsBoobs Push Up</Data>
+            <Data name="KneePads Metal2Boobs Push Up" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Boobs Push Up</Data>
+        </Slider>
+        <Slider name="Boobs Top Slope" invert="false" default="0">
+            <Data name="KneePadsBoobs Top Slope" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsBoobs Top Slope</Data>
+            <Data name="KneePads MetalBoobs Top Slope" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalBoobs Top Slope</Data>
+            <Data name="KneePads StrapsBoobs Top Slope" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsBoobs Top Slope</Data>
+            <Data name="KneePads Metal2Boobs Top Slope" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Boobs Top Slope</Data>
+        </Slider>
+        <Slider name="Boobs Tiny" invert="false" default="0">
+            <Data name="KneePadsBoobs Tiny" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsBoobs Tiny</Data>
+            <Data name="KneePads MetalBoobs Tiny" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalBoobs Tiny</Data>
+            <Data name="KneePads StrapsBoobs Tiny" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsBoobs Tiny</Data>
+            <Data name="KneePads Metal2Boobs Tiny" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Boobs Tiny</Data>
+        </Slider>
+        <Slider name="Bum Small" invert="false" default="0">
+            <Data name="KneePadsBum Small" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsBum Small</Data>
+            <Data name="KneePads MetalBum Small" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalBum Small</Data>
+            <Data name="KneePads StrapsBum Small" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsBum Small</Data>
+            <Data name="KneePads Metal2Bum Small" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Bum Small</Data>
+        </Slider>
+        <Slider name="Calf Size" invert="false" default="0">
+            <Data name="KneePadsCalf Size" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsCalf Size</Data>
+            <Data name="KneePads MetalCalf Size" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalCalf Size</Data>
+            <Data name="KneePads StrapsCalf Size" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsCalf Size</Data>
+            <Data name="KneePads Metal2Calf Size" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Calf Size</Data>
+        </Slider>
+        <Slider name="Calf Small" invert="false" default="0">
+            <Data name="KneePadsCalf Small" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsCalf Small</Data>
+            <Data name="KneePads MetalCalf Small" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalCalf Small</Data>
+            <Data name="KneePads StrapsCalf Small" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsCalf Small</Data>
+            <Data name="KneePads Metal2Calf Small" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Calf Small</Data>
+        </Slider>
+        <Slider name="Legs Chubby" invert="false" default="0">
+            <Data name="KneePadsLegs Chubby" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsLegs Chubby</Data>
+            <Data name="KneePads MetalLegs Chubby" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalLegs Chubby</Data>
+            <Data name="KneePads StrapsLegs Chubby" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsLegs Chubby</Data>
+            <Data name="KneePads Metal2Legs Chubby" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Legs Chubby</Data>
+        </Slider>
+        <Slider name="Legs Shape" invert="false" default="0">
+            <Data name="KneePadsLegs Shape" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsLegs Shape</Data>
+            <Data name="KneePads MetalLegs Shape" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalLegs Shape</Data>
+            <Data name="KneePads StrapsLegs Shape" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsLegs Shape</Data>
+            <Data name="KneePads Metal2Legs Shape" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Legs Shape</Data>
+        </Slider>
+        <Slider name="Legs Thin" invert="false" default="0">
+            <Data name="KneePadsLegs Thin" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsLegs Thin</Data>
+            <Data name="KneePads MetalLegs Thin" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalLegs Thin</Data>
+            <Data name="KneePads StrapsLegs Thin" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsLegs Thin</Data>
+            <Data name="KneePads Metal2Legs Thin" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Legs Thin</Data>
+        </Slider>
+        <Slider name="Thighs Slim" invert="false" default="0">
+            <Data name="KneePadsThighs Slim" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsThighs Slim</Data>
+            <Data name="KneePads MetalThighs Slim" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalThighs Slim</Data>
+            <Data name="KneePads StrapsThighs Slim" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsThighs Slim</Data>
+            <Data name="KneePads Metal2Thighs Slim" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Thighs Slim</Data>
+        </Slider>
+        <Slider name="Thighs Size" invert="false" default="0">
+            <Data name="KneePadsThighs Size" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsThighs Size</Data>
+            <Data name="KneePads MetalThighs Size" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalThighs Size</Data>
+            <Data name="KneePads StrapsThighs Size" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsThighs Size</Data>
+            <Data name="KneePads Metal2Thighs Size" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Thighs Size</Data>
+        </Slider>
+        <Slider name="Ankle Size" invert="false" default="0">
+            <Data name="KneePadsAnkle Size" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsAnkle Size</Data>
+            <Data name="KneePads MetalAnkle Size" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalAnkle Size</Data>
+            <Data name="KneePads StrapsAnkle Size" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsAnkle Size</Data>
+            <Data name="KneePads Metal2Ankle Size" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Ankle Size</Data>
+        </Slider>
+        <Slider name="Sturnum Depth" invert="false" default="0">
+            <Data name="KneePadsSturnum Depth" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsSturnum Depth</Data>
+            <Data name="KneePads MetalSturnum Depth" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalSturnum Depth</Data>
+            <Data name="KneePads StrapsSturnum Depth" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsSturnum Depth</Data>
+            <Data name="KneePads Metal2Sturnum Depth" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Sturnum Depth</Data>
+        </Slider>
+        <Slider name="Sturnum Height" invert="false" default="0">
+            <Data name="KneePadsSturnum Height" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsSturnum Height</Data>
+            <Data name="KneePads MetalSturnum Height" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalSturnum Height</Data>
+            <Data name="KneePads StrapsSturnum Height" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsSturnum Height</Data>
+            <Data name="KneePads Metal2Sturnum Height" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Sturnum Height</Data>
+        </Slider>
+        <Slider name="Groin Position" invert="false" default="0">
+            <Data name="KneePadsGroin Position" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsGroin Position</Data>
+            <Data name="KneePads MetalGroin Position" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalGroin Position</Data>
+            <Data name="KneePads StrapsGroin Position" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsGroin Position</Data>
+            <Data name="KneePads Metal2Groin Position" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Groin Position</Data>
+        </Slider>
+        <Slider name="Groin Back" invert="false" default="0">
+            <Data name="KneePadsGroin Back" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsGroin Back</Data>
+            <Data name="KneePads MetalGroin Back" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalGroin Back</Data>
+            <Data name="KneePads StrapsGroin Back" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsGroin Back</Data>
+            <Data name="KneePads Metal2Groin Back" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Groin Back</Data>
+        </Slider>
+        <Slider name="Body Toning" invert="false" default="0">
+            <Data name="KneePadsBody Toning" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsBody Toning</Data>
+            <Data name="KneePads MetalBody Toning" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalBody Toning</Data>
+            <Data name="KneePads StrapsBody Toning" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsBody Toning</Data>
+            <Data name="KneePads Metal2Body Toning" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Body Toning</Data>
+        </Slider>
+        <Slider name="TigerSanBB" invert="false" default="0">
+            <Data name="KneePadsTigerSanBB" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsTigerSanBB</Data>
+            <Data name="KneePads MetalTigerSanBB" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalTigerSanBB</Data>
+            <Data name="KneePads StrapsTigerSanBB" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsTigerSanBB</Data>
+            <Data name="KneePads Metal2TigerSanBB" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2TigerSanBB</Data>
+        </Slider>
+        <Slider name="Athletic" invert="false" default="0">
+            <Data name="KneePadsAthletic" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsAthletic</Data>
+            <Data name="KneePads MetalAthletic" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalAthletic</Data>
+            <Data name="KneePads StrapsAthletic" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsAthletic</Data>
+            <Data name="KneePads Metal2Athletic" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Athletic</Data>
+        </Slider>
+        <Slider name="SeveNBase Bombshell" invert="false" default="0">
+            <Data name="KneePadsSeveNBase Bombshell" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsSeveNBase Bombshell</Data>
+            <Data name="KneePads MetalSeveNBase Bombshell" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalSeveNBase Bombshell</Data>
+            <Data name="KneePads StrapsSeveNBase Bombshell" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsSeveNBase Bombshell</Data>
+            <Data name="KneePads Metal2SeveNBase Bombshell" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2SeveNBase Bombshell</Data>
+        </Slider>
+        <Slider name="Knee Height" invert="false" default="0">
+            <Data name="KneePadsKnee Height" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsKnee Height</Data>
+            <Data name="KneePads MetalKnee Height" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalKnee Height</Data>
+            <Data name="KneePads StrapsKnee Height" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsKnee Height</Data>
+            <Data name="KneePads Metal2Knee Height" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2Knee Height</Data>
+        </Slider>
+        <Slider name="BodyFat" invert="false" default="0">
+            <Data name="KneePadsBodyFat" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsBodyFat</Data>
+            <Data name="KneePads MetalBodyFat" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalBodyFat</Data>
+            <Data name="KneePads StrapsBodyFat" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsBodyFat</Data>
+            <Data name="KneePads Metal2BodyFat" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2BodyFat</Data>
+        </Slider>
+        <Slider name="LegThin" invert="false" default="0">
+            <Data name="KneePadsLegThin" target="KneePads" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePadsLegThin</Data>
+            <Data name="KneePads MetalLegThin" target="KneePads Metal" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads MetalLegThin</Data>
+            <Data name="KneePads StrapsLegThin" target="KneePads Straps" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads StrapsLegThin</Data>
+            <Data name="KneePads Metal2LegThin" target="KneePads Metal2" local="true">Vtaw Wardrobe 7 Tactical Knee Pads FG.osd\KneePads Metal2LegThin</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
